@@ -1,0 +1,19 @@
+[Shovel Knight: Treasure Trove 3.0A]
+
+[99999 GP]
+04000000 00B37F24 0001869F
+
+[Max HP Upgrade]
+01000000 00B37F18 00000006
+
+[Infinite Tonic Plague Knight]
+04000000 00B37F20 0000000A
+
+[100 Red Skulls Specter Knight]
+01000000 00B381B4 00000064
+
+[Unlock Challenge Mode Sound Mode]
+01000000 00B32BC0 00000007
+
+[All Relics All Curios]
+04000000 00B37F44 FFFFFFFF

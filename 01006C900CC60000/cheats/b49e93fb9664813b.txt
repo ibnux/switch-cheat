@@ -1,0 +1,10 @@
+[Credits sxteamthailand]
+
+[From Facebook Page: SX by Team Xecuter - Thailand]
+[===Patch 1 0 2=======================]
+
+[MAX Money]
+040F0000 01aa1ca8 05F5E0FF
+
+[MAX TacP]
+040F0000 01aa1cc0 05F5E0FF

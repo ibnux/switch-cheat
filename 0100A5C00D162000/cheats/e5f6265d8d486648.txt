@@ -1,0 +1,13 @@
+[Credits BlackDeath]
+
+[No Damage On]
+04000000 004AD780 D65F03C0
+
+[No Damage Off]
+04000000 0093BD34 A9BD57F6
+
+[Unlock Hard Mode On]
+04000000 004B1330 52800020
+
+[Unlock Hard Mode Off]
+04000000 004B1330 52800000

@@ -1,0 +1,37 @@
+[Dark Souls Remastered]
+
+[Soul]
+041F0000 a2bcf814 0098967F
+
+[HP]
+041F0000 a2bcf79c 0000270F
+
+[SP]
+041F0000 a2bcf7b8 0000270F
+
+[Vitality]
+041F0000 a2bcf7c0 00000063
+
+[Attonement]
+041F0000 a2bcf7c8 00000063
+
+[Endurance]
+041F0000 a2bcf7d0 00000063
+
+[Strength]
+041F0000 a2bcf7d8 00000063
+
+[Dexterity]
+041F0000 a2bcf7e0 00000063
+
+[Resistance]
+041F0000 a2bcf7e8 00000063
+
+[Intelligence]
+041F0000 a2bcf7f0 00000063
+
+[Faith]
+041F0000 a2bcf7f8 00000063
+
+[Humanity]
+041F0000 a2bcf808 00000063

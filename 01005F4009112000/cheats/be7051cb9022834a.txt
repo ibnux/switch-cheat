@@ -1,0 +1,11 @@
+[Nightmare Boy EUR 1.0.0]
+
+[Infinite HP]
+01100000 01e6adfc 0000000a
+01100000 01e6aea8 0000000a
+
+[Infinite MP]
+01100000 01e6adf4 0000000a
+
+[Gems 999999]
+04100000 01e6adf0 000f423f

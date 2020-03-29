@@ -1,0 +1,7 @@
+[Cursed Castilla ex 1.0.0]
+
+[Infinite HP]
+04000000 00b3189c 40080000
+
+[Infinite Lives]
+01000000 00b31888 00000009

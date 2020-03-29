@@ -1,0 +1,12 @@
+[Nightmare Boy 1.0.3]
+
+[Infinite HP]
+01100000 01e6adfc 00000005
+01100000 01e6aea8 0000000a
+
+[Infinite MP]
+01100000 01e6adf4 0000000a
+
+[Gems 99999]
+04100000 01e6adf0 0001869f
+

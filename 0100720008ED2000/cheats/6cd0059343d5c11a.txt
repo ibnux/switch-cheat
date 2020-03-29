@@ -1,0 +1,25 @@
+[STRIKERS1945II for Nintendo Switch 1.0.0]
+
+[P1 Infinite Lives]
+01000000 000cf2d0 00000009
+
+[P1 Infinite Bombs]
+01000000 000cf242 00000009
+
+[P1 Max Power]
+02000000 000cf2f5 00000404
+
+[P1 Full Special Bar]
+02000000 000cf326 00007FFF
+
+[P2 Infinite Lives]
+01000000 000cf36c 00000009
+
+[P2 Infinite Bombs]
+01000000 000cf36e 00000009
+
+[P2 Max Power]
+02000000 000cf391 00000404
+
+[P2 Full Special Bar]
+02000000 000cf3c2 00007FFF

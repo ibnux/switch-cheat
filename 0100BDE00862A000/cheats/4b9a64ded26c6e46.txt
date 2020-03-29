@@ -1,0 +1,5 @@
+[Mario Tennis ACE]
+
+[#01# Player Infinite Super]
+040F0000 02a0cf00 466a6000
+040F0000 02a0cf08 466a6000

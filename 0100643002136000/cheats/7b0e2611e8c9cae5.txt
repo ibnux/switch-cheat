@@ -1,0 +1,5 @@
+[Infinite Pump Rifle Cartridges]
+01100000 2c2318c4 0000000a
+
+[Infinite Pistol Cartridges]
+01100000 2c2338c4 00000050

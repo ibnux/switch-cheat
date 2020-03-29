@@ -1,0 +1,7 @@
+[ACA NEOGEO Riding Hero (V1.0.1)]
+
+[Infinite Turbo for W.G.P Mode]
+01000000 0127e260 00000004
+
+[Infinite Time for W.G.P Mode]
+01000000 0127D3E1 00000060

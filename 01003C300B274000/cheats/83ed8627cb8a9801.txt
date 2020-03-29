@@ -1,0 +1,35 @@
+[Speed-up 9999]
+04100000 b00e47a8 0000270f
+
+[Treasure Radar 9999]
+04100000 b00e47ac 0000270f
+
+[Max Worker Rate 9999]
+04100000 b00e47b0 0000270f
+
+[Cat-puter 9999]
+04100000 b00e47b4 0000270f
+
+[XP-up 9999]
+04100000 b00e47b8 0000270f
+
+[Sniper 9999]
+04100000 b00e47bc 0000270f
+
+[Energy 9999]
+04100000 b00e12f8 0000270f
+
+[Moon Score]
+04100000 b02453f4 00000000
+
+[Stage before Moon Score]
+04100000 b02453f4 00000000
+
+[shop: 1 cat food for 2M XP]
+04100000 afe8cc10 00000001
+
+[gatcha always Gao]
+04100000 b01f46c0 0000010d
+
+[gatcha always Mitama]
+04100000 b01f46c0 0000013e

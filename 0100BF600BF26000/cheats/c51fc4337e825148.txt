@@ -1,0 +1,84 @@
+[Credits Falo]
+
+[Max Money on Update (Enable)]
+04000000 00125410 528847EA
+04000000 00125414 72A001EA
+
+[Max Money on Update (Disable)]
+04000000 00125410 B940190A
+04000000 00125414 0B01014A
+
+[Add 999 BuddyPoints on Update (Enable)]
+04000000 00204630 52807CF3
+
+[Add 999 BuddyPoints on Update (Disable)]
+04000000 00204630 2A0203F3
+
+[HP does not decrease (Player and Buddy) (Enable)]
+04000000 0020A830 52800013
+04000000 003ACE40 52800013
+
+[HP does not decrease (Player and Buddy) (Disable)]
+04000000 0020A830 2A0103F3
+04000000 003ACE40 2A0103F3
+
+[SP does not decrease (Player and Buddy) (Enable)]
+04000000 0020AFF4 52800014
+04000000 003AD614 52800014
+
+[SP does not decrease (Player and Buddy) (Disable)]
+04000000 0020AFF4 2A0103F4
+04000000 003AD614 2A0103F4
+
+[EP (Hunger) does not decrease (Player and Buddy) (Enable)]
+04000000 0020B2C0 52800014
+04000000 003AD910 52800014
+
+[EP (Hunger) does not decrease (Player and Buddy) (Disable)]
+04000000 0020B2C0 2A0103F4
+04000000 003AD910 2A0103F4
+
+[Enemy drops 999 JobPoints]
+04000000 00285F98 52807CF5
+
+[Enemy drops 9999 JobPoints]
+04000000 00285F98 5284E1F5
+
+[Enemy drops Normal Amount JobPoints]
+04000000 00285F98 2A0103F5
+
+[100 Percent Normal Item Drop Rate (Enable)]
+04000000 0000D0E0 52800C80
+
+[100 Percent Normal Item Drop Rate (Disable)]
+04000000 0000D0E0 B9404C00
+
+[100 Percent Rare Item Drop Rate (Enable)]
+04000000 0000D0F0 52800C80
+
+[100 Percent Rare Item Drop Rate (Disable)]
+04000000 0000D0F0 B9405000
+
+[100 Percent JopPoints Drop Rate (Enable)]
+04000000 0000D120 52800C80
+
+[100 Percent JopPoints Drop Rate (Disable)]
+04000000 0000D120 B9405C00
+
+[100 Percent Gil Drop Rate (Enable)]
+04000000 0000D130 52800C80
+
+[100 Percent Gil Drop Rate (Disable)]
+04000000 0000D130 B9406000
+
+[100 Percent Item Steal Rate (Enable)]
+04000000 0000D140 52800C80
+
+[100 Percent Item Steal Rate (Disable)]
+04000000 0000D140 B9406400
+
+[100 Percent BuddyPoints Drop Rate (Enable)]
+04000000 0000D160 52800C80
+
+[100 Percent BuddyPoints Drop Rate (Disable)]
+04000000 0000D160 B9406C00

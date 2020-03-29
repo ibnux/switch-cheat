@@ -1,0 +1,4 @@
+[Dragon Quest Builders 2 (JAP)]
+
+[Inf. 999 Hp]
+02100000 3ee3b394 000003E7

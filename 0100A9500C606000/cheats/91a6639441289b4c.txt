@@ -1,0 +1,13 @@
+[Credits BlackDeath]
+
+[x99 Lives - lose 1 Life to update]
+04000000 00687A70 52800C80
+
+[Invulnerable on - press R-Stick if stuck]
+04000000 006878E0 52800008
+80000020
+04000000 006878E0 B9406C08
+20000000
+
+[Invulnerable off]
+04000000 006878E0 B9406C08

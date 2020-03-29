@@ -1,0 +1,10 @@
+[Neko Navy Daydream Edition 1.0.0]
+
+[Infinite Lives]
+01100000 00a8abf0 00000005
+
+[Max Power]
+01100000 00a8abfc 00000005
+
+[Infinite Credits]
+01100000 00a8abd4 00000009

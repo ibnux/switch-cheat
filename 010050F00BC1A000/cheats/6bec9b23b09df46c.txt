@@ -1,0 +1,263 @@
+[### Resident Evil (v1.0.0) by AngelDavil88 ###]
+
+[]
+
+[# One save for Jill & Chris:]
+
+[- Saved progress count = 1]
+011f0000 1e88481c 00000000
+
+[]
+
+[# QUANTITY FOR EVERY SINGLE JILL SLOT:]
+
+[- Jill slot 1 Left at 999]
+021F0000 1E7A00E8 000003E7
+
+[- Jill slot 1 Right to 999]
+021F0000 1E7A00F0 000003E7
+
+[- Jill slot 2 Left at 999]
+021F0000 1E7A00F8 000003E7
+
+[- Jill slot 2 Right to 999]
+021F0000 1E7A0100 000003E7
+
+[- Jill slot 3 Left at 999]
+021F0000 1E7A0108 000003E7
+
+[- Jill slot 3 Right to 999]
+021F0000 1E7A0110 000003E7
+
+[- Jill slot 4 Left at 999]
+021F0000 1E7A0118 000003E7
+
+[- Jill slot 4 Right to 999]
+021F0000 1E7A0120 000003E7
+
+[- Jill slot weapon equipped to 999]
+021F0000 1E7A0130 000003E7
+
+[]
+
+[# OBJECT FOR EVERY SINGLE JILL SLOT:]
+
+[@ Replace XX with an HEX value / See Object Table]
+
+[% WARNING: Activate once and then deactivate%]
+
+[- Jill Slot 1 Left > Object Name]
+011F0000 1E7A00E4 000000XX
+
+[- Jill Slot 1 Right > Object Name]
+011F0000 1E7A00EC 000000XX
+
+[- Jill Slot 2 Left > Object Name]
+011F0000 1E7A00F4 000000XX
+
+[- Jill Slot 2 Right > Object Name]
+011F0000 1E7A00FC 000000XX
+
+[- Jill Slot 3 Left > Object Name]
+011F0000 1E7A0104 000000XX
+
+[- Jill Slot 3 Right > Object Name]
+011F0000 1E7A010C 000000XX
+
+[- Jill Slot 4 Left > Object Name]
+011F0000 1E7A0114 000000XX
+
+[- Jill Slot 4 Right > Object Name]
+011F0000 1E7A011C 000000XX
+
+[]
+
+[# QUANTITY FOR EVERY SINGLE CHRIS SLOT:]
+
+[- Chris slot 1 Left at 999]
+021F0000 1E7A00E8 000003E7
+
+[- Chris slot 1 Right to 999]
+021F0000 1E7A00F0 000003E7
+
+[- Chris slot 2 Left at 999]
+021F0000 1E7A00F8 000003E7
+
+[- Chris slot 2 Right to 999]
+021F0000 1E7A0100 000003E7
+
+[- Chris slot 3 Left at 999]
+021F0000 1E7A0108 000003E7
+
+[- Chris slot 3 Right to 999]
+021F0000 1E7A0110 000003E7
+
+[- Chris 999 weapon slot]
+021F0000 1E7A0120 000003E7
+
+[]
+
+[# OBJECT FOR EVERY SINGLE CHRIS SLOT:]
+
+[@ Replace XX with an HEX value / See Object Table]
+
+[% WARNING: Activate once and then deactivate %]
+
+[- Chris Slot 1 Left > Object Name]
+011F0000 1E7A00E4 000000XX
+
+[- Chris Slot 1 Right > Object Name]
+011F0000 1E7A00EC 000000XX
+
+[- Chris Slot 2 Left > Object Name]
+011F0000 1E7A00F4 000000XX
+
+[- Chris Slot 2 Right > Object Name]
+011F0000 1E7A00FC 000000XX
+
+[- Chris Slot 3 Left > Object name]
+011F0000 1E7A0104 000000XX
+
+[- Chris Slot 3 Right > Object Name]
+011F0000 1E7A010C 000000XX
+
+[]
+
+[# TABLE OF OBJECTS XX:]
+
+[@ Convert DEC values to HEX]
+
+[]
+
+[1. Survival Knife (silver)]
+[2. Survival Knife (black)]
+[3. Handgun 9mm]
+[4. Self-Defense Gun]
+[5. Custom Kendo Handgun]
+[6. Shotgun]
+[7. Grenade Launcher]
+[8. Grenade Launcher Acid]
+[9. Grenade Launcher Incendiary]
+[10. Rocket Launcher (shoulder)]
+[11. Magnum Revolver]
+[12. Flamethrower]
+[13. Assault Shotgun]
+[14. Rocket Launcher (hand held)]
+[15. Barry's 44 Magnum]
+[16. Grenade Shells]
+[17. Handgun Magazine]
+[18. Shotgun Shells]
+[19. Acid Shells]
+[20. Incendiary Shells]
+[21. Golden Arrow]
+[22. Book of Curses]
+[23. Armor Coin (Fake Armor Key)]
+[24. Collar (Contains Fake Armor Key)]
+[25. Magnum Rounds]
+[26. Broach (Spencer Family Key)]
+[27. Fuel Canteen]
+[28. Arrow Head (From Golden Arrow)]
+[29. Imitation Armor Key (From Collar)]
+[30. GALLERY Residence Key]
+[31. Fuel Supply Capsule]
+[32. Musical Score (Moonlight Sonata)]
+[33. First Aid Spray]
+[34. Green Herb]
+[35. Red Herb]
+[36. Blue Herb]
+[37. Mixed Herbs (2 green herbs)]
+[38. Mixed Herbs (3 green herbs)]
+[39. Mixed Herbs (green & red)]
+[40. Mixed Herbs (green, blue, red)]
+[41. Mixed Herbs (green & blue)]
+[42. Mixed Herbs (2 green & 1 blue)]
+[43. Lock Pick]
+[44. Old Key]
+[45. Sword Key]
+[46. Armor Key]
+[47. Shield Key]
+[48. Helmet Key]
+[49. Room 001 Key]
+[50. Room 003 Key]
+[51. Eagle Medal]
+[52. Wolf Medal]
+[53. Stone & Metal Object]
+[54. Power Area Lab Key]
+[55. Master Key Lab Area]
+[56. Star Crest]
+[57. Wind Crest]
+[58. Sun Crest]
+[59. Moon Crest]
+[60. Square Crank]
+[61. Hexagon Crank]
+[62. Closet Key (female side profile)]
+[63. Emblem Key (Spencer Family)]
+[64. Stone Ring (Octagon)]
+[65. Metal Object]
+[66. Survial Knife]
+[67. Battery]
+[68. Ink Ribbon]
+[69. Emblem]
+[70. Gold Emblem]
+[71. Sheet Music (Moonlight Sonata)]
+[72. Red Gemstone]
+[73. Blue Gemstone]
+[74. Yellow Gemstone]
+[75. Broken Shotgun]
+[76. Chemical (plants)]
+[77. Lighter]
+[78. Serum]
+[79. Transceiver]
+[80. Empty Bottle]
+[81. Water]
+[82. UMB No.3]
+[83. NP-004]
+[84. Yellow-6]
+[85. UMB No.7]
+[86. UMB No.10]
+[87. VP-017]
+[88. V-JOLT]
+[89. ? (ammo icon - bandage with blood book)]
+[90. Red Book]
+[91. Last Book Vol.1]
+[92. Last Book Vol.2]
+[93. MO Disk]
+[94. MO Disk]
+[95. MO Disk]
+[96. Dog Whistle]
+[97. Fuse Unit]
+[98. Capsule]
+[99. Jewelery Box (stone ring inside)]
+[100. Insecticide Spray]
+[101. First Aid Box]
+[102. Jewelery Box]
+[103. Jewelery Box]
+[104. First Aid Box]
+[105. First Aid Box]
+[106. Signal Rockets]
+[107. Broken Flametrower]
+[108. Wooden Mount]
+[109. Slide Filter]
+[110. Control Room Key]
+[111. Fuel Supply Capsule]
+[112. Dagger]
+[113. Flash Grenade]
+[114. Stun Gun]
+[115. Bee Specimen]
+[116. Bee Lure]
+[117. Fishhook]
+[118. Bee Lure w/Hook]
+[119. X-Ray (Clark David)]
+[120. X-Ray (Gail Holland)]
+[121. Battery Pack (stun gun)]
+[122. Shaft]
+[123. Cylinder]
+[124. Cylinder Shaft]
+[125. Death Mask]
+[126. Death Mask]
+[127. Death Mask]
+[128. Death Mask]
+[129. Musical Score (mid pages)]
+[130. Map? (from wooden mount?)]
+[131. First Aid Box]
+[132. First Aid Box]

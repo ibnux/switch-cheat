@@ -1,0 +1,19 @@
+[ACA NEOGEO METAL SLUG 1.0.1]
+
+[P1 Infinite Lives]
+01000000 0125017e 00000009
+
+[P1 Infinite Ammo]
+02000000 012502ca 0000ffff
+
+[P1 Infinite Bombs]
+01000000 012502c9 000000ff
+
+[P2 Infinite Lives]
+01000000 0125021e 00000009
+
+[P2 Infinite Ammo]
+02000000 0125036a 0000ffff
+
+[P2 Infinite Bombs]
+01000000 01250369 000000ff

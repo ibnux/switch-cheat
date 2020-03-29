@@ -1,0 +1,37 @@
+[Credits matias3ds]
+
+[Infinite Money]
+04000000 00bb7968 0098967F
+
+[99 x Magic Grass Available Infinite]
+04000000 00bbc858 00000063
+
+[99 x Magic Grass B Aromatic Available Infinite]
+04000000 00bbc85c 00000063
+
+[99 x Fest A  Available infinite]
+04000000 00bbc864 00000063
+
+[99 xMandra Root E Available infinite]
+04000000 00bbc868 00000063
+
+[99 xPhlogiston E Available infinite]
+04000000 00bbc86c 00000063
+
+[99 x Serenity Flower E Available infinite]
+04000000 00bbc870 00000063
+
+[99 x Globe Sphere E Available infinite]
+04000000 00bbc874 00000063
+
+[99 x Forgotten Bone D Available infinite]
+04000000 00bbc878 00000063
+
+[99 x Puniball E Available infinite]
+04000000 00bbc87c 00000063
+
+[99 x Audras Tail C Available infinite]
+04000000 00bbc880 00000063
+
+[99 x Original Gem S Available infinite]
+04000000 00bbc884 00000063

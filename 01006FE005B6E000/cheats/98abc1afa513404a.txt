@@ -1,0 +1,11 @@
+[Stars]
+04100000 01cc1e2c 3B9AC9FF
+
+[Start with full Laser]
+04100000 01cc1e50 00000f27
+
+[Start with full Mega Bombs]
+04100000 01cc1e54 00000f27
+
+[Start with full Shield]
+04100000 01cc1e58 00000f27

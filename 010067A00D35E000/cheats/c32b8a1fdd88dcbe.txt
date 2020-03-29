@@ -1,0 +1,19 @@
+[GIGANTIC ARMY 1.0.0]
+
+[Infinite HP]
+01000000 01cbab4e 00000064
+
+[Max Gun Power]
+01000000 01cbab4c 00000064
+
+[Infinite Shield]
+02000000 01cbabba 0000012c
+
+[Infinite Vernier]
+01000000 01cbab9e 00000000
+
+[Infinite Missiles]
+01000000 01cbac0e 00000063
+
+[Infinite Time]
+01000000 01cbaa12 00000001

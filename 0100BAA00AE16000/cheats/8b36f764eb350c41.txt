@@ -1,0 +1,23 @@
+[Credits BlackDeath]
+
+[Unlimited Lives on - ignore on screen value]
+04000000 001E2800 52800120
+
+[Unlimited Lives off]
+04000000 001E2800 B9403000
+
+[]
+
+[Immortal on - ignore on screen value]
+04000000 001234E0 D2800C80
+
+[Immortal off]
+04000000 001234E0 B9401C00
+
+[]
+
+[Buy something = increase Money]
+04000000 001DE650 0B000101
+
+[Buy something = decrease Money]
+04000000 001DE650 4B000101

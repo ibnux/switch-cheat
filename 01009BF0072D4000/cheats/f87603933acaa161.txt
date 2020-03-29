@@ -1,0 +1,5 @@
+[99 and Infinity Lives]
+01100000 3a64af5c 00000009
+
+[9999 and Infinity Money]
+02100000 3a64afd0 0000270F
