@@ -1,0 +1,21 @@
+[no damage]
+04000000 004B3CE0 D65F03C0
+
+[pendant use give max money]
+04000000 004BE754 52A6C020
+04000000 004BE758 72B88CA0
+
+[free emblem use]
+04000000 004BECC8 52800000
+
+[free shop upgrades]
+04000000 0010B824 52800000
+
+[free staff]
+04000000 0010E89C 52800000
+
+[craft without mats]
+04000000 000B8EAC 1400002F
+
+[enchant without mats]
+04000000 0036CBC4 14000030

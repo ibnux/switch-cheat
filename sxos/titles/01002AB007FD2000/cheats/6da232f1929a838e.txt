@@ -1,0 +1,12 @@
+ [hitanywhere2]
+04000000 000AD678 D503201F
+
+[Infinite Magic]
+02100000 9005A0DC 00000101
+
+[Infinite Specia]
+02100000 9005A0CC 00000303
+
+this correct code
+I missed the word of
+Build: 00c2155000000000 

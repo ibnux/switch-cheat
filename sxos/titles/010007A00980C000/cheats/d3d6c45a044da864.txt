@@ -1,0 +1,5 @@
+[Vite infinite]
+01100000 014b304c 00000005
+
+[Crediti infiniti]
+01100000 014b301a 00000009

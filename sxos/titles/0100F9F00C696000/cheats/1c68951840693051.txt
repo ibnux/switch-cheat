@@ -1,0 +1,23 @@
+[RelicRace Crate add 30sec to freeze timer]
+04000000 00FBC3DC 1E27D000
+
+[CrystalRace 1 Crystal is worth 5]
+04000000 00E664F0 11001508
+
+[Unlock All Pit Stop Items]
+04000000 01073CC8 52800020
+
+[Unlock All Ordinary Items]
+04000000 010723DC 52800020
+
+[Unlock N.Tropy]
+04000000 010730BC 52800020
+
+[Unlock Penta Pinguin]
+04000000 010726F0 52800020
+
+[Beat All Oxide Times - Digital NTropy Skin]
+04000000 01073328 52800020
+
+[Unlock All Skins]
+04000000 010729C4 52800020

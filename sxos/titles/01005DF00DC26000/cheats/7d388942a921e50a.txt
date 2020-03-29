@@ -1,0 +1,54 @@
+[Max after the money changes]
+04000000 00A87FEC 1A89B129
+04000000 00A8828C 1A8AB14A
+
+[Skill/props proficiency 4 times]
+04000000 00A87A3C 0B15094A
+
+[Skill/props proficiency 8 times]
+04000000 00A87A3C 0B150D4A
+
+[Skill/props proficiency 16 times]
+04000000 00A87A3C 0B15114A
+
+[Skill/props proficiency increased after Max]
+04000000 00A87A44 1A8BB16B
+
+[Max after the increase of CP]
+04000000 00A72DC0 1A89B129
+04000000 00A72F3C 1A97B2E9
+
+[SP use is not reduced]
+04000000 00A721A4 4B1F0108
+
+[Experience value 4 times]
+04000000 00A72DFC 0B010908
+
+[Experience value 8 times]
+04000000 00A72DFC 0B010D08
+
+[Experience value 16 times]
+04000000 00A72DFC 0B011108
+
+[Max after level upgrade]
+04000000 00A72E0C 1A94B289
+
+[Medal acquisition 4 times]
+04000000 00A876AC 0B14094B
+04000000 00A8FEDC 0B090989
+
+[Medal acquisition 8 times]
+04000000 00A876AC 0B140D4B
+04000000 00A8FEDC 0B090D89
+
+[Medal acquisition 16 times]
+04000000 00A876AC 0B14114B
+04000000 00A8FEDC 0B091189
+
+[Medal modification effect is turned off]
+04000000 00A876AC 0B14014B
+04000000 00A8FEDC 0B090189
+
+[Increased goodness after Max]
+04000000 00FBE978 D503201F
+04000000 010EB924 D503201F

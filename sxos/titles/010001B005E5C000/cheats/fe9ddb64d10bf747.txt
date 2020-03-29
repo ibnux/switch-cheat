@@ -1,0 +1,8 @@
+ [Crediti infiniti]
+02100000 9ddf7aa4 00000063
+
+[Vite infinite Giocatore 1]
+02100000 9ddf7ab4 00000009
+
+[Vite infinite Giocatore 2]
+02100000 9ddf7ab8 00000009

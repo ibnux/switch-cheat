@@ -1,0 +1,8 @@
+[hit kill]
+04000000 008C642C 1E37D001
+04000000 008C4958 1E37D001
+
+[some enemy works be careful hit kill]
+
+[hit range 1p ]
+04000000 0148CB00 1E24900B

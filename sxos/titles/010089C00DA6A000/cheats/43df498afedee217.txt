@@ -1,0 +1,8 @@
+
+[ver:1.0.1]
+
+[hit range 30x all characts]
+04000000 000643B0 1E27D002
+
+[speed game 2x ]
+04000000 004AE7E0 1E201000
