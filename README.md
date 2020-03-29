@@ -4,7 +4,7 @@ SXOS Compiled database, you can use it for others Cheat Engine
 
 | NAME | TITLE ID |
 | --- | --- |
-| 17-BIT Platinum Pack: Galak-Z - The Void & Skulls Of The Shoguns (Bon-A-Fide Edition) [Rev 1.0.1] | [0100534010724000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100534010724000) |
+| 17-BIT Platinum Pack: Galak-Z - The Void & Skulls Of The Shoguns | [0100534010724000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100534010724000) |
 | 20XX | [0100749009844000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100749009844000) |
 | A Hat in Time | [010056E00853A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010056E00853A000) |
 | A Hole New World | [01000060085D2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000060085D2000) |
