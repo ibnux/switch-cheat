@@ -1,5 +1,6 @@
- [No Damage On]
+[No Damage On]
 04000000 0051D880 D65F03C0
 
 [No Damage Off]
 04000000 0051D880 FC170FEE
+

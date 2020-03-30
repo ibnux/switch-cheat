@@ -1,3 +1,21 @@
+[3-3 Tawna Tokens]
+01100000 9422fe00 00000003
+
+[Have all Silver Crystals]
+01100000 905722d4 0000001a
+
+[Have 2-2 Gold Keys]
+01100000 905722d0 00000002
+
+[Have all Sapphire Relics N Sanity Island]
+01100000 905722d8 00000008
+
+[Have all Gold Relics N Sanity Island]
+01100000 905722dc 00000009
+
+[Have all Platinum Relics N Sanity Island]
+01100000 905722e0 00000009
+
 [Crash Bandicoot N. Sane Trilogy]
 
 [Crash 1 - 255 Lives]
@@ -26,3 +44,4 @@
 
 [999 boxes]
 01100000 942314c0 000003e7
+

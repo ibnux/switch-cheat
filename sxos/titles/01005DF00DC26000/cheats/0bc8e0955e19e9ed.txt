@@ -1,4 +1,4 @@
-  [Max after money changes]
+[Max after money changes]
 04000000 00A838EC 1A89B129
 04000000 00A83B8C 1A8AB14A
 
@@ -23,3 +23,4 @@
 
 [exp]
 04100000 c189beb8 3B9AC9FF
+

@@ -1,4 +1,4 @@
- [Hold L on Buy to get Max Money]
+[Hold L on Buy to get Max Money]
 08000000 001FF304 5400006A 6B010108
 04000000 001FF30C 2A1F03E0
 80000040
@@ -8,3 +8,4 @@
 
 [Inf Stamina]
 04000000 000B6DAC 4B1F0114
+

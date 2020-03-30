@@ -21,17 +21,6 @@
 [Naotora li Codes]
 
 [6000 Hp]
-041F0000 11a949de 00001770
-
-[6000 Atk]
-041F0000 11a949e0 00001770
-
-[9999 Def]
-041F0000 11a949e2 0000270F
-
-[Tadakatsu Honda Codes]
-
-[6000 Hp]
 041F0000 11a8eb5e 00001770
 
 [6000 Atk]
@@ -39,4 +28,6 @@
 
 [9999 Def]
 041F0000 11a8eb62 0000270F
+
+[Tadakatsu Honda Codes]
 

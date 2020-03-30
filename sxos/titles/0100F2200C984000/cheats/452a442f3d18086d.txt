@@ -1,4 +1,5 @@
 [Mortal Kombat 11 v1.0.4]
+
 [Credits: lolo02100]
 
 [Player1 Infinite Health]
@@ -32,3 +33,4 @@
 
 [Unlock Collection + Shao Kahn + Frost (Off)]
 08000000 01CD1720 F9001BFB D10243FF
+

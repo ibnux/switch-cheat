@@ -1,4 +1,8 @@
- [RelicRace Crate add 30sec to freeze timer]
+[Unl. Boost]
+041F0000 0F4DA7BC 00000000
+041F0000 0F4DA7C0 00000000
+
+[RelicRace Crate add 30sec to freeze timer]
 04000000 00FBCAF8 1E27D000
 
 [CrystalRace 1 Crystal is worth 5]
@@ -21,3 +25,4 @@
 
 [Unlock All Skins]
 04000000 0106C9BC 52800020
+

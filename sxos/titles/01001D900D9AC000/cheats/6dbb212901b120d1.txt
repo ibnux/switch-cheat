@@ -1,4 +1,4 @@
- [Infinity Stamina]
+[Infinity Stamina]
 04000000 0041BB84 1A8BB16B
 
 [No Exhausted]
@@ -63,3 +63,4 @@
 780F0000 00000028
 620F0000 00000000 00000004
 20000000
+

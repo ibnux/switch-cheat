@@ -1,5 +1,3 @@
-[ACA NEOGEO 3 COUNT BOUT 1.0.0 + 1.0.1]
-
 [P1 Infinite HP English Version]
 01000000 01280678 00000048
 
@@ -11,3 +9,6 @@
 
 [P2 HP 0 Japanese Version]
 01000000 01280578 00000000
+
+[ACA NEOGEO 3 COUNT BOUT 1.0.0 + 1.0.1]
+

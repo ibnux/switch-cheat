@@ -32,6 +32,7 @@
 640f0000 00000000 00000000
 
 [Warning: Use the Following Cheats only on a New Game]
+
 [Turn cheats ON then OFF and never use it again]
 
 [Money 99000 Only Use 1 time on New Game]
@@ -68,3 +69,4 @@
 640f0000 00000000 46a00000
 780f0000 00000004
 680f0000 46a00000 46a00000
+

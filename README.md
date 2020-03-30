@@ -126,8 +126,8 @@ SXOS Compiled database, you can use it for others Cheat Engine
 | Crimsonland | [01005640080B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005640080B0000) |
 | Cuphead | [0100A5C00D162000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A5C00D162000) |
 | Cursed Castilla ex | [0100ED700B376000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED700B376000) |
-| Daemon X Machina | [0100CB8005B26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CB8005B26000) |
 | Daemon X Machina | [0100B6400CA56000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6400CA56000) |
+| Daemon X Machina | [0100CB8005B26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CB8005B26000) |
 | Dark Souls: Remastered | [01004AB00A260000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004AB00A260000) |
 | Darksiders Genesis [Rev 1.0.0] | [0100F2300D4BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2300D4BA000) |
 | Darksiders II [Deathinitive Edition] | [010071800BA98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071800BA98000) |

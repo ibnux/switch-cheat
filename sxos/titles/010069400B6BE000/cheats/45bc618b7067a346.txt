@@ -1,4 +1,4 @@
- [For the King Ver 1.0.2]
+[For the King Ver 1.0.2]
 
 [Focus value doesn't decrease]
 04000000 00B59C58 2A0303E0
@@ -26,3 +26,4 @@
 80000800
 04000000 017CF044 1A83C060
 20000000
+

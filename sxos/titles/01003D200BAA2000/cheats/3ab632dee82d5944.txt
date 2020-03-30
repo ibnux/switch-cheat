@@ -70,3 +70,4 @@
 
 [HP growth rate 8 times (when upgrading)）]
 04000000 026CC568 0B140EA8
+

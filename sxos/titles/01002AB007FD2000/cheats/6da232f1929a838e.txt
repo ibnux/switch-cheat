@@ -1,4 +1,28 @@
- [hitanywhere2]
+[Lincle Crossbows rapid inf Y]
+04000000 0073F344 C2800000
+
+[Infinite Special 1p]
+02100000 9005A0CC 00000303
+
+[Infinite Magic 2p]
+02100000 9005A2A4 00000101
+
+[Infinite Special 2p]
+02100000 9005A294 00000303
+
+[Infinite Magic 3p]
+02100000 9005A46C 00000101
+
+[Infinite Special 3p]
+02100000 9005A45C 00000303
+
+[Infinite Magic 4p]
+02100000 9005A634 00000101
+
+[Infinite Special 4p]
+02100000 9005A624 00000303
+
+[hitanywhere2]
 04000000 000AD678 D503201F
 
 [Infinite Magic]
@@ -6,7 +30,7 @@
 
 [Infinite Specia]
 02100000 9005A0CC 00000303
-
 this correct code
 I missed the word of
-Build: 00c2155000000000 
+Build: 00c2155000000000
+

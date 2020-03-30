@@ -1,3 +1,11 @@
+[No Damage on]
+04000000 003CD710
+D65F03C0
+
+[No Damage off]
+04000000 003CD710
+D10243FF
+
 [Credits optantic]
 
 [P1 Infinite Health]
@@ -45,3 +53,4 @@
 580f1000 000000a0
 780f0000 0000007c
 640f0000 00000000 40c00000
+

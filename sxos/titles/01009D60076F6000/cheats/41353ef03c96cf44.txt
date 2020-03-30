@@ -1,4 +1,5 @@
- [ versao 2.1.9]
+[ versao 2.1.9]
 
 [Change Coin 9999]
 04000000 00DEB20C 5284E1F4
+

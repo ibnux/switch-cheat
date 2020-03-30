@@ -17,3 +17,4 @@
 
 [P2 NO Maximum Sword Power]
 02000000 01286D70 00000000
+

@@ -1,4 +1,4 @@
- [Unlock All Pit Stop Items]
+[Unlock All Pit Stop Items]
 04000000 007BEE70 52800020
 
 [Unlock All Ordinary Items]
@@ -18,3 +18,4 @@
 
 [RelicRace Crate add 30sec to freeze timer]
 04000000 00712DF0 1E27D000
+

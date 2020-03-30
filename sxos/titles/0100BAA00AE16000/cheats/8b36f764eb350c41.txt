@@ -14,10 +14,9 @@
 [Immortal off]
 04000000 001234E0 B9401C00
 
-[]
-
 [Buy something = increase Money]
 04000000 001DE650 0B000101
 
 [Buy something = decrease Money]
 04000000 001DE650 4B000101
+

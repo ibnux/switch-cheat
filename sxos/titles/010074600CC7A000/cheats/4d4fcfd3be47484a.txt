@@ -1,3 +1,4 @@
+
 {Master Code}
 04000000 0031F218 000F423F
 
@@ -9,3 +10,4 @@
 
 [Infinite Lamp Usage]
 04000000 002F39A0 D65F03C0
+

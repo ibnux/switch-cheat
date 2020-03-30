@@ -1,4 +1,5 @@
- [inf health A pad button inf health off]
+[inf health A pad button inf health off]
 04000000 009B5150 D65F03C0
 80000001 04000000 009B5150 D10383FF
 20000000
+

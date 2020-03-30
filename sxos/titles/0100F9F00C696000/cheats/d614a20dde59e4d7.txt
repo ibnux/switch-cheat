@@ -1,3 +1,5 @@
+[Crash Team Racing Nitro Fueled]
+
 [RelicRace Crate add 30sec to freeze timer]
 04000000 00FA4D2C 1E27D000
 
@@ -21,3 +23,4 @@
 
 [Unlock All Skins]
 04000000 01054578 52800020
+

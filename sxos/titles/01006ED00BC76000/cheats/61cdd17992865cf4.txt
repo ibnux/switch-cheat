@@ -1,2 +1,3 @@
- [Infinite Coins]
+[Infinite Coins]
 04000000 01454c60 0001869F
+

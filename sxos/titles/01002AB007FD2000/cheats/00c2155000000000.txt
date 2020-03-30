@@ -1,2 +1,6 @@
+[hitanywhere off]
+04000000 000ACF50 D102C3FF
+
 [hitanywhere mode]
 04000000 000ACF50 D65F03C0
+

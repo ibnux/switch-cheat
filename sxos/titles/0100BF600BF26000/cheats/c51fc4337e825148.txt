@@ -82,3 +82,4 @@
 
 [100 Percent BuddyPoints Drop Rate (Disable)]
 04000000 0000D160 B9406C00
+

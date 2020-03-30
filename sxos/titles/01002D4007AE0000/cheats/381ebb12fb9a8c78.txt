@@ -1,13 +1,5 @@
-[Mega Man Legacy Collection]
-
-{Master Code}
-580f0000 00d3a2a0
-580f1000 038cb840
-580f1000 00000008
-780f0000 0000000f
-
-[MM1 Infinite Health]
-400e0000 00000000 0000006a
+[MM1 Infinite Lifes]
+400e0000 00000000 000000a6
 610f01e0 00000000 0000001c
 
 [MM1 Infinite Health]
@@ -49,3 +41,11 @@
 [MM1 Infinite Magnet Beam]
 400e0000 00000000 00000071
 610f01e0 00000000 0000001c
+
+[Mega Man Legacy Collection]
+{Master Code}
+580f0000 00d3a2a0
+580f1000 038cb840
+580f1000 00000008
+780f0000 0000000f
+

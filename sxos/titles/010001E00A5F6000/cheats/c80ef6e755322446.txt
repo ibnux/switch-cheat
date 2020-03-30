@@ -1,3 +1,6 @@
+[No Damage On]
+04000000 0147FE20 D65F03C0
+
 [Credits BlackDeath]
 
 [No Damage On - press R-Stick to get vulnerable]
@@ -11,3 +14,4 @@
 
 [Unlimited Upgrade Points]
 04000000 014677B0 52807CE0
+

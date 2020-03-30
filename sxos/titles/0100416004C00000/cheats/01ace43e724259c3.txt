@@ -1,6 +1,6 @@
 [Doom Update 3 Version 1.2]
 
- [g_permaGodMode]
+[g_permaGodMode]
 04000000 0739B9D8 00000001
 
 [g_infiniteAmmo]
@@ -23,3 +23,4 @@
 
 [pm_allowInfiniteDoubleJumps]
 04000000 072A2428 00000001
+

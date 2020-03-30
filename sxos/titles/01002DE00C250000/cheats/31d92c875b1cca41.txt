@@ -1,6 +1,7 @@
- [get souls x9999 on collect]
+[get souls x9999 on collect]
 04000000 003E2BFC 5284E1F5
 
 [get merv x9999999 on collect]
 04000000 0041196C 0098967F
 04000000 00411930 180001E1
+
