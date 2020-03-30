@@ -69,6 +69,7 @@ SXOS Compiled database, you can use it for others Cheat Engine
 | ACA NEOGEO ZED BLADE | [01005AF004DBC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005AF004DBC000) |
 | Aegis Defenders | [01008E6006502000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008E6006502000) |
 | AngerForce: Reloaded | [010001E00A5F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010001E00A5F6000) |
+| Animal Crossing: New Horizons [Rev 1.0.0] | [01006F8002326000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006F8002326000) |
 | Arcade Archives City CONNECTION | [010007A00980C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010007A00980C000) |
 | Arcade Archives DOUBLE DRAGON | [0100F25001DD0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F25001DD0000) |
 | Arcade Archives Kid Niki Radical Ninja | [010010B008A36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010010B008A36000) |
@@ -125,14 +126,14 @@ SXOS Compiled database, you can use it for others Cheat Engine
 | Crimsonland | [01005640080B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005640080B0000) |
 | Cuphead | [0100A5C00D162000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A5C00D162000) |
 | Cursed Castilla ex | [0100ED700B376000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED700B376000) |
-| Daemon X Machina | [0100B6400CA56000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6400CA56000) |
 | Daemon X Machina | [0100CB8005B26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CB8005B26000) |
+| Daemon X Machina | [0100B6400CA56000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6400CA56000) |
 | Dark Souls: Remastered | [01004AB00A260000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004AB00A260000) |
 | Darksiders Genesis [Rev 1.0.0] | [0100F2300D4BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2300D4BA000) |
 | Darksiders II [Deathinitive Edition] | [010071800BA98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071800BA98000) |
 | Darksiders Warmastered Edition | [0100E1400BA96000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1400BA96000) |
-| Dead Cells | [0100FC000AEF0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FC000AEF0000) |
 | Dead Cells | [0100646009FBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100646009FBE000) |
+| Dead Cells | [0100FC000AEF0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FC000AEF0000) |
 | DEAD OR SCHOOL | [0100E7100C52C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E7100C52C000) |
 | Diablo III: Eternal Collection | [01001B300B9BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B300B9BE000) |
 | Digimon Story: Cyber Sleuth [Complete Edition] | [010014E00DB56000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010014E00DB56000) |
@@ -359,8 +360,8 @@ SXOS Compiled database, you can use it for others Cheat Engine
 | The Mummy Demastered | [0100496004194000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100496004194000) |
 | The Pinball Arcade | [0100CD300880E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CD300880E000) |
 | The Snack World: Trejarers Gold | [010072B007418000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072B007418000) |
-| The Witcher 3: Wild Hunt [Complete Edition] | [010019C00E9CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010019C00E9CC000) |
 | The Witcher 3: Wild Hunt [Complete Edition] | [01003D100E9C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D100E9C6000) |
+| The Witcher 3: Wild Hunt [Complete Edition] | [010019C00E9CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010019C00E9CC000) |
 | The World Ends With You: Final Remix | [0100C1500B82E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C1500B82E000) |
 | Tiny Barbarian DX | [0100D940022F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D940022F6000) |
 | Titan Quest | [0100605008268000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100605008268000) |

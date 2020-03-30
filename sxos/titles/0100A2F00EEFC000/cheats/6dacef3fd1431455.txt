@@ -1,4 +1,4 @@
- [Lion King S Infinite Health]
+[Lion King S Infinite Health]
 58000000 0050D090
 58001000 00001758
 58001000 000000A0
