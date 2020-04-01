@@ -1,8 +1,8 @@
-[KeroBlaster]
+[Infinite Lives]
+01100000 007103D0 00000009
 
 [Coins 999]
 02100000 007103C0 000003E7
 
-[Infinite Lives]
-01100000 007103D0 00000009
+[KeroBlaster]
 

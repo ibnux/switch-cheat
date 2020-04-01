@@ -1,5 +1,3 @@
-[Nickelodeon Kart Racers 1.0.3]
-
 [#01# Inf Money]
 580f0000 007060D0
 780f0000 00000020
@@ -10,4 +8,6 @@
 580f1000 00000098
 780f0000 00001438
 640f0000 00000000 42C80000
+
+[Nickelodeon Kart Racers 1.0.3]
 

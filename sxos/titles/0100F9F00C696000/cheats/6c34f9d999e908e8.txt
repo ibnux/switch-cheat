@@ -1,11 +1,17 @@
-[RelicRace Crate add 30sec to freeze timer]
-04000000 00FB4958 1E27D000
-
 [Unlock All Pit Stop Items]
 04000000 010624AC 52800020
 
 [Unlock All Ordinary Items]
 04000000 01061188 52800020
+
+[Beat All Oxide Times - Digital NTropy Skin]
+04000000 01062200 52800020
+
+[RelicRace Crate add 30sec to freeze timer]
+04000000 00FB4958 1E27D000
+
+[Unlock All Skins]
+04000000 0106181C 52800020
 
 [Unlock N.Tropy]
 04000000 01061F54 52800020
@@ -13,9 +19,5 @@
 [Unlock Penta Pinguin]
 04000000 01061528 52800020
 
-[Beat All Oxide Times - Digital NTropy Skin]
-04000000 01062200 52800020
 
-[Unlock All Skins]
-04000000 0106181C 52800020
 

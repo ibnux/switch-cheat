@@ -1,0 +1,6 @@
+[Infinite Money]
+041F0000 5AF9A928 3B9AC99C
+
+[Infinite health]
+041F0000 5AF9A940 44A70000
+

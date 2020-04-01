@@ -1,0 +1,8 @@
+[Bullets don't decrease (Disable)]
+04000000 005649CC 51000401
+
+[Bullets don't decrease (Enable)]
+04000000 005649CC 2A0003E1
+
+
+

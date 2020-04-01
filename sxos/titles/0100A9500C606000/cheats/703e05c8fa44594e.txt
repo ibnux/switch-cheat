@@ -1,4 +1,5 @@
-[Credits BlackDeath]
+[Invulnerable off]
+04000000 006879B0 B9406C08
 
 [x99 Lives - lose 1 Life to update]
 04000000 00687B40 52800C80
@@ -9,6 +10,5 @@
 04000000 006879B0 B9406C08
 20000000
 
-[Invulnerable off]
-04000000 006879B0 B9406C08
+[Credits BlackDeath]
 

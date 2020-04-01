@@ -1,0 +1,14 @@
+[Bombs unlimited]
+01000000 03759CA4 00000063
+
+[Credits unlimited]
+01000000 03759C32 00000063
+
+[Lives unlimited]
+01000000 0375ED4C 00000063
+
+[Energy unlimited]
+01000000 0375ED52 00000050
+
+
+

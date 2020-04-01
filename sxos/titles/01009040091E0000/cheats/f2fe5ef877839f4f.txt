@@ -1,5 +1,43 @@
+[Little game HP does not reduce / / Inf HP in Minigame]
+04000000 0108DA7C 52800008
+
+[I won't die soon / No Instant Die]
+04000000 00F84AD8 D503201F
+
+[No need to load / / No Reload]
+04000000 0107B638 D503201F
+
 [Enigma Codes x999]
 041F0000 90fe0c7c 00000999
+
+[Inf Ammo - Main Weapon]
+04000000 01063D6C D503201F
+
+[Unlimited Deputy Weapons / / Inf SubAmmo]
+04000000 0107B5EC 2A0003E8
+
+[armor is not reduced / / Inf Armor]
+04000000 00D90D88 1E2703E0
+04000000 00D90D8C 1400000B
+
+[Little game life is not reduced / / Inf Lives in Minigame]
+04000000 010B7308 D503201F
+
+[Small game ammunition is not reduced / / Inf Ammo in Minigame]
+04000000 0108FB98 D503201F
+
+[Small game score after 999999 / / Get Score 999999 in Minigame]
+04000000 0202EF10 52A001E0
+04000000 0202EF14 728847E0
+04000000 0202EF18 B8286A60
+04000000 0202EF1C D65F03C0
+04000000 0202EF20 000120FE
+04000000 010B3B70 943DECE8
+
+[HP does not reduce / / Inf HP]
+04000000 00D90E04 1E2703E0
+
+
 
 [Infinite Health]
 04000000 00D90E04 1E2703E0

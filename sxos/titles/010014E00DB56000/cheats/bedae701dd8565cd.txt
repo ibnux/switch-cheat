@@ -1,180 +1,98 @@
-[**The only difference is it's updated to Build ID bedae701dd8565cd with very minor changes**]
-
-[*Version 1.03*]
-
-[Inf Sp]
-04000000 00005478 4B1F0129
-
-[Can the maximum after the change]
-04000000 00054658 1A88C108
-
-[Max Money after change]
-04000000 00067F54 1A89B128
-
 [Friendship maximum after change]
 04000000 000543E4 1A88C128
 
-[scan rate after battle Max]
-04000000 0004FFF8 52801909
+[CRT maximum after equipping any chip]
+04000000 0005EB18 52807D08
 
-[Items are not reduced (on)]
-04000000 0006540C 4B1F014A
+[No property injury-free after equipping any chip]
+04000000 0005EB94 52800C88
+
+[Mine-free properties after equipping any chip]
+04000000 0005EB50 52800C88
 
 [Items are not reduced (off)]
 04000000 0006540C 4B03014A
 
-[Max item when acquired(on)]
-04000000 000652EC 1A8BB16B
+[HIT Max after equipping any chip]
+04000000 0005EAFC 52807D08
 
-[Max item when acquired(off)]
-04000000 000652EC 1A8BB12B
+[200% scan rate after equipping any chip]
+04000000 0005EC5C 52801908
 
-[4x increase in hit slots]
-04000000 0000EEF8 0B090908
-04000000 0000EF04 0B080A88
+[4x USB effect for military division]
+04000000 0005EC30 0B090908
+
+[Maximum after team cap increase]
+04000000 00069010 1A89B128
+
+[Level cap 99]
+04000000 0005E574 1A89B120
+
+[Equipped with any chip rear soil property injury-free]
+04000000 0005EB5C 52800C88
+
+[Equipped with any chip after through the damage relief]
+04000000 0005EC68 52800C88
+
+[Dark properties free of injury after equipping any chip]
+04000000 0005EB88 52800C88
+
+[8x USB effect for military division]
+04000000 0005EC30 0B090D08
+
+[Max Money after change]
+04000000 00067F54 1A89B128
+
+[Inf Sp]
+04000000 00005478 4B1F0129
+
+[100% connectivity rate after equipping any chip]
+04000000 0005EC14 52800C88
+
+[Equipped with any chip rear wood property injury-free]
+04000000 0005EB40 52800C88
+
+[100% drop rate after any chip is equipped]
+04000000 0005EC4C 52800C88
+
+[SPD max after equipping any chip]
+04000000 0005EAEC 52807D08
+
+[Max Stats Digimon Slot 2 CS]
+01100000 0D867BAA 00000063
+02100000 0D867BC4 00007530
+02100000 0D867BD0 00007530
+02100000 0D867BD4 00007530
+02100000 0D867BD8 00007530
+02100000 0D867BDC 00007530
+02100000 0D867BE0 00007530
+04100000 0D867BE2 006400C8
+01100000 0D867D5C 00000003
 
 [8x increase in hit slots]
 04000000 0000EEF8 0B090D08
 04000000 0000EF04 0B080E88
 
-[16x increase in hit slots]
-04000000 0000EEF8 0B091108
-04000000 0000EF04 0B081288
-
-[Level cap 99]
-04000000 0005E574 1A89B120
-
-[Maximum after team cap increase]
-04000000 00069010 1A89B128
-
-[Maximum after full property promotion]
-04000000 0005EF1C 1A89B128
-04000000 0005EF28 1A89B120
-04000000 0005EFD4 1A89B128
-04000000 0005EFE0 1A89B120
-04000000 0005F084 1A89B128
-04000000 0005F090 1A89B120
-04000000 0005F134 1A89B128
-04000000 0005F140 1A89B120
-04000000 0005F1E4 1A89B128
-04000000 0005F1F0 1A89B120
-04000000 0005F294 1A89B128
-04000000 0005F2A0 1A89B120
-
-[2x the USB effect of the military division]
-04000000 0005EC30 0B090508
-
-[4x USB effect for military division]
-04000000 0005EC30 0B090908
-
-[8x USB effect for military division]
-04000000 0005EC30 0B090D08
-
-[Billionaire's Military Division 2x]
-04000000 0005EC3C 0B0A0508
-
-[Billionaire's Military Division 4x]
-04000000 0005EC3C 0B0A0908
-
-[Billionaire's Military Division 8x]
-04000000 0005EC3C 0B0A0D08
-
-[HP Max after equipping any chip]
-04000000 0005EAA8 5284E1E8
-
-[Maximum SP after equipping any chip]
-04000000 0005EAB4 52807D08
-
-[ATK max after any chip]
-04000000 0005EAC4 52807D08
-
-[DEF maximum after equipping any chip]
-04000000 0005EAD0 52807D08
-
-[INT max after equipping any chip]
-04000000 0005EAE0 52807D08
-
-[SPD max after equipping any chip]
-04000000 0005EAEC 52807D08
-
-[HIT Max after equipping any chip]
-04000000 0005EAFC 52807D08
-
-[AGL maximum after equipping any chip]
-04000000 0005EB08 52807D08
-
-[CRT maximum after equipping any chip]
-04000000 0005EB18 52807D08
-
 [Fire property free of injury after equipping any chip]
 04000000 0005EB24 52800C88
 
-[Water properties free of injury after equipping any chip]
-04000000 0005EB34 52800C88
+[Items are not reduced (on)]
+04000000 0006540C 4B1F014A
 
-[Equipped with any chip rear wood property injury-free]
-04000000 0005EB40 52800C88
+[Max Stats Digimon Slot 3 CS]
+01100000 0D867DEA 00000063
+02100000 0D867E04 00007530
+02100000 0D867E10 00007530
+02100000 0D867E14 00007530
+02100000 0D867E18 00007530
+02100000 0D867E1C 00007530
+02100000 0D867E20 00007530
+04100000 0D867E22 006400C8
+01100000 0D867F9C 00000003
 
-[Mine-free properties after equipping any chip]
-04000000 0005EB50 52800C88
-
-[Equipped with any chip rear soil property injury-free]
-04000000 0005EB5C 52800C88
-
-[Equipped with any chip rear wind property injury-free]
-04000000 0005EB6C 52800C88
-
-[Light properties are injury-free after equipping any chip]
-04000000 0005EB78 52800C88
-
-[Dark properties free of injury after equipping any chip]
-04000000 0005EB88 52800C88
-
-[No property injury-free after equipping any chip]
-04000000 0005EB94 52800C88
-
-[Highly toxic immunity after equipping any chip]
-04000000 0005EBA4 52800C88
-
-[Chaotic immunity after equipping any chip]
-04000000 0005EBB0 52800C88
-
-[Paralyzed immunity after equipping any chip]
-04000000 0005EBC0 52800C88
-
-[Sleep Immunity After Equipping Any Chip]
-04000000 0005EBCC 52800C88
-
-[Dizziness immunity after equipping any chip]
-04000000 0005EBDC 52800C88
-
-[Liquidization immunity after equipping any chip]
-04000000 0005EBE8 52800C88
-
-[BUG Immunity After Any Chip]
-04000000 0005EBF8 52800C88
-
-[Dead immunity when equipped with any chip]
-04000000 0005EC04 52800C88
-
-[100% connectivity rate after equipping any chip]
-04000000 0005EC14 52800C88
-
-[100% escape rate after equipping any chip]
-04000000 0005EC20 52800C88
-
-[Full level after increased experience after equipping chips]
-04000000 0005EC2C 52993FE8
-04000000 0005EC30 72877348
-
-[100% drop rate after any chip is equipped]
-04000000 0005EC4C 52800C88
-
-[200% scan rate after equipping any chip]
-04000000 0005EC5C 52801908
-
-[Equipped with any chip after through the damage relief]
-04000000 0005EC68 52800C88
+[4x increase in hit slots]
+04000000 0000EEF8 0B090908
+04000000 0000EF04 0B080A88
 
 [Max Item Equipment effect]
 04000000 0005EAA8 0B090108
@@ -210,4 +128,119 @@
 04000000 0005EC4C 0B090108
 04000000 0005EC5C 0B0A0108
 04000000 0005EC68 0B090108
+
+[Highly toxic immunity after equipping any chip]
+04000000 0005EBA4 52800C88
+
+[Liquidization immunity after equipping any chip]
+04000000 0005EBE8 52800C88
+
+[Paralyzed immunity after equipping any chip]
+04000000 0005EBC0 52800C88
+
+[Maximum after full property promotion]
+04000000 0005EF1C 1A89B128
+04000000 0005EF28 1A89B120
+04000000 0005EFD4 1A89B128
+04000000 0005EFE0 1A89B120
+04000000 0005F084 1A89B128
+04000000 0005F090 1A89B120
+04000000 0005F134 1A89B128
+04000000 0005F140 1A89B120
+04000000 0005F1E4 1A89B128
+04000000 0005F1F0 1A89B120
+04000000 0005F294 1A89B128
+04000000 0005F2A0 1A89B120
+
+[16x increase in hit slots]
+04000000 0000EEF8 0B091108
+04000000 0000EF04 0B081288
+
+[DEF maximum after equipping any chip]
+04000000 0005EAD0 52807D08
+
+[Billionaire's Military Division 8x]
+04000000 0005EC3C 0B0A0D08
+
+[Max item when acquired(off)]
+04000000 000652EC 1A8BB12B
+
+[Can the maximum after the change]
+04000000 00054658 1A88C108
+
+[Max Stats Digimon Slot 1 CS]
+01100000 0D86796A 00000063
+02100000 0D867984 00007530
+02100000 0D867990 00007530
+02100000 0D867994 00007530
+02100000 0D867998 00007530
+02100000 0D86799C 00007530
+02100000 0D8679A0 00007530
+04100000 0D8679A2 006400C8
+01100000 0D867B1C 00000003
+
+[scan rate after battle Max]
+04000000 0004FFF8 52801909
+
+[Chaotic immunity after equipping any chip]
+04000000 0005EBB0 52800C88
+
+[AGL maximum after equipping any chip]
+04000000 0005EB08 52807D08
+
+[Billionaire's Military Division 4x]
+04000000 0005EC3C 0B0A0908
+
+[2x the USB effect of the military division]
+04000000 0005EC30 0B090508
+
+[100% escape rate after equipping any chip]
+04000000 0005EC20 52800C88
+
+[BUG Immunity After Any Chip]
+04000000 0005EBF8 52800C88
+
+[Light properties are injury-free after equipping any chip]
+04000000 0005EB78 52800C88
+
+[INT max after equipping any chip]
+04000000 0005EAE0 52807D08
+
+[Billionaire's Military Division 2x]
+04000000 0005EC3C 0B0A0508
+
+[Dizziness immunity after equipping any chip]
+04000000 0005EBDC 52800C88
+
+[Full level after increased experience after equipping chips]
+04000000 0005EC2C 52993FE8
+04000000 0005EC30 72877348
+
+[Max item when acquired(on)]
+04000000 000652EC 1A8BB16B
+
+[Water properties free of injury after equipping any chip]
+04000000 0005EB34 52800C88
+
+[Equipped with any chip rear wind property injury-free]
+04000000 0005EB6C 52800C88
+
+[HP Max after equipping any chip]
+04000000 0005EAA8 5284E1E8
+
+[ATK max after any chip]
+04000000 0005EAC4 52807D08
+
+[Sleep Immunity After Equipping Any Chip]
+04000000 0005EBCC 52800C88
+
+[Maximum SP after equipping any chip]
+04000000 0005EAB4 52807D08
+
+[Dead immunity when equipped with any chip]
+04000000 0005EC04 52800C88
+
+[**The only difference is it's updated to Build ID bedae701dd8565cd with very minor changes**]
+
+[*Version 1.03*]
 

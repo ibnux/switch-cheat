@@ -1,4 +1,5 @@
-[Version 1.0]
+[9999 Picarats]
+040F0000 00533554 0000270F
 
 [hint coins don't decrease]
 040F0000 00533556 00000063
@@ -6,6 +7,5 @@
 [99 hint coins]
 040F0000 00533558 00000063
 
-[9999 Picarats]
-040F0000 00533554 0000270F
+[Version 1.0]
 

@@ -1,0 +1,8 @@
+[No Damage (off)]
+04000000 016189D0 EB2BBA6D
+
+[No Damage (On)]
+04000000 016189D0 D65F03C0
+
+
+

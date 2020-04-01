@@ -1,0 +1,14 @@
+[P1 Bombs unlimited]
+01000000 016CAB2E 00000009
+
+[P2 Lives unlimited]
+01000000 016CAE1C 00000009
+
+[P2 Bombs unlimited]
+01000000 016CAE1E 00000009
+
+[P1 Lives unlimited]
+01000000 016CAB2C 00000009
+
+
+

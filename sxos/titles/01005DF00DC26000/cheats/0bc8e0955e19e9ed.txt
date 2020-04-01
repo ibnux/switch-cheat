@@ -2,14 +2,20 @@
 04000000 00A838EC 1A89B129
 04000000 00A83B8C 1A8AB14A
 
-[skills/props proficiency 4 times]
-04000000 00A8333C 0B15094A
+[SP]
+04100000 c189bec0 270F270F
+
+[Skills/props proficiency 16 times]
+04000000 00A8333C 0B15114A
+
+[exp]
+04100000 c189beb8 3B9AC9FF
 
 [skills/props proficiency 8 times]
 04000000 00A8333C 0B150D4A
 
-[Skills/props proficiency 16 times]
-04000000 00A8333C 0B15114A
+[skills/props proficiency 4 times]
+04000000 00A8333C 0B15094A
 
 [Maximum sensitivity increased Max]
 04000000 00FB9BB8 D503201F
@@ -18,9 +24,5 @@
 [HP]
 08100000 c189beb0 0001869F 0001869F
 
-[SP]
-04100000 c189bec0 270F270F
 
-[exp]
-04100000 c189beb8 3B9AC9FF
 

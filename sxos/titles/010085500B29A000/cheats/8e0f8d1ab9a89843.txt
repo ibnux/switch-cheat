@@ -1,13 +1,5 @@
-[Credits BlackDeath]
-
-[No Damage On]
-04000000 002473F0 D65F03C0
-
 [No Damage Off]
 04000000 002473F0 FC180FEE
-
-[Free shopping except ammunition]
-04000000 000D3160 D65F03C0
 
 [Invisibility R-Stick=ON L-Stick OFF]
 80000010
@@ -16,4 +8,12 @@
 80000020
 04000000 00246CD8 52800028
 20000000
+
+[No Damage On]
+04000000 002473F0 D65F03C0
+
+[Free shopping except ammunition]
+04000000 000D3160 D65F03C0
+
+[Credits BlackDeath]
 
