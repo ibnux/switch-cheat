@@ -2,6 +2,8 @@
 
 SXOS Compiled database, you can use it for others Cheat Engine
 
+1053 cheats in 691 titles
+
 | No | NAME | TITLE ID |
 | --- | --- | --- |
 | 1 | 1001 Ultimate Mahjong ™ 2 | [010063E00BBDC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010063E00BBDC000) |
