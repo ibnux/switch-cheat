@@ -7,7 +7,7 @@
 [Max Watts]
 04100000 42935F18 0098967F
 
-[11# Experience value 32 times]
+[14# EXP x32]
 04000000 007F27AC 0B011536
 
 [All Other Items x999]
@@ -272,7 +272,7 @@
 04100000 429358bc 01c0805e
 04100000 429358c0 01c0806a
 
-[06# Watt does not decrease]
+[10# Static Watts]
 04000000 0136B82C 4B1F0108
 
 [Pokemon Slot 6 Infinite PP]
@@ -307,7 +307,7 @@
 04000000 007703B0 528003E1
 20000000
 
-[39# Always Catch Pokemon (100% Capture Chance) - Enable]
+[17# 100% Capture Chance ON]
 04000000 0076C648 529FFFE0
 
 [Rise (Hold +)]
@@ -333,8 +333,8 @@
 011F0000 8D4704B0 00000063
 011F0000 8D4704CC 00000063
 
-[Masterball 999]
-04100000 42934AB8 01F38001
+[34# Pokeballs Slot 1 Masterball x999]
+04100000 42934AB8 01f38001
 
 [08# Max item when you get it (Turn off)]
 04000000 0136727C 710F9D7F
@@ -480,7 +480,7 @@
 04100000 42934ae8 01f3800e
 04100000 42934aec 01f3800f
 
-[40# Always Catch Pokemon (100% Capture Chance) - Disable]
+[18# 100% Capture Chance OFF]
 04000000 0076C648 39406100
 
 [Speed Up (Push ZL:OFF L+ZL:ON)]
@@ -493,7 +493,7 @@
 640F0000 00000000 40800000
 20000000
 
-[10# Experience value 8 times]
+[13# EXP x8]
 04000000 007F27AC 0B010D36
 
 [07# Max item when you get it (Turn on)]
@@ -1009,7 +1009,7 @@
 04100000 42935488 01f382DD
 04100000 4293548C 01f382DE
 
-[09# Experience value 4 times]
+[12# EXP x4]
 04000000 007F27AC 0B010936
 
 [Max Money]
@@ -1074,7 +1074,7 @@
 011F0000 8D46EDD0 00000063
 011F0000 8D46EDEC 00000063
 
-[04# money is not reduced]
+[07# Static Money]
 04000000 00C2AF04 4B1F02C1
 04000000 0137B94C 4B1F0108
 
@@ -1353,7 +1353,7 @@
 04100000 429356CC 01c081A2
 04100000 429356D0 01c081A3
 
-[49# Redeem Pokemon Let's Go Pikachu - Gigantamax Pikachu]
+[31# Redeem Pokemon Let's Go Pikachu - Gigantamax Pikachu]
 04000000 00C37E3C 6B1F011F
 
 [29# Instant Egg (on)]
@@ -1584,7 +1584,7 @@
 [27# Pokemon Quest Shirt (Female Only)]
 08100000 42935E98 FBE8FBC6 773BED42
 
-[19# Disable Exp Share]
+[15# Disable Exp Share]
 04000000 007CD130 52800000
 
 [35# Shiny Square Raids (Hold R at Den)]
@@ -1593,7 +1593,7 @@
 04000000 0076fce4 17ffffde
 20000000
 
-[05# Watt 8 times]
+[08# Watts x8]
 04000000 0136B7F8 0B010D08
 
 [25# Unlock All Clothes (Female Trainer Only)]
@@ -1855,7 +1855,7 @@
 04100000 42935898 00000000
 04100000 4293589C 00000000
 
-[50# Redeem Pokemon Let's Go Eevee - Gigantamax Eevee]
+[32# Redeem Pokemon Let's Go Eevee - Gigantamax Eevee]
 04000000 00C37E98 6B1F011F
 
 [15# 999999 BP]
@@ -1939,6 +1939,16 @@
 
 [rare candies x999]
 04100000 42934AB8 41F38032
+
+[02# Speed Up (Push ZL:OFF L+ZL:ON)]
+581F0000 41D28740
+780F0000 000000D8
+80000100
+640F0000 00000000 3F800000
+20000000
+80000140
+640F0000 00000000 40800000
+20000000
 
 [Clear Poke Balls]
 04100000 42934AB8 00000000
@@ -2120,10 +2130,50 @@
 04100000 42935A8C 01c084EF
 04100000 42935A90 01c084F0
 
-[07# Experience value 2 times]
+[11# EXP x2]
 04000000 007F27AC 0B010536
 
 
+
+[11# Experience value 32 times]
+04000000 007F27AC 0B011536
+
+[06# Watt does not decrease]
+04000000 0136B82C 4B1F0108
+
+[39# Always Catch Pokemon (100% Capture Chance) - Enable]
+04000000 0076C648 529FFFE0
+
+[Masterball 999]
+04100000 42934AB8 01F38001
+
+[40# Always Catch Pokemon (100% Capture Chance) - Disable]
+04000000 0076C648 39406100
+
+[10# Experience value 8 times]
+04000000 007F27AC 0B010D36
+
+[09# Experience value 4 times]
+04000000 007F27AC 0B010936
+
+[04# money is not reduced]
+04000000 00C2AF04 4B1F02C1
+04000000 0137B94C 4B1F0108
+
+[49# Redeem Pokemon Let's Go Pikachu - Gigantamax Pikachu]
+04000000 00C37E3C 6B1F011F
+
+[19# Disable Exp Share]
+04000000 007CD130 52800000
+
+[05# Watt 8 times]
+04000000 0136B7F8 0B010D08
+
+[50# Redeem Pokemon Let's Go Eevee - Gigantamax Eevee]
+04000000 00C37E98 6B1F011F
+
+[07# Experience value 2 times]
+04000000 007F27AC 0B010536
 
 [04# Golden Bag (female only)]
 08100000 42935EA0 50eb5529 9d50d49a
@@ -2138,9 +2188,6 @@
 08100000 42935EA0 480bfc65 6d3063b8
 08100000 42935E88 4c7c8bcc b3f24a24
 08100000 42935EA8 f3f17edd 762750c0
-
-[34# Pokeballs Slot 1 Masterball x999]
-04100000 42934AB8 01f38001
 
 [All Battle Items x999 (fixed)]
 04100000 42934B30 01F38037

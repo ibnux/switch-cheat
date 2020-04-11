@@ -77,7 +77,7 @@
 02100000 03b8b0b5 00000000
 02100000 13e77d94 00000000
 
-[inf health+no grab}
+[inf health+no grab]
 04000000 0016E800 D65F03C0
 
 [Billy each slot 99 items]
@@ -219,6 +219,9 @@
 
 [Prison]
 08100000 13ef7264 00000000 0f0e0905
+
+[inf health+no grab}
+04000000 0016E800 D65F03C0
 
 [==REBECCA CODES==]
 

@@ -145,7 +145,7 @@ move.l $940D7640, #$0008C0800(r0)
 [Captura automatica]
 04000000 004D6B3C D503201F
 
-[4,096x Experiencia  ]
+[4,096x Experiencia]
 04000000 00776C10 8B0133F4
 
 [Taxa de aquisicao de itens magicos Mais 300%]
@@ -217,7 +217,7 @@ move.l $F8296900, #$000C1E190(r0)
 move.l $D65F03C0, #$000C1E194(r0)
 move.l $941ECC63, #$00046AFF4(r0)
 
-[8x Experiencia ]
+[8x Experiencia]
 04000000 00776C10 8B010FF4
 
 [Trava de gravacao completa 99]
@@ -303,6 +303,12 @@ move.l $941ECC6C, #$00046AFF0(r0)
 04000000 00752E4C 52800299
 
 
+
+[4,096x Experiencia  ]
+04000000 00776C10 8B0133F4
+
+[8x Experiencia ]
+04000000 00776C10 8B010FF4
 
 [卡奈魔盒不消耗材料]
 04000000 0085A460 D65F03C0
