@@ -36,7 +36,7 @@
 [Max Darkness Upgrade]
 01000000 00B37EEC 00000003
 
-[Unlock Challenge, Sound Test Mode]
+[Unlock Challenge Sound Test Mode]
 01000000 00B32880 00000007
 
 [Moon Jump]
@@ -46,7 +46,7 @@
 640F0000 00000000 41D00000
 20000000
 
-[Unlock Challenge Sound Test Mode]
+[Unlock Challenge, Sound Test Mode]
 01000000 00B32880 00000007
 
 [Shovel Knight Specter of Torment 3.1]
