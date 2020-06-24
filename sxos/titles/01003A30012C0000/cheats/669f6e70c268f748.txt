@@ -5,6 +5,3 @@
 
 [999999999 Lego City Studs not level]
 040F0000 02597958 3B9AC9FF
-
-
-

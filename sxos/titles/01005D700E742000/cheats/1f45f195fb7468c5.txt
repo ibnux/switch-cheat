@@ -28,6 +28,3 @@
 
 [06# Infinite Shotgun Ammo]
 04000000 010B9FAC 00000063
-
-
-

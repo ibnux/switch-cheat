@@ -36,4 +36,3 @@
 20000000
 
 [Credits optantic]
-

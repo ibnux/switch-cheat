@@ -14,4 +14,3 @@
 01100000 00A84A44 00000008
 
 [Monkey King: Master of the Clouds 1.0.0]
-

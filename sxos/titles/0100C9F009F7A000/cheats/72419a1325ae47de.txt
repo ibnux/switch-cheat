@@ -49,4 +49,3 @@
 620f0000 00000000 000003e7
 
 [Xenoblade Chronicles 2 Torna The Golden Country 1.0.0]
-

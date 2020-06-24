@@ -94,4 +94,3 @@
 
 [Fire (Gray) Mario (Super Mario World)-MAKER MODE]
 011F0000 93d4ec18 00000009
-

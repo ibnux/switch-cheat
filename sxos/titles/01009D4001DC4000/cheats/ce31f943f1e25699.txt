@@ -11,4 +11,3 @@
 04000000 0123F50C 00000000
 
 [ACA NEOGEO World Heroes Perfect 1.0.1]
-

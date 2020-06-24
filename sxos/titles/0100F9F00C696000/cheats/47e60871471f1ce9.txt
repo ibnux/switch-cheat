@@ -21,6 +21,3 @@
 
 [Unlock Penta Pinguin]
 04000000 01070C90 52800020
-
-
-

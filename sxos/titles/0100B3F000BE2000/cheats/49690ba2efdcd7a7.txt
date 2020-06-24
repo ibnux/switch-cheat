@@ -27,4 +27,3 @@
 680f0000 00000000 43C80000
 
 [Pokken Tournament DX]
-

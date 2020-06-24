@@ -34,6 +34,3 @@
 
 [999 Items when crafting (Need 1)]
 040000000 001737A8 2A0B03F6
-
-
-

@@ -50,4 +50,3 @@
 01000000 00B32880 00000007
 
 [Shovel Knight Specter of Torment 3.1]
-

@@ -54,6 +54,3 @@ NEXT +18H
 [Food and Tools x99 (1st)]
 01100000 4BEFA02C 00000063
 NEXT +10H
-
-
-

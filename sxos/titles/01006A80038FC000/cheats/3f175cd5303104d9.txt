@@ -11,4 +11,3 @@
 01000000 012402ED 00000060
 
 [ACA NEOGEO Art of Fighting 1 (v1.0.1)]
-

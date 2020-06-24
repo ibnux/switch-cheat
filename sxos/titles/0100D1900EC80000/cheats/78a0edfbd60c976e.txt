@@ -9,6 +9,3 @@
 
 [Max Gem]
 040F0000 0185CC1C 3B9AC9FF
-
-
-

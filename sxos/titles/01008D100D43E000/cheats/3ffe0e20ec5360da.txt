@@ -10,6 +10,3 @@
 
 [Infinite health]
 041F0000 5AF9A940 44A70000
-
-
-

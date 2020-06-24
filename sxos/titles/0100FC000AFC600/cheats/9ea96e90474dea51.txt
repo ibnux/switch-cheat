@@ -9,6 +9,3 @@
 
 [P1 Infinite HP English Version]
 01000000 01280678 00000048
-
-
-

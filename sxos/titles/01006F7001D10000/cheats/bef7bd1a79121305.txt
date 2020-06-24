@@ -48,4 +48,3 @@
 04100000 9DF7A4D0 0000003F
 
 [Monster Boy and the Cursed Kingdom 1.0.0]
-

@@ -82,6 +82,3 @@
 
 [3x moving speed / attack speed]
 04000000 004AE7D0 1E211000
-
-
-

@@ -48,4 +48,3 @@
 640F0000 00000000 000F423F
 
 [Cursed Castilla ex 1.0.0]
-

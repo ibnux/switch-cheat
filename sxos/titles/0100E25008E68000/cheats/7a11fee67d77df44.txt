@@ -55,6 +55,3 @@
 
 [Farm Upgrade cost gold only on]
 04000000 00C98770 D65F03C0
-
-
-

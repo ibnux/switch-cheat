@@ -4,4 +4,3 @@
 680F0000 00000000 0000001C
 
 [Asterix and Obelix 2 XXL Update 1.1]
-

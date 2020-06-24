@@ -29,6 +29,3 @@
 
 [Obtain 2x Exp]
 04000000 2DDBFBF6B4 0B090516
-
-
-

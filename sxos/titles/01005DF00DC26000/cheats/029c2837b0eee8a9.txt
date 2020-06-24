@@ -57,4 +57,3 @@
 04000000 00A9BA60 1A89B129
 
 [SAO: Fatal Bullet v1.2.0]
-

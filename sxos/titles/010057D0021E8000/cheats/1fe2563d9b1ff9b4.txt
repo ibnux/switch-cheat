@@ -45,4 +45,3 @@ The Moon Jump code must return to the title or die.
 04000000 00B37F44 FFFFFFFF
 
 [Shovel Knight: Treasure Trove 3.0A]
-

@@ -9,6 +9,3 @@
 
 [Begin With Invincibility]
 01000000 001A3BF8 00000029
-
-
-

@@ -23,4 +23,3 @@
 04000000 01054E30 52800020
 
 [Crash Team Racing Nitro Fueled]
-

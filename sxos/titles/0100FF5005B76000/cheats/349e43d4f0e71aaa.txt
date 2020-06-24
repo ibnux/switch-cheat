@@ -17,4 +17,3 @@
 01000000 020f6ed4 00000009
 
 [STRIKERS1945 for Nintendo Switch 1.0.3]
-

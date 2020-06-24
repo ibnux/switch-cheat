@@ -21,6 +21,3 @@
 
 [Player 5 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Starting HP]
 04000000 04CAC03C XXXXXXXX
-
-
-

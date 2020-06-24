@@ -9,6 +9,3 @@
 
 [Max Pod Power on Pick Up]
 01000000 001A4A95 0000000D
-
-
-

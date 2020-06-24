@@ -19,6 +19,3 @@
 [pendant use give max money]
 04000000 004BE754 52A6C020
 04000000 004BE758 72B88CA0
-
-
-

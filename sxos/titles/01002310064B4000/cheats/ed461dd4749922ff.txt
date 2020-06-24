@@ -3,6 +3,3 @@
 
 [inf max money]
 041F0000 47779E14 05F5E0FF
-
-
-

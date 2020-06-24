@@ -6,6 +6,3 @@
 
 [Mask Shard of Chaos 999]
 041F005E 05889E08 00000999
-
-
-

@@ -31,11 +31,8 @@
 [Cat-puter 9999]
 04100000 b00e47b4 0000270f
 
-
-
 [Moon Score]
 04100000 b02453f4 00000000
 
 [Stage before Moon Score]
 04100000 b02453f4 00000000
-

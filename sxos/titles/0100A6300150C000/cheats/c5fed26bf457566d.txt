@@ -41,4 +41,3 @@
 01000000 002dd306 00000009
 
 [Wonder Boy The Dragons Trap 1.0.0]
-

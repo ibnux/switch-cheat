@@ -694,4 +694,3 @@
 04100000 9743c7ac 000003E7
 
 [Fire Emblem Warriors 1.0]
-

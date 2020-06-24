@@ -18,6 +18,3 @@
 
 [RelicRace Crate add 30sec to freeze timer]
 04000000 00712DF0 1E27D000
-
-
-

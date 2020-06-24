@@ -100,4 +100,3 @@
 [Version 1.0.0]
 
 [*Langrisser 1*]
-

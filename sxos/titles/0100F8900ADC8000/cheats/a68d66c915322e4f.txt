@@ -9,6 +9,3 @@
 
 [never lose special on]
 04000000 0031E15C D65F03C0
-
-
-

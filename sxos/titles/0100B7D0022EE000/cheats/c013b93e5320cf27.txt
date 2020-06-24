@@ -32,4 +32,3 @@
 040F0000 004d40dc 00000024
 
 [Cave Story Plus (US)]
-

@@ -10,6 +10,3 @@
 
 [Infinite Health]
 04100000 5AB30F9A 00F800F8
-
-
-

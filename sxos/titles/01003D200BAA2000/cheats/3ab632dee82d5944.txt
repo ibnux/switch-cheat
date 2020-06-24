@@ -70,4 +70,3 @@
 04000000 0281D65C 6B1F02E1
 
 [Pokémon Mystery dungeon v1.0.2]
-

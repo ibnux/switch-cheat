@@ -42,4 +42,3 @@ D65F03C0 04000000
 610f0000 00000000 00000063
 
 [The Binding of Isaac: Afterbirth Plus 1.2.0]
-

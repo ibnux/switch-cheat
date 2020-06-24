@@ -4,4 +4,3 @@
 680F0000 00000000 000F423F
 
 [Beyblade Burst Battle Zero]
-

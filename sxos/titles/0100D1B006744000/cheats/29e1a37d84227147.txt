@@ -47,4 +47,3 @@
 
 [Always have Aku Aku mask]
 01100000 9422f980 00000003
-

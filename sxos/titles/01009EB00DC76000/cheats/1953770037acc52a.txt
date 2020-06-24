@@ -3,4 +3,3 @@
 
 [Inf Ammo Pistol]
 010F0000 002D156E 00000063
-

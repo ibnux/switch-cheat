@@ -21,6 +21,3 @@
 
 [Unlock All Pit Stop Items]
 04000000 010717B8 52800020
-
-
-

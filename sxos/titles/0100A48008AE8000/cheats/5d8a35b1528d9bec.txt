@@ -14,4 +14,3 @@
 04000000 05f720a4 0098967f
 
 [Credits optantic]
-

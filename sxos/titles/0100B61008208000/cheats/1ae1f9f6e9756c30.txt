@@ -39,4 +39,3 @@
 04000000 0192EE0C 0000AFC8
 
 [BlazBlue Cross Tag Battle]
-

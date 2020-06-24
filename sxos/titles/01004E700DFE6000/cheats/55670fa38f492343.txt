@@ -10,6 +10,3 @@
 
 [Invulnerable - Invincible]
 04000000 002D0A70 D65F03C0
-
-
-

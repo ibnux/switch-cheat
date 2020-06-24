@@ -6,6 +6,3 @@
 
 [Barret max XP]
 04100000 699F424C 3B9AC9FF
-
-
-

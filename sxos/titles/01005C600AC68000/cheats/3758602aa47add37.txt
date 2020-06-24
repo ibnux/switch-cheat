@@ -51,8 +51,5 @@
 [99,999,999 EXP]
 040f0000 00e90168 05f5e0ff
 
-
-
 [20 CP (Enable, then Disable the code)]
 040f0000 00fdff34 00000014
-

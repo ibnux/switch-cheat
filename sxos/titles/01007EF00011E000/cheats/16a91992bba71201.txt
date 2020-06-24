@@ -118,4 +118,3 @@
 640F0000 00000000 000F423F
 
 [The Legend of Zelda: Breath of the Wild]
-

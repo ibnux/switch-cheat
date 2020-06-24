@@ -19,4 +19,3 @@
 680F0000 00000000 0098967F
 
 [Super Smash Bros Ultimate v1.0]
-

@@ -12,6 +12,3 @@
 
 [cpu partner no damage]
 04000000 01049480 D65F03C0
-
-
-

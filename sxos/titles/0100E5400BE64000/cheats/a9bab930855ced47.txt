@@ -9,6 +9,3 @@
 
 [Max Missiles on Pick Up]
 01000000 001A4A15 0000000D
-
-
-

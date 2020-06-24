@@ -19,4 +19,3 @@
 610f0000 00000000 00000033
 
 [Arcade Archives DOUBLE DRAGON II The Revenge 1.0.0]
-

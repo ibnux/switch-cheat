@@ -11,4 +11,3 @@
 04000000 01238C1C 00000000
 
 [ACA NEOGEO Garou - Mark of the Wolves 1.0.1]
-

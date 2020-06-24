@@ -21,6 +21,3 @@
 
 [CrystalRace 1 Crystal is worth 5]
 04000000 00E661B0 11001508
-
-
-

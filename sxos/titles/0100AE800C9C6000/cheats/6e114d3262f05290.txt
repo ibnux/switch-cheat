@@ -16,4 +16,3 @@ X VALUES: LIMIT FOR COINS.
 
 [Coin Increment Multiplier x2]
 040F0000 001E0288 0B020508
-

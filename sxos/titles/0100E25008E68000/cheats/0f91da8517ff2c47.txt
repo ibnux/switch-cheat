@@ -63,4 +63,3 @@
 20000000
 
 [* Disable other Codes for Inv.Slot Code *]
-

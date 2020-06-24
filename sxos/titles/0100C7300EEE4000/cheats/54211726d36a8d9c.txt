@@ -144,6 +144,3 @@
 
 [INF HP - possibly Not Working]
 041F0000 03C31C0C 43480000
-
-
-

@@ -55,6 +55,3 @@
 
 [Start with full Shield]
 04100000 01cc1e58 00000f27
-
-
-

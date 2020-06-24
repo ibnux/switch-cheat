@@ -35,4 +35,3 @@
 04000000 0073ed7c 00000000
 
 [Credits optantic]
-

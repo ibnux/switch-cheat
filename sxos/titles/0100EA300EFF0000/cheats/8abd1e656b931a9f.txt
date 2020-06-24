@@ -3,6 +3,3 @@
 
 [Always has Nunchuck]
 01100000 019DF0DD 00000001
-
-
-

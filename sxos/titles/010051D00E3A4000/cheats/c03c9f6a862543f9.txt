@@ -449,4 +449,3 @@ A4F00410 2DD871E8
 04100000 2dda39c0 00000000
 
 [Rune Factory 4 Special (USA)]
-

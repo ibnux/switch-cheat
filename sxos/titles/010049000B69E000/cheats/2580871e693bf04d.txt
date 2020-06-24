@@ -1,5 +1,2 @@
 [get hit to be invulnerable]
 04000000 004C6B78 14000007
-
-
-

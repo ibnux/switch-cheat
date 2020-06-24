@@ -12,4 +12,3 @@
 04000000 008C4958 1E37D001
 
 [some enemy works be careful hit kill]
-

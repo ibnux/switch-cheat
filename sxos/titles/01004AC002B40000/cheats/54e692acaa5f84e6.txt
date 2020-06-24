@@ -11,4 +11,3 @@
 01000000 0124f3b3 00000000
 
 [ACA NEOGEO Art of Fighting 3 (v1.0)]
-

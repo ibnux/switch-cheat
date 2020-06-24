@@ -1,5 +1,2 @@
 [65535 tsum coins]
 02100000 01F0BE2C 0000FFFF
-
-
-

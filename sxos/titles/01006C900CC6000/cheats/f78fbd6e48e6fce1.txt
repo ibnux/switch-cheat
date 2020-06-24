@@ -3,6 +3,3 @@
 
 [MAX Money]
 040F0000 01AA2CB8 05F5E0FF
-
-
-

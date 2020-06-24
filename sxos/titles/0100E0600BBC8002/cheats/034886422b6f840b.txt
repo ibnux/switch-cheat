@@ -57,6 +57,3 @@
 
 [Milenia MP 9999 on battle]
 041F0000 909D759A 0000270F
-
-
-

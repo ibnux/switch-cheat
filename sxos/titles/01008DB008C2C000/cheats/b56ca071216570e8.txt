@@ -2217,4 +2217,3 @@ You must hold R to force set the Den to spawn as Purple while placing the Wishin
 011F0000 8D4713D4 00000063
 011F0000 8D4713F0 00000063
 011F0000 8D47140C 00000063
-

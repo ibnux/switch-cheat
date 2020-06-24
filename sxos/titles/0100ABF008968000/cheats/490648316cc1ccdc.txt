@@ -485,4 +485,3 @@
 
 [Catch Rate set to 100% Capture v1.1]
 04000000 0076C868 529FFFE0
-

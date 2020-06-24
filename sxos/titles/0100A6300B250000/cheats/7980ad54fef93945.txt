@@ -121,6 +121,3 @@
 
 [Golden Axe 3 Infinite HP]
 01000000 030F728F 00000033
-
-
-

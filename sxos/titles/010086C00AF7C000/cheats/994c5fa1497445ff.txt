@@ -24,6 +24,3 @@ NEXT +10H
 
 [Today's Gasha 99/99]
 02100000 4BEFCCEB 00006363
-
-
-

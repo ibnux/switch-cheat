@@ -30,6 +30,3 @@
 
 [Strike Supers MAX]
 041F0000 54A2E96C 00000064
-
-
-

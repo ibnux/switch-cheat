@@ -35,4 +35,3 @@
 041F0000 a2bcf7c8 00000063
 
 [Dark Souls Remastered]
-
