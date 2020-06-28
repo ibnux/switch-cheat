@@ -1,17 +1,29 @@
-[Racoon Mario (Super Mario Bros 3)]
-011F0000 93d4ec18 00000005
+[99 Coins]
+041F0000 7881534c 00000063
+
+[999 Coins]
+041F0000 7881534c 000003E7
+
+[Big Mario]
+011F0000 93d4ec18 00000001
 
 [Bigger Mario (Super Mario Bros)]
 011F0000 93d4ec18 00000006
 
-[Cat Mario (Super Mario 3D World)]
-011F0000 93d4ec18 00000007
-
-[Fireball Mario]
-011F0000 93d4ec18 00000002
+[Builder Mario (Super Mario 3D World)]
+011F0000 93d4ec18 00000008
 
 [Cape Mario (Super Mario World)]
 011F0000 93d4ec18 00000004
+
+[Cat Mario (Super Mario 3D World)]
+011F0000 93d4ec18 00000007
+
+[Fire (Gray) Mario (Super Mario World)]
+011F0000 93d4ec18 00000009
+
+[Fireball Mario]
+011F0000 93d4ec18 00000002
 
 [Helicopter Mario (Super Mario Bros U)]
 011F0000 93d4ec18 00000003
@@ -21,23 +33,5 @@
 041F0000 78815370 000000ff
 041F0000 02503cb0 000000ff
 
-[99 Coins]
-041F0000 7881534c 00000063
-
-[Fire (Gray) Mario (Super Mario World)]
-011F0000 93d4ec18 00000009
-
-[Big Mario]
-011F0000 93d4ec18 00000001
-
-[Builder Mario (Super Mario 3D World)]
-011F0000 93d4ec18 00000008
-
-[999 Coins]
-041F0000 7881534c 000003E7
-
-[==STORY MODE==]
-
-[Ceux-ci agiront étrangement, sinon dans le bon mode de jeu Mario]
-
-[==MAKER MODE==]
+[Racoon Mario (Super Mario Bros 3)]
+011F0000 93d4ec18 00000005

@@ -1,11 +1,11 @@
+[Begin With Invincibility]
+01000000 001A3BF8 00000029
+
 [Max Bits on Pick Up]
 01000000 001A4A85 00000009
 
 [Max Missiles on Pick Up]
 01000000 001A4A65 0000000D
-
-[Begin With Invincibility]
-01000000 001A3BF8 00000029
 
 [Max Pod Power on Pick Up]
 01000000 001A4A95 0000000D

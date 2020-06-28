@@ -1,5 +1,5 @@
-[P1 Lives unlimited]
-01100000 019DF0DB 00000004
-
 [Always has Nunchuck]
 01100000 019DF0DD 00000001
+
+[P1 Lives unlimited]
+01100000 019DF0DB 00000004

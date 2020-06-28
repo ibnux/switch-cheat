@@ -1,6 +1,3 @@
-[Upgrade Points x99]
-04000000 020C6E90 52800C60
-
 [all Wiki Items Unlocked]
 04000000 00087760 52800020
 
@@ -9,3 +6,6 @@
 
 [Inf Health]
 04000000 020C6750 BD42FC00
+
+[Upgrade Points x99]
+04000000 020C6E90 52800C60

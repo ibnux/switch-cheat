@@ -1,6 +1,6 @@
-[Inf. tp]
-02100000 3ee74ac6
-000042c8
+[Inf Cions]
+02100000 3F07E570
+000000FF
 
 [Inf. 999 Hp]
 02100000 3ee3b394 000003E7
@@ -8,10 +8,6 @@
 [Inf. gem]
 02100000 3ee74abc
 00002707
-
-[Inf Cions]
-02100000 3F07E570
-000000FF
 
 [Inf. Item]
 02100000 3f9697b2
@@ -38,4 +34,6 @@
 02100000 3f9697ea
 000000ff
 
-[Dragon Quest Builders 2 (JAP)]
+[Inf. tp]
+02100000 3ee74ac6
+000042c8

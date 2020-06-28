@@ -1,23 +1,23 @@
-[Player 3 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Starting HP]
-04000000 04CABB7C XXXXXXXX
-
-[Player 7 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Starting HP]
-04000000 04CAC4FC XXXXXXXX
-
-[Player 1 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Starting HP]
+[Player 1 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Star]
 04000000 04CAB6BC XXXXXXXX
 
-[Player 8 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Starting HP]
-04000000 04CAC75C XXXXXXXX
-
-[Player 2 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Starting HP]
+[Player 2 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Star]
 04000000 04CAB91C XXXXXXXX
 
-[Player 4 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Starting HP]
+[Player 3 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Star]
+04000000 04CABB7C XXXXXXXX
+
+[Player 4 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Star]
 04000000 04CABDDC XXXXXXXX
 
-[Player 6 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Starting HP]
+[Player 5 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Star]
+04000000 04CAC03C XXXXXXXX
+
+[Player 6 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Star]
 04000000 04CAC29C XXXXXXXX
 
-[Player 5 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Starting HP]
-04000000 04CAC03C XXXXXXXX
+[Player 7 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Star]
+04000000 04CAC4FC XXXXXXXX
+
+[Player 8 Start Percent Modifier - X=CF000000 for Infinite HP, X=4F000000 for Any Hit is Instant Kill, X=00000000 for Normal Star]
+04000000 04CAC75C XXXXXXXX

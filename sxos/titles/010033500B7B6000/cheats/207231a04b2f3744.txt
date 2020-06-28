@@ -1,8 +1,8 @@
 [inf durability]
 04000000 005BDF90 D65F03C0
 
-[inf stamina]
-04000000 0013ED8C 1E204020
-
 [inf health - 1hit kill]
 04000000 003963D0 1E204001
+
+[inf stamina]
+04000000 0013ED8C 1E204020
