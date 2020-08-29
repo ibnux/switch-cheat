@@ -1,2 +1,4 @@
 [Infinity Lives]
 011F0000 01428710 00000063
+
+[TOKI Retrollector Edition]

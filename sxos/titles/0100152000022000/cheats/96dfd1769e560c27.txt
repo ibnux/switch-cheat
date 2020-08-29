@@ -12,3 +12,5 @@
 
 [Unlock Gold Mario]
 01100000 29af136d 00000003
+
+[Mario Kart 8 Deluxe 1.7.0]

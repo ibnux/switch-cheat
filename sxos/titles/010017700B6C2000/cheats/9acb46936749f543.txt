@@ -1,11 +1,14 @@
-[02# Infinite Jump(off)]
-04000000 0021C698 F4031F32
+[cant die - ignore hearts]
+04000000 002C0AB4 4B0003E1
+
+[Invincible]
+04000000 005B2060 52800000
 
 [02# Infinite jump(on)]
 04000000 0021C698 D503201F
 
-[cant die - ignore hearts]
-04000000 002C0AB4 4B0003E1
+[Invulnerable]
+04000000 002C0754 D503201F
 
 [Disable cant die code]
 04000000 002C0AB4 4B1503E1
@@ -13,11 +16,8 @@
 [Infinite Hearts]
 04000000 002C0894 1A95B15A
 
-[Invincible]
-04000000 005B2060 52800000
-
-[Invulnerable]
-04000000 002C0754 D503201F
-
 [nfinte Lives]
 04000000 002ED6F0 52800000
+
+[02# Infinite Jump(off)]
+04000000 0021C698 F4031F32

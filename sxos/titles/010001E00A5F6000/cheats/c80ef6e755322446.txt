@@ -1,6 +1,3 @@
-[No Damage Off]
-04000000 0147FE20 FC1B0FE8
-
 [No Damage On]
 04000000 0147FE20 D65F03C0
 
@@ -12,3 +9,8 @@
 
 [Unlimited Upgrade Points]
 04000000 014677B0 52807CE0
+
+[No Damage Off]
+04000000 0147FE20 FC1B0FE8
+
+[Credits BlackDeath]

@@ -1,11 +1,13 @@
 [Invulnerable off]
 04000000 006879B0 B9406C08
 
+[x99 Lives - lose 1 Life to update]
+04000000 00687B40 52800C80
+
 [Invulnerable on - press R-Stick if stuck]
 04000000 006879B0 52800008
 80000020
 04000000 006879B0 B9406C08
 20000000
 
-[x99 Lives - lose 1 Life to update]
-04000000 00687B40 52800C80
+[Credits BlackDeath]

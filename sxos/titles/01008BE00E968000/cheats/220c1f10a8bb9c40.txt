@@ -1,15 +1,15 @@
-[Augmentation du niveau de l'équipement 2 fois]
-04000000 002FDC20 0B0006C0
-
-[Augmentation du niveau de l'équipement 4 fois]
-04000000 002FDC20 0B000AC0
+[L'effet Booste de niveau d'équipement est désactivé]
+04000000 002FDC20 0B160000
+04000000 00EF26C0 6B01001F
 
 [Augmentation du niveau de l'équipement 8 fois]
 04000000 002FDC20 0B000EC0
 
-[L'effet Booste de niveau d'équipement est désactivé]
-04000000 002FDC20 0B160000
-04000000 00EF26C0 6B01001F
+[Augmentation du niveau de l'équipement 4 fois]
+04000000 002FDC20 0B000AC0
+
+[Augmentation du niveau de l'équipement 2 fois]
+04000000 002FDC20 0B0006C0
 
 [Maximum après la mise à niveau du niveau d'équipement]
 04000000 00EF26C0 D503201F

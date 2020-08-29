@@ -1,5 +1,5 @@
-[inf max money]
-041F0000 47779E14 05F5E0FF
-
 [infinite fuel]
 021F0000 47BD35FC 000003E8
+
+[inf max money]
+041F0000 47779E14 05F5E0FF

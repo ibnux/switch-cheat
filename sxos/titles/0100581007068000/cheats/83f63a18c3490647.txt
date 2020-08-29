@@ -1,14 +1,14 @@
-[16 times the soul points]
-04000000 002F5D18 0B131108
-
-[gold Max]
-04000000 002F5818 1A89B128
-
-[Soul point effect is off]
-04000000 002F5D18 0B130108
-
 [Soul points 4 times]
 04000000 002F5D18 0B130908
 
 [Soul points 8 times]
 04000000 002F5D18 0B130D08
+
+[gold Max]
+04000000 002F5818 1A89B128
+
+[16 times the soul points]
+04000000 002F5D18 0B131108
+
+[Soul point effect is off]
+04000000 002F5D18 0B130108

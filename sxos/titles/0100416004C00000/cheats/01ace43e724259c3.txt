@@ -1,23 +1,25 @@
-[g_infiniteAmmo]
-04000000 073BB310 00000001
-
-[g_infiniteClips]
-04000000 073BB398 00000001
-
 [g_infiniteThrowItems]
 04000000 073BB420 00000001
 
-[g_noFiringSpread]
-04000000 073BB4A8 00000001
-
-[g_noWeaponDrift]
-04000000 073BB530 00000001
-
-[g_permaGodMode]
-04000000 0739B9D8 00000001
+[g_infiniteAmmo]
+04000000 073BB310 00000001
 
 [pm_allowInfiniteDoubleJumps]
 04000000 072A2428 00000001
 
+[g_infiniteClips]
+04000000 073BB398 00000001
+
 [pm_alwaysAllowDoubleJump]
 04000000 073A8558 00000001
+
+[g_noWeaponDrift]
+04000000 073BB530 00000001
+
+[g_noFiringSpread]
+04000000 073BB4A8 00000001
+
+[g_permaGodMode]
+04000000 0739B9D8 00000001
+
+[Doom Update 3 Version 1.2]
