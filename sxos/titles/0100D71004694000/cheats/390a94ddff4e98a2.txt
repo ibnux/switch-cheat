@@ -1,0 +1,8 @@
+[hitkill & 1p & enemies]
+04000000 013BB938 1E27F002
+
+[inf heath & inf heath enemies]
+04000000 013BB938 1E3E1002
+
+[inf heath & inf heath enemies off]
+04000000 013BB938 1E2E1002

@@ -1,0 +1,11 @@
+[1p inf heath all player]
+04000000 0003E530 D65F03C0
+
+[enermy speed 2x]
+04000000 00BA2CD4 1E201000
+
+[enermy speed normal]
+04000000 00BA2CD4 1E2E1000
+
+[moom jump L &R pad off]
+04000000 002EFA74 D65F03C0

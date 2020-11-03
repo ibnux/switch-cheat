@@ -1,49 +1,42 @@
+[3-3 Tawna Tokens]
+01100000 9422fe00 00000003
+
+[99 Apples]
+01100000 94233140 00000063
+
 [999 boxes]
 01100000 942314c0 000003e7
 
 [Always Have Aku Aku Mask]
 01100000 9422F980 00000003
 
-[99 Apples]
-01100000 94233140 00000063
-
-[Unlimited Lives]
-01100000 905722cc 00000063
-
-[Crash 3 - 255 Lives]
-580F0000 03C905E0
-780F1000 000001A4
-680F0000 00000000 000003e7
-
-[Have all Gold Relics N Sanity Island]
-01100000 905722dc 00000009
+[Always have Aku Aku mask]
+01100000 9422f980 00000003
 
 [Crash 1 - 255 Lives]
 580F0000 03CDF188
 780F1000 000054C0
 680F0000 00000000 000003e7
 
-[Have all Silver Crystals]
-01100000 905722d4 0000001a
-
-[Have all Sapphire Relics N Sanity Island]
-01100000 905722d8 00000008
-
-[3-3 Tawna Tokens]
-01100000 9422fe00 00000003
-
-[Have 2-2 Gold Keys]
-01100000 905722d0 00000002
-
-[Have all Platinum Relics N Sanity Island]
-01100000 905722e0 00000009
-
-[Crash Bandicoot N. Sane Trilogy]
-
-[Crash 2 - 255 Lives]
+[Crash 3 - 255 Lives]
 580F0000 03C905E0
 780F1000 000001A4
 680F0000 00000000 000003e7
 
-[Always have Aku Aku mask]
-01100000 9422f980 00000003
+[Have 2-2 Gold Keys]
+01100000 905722d0 00000002
+
+[Have all Gold Relics N Sanity Island]
+01100000 905722dc 00000009
+
+[Have all Platinum Relics N Sanity Island]
+01100000 905722e0 00000009
+
+[Have all Sapphire Relics N Sanity Island]
+01100000 905722d8 00000008
+
+[Have all Silver Crystals]
+01100000 905722d4 0000001a
+
+[Unlimited Lives]
+01100000 905722cc 00000063

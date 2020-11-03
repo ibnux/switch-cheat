@@ -1,0 +1,8 @@
+[999 Item / Gold / Chest at Use / Buy]
+04000000 001F0668 52807CE2
+
+[Disable Code]
+04000000 001F0668 E202154B
+
+[Item / Gold / Chests not decreasing]
+04000000 001F0668 510002E2

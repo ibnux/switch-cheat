@@ -1,0 +1,17 @@
+[1p invicible only enemies minus pad off]
+80000800
+04000000 002308D0 D10083FF
+20000000
+
+[call at fight time 1p invicible only enemies plus pad on]
+80000400
+04000000 002308D0 D65F03C0
+20000000
+
+[call only in game never dead L on pad R pad off change player]
+80000040
+04000000 00344670 D65F03C0
+20000000
+80000080
+04000000 00344670 D10083FF
+20000000

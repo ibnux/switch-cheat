@@ -1,0 +1,5 @@
+[auto clear]
+04000000 00000D30 D65F03C0
+
+[sping multi hit]
+04000000 000EB550 D65F03C0

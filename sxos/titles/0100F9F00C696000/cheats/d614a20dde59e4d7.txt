@@ -1,5 +1,11 @@
-[Unlock Penta Pinguin]
-04000000 010542D0 52800020
+[Beat All Oxide Times - Digital NTropy Skin]
+04000000 01054E30 52800020
+
+[CrystalRace 1 Crystal is worth 5]
+04000000 00E527F0 11001508
+
+[RelicRace Crate add 30sec to freeze timer]
+04000000 00FA4D2C 1E27D000
 
 [Unlock All Ordinary Items]
 04000000 01053FA8 52800020
@@ -7,19 +13,11 @@
 [Unlock All Pit Stop Items]
 04000000 010550FC 52800020
 
-[Unlock N.Tropy]
-04000000 01054BF0 52800020
-
-[CrystalRace 1 Crystal is worth 5]
-04000000 00E527F0 11001508
-
 [Unlock All Skins]
 04000000 01054578 52800020
 
-[RelicRace Crate add 30sec to freeze timer]
-04000000 00FA4D2C 1E27D000
+[Unlock N.Tropy]
+04000000 01054BF0 52800020
 
-[Beat All Oxide Times - Digital NTropy Skin]
-04000000 01054E30 52800020
-
-[Crash Team Racing Nitro Fueled]
+[Unlock Penta Pinguin]
+04000000 010542D0 52800020

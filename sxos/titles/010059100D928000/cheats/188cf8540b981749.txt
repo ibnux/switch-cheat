@@ -1,5 +1,5 @@
-[Inf Ammo / No Reload]
-04000000 00322800 52800C80
-
 [99 Token on change]
 04000000 0021A348 52800C74
+
+[Inf Ammo / No Reload]
+04000000 00322800 52800C80

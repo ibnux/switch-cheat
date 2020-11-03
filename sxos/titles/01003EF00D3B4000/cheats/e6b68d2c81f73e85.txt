@@ -1,0 +1,2 @@
+[hitanywhere]
+04000000 0031AB4C 0D2C6100

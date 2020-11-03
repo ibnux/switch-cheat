@@ -1,0 +1,6 @@
+[buy something in SHOP to have max money]
+04000000 001A8318 3B9AC9FF
+04000000 001A86E4 18FFE1A1
+
+[can craft without mats - just press A]
+04000000 0025B550 52800020

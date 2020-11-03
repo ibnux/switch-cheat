@@ -1,0 +1,8 @@
+[9999999 Zack Dollars (Girl Mode)]
+04100000 9F3DFBF8 0098967F
+
+[9999999 Zack Dollars (Owner Mode)]
+04100000 9F4D6EA8 0098967F
+
+[lvl 110 (Max) Owner Experience]
+04100000 9F391BE0 0000006E

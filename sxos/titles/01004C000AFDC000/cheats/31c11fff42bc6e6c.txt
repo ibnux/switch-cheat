@@ -1,11 +1,16 @@
+[Invincible]
+010F0000 0179E320 000000FF
+
+[Moon Jump]
+80000002
+020F0000 0179E2CA 00000008
+20000000
+
+[P1 Infinite Ammo]
+02000000 017aaa34 0000ffff
+
 [P1 Infinite Bombs]
 01000000 017aaa2e 00000063
-
-[P2 Infinite Lives]
-01000000 0179e0dc 00000009
-
-[P2 Infinite Bombs]
-01000000 017aaa3e 00000063
 
 [P1 Infinite Lives]
 01000000 0179e018 00000009
@@ -13,7 +18,8 @@
 [P2 Infinite Ammo]
 02000000 017aaa44 0000ffff
 
-[P1 Infinite Ammo]
-02000000 017aaa34 0000ffff
+[P2 Infinite Bombs]
+01000000 017aaa3e 00000063
 
-[ACA NEOGEO METAL SLUG 5 1.0.0]
+[P2 Infinite Lives]
+01000000 0179e0dc 00000009
