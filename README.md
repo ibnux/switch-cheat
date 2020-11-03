@@ -364,8 +364,8 @@ SXOS Compiled database, you can use it for others Cheat Engine
 | 356 | DreamWorks Dragons Dawn of New Riders | [0100ED200B6FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED200B6FC000) | [41e7d227f248534e](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED200B6FC000/cheats/41e7d227f248534e.txt) |
 | 357 | Dungeon ni Deai o Motomeru nowa Machigatteiru Daroka: Infinite Combate | [0100AFC00CEE6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AFC00CEE6000) | [84d19a943300e243](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AFC00CEE6000/cheats/84d19a943300e243.txt) |
 | 358 | Dungreed [Rev 1.0.0] | [010045B00C496000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045B00C496000) | [5db69691ddc47b45](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045B00C496000/cheats/5db69691ddc47b45.txt) |
-| 359 | Dusk Diver | [0100B2B00E7AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2B00E7AA000) | [2d31515a27c3ecec](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2B00E7AA000/cheats/2d31515a27c3ecec.txt) |
-| 360 | Dusk Diver | [010011C00E636000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011C00E636000) | [2d05e2fc4bed8cf5](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011C00E636000/cheats/2d05e2fc4bed8cf5.txt) |
+| 359 | Dusk Diver | [010011C00E636000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011C00E636000) | [2d05e2fc4bed8cf5](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011C00E636000/cheats/2d05e2fc4bed8cf5.txt) |
+| 360 | Dusk Diver | [0100B2B00E7AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2B00E7AA000) | [2d31515a27c3ecec](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2B00E7AA000/cheats/2d31515a27c3ecec.txt) |
 | 361 | Dust: An Elysian Tail | [0100B6E00A420000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6E00A420000) | [d273f6d43b6f1af6](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6E00A420000/cheats/d273f6d43b6f1af6.txt), [e962be62e05dde43](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6E00A420000/cheats/e962be62e05dde43.txt) |
 | 362 | Dusty Raging Fist | [010097D00402C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010097D00402C000) | [3663a5c4e19b5840](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010097D00402C000/cheats/3663a5c4e19b5840.txt) |
 | 363 | DYNASTY WARRIORS 8: Xtreme Legends Definitive Edition | [0100E9A00CB30000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9A00CB30000) | [0d63b368b4161cac](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9A00CB30000/cheats/0d63b368b4161cac.txt) |
@@ -552,8 +552,8 @@ SXOS Compiled database, you can use it for others Cheat Engine
 | 544 | LA MULANA 1 | [0100E5D00F4AE001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5D00F4AE001) | [546537ede7d31355](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5D00F4AE001/cheats/546537ede7d31355.txt) |
 | 545 | LA MULANA 2 | [0100E5D00F4AE002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5D00F4AE002) | [a73e8bf6d692314a](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5D00F4AE002/cheats/a73e8bf6d692314a.txt) |
 | 546 | LA-MULANA | [010026000F662000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026000F662000) | [5160d10088bb2289](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026000F662000/cheats/5160d10088bb2289.txt) |
-| 547 | LA-MULANA 2 | [01005E000D3D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005E000D3D8000) | [c22c6b213d9f9c40](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005E000D3D8000/cheats/c22c6b213d9f9c40.txt) |
-| 548 | LA-MULANA 2 | [010038000F644000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038000F644000) | [582b12ea6fc34845](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038000F644000/cheats/582b12ea6fc34845.txt) |
+| 547 | LA-MULANA 2 | [010038000F644000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038000F644000) | [582b12ea6fc34845](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038000F644000/cheats/582b12ea6fc34845.txt) |
+| 548 | LA-MULANA 2 | [01005E000D3D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005E000D3D8000) | [c22c6b213d9f9c40](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005E000D3D8000/cheats/c22c6b213d9f9c40.txt) |
 | 549 | Labyrinth of Refrain: Coven of Dusk | [010058500B3E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010058500B3E0000) | [a70b9eb509780b4a](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010058500B3E0000/cheats/a70b9eb509780b4a.txt) |
 | 550 | Langrisser I and II [Rev 1.0.0] | [0100BAB00E8C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BAB00E8C0000) | [06b9d4461dc8a442](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BAB00E8C0000/cheats/06b9d4461dc8a442.txt) |
 | 551 | Lapis x Labyrinth | [010059500D070000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010059500D070000) | [7aa99f168bbe05de](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010059500D070000/cheats/7aa99f168bbe05de.txt) |
@@ -1080,6 +1080,14 @@ SXOS Compiled database, you can use it for others Cheat Engine
 | 1072 | 鷹の爪VSハエの羽団 | [01003D100EAF4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D100EAF4000) | [56b2e6241792d94e](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D100EAF4000/cheats/56b2e6241792d94e.txt) |
 | 1073 | ＮＡＲＵＴＯ－ナルト－ 疾風伝　ナルティメットストーム４ ROAD TO BORUTO | [01003F800CF5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003F800CF5C000) | [6535310591f44da1](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003F800CF5C000/cheats/6535310591f44da1.txt), [c6d310a3669a5742](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003F800CF5C000/cheats/c6d310a3669a5742.txt) |
 
+
+## GAME DB Source
+- http://nswdb.com/
+
+## CHEAT Source
+- https://github.com/LordApple/SXOS-CheatDB
+- https://github.com/WerWolv/EdiZon_CheatsConfigsAndScripts
+- https://github.com/blawar/titledb/
 
 ## Traktir @ibnux
 
