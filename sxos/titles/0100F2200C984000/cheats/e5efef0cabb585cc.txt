@@ -1,0 +1,13 @@
+[Easy Fatalities OFF - @BlackDeath]
+04000000 0248E060 2A1F03E0
+04000000 0248E0A0 B9447660
+
+[Easy Fatalities ON - @BlackDeath]
+04000000 0248E060 52800020
+04000000 0248E0A0 52800020
+
+[Unlock Collection + Chars + Stages (Off) - @BlackDeath]
+04000000 02590A58 2A1303E0
+
+[Unlock Collection + Chars + Stages (On) - @BlackDeath]
+04000000 02590A58 52800020
