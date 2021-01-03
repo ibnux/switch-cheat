@@ -7,7 +7,7 @@
 021F0000 AE5B9202 00000000
 20000000
 
-[Invincible ]
+[Invincible]
 011F0000 AE5B987C 00000001
 
 [Moon Jump]

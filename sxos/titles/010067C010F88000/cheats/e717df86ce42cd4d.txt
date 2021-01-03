@@ -8,7 +8,7 @@
 04000000 001E8460 A9BD57F6
 20000000
 
-[invicible Y pad off hit enermy & get itens ]
+[invicible Y pad off hit enermy & get itens]
 04000000 000CE1D0 D65F03C0
 80000008
 04000000 000CE1D0 A9BD57F6

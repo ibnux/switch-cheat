@@ -8,7 +8,7 @@
 780F0000 00000204
 610F0000 00000000 0000000A
 
-[99 battle coins ]
+[99 battle coins]
 580F0000 00DAD8F8
 580F1000 000016E8
 580F1000 000029E4
@@ -143,7 +143,7 @@
 [Course Object Intangibility]
 040F0000 007704A0 E12FFF1E
 
-[cpu no move ]
+[cpu no move]
 04000000 007289B0 48D80000
 
 [Disable Backwards Camera]

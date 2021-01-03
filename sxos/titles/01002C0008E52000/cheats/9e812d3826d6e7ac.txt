@@ -1,28 +1,28 @@
-[ / Carol after the battle full level (affecting the game experience with caution)]
+[/ Carol after the battle full level (affecting the game experience with caution)]
 04000000 01249968 3B9AC9FF
 
-[ / Carol HP & PT is not reduced]
+[/ Carol HP & PT is not reduced]
 04000000 01249954 0000270F
 04000000 01249958 000003E7
 
-[ / Patty full level after the battle (affecting the game experience with caution)]
+[/ Patty full level after the battle (affecting the game experience with caution)]
 04000000 01261CC8 3B9AC9FF
 
-[ / Patty HP & PT not reduced]
+[/ Patty HP & PT not reduced]
 04000000 01261CB4 0000270F
 04000000 01261CB8 000003E7
 
-[ / Rita HP & PT is not reduced]
+[/ Rita HP & PT is not reduced]
 04000000 0124D9E4 0000270F
 04000000 0124D9E8 000003E7
 
-[ / Yuli battle full level (affecting the game experience with caution)]
+[/ Yuli battle full level (affecting the game experience with caution)]
 04000000 01241848 3B9AC9FF
 
-[ Full level after combat (affecting the game experience with caution)]
+[Full level after combat (affecting the game experience with caution)]
 04000000 01259BA8 3B9AC9FF
 
-[ HP&PT does not decrease]
+[HP&PT does not decrease]
 04000000 01255B04 0000270F
 04000000 01255B08 000003E7
 

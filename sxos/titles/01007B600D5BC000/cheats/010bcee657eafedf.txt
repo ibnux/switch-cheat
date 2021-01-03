@@ -18,10 +18,10 @@
 [1p invicible]
 04000000 00022A50 D65F03C0
 
-[1p invicible 100% ]
+[1p invicible 100%]
 04000000 00228CA0 D65F03C0
 
-[1p invicible pad Up on Down off ]
+[1p invicible pad Up on Down off]
 80002000
 04000000 00022A50 D65F03C0
 20000000

@@ -1,4 +1,4 @@
-[ invicible]
+[invicible]
 04000000 006740B0 D65F03C0
 
 [01# Moonjump (press B)]
@@ -16,7 +16,7 @@
 [9999 Coins Save 1]
 02100000 5C27B318 0000270f
 
-[inf health L disable ]
+[inf health L disable]
 04000000 003EA360 D65F03C0
 80000040
 04000000 003EA360 F81E0FF3

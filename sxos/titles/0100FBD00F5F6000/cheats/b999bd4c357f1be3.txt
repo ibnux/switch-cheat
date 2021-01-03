@@ -1,0 +1,9 @@
+[1p invicible L pad on activate within the game]
+80000040
+04000000 01C3E010 D65F03C0
+20000000
+
+[1p invicible R pad off]
+80000080
+04000000 01C3E010 D10343FF
+20000000

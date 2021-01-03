@@ -1,0 +1,14 @@
+[1p invicible X pad special work hit+Walk through Walls]
+04000000 002CEB20 D65F03C0
+
+[1p invicible X pad special work hit+Walk through Walls (hold L)]
+04000000 002CEB20 A9BC5FF8
+80000040
+04000000 002CEB20 D65F03C0
+20000000
+
+[1p invicible special work hit+Walk through Walls off]
+04000000 002CEB20 A9BC5FF8
+
+[hitanywhere some enemies]
+04000000 002C9580 D65F03C0

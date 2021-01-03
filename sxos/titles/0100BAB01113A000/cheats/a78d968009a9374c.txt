@@ -1,0 +1,17 @@
+[Boss gives 999 Unlock Gems]
+04000000 00365E28 52807CE9
+
+[Crystals/Mana dont decrease]
+04000000 0027AEF8 51000001
+
+[Invulnerable OFF]
+04000000 00550E20 D10283FF
+
+[Invulnerable ON]
+04000000 00550E20 D65F03C0
+
+[No need for keys]
+04000000 00279D8C 52800020
+
+[spend coins to have max]
+04000000 0027A65C 52807CE1

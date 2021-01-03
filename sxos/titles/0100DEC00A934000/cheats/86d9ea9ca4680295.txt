@@ -1,7 +1,7 @@
-[1p+enemies invicible ]
+[1p+enemies invicible]
 04000000 014400F8 1E3E1000
 
-[B pad desable invicible ]
+[B pad desable invicible]
 80000002
 04000000 014400F8 1E2E1000
 20000000

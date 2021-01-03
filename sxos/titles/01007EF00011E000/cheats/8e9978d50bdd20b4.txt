@@ -44,7 +44,7 @@
 780f0000 00005d90
 640f0000 00000000 000f423f
 
-[Any Materials x300 (highlight item and close inventory and reopen) ]
+[Any Materials x300 (highlight item and close inventory and reopen)]
 580F0000 02CA6D48
 580F1000 00000068
 580F1000 00000588
@@ -140,7 +140,7 @@
 780F0000 00000004
 640F0000 00000000 00000030
 
-[Current Weapon damage plus 1000 ]
+[Current Weapon damage plus 1000]
 580F0000 02CA6D48
 580F1000 000447D8
 780F0000 00000080

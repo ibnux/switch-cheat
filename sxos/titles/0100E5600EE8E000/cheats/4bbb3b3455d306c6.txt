@@ -1,7 +1,7 @@
-[ Cloud Financier 99]
+[Cloud Financier 99]
 04000000 00E0FD92 00000063
 
-[ Purify Block 99]
+[Purify Block 99]
 04000000 00E0FF66 00000063
 
 [999 Awin HP]

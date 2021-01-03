@@ -62,7 +62,7 @@
 [07# inf money]
 04000000 05566B24 0000270F
 
-[08# 9.999.999 PD in Bank ]
+[08# 9.999.999 PD in Bank]
 040F0000 05566b38 0098967F
 
 [08# Deposit/Withdraw in Bank to get max Money]

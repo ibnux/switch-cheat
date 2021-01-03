@@ -1,4 +1,4 @@
-[ 1p invelcible mode]
+[1p invelcible mode]
 040000000 005D8430 D65F03C0
 
 [1p damger 100x]

@@ -31,7 +31,7 @@
 [1p invicible dog]
 04000000 0012CAA0 D65F03C0
 
-[1p invicible+no grab ]
+[1p invicible+no grab]
 04000000 00058E70 D65F03C0
 
 [1p speed move 0.75]
@@ -106,7 +106,7 @@
 [inf health+no grab]
 04000000 0016E800 D65F03C0
 
-[inf reload ammo ]
+[inf reload ammo]
 04000000 00136D60 D65F03C0
 
 [Infinite HP (Billy)]

@@ -2,7 +2,7 @@
 04000000 008C642C 1E37D001
 04000000 008C4958 1E37D001
 
-[hit range 1p ]
+[hit range 1p]
 04000000 0148CB00 1E24900B
 
 [hit range Y attack 3x]
