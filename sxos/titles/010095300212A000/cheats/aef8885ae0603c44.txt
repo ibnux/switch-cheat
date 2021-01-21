@@ -22,6 +22,9 @@
 [Instant Kill Enemy]
 04000000 00283378 52800008
 
+[knife hit range 5x grafic bag]
+04000000 00B0E190 1E229002
+
 [Low Mission Time]
 04000000 006E926C 1E2703E0
 

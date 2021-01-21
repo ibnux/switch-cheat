@@ -1,2 +1,14 @@
+[1p all enermy hit kill]
+04000000 00970CC8 D503201F
+
 [hitanywhere mode]
 04000000 003FFE00 D65F03C0
+
+[inf reload all ammo]
+04000000 00B285F0 D65F03C0
+
+[rapid fire]
+04000000 01097134 1E27F000
+
+[ZOMB NO grab]
+04000000 0101F004 D503201F

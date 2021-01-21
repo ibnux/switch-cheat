@@ -6,7 +6,7 @@
 
 [Rank Points Ghost MAX]
 04000000 003527F0 18FFFEE0
-{Master Code}
+{MASTER CODE}
 04000000 003527CC 000F423F
 
 [Rank Points Human MAX]

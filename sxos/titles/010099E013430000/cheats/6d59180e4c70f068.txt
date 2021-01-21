@@ -1,0 +1,2 @@
+[*Lives 8 Jericoss]
+01000000 00AE0BE0 00000008

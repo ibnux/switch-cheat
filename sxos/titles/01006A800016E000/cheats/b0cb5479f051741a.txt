@@ -1,0 +1,11 @@
+[hit kill both]
+04000000 006B6B30 D65F03C0
+
+[hit kill both off]
+04000000 006B6B30 6DBB2BEB
+
+[no move cpu]
+04000000 002D9500 D65F03C0
+
+[no move cpuoff]
+04000000 002D9500 D10603FF
