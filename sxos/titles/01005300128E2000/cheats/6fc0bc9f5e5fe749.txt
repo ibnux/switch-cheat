@@ -1,4 +1,4 @@
-[moon jump @tomvita]
+[moon jump]
 80000002
 580F0000 0487FEB0
 80008000

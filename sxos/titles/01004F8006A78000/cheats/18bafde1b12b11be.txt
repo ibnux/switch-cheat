@@ -1,4 +1,4 @@
-[*Moon Jump B @made by Jericoss]
+[*Moon Jump B]
 80000002
 580F0000 00297B18
 580F1000 00000028
@@ -6,7 +6,7 @@
 640F0000 00000000 43800000
 20000000
 
-[*Slow down A @made by Jericoss]
+[*Slow down A]
 80000001
 580F0000 00297B18
 580F1000 00000028

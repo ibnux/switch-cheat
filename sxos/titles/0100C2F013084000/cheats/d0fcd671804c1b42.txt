@@ -1,4 +1,4 @@
-[Lives Unlimited @merlin555]
+[Lives Unlimited]
 580F0000 03EE3498
 580F1000 00000068
 580F1000 00000180

@@ -54,7 +54,7 @@
 780F0000 00000848
 610F0000 00000000 00000078
 
-[Infinite Health by DD]
+[Infinite Health]
 011F0000 A8D05608 00000078
 
 [Infinite Powers]

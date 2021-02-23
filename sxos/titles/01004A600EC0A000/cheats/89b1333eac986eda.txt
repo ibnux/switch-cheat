@@ -213,14 +213,14 @@
 780F0000 00000FE0
 640F0000 00000000 00000006
 
-[1p damager attack 31x @xtatu]
+[1p damager attack 31x]
 04000000 0347EA90 1E27F000
 
-[1p damager attack normal @xtatu]
+[1p damager attack normal]
 04000000 0347EA90 1E2E1000
 
-[1p hit range 31x @xtatu]
+[1p hit range 31x]
 04000000 04847E88 1E27F000
 
-[1p hit range normal @xtatu]
+[1p hit range normal]
 04000000 04847E88 1E2E1000

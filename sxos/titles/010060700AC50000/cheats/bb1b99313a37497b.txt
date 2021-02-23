@@ -1,7 +1,7 @@
 [Ability Orbs x999]
 04100000 025C0854 000003E7
 
-[Cosmic  XP Cube x999]
+[Cosmic  XP Cube x999]
 04100000 025C0894 000003E7
 
 [Enlarged XP Cube x999]

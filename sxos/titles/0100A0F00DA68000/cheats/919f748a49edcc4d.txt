@@ -1,8 +1,8 @@
-[55555 gold @DaBlackDeath]
+[55555 gold]
 04000000 003276B0 529B2060
 
-[99 SkillPoints @DaBlackDeath]
+[99 SkillPoints]
 04000000 000F1330 52800C60
 
-[Max Level after Battle @DaBlackDeath]
+[Max Level after Battle]
 04000000 002E63BC D503201F

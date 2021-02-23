@@ -21,7 +21,7 @@
 04000000 00697C28 47C34F80
 04000000 00697CD4 1CFFFAA1
 
-[07# No Hurt by spikes]
+[07# No Hurt]
 04000000 006925B0 D65F03C0
 
 [Inf Jump (off)]
@@ -33,7 +33,7 @@
 [Invulnerable Off]
 04000000 0035BB00 39404400
 
-[No Hurt by spikes (off)]
+[No Hurt  (off)]
 04000000 006925B0 F81D0FF5
 
 [refill fervor cost no life/tears (off)]

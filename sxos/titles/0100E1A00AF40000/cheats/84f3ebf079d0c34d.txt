@@ -94,11 +94,8 @@
 [6) Boost - no cost]
 040E0000 0043C86C 1E2703E8
 
-[Coins @TomSwitch]
+[Coins]
 04100000 94D68268 000F4240
 
-[Hungry Shark World (v65536) by Eiffel]
-{* = SUGGEST OPTION}
-
-[XP @TomSwitch]
+[XP]
 04100000 91EBB96C 0000F4240

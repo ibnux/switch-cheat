@@ -1,7 +1,7 @@
 [9999x Ink Black]
 04000000 001EC458 5284E1F3
 
-[9999x Ink Gold by collect]
+[9999x Ink Gold]
 04000000 0017A08C 5284E1E8
 
 [Free Upgrades]

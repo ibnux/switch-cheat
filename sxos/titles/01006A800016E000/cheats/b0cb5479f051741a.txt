@@ -1,3 +1,9 @@
+[all boss no move attack]
+04000000 01536DA0 D65F03C0
+
+[all boss no move attack off]
+04000000 01536DA0 D102C3FF
+
 [hit kill both]
 04000000 006B6B30 D65F03C0
 

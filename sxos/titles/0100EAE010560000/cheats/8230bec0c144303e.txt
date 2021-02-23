@@ -81,10 +81,10 @@
 [Mon joueur - Attaque 999]
 010F0000 01CB1000 000003E7
 
-[Mon joueur - Defense 150]
+[Mon joueur - Puissance 150]
 011F0000 911F5000 00000096
 
-[Mon joueur - Defense 999]
+[Mon joueur - Puissance 999]
 011F0000 911F5000 000003E7
 
 [Mon joueur - Technique 150]

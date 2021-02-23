@@ -1,0 +1,24 @@
+[1p enermy inf health]
+04000000 01AFEB00 D65F03C0
+
+[1p enermy inf health disable]
+04000000 01AFEB00 D102C3FF
+
+[1p hitkill]
+04000000 0157A35C D503201F
+THEY ARE NOT ALL ENEMIES
+
+[R power user recover hp+TTD+speed move 10x]
+04000000 014E3D70 1E249008
+
+[R power user recover hp+TTD+speed move 31x]
+04000000 014E3D70 1E27F008
+
+[R power user recover hp+TTD+speed move 3x]
+04000000 014E3D70 1E211008
+
+[R power user recover hp+TTD+speed move 5x]
+04000000 014E3D70 1E229008
+
+[R power user recover hp+TTD+speed move disable]
+04000000 014E3D70 1E2E1008

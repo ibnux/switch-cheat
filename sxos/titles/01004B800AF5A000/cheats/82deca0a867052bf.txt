@@ -1,0 +1,14 @@
+[1p invicible then take a coup from the enemy]
+04000000 0029AB30 D65F03C0
+
+[1p invicible then take a coup from the enemy off]
+04000000 0029AB30 D101C3FF
+
+[1p invicible+auto kill get close]
+04000000 0026D724 D65F03C0
+
+[1p invicible+auto kill get close off]
+04000000 0026D724 A9BB67FA
+
+[1p speed attack]
+04000000 002B765C 1E27F000

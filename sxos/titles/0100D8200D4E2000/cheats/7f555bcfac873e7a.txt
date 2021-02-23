@@ -7,7 +7,7 @@
 [P1 Inf Lives]
 01000000 01F15B2C 00000009
 
-[P1 Invincible DaBlackDeath]
+[P1 Invincible]
 01000000 01F15B70 000000FF
 
 [P1 Max Fire Power]

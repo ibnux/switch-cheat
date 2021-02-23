@@ -1,4 +1,4 @@
-[999999 yen]
+[999999 yen first game]
 04100000 05D1FD08 05F5E0FF
 
 [9999999 Money Hacker story]

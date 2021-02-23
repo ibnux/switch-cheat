@@ -1,4 +1,4 @@
-[hold L and control w right stick @tomSwitch]
+[hold L and control w right stick]
 80000040
 80200000
 580F0000 04BC21B0
