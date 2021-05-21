@@ -1,0 +1,5 @@
+[1p invicible chair club wrench]
+04000000 001F8F00 D503201F
+
+[enemies don't attack]
+04000000 0009A5A4 D503201F

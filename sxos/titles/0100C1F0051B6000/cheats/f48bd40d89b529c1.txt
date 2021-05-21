@@ -236,7 +236,7 @@
 [Moonjump x8]
 04000000 001FAB48 1E241001
 
-[No Damage]
+[No Damage by Spikes]
 04000000 001FBB4C D65F03C0
 
 [Speed Up(on:Left&+key off:Right&+key)]

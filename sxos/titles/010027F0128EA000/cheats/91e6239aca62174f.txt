@@ -1,4 +1,4 @@
-[99999 Neurons]
+[99999 Neurons by @Matias3ds for gbatemp]
 580F0000 04C5E720
 580F1000 000000B8
 580F1000 00000010

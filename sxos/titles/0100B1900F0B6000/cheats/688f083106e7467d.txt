@@ -1,7 +1,7 @@
-[Inf Capacity Code]
+[Inf Capacity Code by ??B]
 04000000 004E2834 000003E8
 
-[Invincible Code]
+[Invincible Code by ??B]
 04000000 687D35A0 000001F4
 
 [Line MAX]

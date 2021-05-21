@@ -22,7 +22,7 @@
 78010000 00000002
 310E0000
 
-[FINAL FANTASY CRYSTAL CHRONICLES V1.0.1]
+[Final Fantasy Crystal Chronicles v1.0.1]
 580F0000 0562D418
 
 [Health at 8 hearts]

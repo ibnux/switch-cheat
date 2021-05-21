@@ -1,0 +1,14 @@
+[1p invicible]
+04000000 0023A308 D503201F
+
+[inf get crystal big off]
+04000000 016881E4 360000C0
+
+[inf get crystal big on]
+04000000 016881E4 D503201F
+
+[slow jump]
+04000000 01684270 D65F03C0
+
+[super jump]
+04000000 0161AD00 D65F03C0

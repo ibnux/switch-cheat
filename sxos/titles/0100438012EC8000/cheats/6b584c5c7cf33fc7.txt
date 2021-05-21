@@ -1,0 +1,12 @@
+[inf jump]
+04000000 00AF3BB8 D503201F
+
+[L pad on no dead call at fight time]
+80000040
+04000000 0301BBD0 D65F03C0
+20000000
+
+[R pad off no dead call at fight time]
+80000080
+0400000 0301BBD0 D10243FF
+20000000

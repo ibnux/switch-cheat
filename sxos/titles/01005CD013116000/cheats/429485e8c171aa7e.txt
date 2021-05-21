@@ -1,0 +1,8 @@
+[1p invicible]
+04000000 0013DD24 3500062D
+
+[hitanywhere off]
+04000000 0009EFA0 D101C3FF
+
+[hitanywhere on]
+04000000 0009EFA0 D65F03C0

@@ -1,0 +1,23 @@
+[1p invicible]
+04000000 003E3950 540000E4
+
+[All Players Instant KO]
+04000000 006BD110 D65F03C0
+
+[boss no move]
+04000000 0155FDB0 D65F03C0
+
+[cpu no move]
+04000000 002D9B40 D65F03C0
+
+[jump up +run speed normal]
+04000000 0061CF14 1E2E1000
+
+[jump up+run speed 2x]
+04000000 0061CF14 1E201000
+
+[jump up+run speed 3x]
+04000000 0061CF14 1E211000
+
+[jump up+run speed 5x]
+04000000 0061CF14 1E229000

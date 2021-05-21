@@ -1,4 +1,4 @@
-[99999 Inf Mojo]
+[99999 Inf Mojo @made by Matias3ds for gbatemp]
 580F0000 012F8338
 580F1000 00001088
 580F1000 00001A18

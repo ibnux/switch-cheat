@@ -1,13 +1,13 @@
 [1) P1 max lives]
 040E0000 00844BA0 0000000A
 
-[1p speed move attack 2x]
+[1p speed move attack 2x @xtatu]
 04000000 000E19A4 EEF00A00
 
-[1p speed move attack 3x]
+[1p speed move attack 3x @xtatu]
 04000000 000E19A4 EEF00A08
 
-[1p speed move attack normal]
+[1p speed move attack normal @xtatu]
 04000000 000E19A4 EEF70A00
 
 [2) P2 max lives]
@@ -56,63 +56,63 @@
 [999 Mythril Save1]
 04100000 00481D04 000003E7
 
-[999 Mythril Save2]
+[999 Mythril Save2 @optantic]
 04100000 00482054 000003E7
 
-[99999 GP Save1]
+[99999 GP Save1 @optantic]
 04100000 00481CF8 0001869F
 
-[99999 GP Save2]
+[99999 GP Save2 @optantic]
 04100000 00482048 0001869F
 
-[hit range 31x]
+[hit range 31x @xtatu]
 04000000 004191F0 EEF35A0F
 
-[hit range normal off]
+[hit range normal off @xtatu]
 04000000 004191F0 EEF65A00
 
-[P1 Infinite HP]
+[P1 Infinite HP @optantic]
 14150000 00D9710C 01010101
 541F0000 00D970FC
 740F0000 00000264
 640F0000 00000000 43A80000
 20000000
 
-[P1 Infinite Lives]
+[P1 Infinite Lives @optantic]
 04000000 00844BA0 0000000A
 
-[P1 Infinite MP]
+[P1 Infinite MP @optantic]
 14150000 00D9710C 01010101
 541F0000 00D970FC
 740F0000 00001F70
 640F0000 00000000 424A0000
 20000000
 
-[P1 Invincible Flashing]
+[P1 Invincible Flashing @optantic]
 14150000 00D9710C 01010101
 541F0000 00D970FC
 740F0000 0000299B
 610F0000 00000000 00000040
 20000000
 
-[P2 Infinite HP]
+[P2 Infinite HP @optantic]
 14150000 00D9710C 01010101
 541F0000 00D97100
 740F0000 00000264
 640F0000 00000000 43A80000
 20000000
 
-[P2 Infinite Lives]
+[P2 Infinite Lives @optantic]
 04000000 00844BA4 0000000A
 
-[P2 Infinite MP]
+[P2 Infinite MP @optantic]
 14150000 00D9710C 01010101
 541F0000 00D97100
 740F0000 00001F70
 640F0000 00000000 424A0000
 20000000
 
-[P2 Invincible Flashing]
+[P2 Invincible Flashing @optantic]
 14150000 00D9710C 01010101
 541F0000 00D97100
 740F0000 0000299B

@@ -1,4 +1,4 @@
-[ammo]
+[ammo @made by tomvita]
 580F0000 03338AA0
 580F1000 000000B8
 580F1000 00000000
@@ -11,11 +11,11 @@
 [Codes]
 04000000 00326AD8 4B18967F
 
-[get max money on change]
+[get max money on change @made by BlackDeath]
 04000000 003269E0 1C0007C0
 
-[get max score on change]
+[get max score on change @made by BlackDeath]
 04000000 00326930 1C000D40
 
-[Infinite Health]
+[Infinite Health @made by BlackDeath]
 04000000 00234ED0 D65F03C0

@@ -1,10 +1,10 @@
-[Bullets don't decrease (Disable)]
+[Bullets don't decrease (Disable) @made by falo]
 04000000 005649CC 51000401
 
-[Bullets don't decrease (Enable)]
+[Bullets don't decrease (Enable) @made by falo]
 04000000 005649CC 2A0003E1
 
-[inf hp]
+[inf hp @made by ary64]
 580F0000 024D9268
 580F1000 000000B0
 580F1000 00000038
@@ -13,7 +13,7 @@
 780F0000 0000002C
 640F0000 00000000 000003E7
 
-[Moon Jump]
+[Moon Jump @tomvita]
 80000002
 580F0000 024D9268
 580F1000 000000B0

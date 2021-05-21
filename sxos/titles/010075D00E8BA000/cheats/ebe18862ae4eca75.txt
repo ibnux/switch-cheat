@@ -70,7 +70,7 @@
 [Medikits]
 04100000 9F049E10 00000006
 
-[Not Attack]
+[Not Attack by Alien]
 04070000 0137A0C0 52800008
 
 [power]

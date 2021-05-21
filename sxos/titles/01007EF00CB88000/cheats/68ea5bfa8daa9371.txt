@@ -20,7 +20,7 @@
 [Jetpack x100]
 02000000 0070B5FE 00000640
 
-[Moon Jump]
+[Moon Jump @made by spiderman for gbatemp]
 80000002
 020F0000 0070B58C 000000B5
 20000000

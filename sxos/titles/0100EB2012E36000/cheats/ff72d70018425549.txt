@@ -1,0 +1,8 @@
+[invicible all disable]
+04000000 02206720 D10183FF
+
+[invicible all Y pad hit attack disable]
+04000000 02206720 D65F03C0
+80000008
+04000000 02206720 D10183FF
+20000000
