@@ -1,0 +1,8 @@
+[1p invicible]
+04000000 001661D8 E12FFF1E
+
+[1p speed attack 0.25x]
+04000000 00534F4C EEB00A04
+
+[1p speed attack normal]
+04000000 00534F4C EEB50AC0

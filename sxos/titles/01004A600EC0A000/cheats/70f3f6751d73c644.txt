@@ -1,0 +1,11 @@
+[1p damager attack 31x]
+04000000 02E5C1A0 1E27F000
+
+[1p damager attack 31x Off]
+04000000 02E5C1A0 1E2E1000
+
+[1p hit range 31x]
+04000000 04725790 1E27F000
+
+[1p hit range 31x Off]
+04000000 04725790 1E2E1000

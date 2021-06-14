@@ -1,0 +1,5 @@
+[1p invicible works guns off]
+04000000 0105F510 6DB923E9
+
+[1p invicible works guns on]
+04000000 0105F510 D65F03C0

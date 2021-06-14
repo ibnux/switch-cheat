@@ -1,0 +1,8 @@
+[No Health Damage]
+04000000 001C2AAC E1A00000
+
+[Unlimited Bee Flight]
+04000000 001EF430 E1A00000
+
+[Unlimited Diving Air]
+04000000 00210EA4 E1A00000

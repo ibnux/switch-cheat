@@ -13,6 +13,9 @@
 [jump size mod 2x]
 04000000 00EB7738 1E201001
 
+[jump size mod1.75x]
+04000000 00EB4A64 1E2F9000
+
 [RelicRace Crate add 30sec to freeze timer]
 04000000 00FBC3DC 1E27D000
 

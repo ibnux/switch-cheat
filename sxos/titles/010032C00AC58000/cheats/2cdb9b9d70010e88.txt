@@ -62,8 +62,8 @@
 [Unlimited Items (Off)]
 04000000 0098B2D0 4B160108
 
-[Unlimited Stamina (OFF)]
+[Unlimited Stamina (Off)]
 04000000 00E44F68 1E202909
 
-[Unlimited Stamina (ON)]
+[Unlimited Stamina (On)]
 04000000 00E44F68 1E204109

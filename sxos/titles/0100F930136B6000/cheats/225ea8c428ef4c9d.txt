@@ -1,0 +1,5 @@
+[1p invicible no get tens off]
+04000000 02E97360 F81D0FF5
+
+[1p invicible no get tens on]
+04000000 02E97360 D65F03C0

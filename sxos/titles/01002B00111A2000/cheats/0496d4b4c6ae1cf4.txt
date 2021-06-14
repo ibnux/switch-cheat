@@ -1,0 +1,28 @@
+[1p 10x speed attack]
+04000000 000AAD60 1E249000
+
+[1p 2x speed attack]
+04000000 000AAD60 1E201000
+
+[1p 3x speed attack]
+04000000 000AAD60 1E211000
+
+[1p atack modific damager 31x]
+04000000 000109F8 1E27F009
+
+[1p inf heath]
+04000000 000105B0 1E37F009
+
+[1p speed normal attack]
+04000000 000AAD60 1E2E1000
+
+[hit anywhere off ZR]
+80000200
+04000000 00092584 1E222860
+20000000
+
+[hit anywhere on]
+04000000 00092584 D503201F
+
+[Infinite Rupees (sets to 99,999)]
+041F0000 48954D64 0001869F

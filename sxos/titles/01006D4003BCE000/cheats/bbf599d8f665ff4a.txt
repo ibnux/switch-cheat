@@ -1,5 +1,26 @@
 [1p invicible chair club wrench]
 04000000 001F8F00 D503201F
 
+[1p invicible enermies+stealth]
+04000000 003FF644 D65F03C0
+
+[1p invicible enermies+stealth off]
+04000000 003FF644 FC1E0FE8
+
+[1p to enemies invicible fire,explosion,others off]
+04000000 0177E2C0 F81D0FF5
+
+[1p to enemies invicible fire,explosion,others on]
+04000000 0177E2C0 D65F03C0
+
 [enemies don't attack]
 04000000 0009A5A4 D503201F
+
+[enemies no fire]
+04000000 00200B24 D65F03C0
+
+[enemies no fire off]
+04000000 00200B24 6DBC23E9
+
+[inf reload all arms]
+04000000 009F0DA8 D65F03C0

@@ -28,6 +28,12 @@
 [Bullets are not reduced]
 04000000 00A3E620 51000108
 
+[exp]
+04100000 C189BEB8 3B9AC9FF
+
+[HP]
+08100000 C189BEB0 0001869F 0001869F
+
 [Increased skill / prop mastery Max]
 04000000 00A9B694 1A8CB18C
 
@@ -52,6 +58,9 @@
 
 [Skills / props proficiency 8 times]
 04000000 00A9B68C 0B150D6B
+
+[SP]
+04100000 C189BEC0 270F270F
 
 [Use of SP is not reduced]
 04000000 00A85374 4B1F0108

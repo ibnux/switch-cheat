@@ -43,5 +43,5 @@
 780F1000 00000BF8
 640F0000 00000000 40400000
 
-[Unlock Challenge Sound Test Mode]
+[Unlock Challenge, Sound Test Mode]
 01000000 00B32880 00000007
