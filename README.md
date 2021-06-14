@@ -10,6 +10,10 @@ SXOS Compiled database, you can use it for others Cheat Engine
 
 [GAMES.md](GAMES.md)
 
+## DOWNLOAD
+
+[Releases Page](https://github.com/ibnux/switch-cheat/releases)
+
 
 
 ## GAME DB Source
