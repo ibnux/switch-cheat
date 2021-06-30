@@ -2,9 +2,7 @@
 
 SXOS Compiled database, you can use it for others Cheat Engine
 
-25144 cheats in 1569 titles
-
-25144 cheats in 1569 titles
+25367 cheats in 1585 titles
 
 ## GAMES INDEX
 
