@@ -2,7 +2,9 @@
 
 SXOS Compiled database, you can use it for others Cheat Engine
 
-25367 cheats in 1585 titles
+NO PULL REQUEST, THIS REPO AUTOMATICALLY CREATED BY SCRIPT
+
+25662 cheats in 1597 titles
 
 ## GAMES INDEX
 
