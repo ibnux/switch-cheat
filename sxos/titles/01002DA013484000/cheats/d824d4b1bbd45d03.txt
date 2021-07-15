@@ -1,0 +1,11 @@
+[Infinite Hearts (80)]
+02000000 05AF005A 00000050
+
+[Infinite Rupees (300)]
+02000000 05AEB7B2 0000012C
+
+[Infinite Spiral Charges (3)]
+01000000 06186B32 00000003
+
+[Infinite Stamina]
+04000000 06244B58 000F4240

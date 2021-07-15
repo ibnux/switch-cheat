@@ -4,7 +4,9 @@ SXOS Compiled database, you can use it for others Cheat Engine
 
 NO PULL REQUEST, THIS REPO AUTOMATICALLY CREATED BY SCRIPT
 
-25662 cheats in 1597 titles
+For Atmosphere, just change folder name **sxos** to **atmosphere**
+
+25727 cheats in 1599 titles
 
 ## GAMES INDEX
 
