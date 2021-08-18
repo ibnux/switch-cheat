@@ -2,7 +2,7 @@
 
 SXOS Compiled database, you can use it for others Cheat Engine
 
-25879 cheats in 1605 titles
+26005 cheats in 1605 titles
 
 | No | NAME | TITLE ID | BUILD ID |
 | --- | --- | --- | --- |
@@ -42,8 +42,8 @@ SXOS Compiled database, you can use it for others Cheat Engine
 | 34 | ACA NEOGEO CROSSED SWORDS | [0100D2400AFB0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D2400AFB0000) | 1da52476c29e672a, 7cc18779b44cc2e4 |
 | 35 | ACA NEOGEO CYBER LIP | [010082200AFBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010082200AFBE000) | 95f1724b8c468d93 |
 | 36 | ACA NEOGEO CYBER-LIP | [010082200AFBE00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010082200AFBE00) | 95f1724b8c468d93 |
-| 37 | ACA NEOGEO FATAL FURY | [01000D100871400](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D100871400) | a331029fba7353b7 |
-| 38 | ACA NEOGEO FATAL FURY | [0100EE6002B48000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EE6002B48000) | 0f9affb0ccbead2e |
+| 37 | ACA NEOGEO FATAL FURY | [0100EE6002B48000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EE6002B48000) | 0f9affb0ccbead2e |
+| 38 | ACA NEOGEO FATAL FURY | [01000D100871400](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D100871400) | a331029fba7353b7 |
 | 39 | ACA NEOGEO FATAL FURY 2 | [0100CAF001DBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CAF001DBE000) | 84f8723c0b2edd8b |
 | 40 | ACA NEOGEO Fatal Fury 3 | [01000D1008714000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D1008714000) | a331029fba7353b7 |
 | 41 | ACA NEOGEO FATAL FURY SPECIAL | [010019A0038FA00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010019A0038FA00) | bf06160b4d5e2fa6 |
@@ -1429,8 +1429,8 @@ SXOS Compiled database, you can use it for others Cheat Engine
 | 1421 | The Touryst | [0100C3300D8C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C3300D8C4000) | 0b66b82e9902a3c1, 7dcda84f355f527f |
 | 1422 | The Way Remastered | [0100F8900A5B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8900A5B0000) | 45d613aebd45af46 |
 | 1423 | The Witcher 3: Wild Hunt | [0100E67012924000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E67012924000) | ef9887f9546bd28c |
-| 1424 | The Witcher 3: Wild Hunt [Complete Edition] | [010019C00E9CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010019C00E9CC000) | 7d0794dc20faf372, 986ce0bb97d63ce6 |
-| 1425 | The Witcher 3: Wild Hunt [Complete Edition] | [01003D100E9C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D100E9C6000) | 11f23ecbdfba7e24, 4ffb62f1cd9e17f8, 7d0794dc20faf372, 986ce0bb97d63ce6 |
+| 1424 | The Witcher 3: Wild Hunt [Complete Edition] | [01003D100E9C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D100E9C6000) | 11f23ecbdfba7e24, 4ffb62f1cd9e17f8, 7d0794dc20faf372, 986ce0bb97d63ce6 |
+| 1425 | The Witcher 3: Wild Hunt [Complete Edition] | [010019C00E9CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010019C00E9CC000) | 7d0794dc20faf372, 986ce0bb97d63ce6 |
 | 1426 | The Witcher 3: Wild Hunt — Complete Edition | [0100BFE00E9CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BFE00E9CA000) | 7d0794dc20faf372 |
 | 1427 | The Wonderful 101: Remastered | [0100B1300FF08000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1300FF08000) | 6f043b70de8f5893 |
 | 1428 | The World Ends With You: Final Remix | [0100C1500B82E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C1500B82E000) | 2a5408063198b646 |
