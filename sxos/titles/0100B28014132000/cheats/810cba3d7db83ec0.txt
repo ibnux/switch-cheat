@@ -1,0 +1,29 @@
+[1p auto block weapon]
+04000000 00CCD694 D503201F
+
+[1p hit killl]
+04000000 00E56590 D65F03C0
+
+[1p invincible]
+04000000 00CCCD20 D503201F
+
+[hit always ice wind lightning off]
+04000000 00CC6B00 F81C0FF7
+
+[hit always ice wind lightning on]
+04000000 00CC6B00 D65F03C0
+
+[hitanywhere]
+04000000 00D03860 D65F03C0
+
+[inf user musou]
+04000000 00D68C90 D65F03C0
+
+[inf user rage]
+04000000 00D69390 D65F03C0
+
+[inf user ultimate skill]
+04000000 00EE6DBC 1E27F00C
+
+[speed attack]
+04000000 00D1B9CC 1E2E1000

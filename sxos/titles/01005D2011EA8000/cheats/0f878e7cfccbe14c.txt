@@ -1,0 +1,5 @@
+[Max Rhythm notes (change screen to see difference) @Method]
+041F002B 2619F768 09999999
+
+[Max Score @Method]
+041F004E A7579760 09999999

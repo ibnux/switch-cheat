@@ -1,0 +1,11 @@
+[shinchan speed 1.5x]
+04000000 017C2AF0 1E2F1000
+
+[shinchan speed 2x]
+04000000 017C2AF0 1E201000
+
+[shinchan speed 5x]
+04000000 017C2AF0 1E229000
+
+[shinchan speed normal]
+04000000 017C2AF0 1E2E1000

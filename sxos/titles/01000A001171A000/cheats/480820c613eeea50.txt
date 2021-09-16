@@ -1,0 +1,2 @@
+[enemies freezer]
+04000000 019F9DF4 1E2703E2

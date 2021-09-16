@@ -1,0 +1,29 @@
+[Can Sleep (Save) even not Tired]
+040E0000 0034074C 1400000A
+
+[Corpse will not rot]
+040E0000 004EAEE0 D503201F
+
+[Instant finish action]
+040E0000 00285A50 1E27F000
+
+[Instant finish progress]
+040E0000 003E1E24 1E27F008
+
+[Invulnerable (Inf HP / Energy)]
+040E0000 003E1264 52800020
+
+[Items will not be deducted (Not Suggest)]
+080E0000 001FA7A0 D65F03C0 52800020
+040E0000 001FA5E0 D65F03C0
+
+[Tech points will not deducted]
+040E0000 001B16BC D503201F
+
+[Tools Durability will not deducted]
+040E0000 00285BB8 D503201F
+040E0000 003030CC D503201F
+040E0000 00371648 D503201F
+
+[Unfair Trading (Not Suggest)]
+040E0000 00381074 1E204120

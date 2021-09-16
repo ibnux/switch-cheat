@@ -1,0 +1,11 @@
+[1p invincible]
+04000000 00CCCD70 D503201F
+
+[enemies no attack off]
+04000000 00EFA860 A9BD57F6
+
+[enemies no attack on]
+04000000 00EFA860 D65F03C0
+
+[speed attack]
+04000000 00D1BC4C 1E2E1000

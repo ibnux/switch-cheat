@@ -1,0 +1,35 @@
+[Bazooka by jhmiller]
+01000000 003349BA 00000063
+
+[Bionic claw by jhmiller]
+01000000 003349B9 0000000A
+
+[Bombs by jhmiller]
+01000000 003349B8 00000063
+
+[Cocktails by jhmiller]
+01000000 003349B7 00000063
+
+[Dynamite by jhmiller]
+01000000 003349B6 00000063
+
+[Flamethrower by jhmiller]
+01000000 003349B4 00000063
+
+[Grenades by jhmiller]
+01000000 003349B5 00000063
+
+[HP by jhmiller]
+01000000 00343B0F 00000064
+
+[Machine Gun by jhmiller]
+01000000 003349B0 00000063
+
+[Money by jhmiller]
+04000000 00334A60 3B9AC9FF
+
+[Pistol by jhmiller]
+01000000 003349AF 00000009
+
+[Shotgun by jhmiller]
+01000000 003349B1 00000063

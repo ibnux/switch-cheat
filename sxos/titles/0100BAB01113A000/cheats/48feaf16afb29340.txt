@@ -4,11 +4,20 @@
 [Boss battle gives 999 Gems]
 04000000 01536328 52807CF4
 
+[Can buy Expensive items]
+010E0000 01560AAE 0000001F
+
 [Can buy with coin unless coins own == cost]
 04000000 0157F118 1A9F07E0
 
 [Crystals/Mana Don't reduce]
 04000000 0157F970 D65F03C0
+
+[Infinite Crystals]
+010E0000 0157F98E 0000001F
+
+[Invincible]
+010E0000 017AABE2 00000002
 
 [set hearts full when changed]
 04000000 017AA7D8 52800C73
@@ -23,6 +32,22 @@
 04000000 017AA7D8 2A0103F3
 04000000 0157F118 1A9FB7E0
 04000000 0157F49C 4B140001
+
+[Unlimited use of Bombs]
+040E0000 017A3084 D503201F
+040E0000 017A31D8 D503201F
+
+[Unlimited use of Boss Coins]
+010E0000 015349DA 0000001F
+
+[Unlimited use of Coins]
+010E0000 0157F42A 0000001F
+
+[Unlimited use of Final Coin]
+010E0000 01534B3A 0000001F
+
+[Unlimited use of Keys]
+040E0000 0157E690 D503201F
 
 [ZL Fly with Lstick]
 80000100
