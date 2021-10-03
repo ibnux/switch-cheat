@@ -1,0 +1,18 @@
+[99999 damage (Left-Stick press in)]
+80000010
+040E0000 01627318 D503201F
+20000000
+
+[Card Ticket no decrease]
+010E0000 02013D0A 0000001F
+
+[Money no decrease]
+010E0000 01FD2B8E 0000001F
+
+[No damage (Right-Stick press in)]
+80000020
+040E0000 01627318 2A1F03E9
+20000000
+
+[Normal damage]
+040E0000 01627318 2A0803E9

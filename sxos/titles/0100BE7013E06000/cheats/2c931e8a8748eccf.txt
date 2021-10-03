@@ -1,0 +1,5 @@
+[hitanywhere]
+04000000 0061E688 D65F03C0
+
+[hitanywhere off]
+04000000 0061E688 D10743FF
