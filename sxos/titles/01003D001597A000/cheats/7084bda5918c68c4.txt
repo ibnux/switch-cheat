@@ -1,0 +1,5 @@
+[cpu drunk]
+04000000 00960B70 D65F03C0
+
+[cpu drunk off]
+04000000 00960B70 D103C3FF

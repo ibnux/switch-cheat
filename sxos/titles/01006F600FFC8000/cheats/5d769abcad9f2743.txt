@@ -1,0 +1,89 @@
+[02# Cheat studs x2]
+010A0000 01E91A12 00000001
+
+[03# Cheat studs x4]
+010A0000 01E91A32 00000001
+
+[04# Cheat studs x6]
+010A0000 01E91A52 00000001
+
+[05# Cheat studs x8]
+010A0000 01E91A72 00000001
+
+[06# Cheat studs x10]
+010A0000 01E91A92 00000001
+
+[07# Cheat Disguises]
+010A0000 01E91AB2 00000001
+
+[08# Cheat Gold Brick Detector]
+010A0000 01E91AD2 00000001
+
+[09# Cheat Minikit Detector]
+010A0000 01E91AF2 00000001
+
+[10# Cheat Mini Characters]
+010A0000 01E91B12 00000001
+
+[11# Cheat Collect Ghost Studs]
+010A0000 01E91B32 00000001
+
+[12# Cheat Fast Build]
+010A0000 01E91B52 00000001
+
+[13# Cheat Attract Studs]
+010A0000 01E91B72 00000001
+
+[14# Cheat Character Token Detector]
+010A0000 01E91B92 00000001
+
+[15# Cheat Festive Hats]
+010A0000 01E91BB2 00000001
+
+[16# Cheat Extra Hearts]
+010A0000 01E91BD2 00000001
+
+[Cheat Attract Studs (off)]
+010A0000 01E91B72 00000000
+
+[Cheat Character Token Detector (off)]
+010A0000 01E91B92 00000000
+
+[Cheat Collect Ghost Studs (off)]
+010A0000 01E91B32 00000000
+
+[Cheat Disguises (off)]
+010A0000 01E91AB2 00000000
+
+[Cheat Extra Hearts(off)]
+010A0000 01E91BD2 00000000
+
+[Cheat Fast Build (off)]
+010A0000 01E91B52 00000000
+
+[Cheat Festive Hats (off)]
+010A0000 01E91BB2 00000000
+
+[Cheat Gold Brick Detector (off)]
+010A0000 01E91AD2 00000000
+
+[Cheat Mini Characters (off)]
+010A0000 01E91B12 00000000
+
+[Cheat Minikit Detector (off)]
+010A0000 01E91AF2 00000000
+
+[Cheat studs x10 (off)]
+010A0000 01E91A92 00000000
+
+[Cheat studs x2 (off)]
+010A0000 01E91A12 00000000
+
+[Cheat studs x4 (off)]
+010A0000 01E91A32 00000000
+
+[Cheat studs x6 (off)]
+010A0000 01E91A52 00000000
+
+[Cheat studs x8 (off)]
+010A0000 01E91A72 00000000
