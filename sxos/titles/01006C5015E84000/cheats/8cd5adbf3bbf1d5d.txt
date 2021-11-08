@@ -1,0 +1,18 @@
+[100% Success in Chance Dialog]
+080E0000 01771070 D65F03C0 52800020
+080E0000 01A99110 D65F03C0 52800020
+
+[Created by Eiffel2018]
+20000000
+
+[Custom Charater Maxout Attributes]
+040E0000 02E607F0 528000A0
+
+[No Damage to Endurance (Health)]
+040E0000 019D7B00 D65F03C0
+
+[No Damage to Volition (Morale)]
+040E0000 019D7950 D65F03C0
+
+[Pass all White Check]
+040E0000 0170E59C 52800020
