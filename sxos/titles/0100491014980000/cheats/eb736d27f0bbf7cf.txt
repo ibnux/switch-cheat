@@ -1,0 +1,2 @@
+[Won't die when hearts = 0]
+04000000 042EE2D4 1E204040
