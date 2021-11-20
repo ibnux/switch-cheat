@@ -1,0 +1,11 @@
+[hitanywhere all weapon off]
+04000000 006E3C40 FC170FEC
+
+[hitanywhere all weapon on]
+04000000 006E3C40 D65F03C0
+
+[hitanywhere rachel arms off]
+04000000 006E9BE0 D10483FF
+
+[hitanywhere rachel arms on]
+04000000 006E9BE0 D65F03C0

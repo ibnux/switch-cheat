@@ -1,0 +1,13 @@
+[damager 31x 1p to enermies]
+04000000 00912EB4 1E27F000
+
+[damager normal 1p to enermies]
+04000000 00912EB4 1E2E1000
+
+[enermies dont attack off]
+04000000 02C614C8 7100011F
+TURN OFF CODE TO HIT ENEMIES THEY STAY PUT
+
+[enermies dont attack on]
+04000000 02C614C8 D503201F
+TURN ON THE CODE ONLY IN THE FIGHT

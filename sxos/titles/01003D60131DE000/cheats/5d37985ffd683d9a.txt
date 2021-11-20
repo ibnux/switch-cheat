@@ -1,0 +1,35 @@
+[Coins No decrease by jhmiller]
+04000000 0274DAA4 51000100
+
+[Coins No decrease Off by jhmiller]
+04000000 0274DAA4 4B010100
+
+[Coins x4 by jhmiller]
+04000000 0274F010 8B336908
+
+[Coins x4 Off by jhmiller]
+04000000 0274F010 8B334108
+
+[HP 999 by jhmiller]
+04000000 0262A280 52807CE0
+
+[HP 999 Off by jhmiller]
+04000000 0262A280 2A0103E0
+
+[Magic Ingredients No Decrease by jhmiller]
+04000000 0274DADC D503201F
+
+[Magic Ingredients No Decrease Off by jhmiller]
+04000000 0274DADC B9001408
+
+[MP Inf by jhmiller]
+04000000 02637A40 D503201F
+
+[MP Inf Off by jhmiller]
+04000000 02637A40 BD02AA60
+
+[Special Inf by jhmiller]
+04000000 0263A6C4 D503201F
+
+[Special Inf Off by jhmiller]
+04000000 0263A6C4 BD02AA60

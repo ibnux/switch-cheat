@@ -1,0 +1,5 @@
+[hitanywhere all weapon off]
+04000000 00569630 72001C1F
+
+[hitanywhere all weapon on]
+04000000 00569630 D503201F

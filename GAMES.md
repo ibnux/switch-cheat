@@ -2,7 +2,7 @@
 
 SXOS Compiled database, you can use it for others Cheat Engine
 
-29267 cheats in 1736 titles
+29267 cheats in 1787 titles
 
 | No | NAME | TITLE ID | BUILD ID |
 | --- | --- | --- | --- |
@@ -1743,6 +1743,57 @@ The guardian owls | [0100A75005E92000](https://github.com/ibnux/switch-cheat/tre
 | 1734 | 牧場物語 重聚礦石鎮 | [0100C2D00EBD4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C2D00EBD4000) | 1f27449539e34189, 3353df7acba29330, 74b04562d41e3c1e, 865096b06ff9b91a |
 | 1735 | 鷹の爪VSハエの羽団 | [01003D100EAF4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D100EAF4000) | 56b2e6241792d94e |
 | 1736 | ＮＡＲＵＴＯ－ナルト－ 疾風伝　ナルティメットストーム４ ROAD TO BORUTO | [01003F800CF5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003F800CF5C000) | 6535310591f44da1, c6d310a3669a5742 |
+| 1737 | 01000698009c6e00 | [01000698009C6E00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000698009C6E00) | 70c806f458d36843 |
+| 1738 | 01001f7012e66000 | [01001F7012E66000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001F7012E66000) | 16c46473eeab2746 |
+| 1739 | 01001fa01451c001 | [01001FA01451C001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001FA01451C001) | 9894331947eacc47 |
+| 1740 | 01001fa01451c002 | [01001FA01451C002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001FA01451C002) | ca075eb0db8bbf91 |
+| 1741 | 0100275011e54000 | [0100275011E54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100275011E54000) | 360df0107795cb40 |
+| 1742 | 01002a0012a0a000 | [01002A0012A0A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002A0012A0A000) | 53938bcea352ec42, a0b9997a5d7ca848 |
+| 1743 | 01003b90136da000 | [01003B90136DA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003B90136DA000) | 1f936e043fb8c349 |
+| 1744 | 01003d60131de000 | [01003D60131DE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D60131DE000) | 5d37985ffd683d9a, aa9f5136791936a7 |
+| 1745 | 010040f011de4001 | [010040F011DE4001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040F011DE4001) | 94f8f5db3d8e0a47 |
+| 1746 | 010040f011de4002 | [010040F011DE4002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040F011DE4002) | fbb667b7d6bfa041 |
+| 1747 | 0100414d32524e00 | [0100414D32524E00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100414D32524E00) | f5f97f2d8a78f237 |
+| 1748 | 010042501329e000 | [010042501329E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042501329E000) | 119c804970c52cd2 |
+| 1749 | 010042800A51600 | [010042800A51600](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042800A51600) | 742f9d7917f6bb4c |
+| 1750 | 010047e010b3e550 | [010047E010B3E550](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010047E010B3E550) | 404c24b13d16da49 |
+| 1751 | 010049900f546001 | [010049900F546001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049900F546001) | 9d00360ea7ceac4e |
+| 1752 | 010049900f546002 | [010049900F546002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049900F546002) | 64000c752a890efb, b21e3733e11d6fcf, ed0d7ace84eec780 |
+| 1753 | 010049900f546003 | [010049900F546003](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049900F546003) | 15fded0d90ef5d72, a638857e6df584ff, ff44f58218c6a6b2 |
+| 1754 | 01004bd012500000 | [01004BD012500000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004BD012500000) | 52b74c9f694cc45f |
+| 1755 | 010051d010fc2000 | [010051D010FC2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051D010FC2000) | 3ecc0a9fb0b72ca3, 640d046f7294bbe9, a7a7f29b0366d99c |
+| 1756 | 010062300e0d4000 | [010062300E0D4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010062300E0D4000) | a156cd049516bb48 |
+| 1757 | 0100696014f4a000 | [0100696014F4A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100696014F4A000) | dc27156b7ab58d31, eb526f5a41621d69 |
+| 1758 | 010072400e06a000 | [010072400E06A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072400E06A000) | 7ac8cbfa0d59a04c |
+| 1759 | 01007550129b2000 | [01007550129B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007550129B2000) | 541ec1d423bc2d40 |
+| 1760 | 010076b01196c000 | [010076B01196C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076B01196C000) | fa302ad3e2cca94b |
+| 1761 | 01007af011732000 | [01007AF011732000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007AF011732000) | fcb101343c2e1845 |
+| 1762 | 0100877008162000 | [0100877008162000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100877008162000) | 351694385b22760d |
+| 1763 | 01008F000908000 | [01008F000908000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008F000908000) | 0508130c213d6d7e |
+| 1764 | 010093a01305c000 | [010093A01305C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010093A01305C000) | 2d10be721f63e813, d95baaadde3908ef |
+| 1765 | 0100a2c01320e000 | [0100A2C01320E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A2C01320E000) | 3575af17fabcb399 |
+| 1766 | 0100a58012268000 | [0100A58012268000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A58012268000) | 95f978b38ed9b44d |
+| 1767 | 0100a8b014930000 | [0100A8B014930000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A8B014930000) | e26a54f785a76ee7 |
+| 1768 | 0100aa00128ba001 | [0100AA00128BA001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AA00128BA001) | 1765890577923cd4 |
+| 1769 | 0100af400dfa4000 | [0100AF400DFA4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AF400DFA4000) | f47c51db0ee9f98a |
+| 1770 | 0100b28014132800 | [0100B28014132800](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B28014132800) | 60b4e42155e07989, aea6b2652ea9e34b |
+| 1771 | 0100bef013050000 | [0100BEF013050000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BEF013050000) | dede62934d90ed75 |
+| 1772 | 0100c1f0141aa000 | [0100C1F0141AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C1F0141AA000) | 7ab40e8a9691c2c3 |
+| 1773 | 0100c5a013b7a800 | [0100C5A013B7A800](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5A013B7A800) | 719be27194d137df |
+| 1774 | 0100cbf0115f2001 | [0100CBF0115F2001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CBF0115F2001) | f4dec1d076552e4b |
+| 1775 | 0100cbf0115f2002 | [0100CBF0115F2002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CBF0115F2002) | c0a75cfe9b9b814a |
+| 1776 | 0100cee0140ce000 | [0100CEE0140CE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CEE0140CE000) | 17cef19e3899e814, 4b9f056d355024cc |
+| 1777 | 0100ddb015cda000 | [0100DDB015CDA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DDB015CDA000) | de8dae262124a8b8 |
+| 1778 | 0100e2f014f46000 | [0100E2F014F46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E2F014F46000) | 73c01d12ec628195, 7aeabb797c931714 |
+| 1779 | 0100fd70134fa000 | [0100FD70134FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FD70134FA000) | 155b66a148bfbfbb |
+| 1780 | 0535DC453AB50000 | [0535DC453AB50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0535DC453AB50000) | 0000000000000000 |
+| 1781 | 054507E0B7552000 | [054507E0B7552000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/054507E0B7552000) | 0000000000000000, 4a7114c9560237cb, 5c0cbfefda841930, b5e8bf1fe6465e7e, d326058041b7f4dc, def702cdac4994ef |
+| 1782 | 05BE1C0259DE0000 | [05BE1C0259DE0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/05BE1C0259DE0000) | 56e7b8f33024d194 |
+| 1783 | 05C992BE824A0000 | [05C992BE824A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/05C992BE824A0000) | 0000000000000000, 0000000000000001 |
+| 1784 | 1000B700EC22000 | [1000B700EC22000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/1000B700EC22000) | dcad50aef4e03c48 |
+| 1785 | 1005c9002b42000 | [1005C9002B42000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/1005C9002B42000) | e7c1eca56d362ef6 |
+| 1786 | 207231A04B2F3744 | [207231A04B2F3744](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/207231A04B2F3744) | 250ce7c4a4de1940 |
+| 1787 | 360df0107795cb40 | [360DF0107795CB40](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/360DF0107795CB40) | 360df0107795cb40 |
 
 
 ## GAME DB Source

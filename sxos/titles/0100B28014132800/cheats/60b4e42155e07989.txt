@@ -1,0 +1,47 @@
+[1p hit kill]
+04000000 00E56780 D65F03C0
+
+[always ice wind lightning off]
+04000000 00CC6AF0 F81C0FF7
+
+[always ice wind lightning on]
+04000000 00CC6AF0 D65F03C0
+
+[enemies no attack off]
+04000000 00EFA860 A9BD57F6
+
+[enemies no attack on]
+04000000 00EFA860 D65F03C0
+
+[hitanywhere off]
+04000000 00D07380 A9BF7BFD
+
+[hitanywhere on]
+04000000 00D07380 D65F03C0
+
+[inf use musou]
+04000000 00D69030 D65F03C0
+
+[inf use ultimate skill]
+04000000 00EE6DDC 1E27F00C
+
+[inf user rage]
+04000000 00D69730 D65F03C0
+
+[speed attack]
+04000000 00D1BC4C 1E2E1000
+
+[speed run 1.25x]
+04000000 00D3DB80 1E2E9008
+
+[speed run 1.5x]
+04000000 00D3DB80 1E2F1008
+
+[speed run 1.75x]
+04000000 00D3DB80 1E2F9008
+
+[speed run 2x]
+04000000 00D3DB80 1E201008
+
+[speed run normal]
+04000000 00D3DB80 1E2E1008
