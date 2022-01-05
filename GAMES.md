@@ -2,7 +2,7 @@
 
 SXOS Compiled database, you can use it for others Cheat Engine
 
-29491 cheats in 1796 titles
+29706 cheats in 1802 titles
 
 | No | NAME | TITLE ID | BUILD ID |
 | --- | --- | --- | --- |
@@ -207,1602 +207,1608 @@ SXOS Compiled database, you can use it for others Cheat Engine
 | 199 | Asterix & Obelix XXL 2 | [010050400BD38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010050400BD38000) | 18e851c890fb050f, 54b68b533375c472, 6834f132c82c8580, 98569f4e50af13ec, c7d8c40ce277ee1d |
 | 200 | Asterix & Obelix XXL 3: The Crystal Menhir | [010081500EA1E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010081500EA1E000) | 57f46046a792060d, 6bdd78ea97acb4ec, 6d18af70d6ffe1c2 |
 | 201 | Asterix & Obelix XXL: Romastered [Rev 1.0.21.0] | [0100F46011B50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F46011B50000) | ad1d1e92d1bd38d5 |
-| 202 | ASTRAL CHAIN | [01007300020FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007300020FA000) | 4b159f0f7a360669, ed2026b20685971f |
-| 203 | ASTRO AQUA KITTY | [01007210128C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007210128C0000) | b5f6de166ad55d7e |
-| 204 | AstroWings: Space War | [0100DF401249C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DF401249C000) | 161d40765906024c |
-| 205 | Atelier Ayesha: The Alchemist of Dusk DX | [0100D9D00EE8C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D9D00EE8C000) | b9146e1cad9e36ba |
-| 206 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | [0100E5600EE8E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5600EE8E000) | 4bbb3b3455d306c6 |
-| 207 | Atelier Lulua ~The Scion of Arland~ | [0100B1400CD50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1400CD50000) | 789e7b6351d8c862, ca7facaec708311c |
-| 208 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings | [010009900947A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010009900947A000) | 4d266d1ad3e90e74, bddcda1760494f35 |
-| 209 | Atelier Meruru ~The Apprentice of Arland~ DX | [0100ADD00C6FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ADD00C6FA000) | e76c3624d3ae3dce |
-| 210 | Atelier Rorona ~The Alchemist of Arland~ DX | [010088600C66E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010088600C66E000) | 967d32be4b10b67e |
-| 211 | Atelier Ryza 2: Lost Legends & the Secret Fairy | [01009A9012022000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009A9012022000) | 793a31892f3ad547, 9c69b88f4fcb6c27, d539fa1d45be2d76, dd026564e85d710b |
-| 212 | Atelier Ryza 2: Ushinawareta Denshou to Himitsu no Yousei [Rev 1.0.0] | [0100B020117D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B020117D8000) | 793a31892f3ad547, 895b31a76eb93591 |
-| 213 | Atelier Ryza: Ever Darkness and the Secret Hideout | [0100D1900EC80000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D1900EC80000) | 4e9e9501d27dd02e, 5017110db5aac6cc, 6b721d06b7bbb451, 78a0edfbd60c976e, 832995cff172d59d, be0efde5580470db, c903abd00f428b59 |
-| 214 | Atelier Ryza: Tokoyami no Joo to Himitsu no Kakurega | [010096000E1EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010096000E1EC000) | e5fe2eda21830af4, eae04edb51679145 |
-| 215 | Atelier Shallie: Alchemists of the Dusk Sea DX | [010005C00EE90000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010005C00EE90000) | aab0450a965202ec |
-| 216 | Atelier Totori ~The Adventurer of Arland~ DX | [01009BC00C6F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009BC00C6F6000) | 4fd4bfe66c5353d4 |
-| 217 | ATOM RPG | [0100B9400FA38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B9400FA38000) | 66eb9b52dc430942 |
-| 218 | Atomicrops | [0100AD30095A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AD30095A4000) | e185fa010520954a |
-| 219 | AvoCuddle | [01008FB011248000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008FB011248000) | 9906622a5b311548 |
-| 220 | Awakening of Cthulhu | [0100085012D64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100085012D64000) | 9da80cf7e4903ec4 |
-| 221 | Axiom Verge | [0100052004384000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100052004384000) | 25c24171344c071d, ff4c1c4fd0d9651c |
-| 222 | Axiom Verge 2 | [01002FC010240000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002FC010240000) | 219522748b02d4a9, 4e425efaa7c59230 |
-| 223 | Azur Lane: Crosswave [Rev 1.0.0] | [0100603011772000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100603011772000) | 8003a997eaad2a11 |
-| 224 | Azuran Tales: TRIALS | [0100C7D00DE24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C7D00DE24000) | 834b06427856bf44 |
-| 225 | Azure Reflections | [01006FB00990E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006FB00990E000) | 72bbc4ca4a543699 |
-| 226 | Azure Saga: Pathfinder DELUXE Edition | [010029E00C780000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029E00C780000) | 2c8fc0457727cc4e |
-| 227 | Azure Striker GUNVOLT: STRIKER PACK | [01003C100655A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003C100655A000) | 24017817548c5eb7 |
-| 228 | Bacon Man: An Adventure | [0100EAF00E32E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EAF00E32E000) | 3ff8fe0ccfb2348b |
-| 229 | Bakugan: Champions Of Vestroia [Rev 1.00.00] | [0100730011BDC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100730011BDC000) | 30d27bd665ae7c4b, f76a59c9b9027b4f |
-| 230 | Balan Wonderworld [Rev 1.00] | [0100438012EC8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100438012EC8000) | 6b584c5c7cf33fc7 |
-| 231 | Baldo
+| 202 | Asterix & Obelix: Slap them All! | [01002B401285E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002B401285E000) | bcc166a5d45be1a0 |
+| 203 | ASTRAL CHAIN | [01007300020FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007300020FA000) | 4b159f0f7a360669, ed2026b20685971f |
+| 204 | ASTRO AQUA KITTY | [01007210128C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007210128C0000) | b5f6de166ad55d7e |
+| 205 | AstroWings: Space War | [0100DF401249C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DF401249C000) | 161d40765906024c |
+| 206 | Atelier Ayesha: The Alchemist of Dusk DX | [0100D9D00EE8C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D9D00EE8C000) | b9146e1cad9e36ba |
+| 207 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | [0100E5600EE8E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5600EE8E000) | 4bbb3b3455d306c6 |
+| 208 | Atelier Lulua ~The Scion of Arland~ | [0100B1400CD50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1400CD50000) | 789e7b6351d8c862, ca7facaec708311c |
+| 209 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings | [010009900947A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010009900947A000) | 4d266d1ad3e90e74, bddcda1760494f35 |
+| 210 | Atelier Meruru ~The Apprentice of Arland~ DX | [0100ADD00C6FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ADD00C6FA000) | e76c3624d3ae3dce |
+| 211 | Atelier Rorona ~The Alchemist of Arland~ DX | [010088600C66E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010088600C66E000) | 967d32be4b10b67e |
+| 212 | Atelier Ryza 2: Lost Legends & the Secret Fairy | [01009A9012022000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009A9012022000) | 793a31892f3ad547, 9c69b88f4fcb6c27, d539fa1d45be2d76, dd026564e85d710b |
+| 213 | Atelier Ryza 2: Ushinawareta Denshou to Himitsu no Yousei [Rev 1.0.0] | [0100B020117D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B020117D8000) | 793a31892f3ad547, 895b31a76eb93591 |
+| 214 | Atelier Ryza: Ever Darkness and the Secret Hideout | [0100D1900EC80000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D1900EC80000) | 4e9e9501d27dd02e, 5017110db5aac6cc, 6b721d06b7bbb451, 78a0edfbd60c976e, 832995cff172d59d, be0efde5580470db, c903abd00f428b59 |
+| 215 | Atelier Ryza: Tokoyami no Joo to Himitsu no Kakurega | [010096000E1EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010096000E1EC000) | e5fe2eda21830af4, eae04edb51679145 |
+| 216 | Atelier Shallie: Alchemists of the Dusk Sea DX | [010005C00EE90000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010005C00EE90000) | aab0450a965202ec |
+| 217 | Atelier Totori ~The Adventurer of Arland~ DX | [01009BC00C6F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009BC00C6F6000) | 4fd4bfe66c5353d4 |
+| 218 | ATOM RPG | [0100B9400FA38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B9400FA38000) | 66eb9b52dc430942 |
+| 219 | Atomicrops | [0100AD30095A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AD30095A4000) | e185fa010520954a |
+| 220 | AvoCuddle | [01008FB011248000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008FB011248000) | 9906622a5b311548 |
+| 221 | Awakening of Cthulhu | [0100085012D64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100085012D64000) | 9da80cf7e4903ec4 |
+| 222 | Axiom Verge | [0100052004384000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100052004384000) | 25c24171344c071d, ff4c1c4fd0d9651c |
+| 223 | Axiom Verge 2 | [01002FC010240000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002FC010240000) | 219522748b02d4a9, 4e425efaa7c59230 |
+| 224 | Azur Lane: Crosswave [Rev 1.0.0] | [0100603011772000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100603011772000) | 8003a997eaad2a11 |
+| 225 | Azuran Tales: TRIALS | [0100C7D00DE24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C7D00DE24000) | 834b06427856bf44 |
+| 226 | Azure Reflections | [01006FB00990E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006FB00990E000) | 72bbc4ca4a543699 |
+| 227 | Azure Saga: Pathfinder DELUXE Edition | [010029E00C780000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029E00C780000) | 2c8fc0457727cc4e |
+| 228 | Azure Striker GUNVOLT: STRIKER PACK | [01003C100655A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003C100655A000) | 24017817548c5eb7 |
+| 229 | Bacon Man: An Adventure | [0100EAF00E32E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EAF00E32E000) | 3ff8fe0ccfb2348b |
+| 230 | Bakugan: Champions Of Vestroia [Rev 1.00.00] | [0100730011BDC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100730011BDC000) | 30d27bd665ae7c4b, f76a59c9b9027b4f |
+| 231 | Balan Wonderworld [Rev 1.00] | [0100438012EC8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100438012EC8000) | 6b584c5c7cf33fc7 |
+| 232 | Baldo
 The guardian owls | [0100A75005E92000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A75005E92000) | 985e17c3d9255f4d, a2eb89c60b10b04a |
-| 232 | Baldur's Gate: Dark Alliance | [0100FD1014726000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FD1014726000) | cc01700d7bc40cc9, d0b3501dc634c120 |
-| 233 | Banner of the Maid | [010013C010C5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010013C010C5C000) | 1d054498cf18f143, 435cc4987292944f |
-| 234 | Bastion | [010038600B27E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038600B27E000) | 26a2d0ccaee5f39e |
-| 235 | Batbarian: Testament of the Primordials | [01005F3012748000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005F3012748000) | 42d357104945ee4a |
-| 236 | Battle Axe [Rev 1.0] | [0100747011890000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100747011890000) | 47841761051e4741 |
-| 237 | Battle Brothers – A Turn Based Tactical RPG | [0100C5000F294000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5000F294000) | 51b44a165a981da6 |
-| 238 | Battle Cats | [01003C300B274000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003C300B274000) | 83ed8627cb8a9801 |
-| 239 | Battle Chasers: Nightwar | [0100551001D88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100551001D88000) | d0222f29ab9bb64c |
-| 240 | Battle Hunters | [0100A3B011EDE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A3B011EDE000) | 6a6737f9cf9eef0b |
-| 241 | Battle Princess Madelyn | [0100C4D0093EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C4D0093EA000) | 8c853c65d7ff824f |
+| 233 | Baldur's Gate: Dark Alliance | [0100FD1014726000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FD1014726000) | cc01700d7bc40cc9, d0b3501dc634c120 |
+| 234 | Banner of the Maid | [010013C010C5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010013C010C5C000) | 1d054498cf18f143, 435cc4987292944f |
+| 235 | Bastion | [010038600B27E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038600B27E000) | 26a2d0ccaee5f39e |
+| 236 | Batbarian: Testament of the Primordials | [01005F3012748000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005F3012748000) | 42d357104945ee4a |
+| 237 | Battle Axe [Rev 1.0] | [0100747011890000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100747011890000) | 47841761051e4741 |
+| 238 | Battle Brothers – A Turn Based Tactical RPG | [0100C5000F294000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5000F294000) | 51b44a165a981da6 |
+| 239 | Battle Cats | [01003C300B274000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003C300B274000) | 83ed8627cb8a9801 |
+| 240 | Battle Chasers: Nightwar | [0100551001D88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100551001D88000) | d0222f29ab9bb64c |
+| 241 | Battle Hunters | [0100A3B011EDE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A3B011EDE000) | 6a6737f9cf9eef0b |
 | 242 | Battle Princess Madelyn | [010094A00BEF8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010094A00BEF8000) | 18d0d1aba92c624d |
-| 243 | Battle Princess Madelyn Royal Edition | [0100A7500DF64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A7500DF64000) | 404c24b13d16da49 |
-| 244 | Bayonetta | [010076F0049A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076F0049A2000) | 7ae22ddabce854f5 |
-| 245 | Bayonetta 2 | [01007960049A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007960049A0000) | 40ea84adf0a7bc26 |
-| 246 | BDSM: Big Drunk Satanic Massacre | [01002FA00DE72000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002FA00DE72000) | 7dcd7a8bb4d3de46, b51ed813ddd61748 |
-| 247 | BE-A Walker | [01003A1010E3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003A1010E3C000) | dc7a206287057848 |
-| 248 | Beach Buggy Racing 2: Island Adventure | [0100C43012344000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C43012344000) | c6ebe40f77dbca62 |
-| 249 | Beast Quest | [01001EB00E9FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001EB00E9FE000) | 1dd68befb8b47446 |
-| 250 | Beekyr Reloaded | [0100F8900ADC8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8900ADC8000) | a68d66c915322e4f |
-| 251 | Ben 10 | [01006E1004404000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006E1004404000) | 312a6760655ac64a |
-| 252 | Ben 10 - Power Trip! [Rev 1.0.0] | [01009CD00E3AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009CD00E3AA000) | 4c28d9b591f7ba41, a52f93fc12d20448 |
-| 253 | Beyblade Burst: Battle Zero | [010068600AD16000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010068600AD16000) | bc9ce552d047a306 |
-| 254 | Big Rumble Boxing: Creed Champions | [0100CCC0153F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CCC0153F6000) | 995105d3e4e6c234 |
-| 255 | Biolab Wars | [0100AEC010052000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AEC010052000) | a0f1e0eae07d8446 |
-| 256 | BioShock 2 Remastered | [01002620102C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002620102C6000) | 3953274ef966b6b2, 7d1714279435589c |
-| 257 | BioShock Infinite: The Complete Edition | [0100D560102C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D560102C8000) | 48681f1d90704f6c |
-| 258 | BioShock: The Collection | [0100AD10102B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AD10102B2000) | d89ffaa2062e3733, d89ffaa2062e373d |
-| 259 | Birthday of Midnight | [01009B0012888000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009B0012888000) | 1f0d0b00618a9a4b |
-| 260 | Bit Dungeon Plus | [0100C6E0047C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C6E0047C8000) | dfa48a2646766742 |
-| 261 | Bit Dungeon+ | [01004770079BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004770079BA000) | dfa48a2646766742 |
-| 262 | Bite the Bullet | [0100A0800EA9C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0800EA9C000) | 1de026588eba8442 |
-| 263 | BLACK BIRD | [010022B00ACE6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010022B00ACE6000) | 59d3aec4b3c1f9c6, 8512ce4f95dfd443 |
-| 264 | Black Future '88 | [010049000B69E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049000B69E000) | 2580871e693bf04d, 6b058d50fdcedb4a |
-| 265 | Black Legend | [0100C3200E7E6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C3200E7E6000) | ac35c0188ee353d0 |
-| 266 | Black Paradox | [010071900D95A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071900D95A000) | 3d292f6718eb0046 |
-| 267 | Blackmoor 2 | [0100A0A00E660000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0A00E660000) | f6168d6c148c8949 |
-| 268 | Blacksea Odyssey | [01006B400C178000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006B400C178000) | 9abbfb8abca4a14f |
-| 269 | Blacksmith Of The Sand Kingdom [Rev 1.00] | [010068E013450000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010068E013450000) | 52e9b20c87354246 |
-| 270 | Blade Arcus Rebellion From Shining | [0100C4400CB7C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C4400CB7C000) | 80b750f7ab6a6d9b, e4ffb041ed1e1b44 |
-| 271 | Blade II - The Return Of Evil | [01009CC00E224000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009CC00E224000) | 0379ac316b16fbc1 |
-| 272 | Bladed Fury [Rev 1.00] | [0100DF0011A6A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DF0011A6A000) | d45552f973c9fa42 |
-| 273 | Blades of Time | [0100CFA00CC74000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CFA00CC74000) | 333e26389d65cc97, 5e7cda9e555594f7, 7d5566784a94ec45, aacc3e192951142c |
-| 274 | Blasphemous | [0100698009C6E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100698009C6E000) | 289df01eeab3174f, 382c13c67356d348, 70c806f458d36843, 8a4d312d4f3d8a47 |
-| 275 | Blaster Master Zero | [0100225000FEE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100225000FEE000) | 2f3fca7b168909b9, a3bce5521b979943, cb248efc0e80b579 |
-| 276 | Blaster Master Zero 2 | [01005AA00D676000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005AA00D676000) | a4ea361912d1faac, a6508b49cb116267, b4c22c2a6b42cb3d, eacf4443d4078f41 |
-| 277 | BLAZBLUE CENTRALFICTION Special Edition | [0100EE800C93E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EE800C93E000) | 4c531136514b74b1 |
-| 278 | BLAZBLUE CENTRALFICTION Special Edition | [0100EE900AB58000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EE900AB58000) | 1c1f052d10a63eef |
-| 279 | BlazBlue: Cross Tag Battle | [0100B61008208000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B61008208000) | 1ae1f9f6e9756c30 |
-| 280 | Blazing Chrome | [0100C2700C252000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C2700C252000) | 318f9f225a532857, da4276df8ade4eec |
-| 281 | BLEED | [010042C006490000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042C006490000) | 29c3da45a9a9b062, c26b326ecee0aca1 |
-| 282 | BLEED 2 | [0100A48008AE8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A48008AE8000) | 3bec0ef7b2dfa80d, 5d8a35b1528d9bec |
-| 283 | Bloo Kid 2 | [010055900FADA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010055900FADA000) | 81b7d2ca1a4ba899 |
-| 284 | Blood will be Spilled | [0100E060102AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E060102AA000) | 7c02ca59f9d3f54a |
-| 285 | BloodRayne Betrayal: Fresh Bites | [01009AB013EE2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009AB013EE2000) | b85c787255a5fc19 |
-| 286 | Bloodstained: Curse of the Moon | [01004B800AF5A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B800AF5A000) | 7f601c10c52ecf17, 82deca0a867052bf, b98e9d18b061b2f0 |
-| 287 | Bloodstained: Curse of the Moon 2 | [01004680124E6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004680124E6000) | 08171dea7e990225, d6e8f00f5475ed38 |
-| 288 | Bloodstained: Ritual of the Night | [0100BF500207C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BF500207C000) | 084119fa8d16ac7d, 10b88db440a80087, 1a6dfb0842d3e0d4, 2a4d573019380105, 3801f5e8e152c2c2, 3ae4129599c87e87, 86f6eb39dc3576f2, a736fe15b0bbaeec, bf2258d318ed0b07 |
-| 289 | Bloons TD 5 | [0100B8400A1C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B8400A1C6000) | a514b9687031515d |
-| 290 | Blossom Tales | [0100C1000706C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C1000706C000) | 94b20fd4bc79108e |
-| 291 | Blue Fire | [010073B010F6E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010073B010F6E000) | 0dadad91306ad865, b4294cc08d3d1358 |
-| 292 | Blue Reflection Tie [Rev 1.0.0] | [0100F7901328E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F7901328E000) | 5684331512e5c6ef, b66099e2efd1ad06 |
-| 293 | BLUE REFLECTION: Second Light | [010071C013390000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071C013390000) | 0a0d955453215b3f |
-| 294 | Blue Rider | [01006A600B5E6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006A600B5E6000) | ffd5e4043b659545 |
-| 295 | Boku no Hero Academia: Ones Justice 2 [Rev 1.0.0] | [010011100DBF2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011100DBF2000) | 7cc9cc284127a24f |
-| 296 | Bokujo Monogatari: Olive Town to Kibo no Daichi [Rev 1.0.0] | [010017301007E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010017301007E000) | 1ea294af01f90f4c, a4095add59310847 |
-| 297 | Bokujo Monogatari: Saikai no Mineral Town | [01001D900D9AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001D900D9AC000) | 6dbb212901b120d1, c6d7a20591972336 |
-| 298 | Bomber Crew | [01007900080B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007900080B6000) | 2b039c01b7596146 |
-| 299 | Bombing Busters | [0100E7E00C4CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E7E00C4CA000) | adee8edec4fcaf4d |
-| 300 | Bonds of the Skies | [01009AA00D49E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009AA00D49E000) | 6dc378bd561b8a43 |
-| 301 | Book of Demons | [01007A200F452000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007A200F452000) | 97364795cc407a15 |
-| 302 | Bookbound Brigade | [010054500F564000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010054500F564000) | 2b839a3905710d48 |
-| 303 | Borderlands: Game of the Year Edition | [010064800F66A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010064800F66A000) | 1c37c3673e0e4e7a, 88d224694a04940f |
-| 304 | Borderlands: The Handsome Collection | [010096F00FF22000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010096F00FF22000) | b5ea86b6aefeeb73, f7c233469f20ee3f |
-| 305 | Borderlands: The Pre-Sequel | [010007400FF24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010007400FF24000) | 090b1f7f7af35d00 |
-| 306 | Boss Rush: Mythology | [0100AB9013564000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AB9013564000) | 5d4eab46aace1242 |
-| 307 | Boulder Dash 30th Anniversary | [0100DB20107BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DB20107BE000) | 3ac8a3db96d5d843 |
-| 308 | Bounty Battle | [0100E1200DC1A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1200DC1A000) | 6891f262cbc1fe4b |
-| 309 | Braveland Trilogy | [0100A5B00D3D2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A5B00D3D2000) | 438d108a71cc054f |
-| 310 | BRAVELY DEFAULT™ II | [01006DC010326000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006DC010326000) | 05de5a7f20bd1532 |
-| 311 | Bravely Default™ II Demo | [0100B6801137E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6801137E000) | 9a7ad92f9a3e38e2 |
-| 312 | Brawlout | [010060200A4BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010060200A4BE000) | eaca10198346b74c |
-| 313 | Brick Bat Crazy | [0100FB30148EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FB30148EE000) | 8d380bc25f935c2e |
-| 314 | Bridge Strike | [0100A6C011B10000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A6C011B10000) | 863c6d1966c8217f |
-| 315 | BRIGANDINE The Legend of Runersia | [010011000EA7A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011000EA7A000) | f5a2730610e29849 |
-| 316 | Broforce | [010060A00B53C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010060A00B53C000) | 6af6a293e37cdd4f |
-| 317 | Brotherhood United | [0100BCD010E88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BCD010E88000) | 683c5d2e0c0a3bcb |
-| 318 | Bubble Bobble 4 Friends | [010010900F7B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010010900F7B4000) | 5c7115e0d9c0d241 |
-| 319 | Bubsy: Paws On Fire! | [0100DBE00C554000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DBE00C554000) | be9b1be2c3eb8846 |
-| 320 | Bud Spencer & Terence Hill - Slaps And Beans | [01000D200AC0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D200AC0C000) | 5a9dc352aaf1f548 |
-| 321 | Bug Fables: The Everlasting Sapling | [010051A00E99E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051A00E99E000) | 98604b111c24534c, f23d39f8883ad24f |
-| 322 | Bulletstorm: Duke of Switch Edition | [01003DD00D658000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003DD00D658000) | 32fc35df1c50e1f1 |
-| 323 | BurgerTime Party! | [01006BB00E8FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006BB00E8FA000) | aa4b3c8e4ace0f47 |
-| 324 | Burnout™ Paradise Remastered | [0100DBF01000A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DBF01000A000) | 74570fa2709ed714 |
-| 325 | Burst Shooter | [0100870012912000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100870012912000) | 983e28b1198ae349 |
-| 326 | BUTCHER | [0100177005C8A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100177005C8A000) | ee2490d5530cf03f |
-| 327 | Cadence of Hyrule – Crypt of the NecroDancer Featuring The Legend of Zelda | [01000B900D8B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000B900D8B0000) | 0b56c9667b592eb4, 58d659d1017e8350, 7179a4bd112b6c65, b2c7c52e52fa468f, bd63f1cdf679829e, dc18649d072e8743 |
-| 328 | Caladrius Blaze | [01004FD00D66A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004FD00D66A000) | cdd1c03d9879b8c4 |
-| 329 | Call of Juarez: Gunslinger | [0100B4700BFC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B4700BFC6000) | 6ba63ebc3ba1b4da, ebf7de558d554c7e |
-| 330 | Candleman | [010034400CB5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010034400CB5E000) | 55aa8d007faec044 |
-| 331 | Capcom Beat 'Em Up Bundle | [01005D200B530000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005D200B530000) | deab38ced1ac0d22 |
-| 332 | Capcom Beat 'Em Up Bundle | [010094E00B52E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010094E00B52E000) | fde56d0d80cf091d |
-| 333 | Captain Sabertooth and the Magic Diamond | [0100F0C011A0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F0C011A0C000) | a8ac006445691dfd |
-| 334 | Captain Toad Treasure Tracker | [01009BF0072D4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009BF0072D4000) | 464a579132bb5a4c, 72710a5310a06266, 8f75c9b8b7ff69d9, f87603933acaa161 |
-| 335 | Captain Tsubasa: Rise of New Champions | [0100EAE010560000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EAE010560000) | 48f1cb706c222889, 8230bec0c144303e, f693613cd5a6b53e |
-| 336 | Captain Tsubasa: Rise Of New Champions [Rev 1.00] | [010090B00CA4E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010090B00CA4E000) | bec9c11a24000cf9 |
-| 337 | Cardfight Vanguard EX | [01009B600B9AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009B600B9AA000) | 03a4d6d3cbaed278, ffae59d5cdc76f8f |
-| 338 | Cars 3: Driven to Win | [0100744001588000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100744001588000) | 6e191829548c2a41 |
-| 339 | Cartoon Network: Battle Crashers | [0100085003A2A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100085003A2A000) | b43c9c3c416d344e |
-| 340 | Cast of the Seven Godsends | [0100AEF00A270000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AEF00A270000) | 4bfe25116536ec43 |
-| 341 | Castle Crashers Remastered | [010001300D14A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010001300D14A000) | 14f313fd9d44962c, 9cf2af5b7fd156bc |
-| 342 | Castle Heroes | [0100632014A12000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100632014A12000) | 32ede94479396ce1 |
-| 343 | Castle of Heart | [01003C100445C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003C100445C000) | b6b5c780a08d494d |
-| 344 | Castle of no Escape 2 | [0100F5500FA0E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F5500FA0E000) | af127f2a7813c637 |
-| 345 | Cat Girl Without Salad: Amuse-Bouche | [010076000C86E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076000C86E000) | 297c61613e8d8b2c |
-| 346 | Cat Quest | [0100A2F006FBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A2F006FBE000) | 0100a2f006fbe000, 0a4d71a302961148 |
-| 347 | Cat Quest II | [01008BE00E968000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008BE00E968000) | 220c1f10a8bb9c40, 83e1094d9f4ce147, b913ff9f5961f043 |
-| 348 | Cathedral | [0100BEB01327A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BEB01327A000) | abcb3fc8f707dc9d |
-| 349 | Catherine: Full Body | [0100BF00112C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BF00112C0000) | 93a79c77da81f7f1 |
-| 350 | Cave Story Plus | [0100B7D0022EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B7D0022EE000) | 46fbe5279db0511b, 5d678e584423275c, c013b93e5320cf27 |
-| 351 | Cave Story+ | [01000D9007C28000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D9007C28000) | 46fbe5279db0511b |
-| 352 | Cave Story+ (EUR) | [0100A55003B5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A55003B5C000) | 3ca7b62064697713 |
-| 353 | Caveblazers | [01001A100C0E8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001A100C0E8000) | 37974c170346d3e6 |
-| 354 | Caveman Chuck: Prehistoric Adventure | [010080C00AC3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010080C00AC3C000) | d1a4590fbb68204b |
-| 355 | Caveman Warriors | [01006DB004566000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006DB004566000) | aa14f75e7c738844 |
-| 356 | Cecconoid | [01007A1012852000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007A1012852000) | e1af419e99b26042 |
-| 357 | Celeste | [01002B30028F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002B30028F6000) | 5eae657929360479, b1fb371fb03a6e6a |
-| 358 | CHAOS CODE -NEW SIGN OF CATASTROPHE- | [01007600115CE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007600115CE000) | 9101cd39a5d71c29 |
-| 359 | Chasm | [0100DE200C350000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DE200C350000) | a2358a849b896320 |
-| 360 | Child of Light Ultimate Edition + Valiant Hearts: The Great War | [01007D000AD8A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007D000AD8A000) | a8d1f8391e7d4d31 |
-| 361 | Children of Morta | [01002DE00C250000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002DE00C250000) | 31d92c875b1cca41, 592de2f107ec8646, 657485006bd26747, d76cdb57ca4e8a4c, fe06d69d28f8e34c |
-| 362 | Chocobo’s Mystery Dungeon: Every Buddy! | [0100BF600BF26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BF600BF26000) | c51fc4337e825148 |
-| 363 | Choukaiten Sushi Striker: The Way of Sushido | [0100A6200851E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A6200851E000) | 51aa4bbcee874768 |
-| 364 | Chroma Squad | [010012E00EA66000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010012E00EA66000) | 2d502def7e95e447 |
-| 365 | Cities: Skylines - Nintendo Switch Edition | [0100D8800B87C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D8800B87C000) | 9c010911589c624f |
-| 366 | Citizens Unite!: Earth x Space | [0100D9C012900000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D9C012900000) | 2d4b46056fb686a5 |
-| 367 | Clan N | [010065000D25C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010065000D25C000) | a853d6a12b29f4e8 |
-| 368 | Cloudbase Prime | [010023800FE12000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010023800FE12000) | aba1020691a6d248 |
-| 369 | Cloudpunk | [0100916011210000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100916011210000) | 336def62e89ec043, ad212fe48bd0ee4f |
-| 370 | Cobra Kai: The Karate Kid Saga Continues [Rev 1.0.0] | [01005790110F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005790110F0000) | 97e45918d2113640, b686e3c2ac685a41, e8a03acd481a0d48 |
-| 371 | Code of Princess EX | [010034E005C9C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010034E005C9C000) | 04a3c0fd3ce8553d |
-| 372 | Collapsed | [01004F1012716000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004F1012716000) | d645b9f300d6b842 |
-| 373 | Colossus Down | [0100E2F0128B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E2F0128B4000) | ac6fc4429263db45 |
-| 374 | Colt Canyon | [0100B9801210A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B9801210A000) | 126b87e1504877ae, cd9597ec83d0e348 |
-| 375 | Concept Destruction [Rev 1.0.0] | [0100971011224000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100971011224000) | 16f03a8a9ff95742 |
-| 376 | Conjurer Andy's Repeatable Dungeon | [0100C8500CBC4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C8500CBC4000) | 6e6053566cfbc210 |
-| 377 | Contra: Rogue Corps | [0100F2600D710000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2600D710000) | 8b5602a415099d59, cc28259144a178c0 |
-| 378 | Cooking Simulator | [01001E400FD58000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001E400FD58000) | 54d347dc37e12941 |
-| 379 | CopperBell | [0100C5A0115C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5A0115C4000) | b35a2167f134094d |
-| 380 | Cosmic Star Heroine | [010067C00A776000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010067C00A776000) | 6b3808bcfea9be42 |
-| 381 | Cotton Reboot [Rev 1.0.0] | [01003DD00F94A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003DD00F94A000) | 6743a37fce1e9be4 |
-| 382 | Crash Bandicoot N. Sane Trilogy | [0100D1B006744000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D1B006744000) | 29e1a37d84227147 |
-| 383 | Crash Bandicoot™ 4: It’s About Time | [010073401175E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010073401175E000) | 8778d3227d806567, d3ca5602f3467451, e8db38f170b0149d |
-| 384 | Crash Dummy | [010046600BD0E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010046600BD0E000) | dc2e82a825e4b747 |
-| 385 | Crash Team Racing Nitro-Fueled | [0100F9F00C696000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F9F00C696000) | 1c68951840693051, 20e862bd6c39d8ae, 22df179b89611807, 47e60871471f1ce9, 64736428d344e78e, 67813b3f85782991, 6c34f9d999e908e8, 6d693314dac7b040, 9a5cf70301fbeb93, be5ee5a46fcde180, c25bb998c6d3c629, d614a20dde59e4d7, dfcfaff44673ef2b, ec79bf385ed287e8, ed5d2d9df7a61c7d |
-| 386 | Crawlco Block Knockers | [0100148012F7A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100148012F7A000) | 40bb457f738e3cbe |
-| 387 | Crayon Shin-chan "Ora to Hakase no Natsuyasumi": Owaranai Nanokakan no Tab [Rev 1.0.0] | [01005BA00F486000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005BA00F486000) | 581b2b50678f2941 |
-| 388 | Crimsonland | [01005640080B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005640080B0000) | 89a17f4a3a24595f |
-| 389 | Crimzon Clover - World EXplosion | [01006B800DE26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006B800DE26000) | 7f112d4c048e9eee |
-| 390 | Cris Tales | [0100B0400EBC4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B0400EBC4000) | 9d1c31c1e9270643 |
-| 391 | Crisis Wing | [0100CAC015A8A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CAC015A8A000) | c0cfaea6a0bd3942 |
-| 392 | Croc's World | [01004F800C4DA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004F800C4DA000) | 777320c58883bd91 |
-| 393 | Croc's World 2 | [01009DB00DE12000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009DB00DE12000) | 934946857ae782c7 |
-| 394 | Croc's World 3 | [010025200FC54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010025200FC54000) | 98f36c45c6c78ab6 |
-| 395 | CrossCode | [01003D90058FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D90058FC000) | bccabe04aaa3bd58 |
-| 396 | Crown Trick | [0100059012BAE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100059012BAE000) | 3d7fcd24d5ee4042, d54a9e2cc4ba2947 |
-| 397 | Cruisn Blast [Rev 1.06] | [0100B41013C82000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B41013C82000) | 9346d69abd4cc24b |
-| 398 | Cryogear | [0100AC100CCF6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AC100CCF6000) | 2ad1db30685b030e |
-| 399 | Crypt of the Necrodancer | [0100CEA007D08000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CEA007D08000) | b238fa943d2a300d |
-| 400 | Crysis 2 Remastered | [0100582010AE0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100582010AE0000) | 1d2022d0d6edcd29 |
-| 401 | Crysis Remastered | [0100E66010ADE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E66010ADE000) | 5d28e2b25f564f43, 926553c68db4f96e, f8783cb2cb3bf79f |
-| 402 | Crystal Ortha | [01008FA012FC0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008FA012FC0000) | 9b192f49cdbc0746 |
-| 403 | Cube Life: Island Survival | [0100519007636000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100519007636000) | 711f2270ba94194e |
-| 404 | Cuphead | [0100A5C00D162000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A5C00D162000) | 80537fb47433794b, e5f6265d8d486648, ffe6641915cd2f4c |
-| 405 | Cursed Castilla ex | [0100ED700B376000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED700B376000) | d8014da69caf4d6c |
-| 406 | Cyber Shadow | [01008D100DE46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D100DE46000) | 7ab40e8a9691c2c3 |
-| 407 | Daemon X Machina | [0100CB8005B26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CB8005B26000) | 619d3570bf6b9b7b |
-| 408 | Daemon X Machina | [0100B6400CA56000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6400CA56000) | 619d3570bf6b9b7b, ce8a42e1a1c73b26 |
-| 409 | Damsel | [0100BD2009A1C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD2009A1C000) | f6b9d27b867f2b4f |
-| 410 | Dandara | [0100BFC002B4E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BFC002B4E000) | f000171741236440 |
-| 411 | Dandy Ace | [0100608014708000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100608014708000) | 0100608014708000, 4f19956a6cdaca48 |
-| 412 | Dandy Dungeon - Legend of Brave Yamada - | [0100DFB00D808000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DFB00D808000) | 29410ca2711a4145 |
-| 413 | Danger Gazers | [0100B3901324A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B3901324A000) | eec8e7475d2b06c0 |
-| 414 | Danmaku Unlimited 3 | [0100417007F78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100417007F78000) | 35177d3968aca808, cf4207220d0ada5b |
-| 415 | Darius Cozmic Collection Console | [01000330105BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000330105BE000) | ded774f05f23a7e9 |
-| 416 | Darius Cozmic Revelation [2x Rev 1.0.0] | [010015800F93C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010015800F93C000) | e6af25ecbd97a207 |
-| 417 | Dark Souls: Remastered | [01004AB00A260000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004AB00A260000) | 5a797a3a5da6c4f3, 9985b82cc518ffaf, df3766a2bb651a3e, f4b72c9ef704ca64 |
-| 418 | Dark Water: Slime Invader | [0100C88014614000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C88014614000) | 9b1e3922172a594b |
-| 419 | Dark Witch Music Episode: Rudymical | [01001FA0034E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001FA0034E2000) | 9f751801449b6d7a |
-| 420 | Darksiders Genesis [Rev 1.0.0] | [0100F2300D4BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2300D4BA000) | 0eb0818751685be8, 1dd738fe18fd9bbc, darksiders genes, db17131624d04a9c, dd7a7a508f483608 |
-| 421 | Darksiders II [Deathinitive Edition] | [010071800BA98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071800BA98000) | 173e2edea9e5d940 |
-| 422 | Darksiders III [Rev 1.0.0] | [0100F8F014190000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8F014190000) | af7114f019ce6e1d |
-| 423 | Darksiders Warmastered Edition  | [0100E140BA96000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E140BA96000) | a4cc4c44c07aec14 |
+| 243 | Battle Princess Madelyn | [0100C4D0093EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C4D0093EA000) | 8c853c65d7ff824f |
+| 244 | Battle Princess Madelyn Royal Edition | [0100A7500DF64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A7500DF64000) | 404c24b13d16da49 |
+| 245 | Bayonetta | [010076F0049A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076F0049A2000) | 7ae22ddabce854f5 |
+| 246 | Bayonetta 2 | [01007960049A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007960049A0000) | 40ea84adf0a7bc26 |
+| 247 | BDSM: Big Drunk Satanic Massacre | [01002FA00DE72000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002FA00DE72000) | 7dcd7a8bb4d3de46, b51ed813ddd61748 |
+| 248 | BE-A Walker | [01003A1010E3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003A1010E3C000) | dc7a206287057848 |
+| 249 | Beach Buggy Racing 2: Island Adventure | [0100C43012344000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C43012344000) | c6ebe40f77dbca62 |
+| 250 | Beast Quest | [01001EB00E9FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001EB00E9FE000) | 1dd68befb8b47446 |
+| 251 | Beekyr Reloaded | [0100F8900ADC8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8900ADC8000) | a68d66c915322e4f |
+| 252 | Ben 10 | [01006E1004404000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006E1004404000) | 312a6760655ac64a |
+| 253 | Ben 10 - Power Trip! [Rev 1.0.0] | [01009CD00E3AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009CD00E3AA000) | 4c28d9b591f7ba41, a52f93fc12d20448 |
+| 254 | Beyblade Burst: Battle Zero | [010068600AD16000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010068600AD16000) | bc9ce552d047a306 |
+| 255 | Big Rumble Boxing: Creed Champions | [0100CCC0153F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CCC0153F6000) | 995105d3e4e6c234 |
+| 256 | Biolab Wars | [0100AEC010052000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AEC010052000) | a0f1e0eae07d8446 |
+| 257 | BioShock 2 Remastered | [01002620102C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002620102C6000) | 3953274ef966b6b2, 7d1714279435589c |
+| 258 | BioShock Infinite: The Complete Edition | [0100D560102C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D560102C8000) | 48681f1d90704f6c |
+| 259 | BioShock: The Collection | [0100AD10102B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AD10102B2000) | d89ffaa2062e3733, d89ffaa2062e373d |
+| 260 | Birthday of Midnight | [01009B0012888000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009B0012888000) | 1f0d0b00618a9a4b |
+| 261 | Bit Dungeon Plus | [0100C6E0047C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C6E0047C8000) | dfa48a2646766742 |
+| 262 | Bit Dungeon+ | [01004770079BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004770079BA000) | dfa48a2646766742 |
+| 263 | Bite the Bullet | [0100A0800EA9C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0800EA9C000) | 1de026588eba8442 |
+| 264 | BLACK BIRD | [010022B00ACE6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010022B00ACE6000) | 59d3aec4b3c1f9c6, 8512ce4f95dfd443 |
+| 265 | Black Future '88 | [010049000B69E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049000B69E000) | 2580871e693bf04d, 6b058d50fdcedb4a |
+| 266 | Black Legend | [0100C3200E7E6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C3200E7E6000) | ac35c0188ee353d0 |
+| 267 | Black Paradox | [010071900D95A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071900D95A000) | 3d292f6718eb0046 |
+| 268 | Blackmoor 2 | [0100A0A00E660000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0A00E660000) | f6168d6c148c8949 |
+| 269 | Blacksea Odyssey | [01006B400C178000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006B400C178000) | 9abbfb8abca4a14f |
+| 270 | Blacksmith Of The Sand Kingdom [Rev 1.00] | [010068E013450000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010068E013450000) | 52e9b20c87354246 |
+| 271 | Blade Arcus Rebellion From Shining | [0100C4400CB7C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C4400CB7C000) | 80b750f7ab6a6d9b, e4ffb041ed1e1b44 |
+| 272 | Blade II - The Return Of Evil | [01009CC00E224000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009CC00E224000) | 0379ac316b16fbc1 |
+| 273 | Bladed Fury [Rev 1.00] | [0100DF0011A6A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DF0011A6A000) | d45552f973c9fa42 |
+| 274 | Blades of Time | [0100CFA00CC74000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CFA00CC74000) | 333e26389d65cc97, 5e7cda9e555594f7, 7d5566784a94ec45, aacc3e192951142c |
+| 275 | Blasphemous | [0100698009C6E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100698009C6E000) | 289df01eeab3174f, 382c13c67356d348, 70c806f458d36843, 8a4d312d4f3d8a47 |
+| 276 | Blaster Master Zero | [0100225000FEE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100225000FEE000) | 2f3fca7b168909b9, a3bce5521b979943, cb248efc0e80b579 |
+| 277 | Blaster Master Zero 2 | [01005AA00D676000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005AA00D676000) | a4ea361912d1faac, a6508b49cb116267, b4c22c2a6b42cb3d, eacf4443d4078f41 |
+| 278 | BLAZBLUE CENTRALFICTION Special Edition | [0100EE800C93E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EE800C93E000) | 4c531136514b74b1 |
+| 279 | BLAZBLUE CENTRALFICTION Special Edition | [0100EE900AB58000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EE900AB58000) | 1c1f052d10a63eef |
+| 280 | BlazBlue: Cross Tag Battle | [0100B61008208000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B61008208000) | 1ae1f9f6e9756c30 |
+| 281 | Blazing Chrome | [0100C2700C252000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C2700C252000) | 318f9f225a532857, da4276df8ade4eec |
+| 282 | BLEED | [010042C006490000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042C006490000) | 29c3da45a9a9b062, c26b326ecee0aca1 |
+| 283 | BLEED 2 | [0100A48008AE8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A48008AE8000) | 3bec0ef7b2dfa80d, 5d8a35b1528d9bec |
+| 284 | Bloo Kid 2 | [010055900FADA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010055900FADA000) | 81b7d2ca1a4ba899 |
+| 285 | Blood will be Spilled | [0100E060102AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E060102AA000) | 7c02ca59f9d3f54a |
+| 286 | BloodRayne Betrayal: Fresh Bites | [01009AB013EE2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009AB013EE2000) | b85c787255a5fc19 |
+| 287 | Bloodstained: Curse of the Moon | [01004B800AF5A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B800AF5A000) | 7f601c10c52ecf17, 82deca0a867052bf, b98e9d18b061b2f0 |
+| 288 | Bloodstained: Curse of the Moon 2 | [01004680124E6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004680124E6000) | 08171dea7e990225, d6e8f00f5475ed38 |
+| 289 | Bloodstained: Ritual of the Night | [0100BF500207C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BF500207C000) | 084119fa8d16ac7d, 10b88db440a80087, 1a6dfb0842d3e0d4, 2a4d573019380105, 3801f5e8e152c2c2, 3ae4129599c87e87, 86f6eb39dc3576f2, a736fe15b0bbaeec, bf2258d318ed0b07 |
+| 290 | Bloons TD 5 | [0100B8400A1C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B8400A1C6000) | a514b9687031515d |
+| 291 | Blossom Tales | [0100C1000706C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C1000706C000) | 94b20fd4bc79108e |
+| 292 | Blue Fire | [010073B010F6E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010073B010F6E000) | 0dadad91306ad865, b4294cc08d3d1358 |
+| 293 | Blue Reflection Tie [Rev 1.0.0] | [0100F7901328E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F7901328E000) | 5684331512e5c6ef, b66099e2efd1ad06 |
+| 294 | BLUE REFLECTION: Second Light | [010071C013390000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071C013390000) | 0a0d955453215b3f |
+| 295 | Blue Rider | [01006A600B5E6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006A600B5E6000) | ffd5e4043b659545 |
+| 296 | Boku no Hero Academia: Ones Justice 2 [Rev 1.0.0] | [010011100DBF2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011100DBF2000) | 7cc9cc284127a24f |
+| 297 | Bokujo Monogatari: Olive Town to Kibo no Daichi [Rev 1.0.0] | [010017301007E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010017301007E000) | 1ea294af01f90f4c, a4095add59310847 |
+| 298 | Bokujo Monogatari: Saikai no Mineral Town | [01001D900D9AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001D900D9AC000) | 6dbb212901b120d1, c6d7a20591972336 |
+| 299 | Bomber Crew | [01007900080B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007900080B6000) | 2b039c01b7596146 |
+| 300 | Bombing Busters | [0100E7E00C4CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E7E00C4CA000) | adee8edec4fcaf4d |
+| 301 | Bonds of the Skies | [01009AA00D49E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009AA00D49E000) | 6dc378bd561b8a43 |
+| 302 | Book of Demons | [01007A200F452000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007A200F452000) | 97364795cc407a15 |
+| 303 | Bookbound Brigade | [010054500F564000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010054500F564000) | 2b839a3905710d48 |
+| 304 | Borderlands: Game of the Year Edition | [010064800F66A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010064800F66A000) | 1c37c3673e0e4e7a, 88d224694a04940f |
+| 305 | Borderlands: The Handsome Collection | [010096F00FF22000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010096F00FF22000) | b5ea86b6aefeeb73, f7c233469f20ee3f |
+| 306 | Borderlands: The Pre-Sequel | [010007400FF24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010007400FF24000) | 090b1f7f7af35d00 |
+| 307 | Boss Rush: Mythology | [0100AB9013564000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AB9013564000) | 5d4eab46aace1242 |
+| 308 | Boulder Dash 30th Anniversary | [0100DB20107BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DB20107BE000) | 3ac8a3db96d5d843 |
+| 309 | Bounty Battle | [0100E1200DC1A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1200DC1A000) | 6891f262cbc1fe4b |
+| 310 | Braveland Trilogy | [0100A5B00D3D2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A5B00D3D2000) | 438d108a71cc054f |
+| 311 | BRAVELY DEFAULT™ II | [01006DC010326000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006DC010326000) | 05de5a7f20bd1532 |
+| 312 | Bravely Default™ II Demo | [0100B6801137E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6801137E000) | 9a7ad92f9a3e38e2 |
+| 313 | Brawlout | [010060200A4BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010060200A4BE000) | eaca10198346b74c |
+| 314 | Brick Bat Crazy | [0100FB30148EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FB30148EE000) | 8d380bc25f935c2e |
+| 315 | Bridge Strike | [0100A6C011B10000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A6C011B10000) | 863c6d1966c8217f |
+| 316 | BRIGANDINE The Legend of Runersia | [010011000EA7A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011000EA7A000) | f5a2730610e29849 |
+| 317 | Broforce | [010060A00B53C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010060A00B53C000) | 6af6a293e37cdd4f |
+| 318 | Brotherhood United | [0100BCD010E88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BCD010E88000) | 683c5d2e0c0a3bcb |
+| 319 | Bubble Bobble 4 Friends | [010010900F7B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010010900F7B4000) | 5c7115e0d9c0d241 |
+| 320 | Bubsy: Paws On Fire! | [0100DBE00C554000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DBE00C554000) | be9b1be2c3eb8846 |
+| 321 | Bud Spencer & Terence Hill - Slaps And Beans | [01000D200AC0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D200AC0C000) | 5a9dc352aaf1f548 |
+| 322 | Bug Fables: The Everlasting Sapling | [010051A00E99E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051A00E99E000) | 98604b111c24534c, f23d39f8883ad24f |
+| 323 | Bulletstorm: Duke of Switch Edition | [01003DD00D658000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003DD00D658000) | 32fc35df1c50e1f1 |
+| 324 | BurgerTime Party! | [01006BB00E8FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006BB00E8FA000) | aa4b3c8e4ace0f47 |
+| 325 | Burnout™ Paradise Remastered | [0100DBF01000A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DBF01000A000) | 74570fa2709ed714 |
+| 326 | Burst Shooter | [0100870012912000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100870012912000) | 983e28b1198ae349 |
+| 327 | BUTCHER | [0100177005C8A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100177005C8A000) | ee2490d5530cf03f |
+| 328 | Cadence of Hyrule – Crypt of the NecroDancer Featuring The Legend of Zelda | [01000B900D8B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000B900D8B0000) | 0b56c9667b592eb4, 58d659d1017e8350, 7179a4bd112b6c65, b2c7c52e52fa468f, bd63f1cdf679829e, dc18649d072e8743 |
+| 329 | Caladrius Blaze | [01004FD00D66A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004FD00D66A000) | cdd1c03d9879b8c4 |
+| 330 | Call of Juarez: Gunslinger | [0100B4700BFC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B4700BFC6000) | 6ba63ebc3ba1b4da, ebf7de558d554c7e |
+| 331 | Candleman | [010034400CB5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010034400CB5E000) | 55aa8d007faec044 |
+| 332 | Capcom Beat 'Em Up Bundle | [01005D200B530000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005D200B530000) | deab38ced1ac0d22 |
+| 333 | Capcom Beat 'Em Up Bundle | [010094E00B52E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010094E00B52E000) | fde56d0d80cf091d |
+| 334 | Captain Sabertooth and the Magic Diamond | [0100F0C011A0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F0C011A0C000) | a8ac006445691dfd |
+| 335 | Captain Toad Treasure Tracker | [01009BF0072D4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009BF0072D4000) | 464a579132bb5a4c, 72710a5310a06266, 8f75c9b8b7ff69d9, f87603933acaa161 |
+| 336 | Captain Tsubasa: Rise of New Champions | [0100EAE010560000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EAE010560000) | 48f1cb706c222889, 8230bec0c144303e, f693613cd5a6b53e |
+| 337 | Captain Tsubasa: Rise Of New Champions [Rev 1.00] | [010090B00CA4E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010090B00CA4E000) | bec9c11a24000cf9 |
+| 338 | Cardfight Vanguard EX | [01009B600B9AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009B600B9AA000) | 03a4d6d3cbaed278, ffae59d5cdc76f8f |
+| 339 | Cars 3: Driven to Win | [0100744001588000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100744001588000) | 6e191829548c2a41 |
+| 340 | Cartoon Network: Battle Crashers | [0100085003A2A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100085003A2A000) | b43c9c3c416d344e |
+| 341 | Cast of the Seven Godsends | [0100AEF00A270000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AEF00A270000) | 4bfe25116536ec43 |
+| 342 | Castle Crashers Remastered | [010001300D14A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010001300D14A000) | 14f313fd9d44962c, 9cf2af5b7fd156bc |
+| 343 | Castle Heroes | [0100632014A12000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100632014A12000) | 32ede94479396ce1 |
+| 344 | Castle of Heart | [01003C100445C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003C100445C000) | b6b5c780a08d494d |
+| 345 | Castle of no Escape 2 | [0100F5500FA0E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F5500FA0E000) | af127f2a7813c637 |
+| 346 | Cat Girl Without Salad: Amuse-Bouche | [010076000C86E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076000C86E000) | 297c61613e8d8b2c |
+| 347 | Cat Quest | [0100A2F006FBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A2F006FBE000) | 0100a2f006fbe000, 0a4d71a302961148 |
+| 348 | Cat Quest II | [01008BE00E968000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008BE00E968000) | 220c1f10a8bb9c40, 83e1094d9f4ce147, b913ff9f5961f043 |
+| 349 | Cathedral | [0100BEB01327A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BEB01327A000) | abcb3fc8f707dc9d |
+| 350 | Catherine: Full Body | [0100BF00112C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BF00112C0000) | 93a79c77da81f7f1 |
+| 351 | Cave Story Plus | [0100B7D0022EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B7D0022EE000) | 46fbe5279db0511b, 5d678e584423275c, c013b93e5320cf27 |
+| 352 | Cave Story+ | [01000D9007C28000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D9007C28000) | 46fbe5279db0511b |
+| 353 | Cave Story+ (EUR) | [0100A55003B5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A55003B5C000) | 3ca7b62064697713 |
+| 354 | Caveblazers | [01001A100C0E8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001A100C0E8000) | 37974c170346d3e6 |
+| 355 | Caveman Chuck: Prehistoric Adventure | [010080C00AC3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010080C00AC3C000) | d1a4590fbb68204b |
+| 356 | Caveman Warriors | [01006DB004566000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006DB004566000) | aa14f75e7c738844 |
+| 357 | Cecconoid | [01007A1012852000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007A1012852000) | e1af419e99b26042 |
+| 358 | Celeste | [01002B30028F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002B30028F6000) | 5eae657929360479, b1fb371fb03a6e6a |
+| 359 | CHAOS CODE -NEW SIGN OF CATASTROPHE- | [01007600115CE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007600115CE000) | 9101cd39a5d71c29 |
+| 360 | Chasm | [0100DE200C350000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DE200C350000) | a2358a849b896320 |
+| 361 | Child of Light Ultimate Edition + Valiant Hearts: The Great War | [01007D000AD8A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007D000AD8A000) | a8d1f8391e7d4d31 |
+| 362 | Children of Morta | [01002DE00C250000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002DE00C250000) | 31d92c875b1cca41, 592de2f107ec8646, 657485006bd26747, d76cdb57ca4e8a4c, fe06d69d28f8e34c |
+| 363 | Chocobo’s Mystery Dungeon: Every Buddy! | [0100BF600BF26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BF600BF26000) | c51fc4337e825148 |
+| 364 | Choukaiten Sushi Striker: The Way of Sushido | [0100A6200851E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A6200851E000) | 51aa4bbcee874768 |
+| 365 | Chroma Squad | [010012E00EA66000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010012E00EA66000) | 2d502def7e95e447 |
+| 366 | Cities: Skylines - Nintendo Switch Edition | [0100D8800B87C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D8800B87C000) | 9c010911589c624f |
+| 367 | Citizens Unite!: Earth x Space | [0100D9C012900000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D9C012900000) | 2d4b46056fb686a5 |
+| 368 | Clan N | [010065000D25C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010065000D25C000) | a853d6a12b29f4e8 |
+| 369 | Cloudbase Prime | [010023800FE12000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010023800FE12000) | aba1020691a6d248 |
+| 370 | Cloudpunk | [0100916011210000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100916011210000) | 336def62e89ec043, ad212fe48bd0ee4f |
+| 371 | Cobra Kai: The Karate Kid Saga Continues [Rev 1.0.0] | [01005790110F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005790110F0000) | 97e45918d2113640, b686e3c2ac685a41, e8a03acd481a0d48 |
+| 372 | Code of Princess EX | [010034E005C9C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010034E005C9C000) | 04a3c0fd3ce8553d |
+| 373 | Collapsed | [01004F1012716000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004F1012716000) | d645b9f300d6b842 |
+| 374 | Colossus Down | [0100E2F0128B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E2F0128B4000) | ac6fc4429263db45 |
+| 375 | Colt Canyon | [0100B9801210A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B9801210A000) | 126b87e1504877ae, cd9597ec83d0e348 |
+| 376 | Concept Destruction [Rev 1.0.0] | [0100971011224000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100971011224000) | 16f03a8a9ff95742 |
+| 377 | Conjurer Andy's Repeatable Dungeon | [0100C8500CBC4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C8500CBC4000) | 6e6053566cfbc210 |
+| 378 | Contra: Rogue Corps | [0100F2600D710000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2600D710000) | 8b5602a415099d59, cc28259144a178c0 |
+| 379 | Cooking Simulator | [01001E400FD58000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001E400FD58000) | 54d347dc37e12941 |
+| 380 | CopperBell | [0100C5A0115C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5A0115C4000) | b35a2167f134094d |
+| 381 | Cosmic Star Heroine | [010067C00A776000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010067C00A776000) | 6b3808bcfea9be42 |
+| 382 | Cotton Reboot [Rev 1.0.0] | [01003DD00F94A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003DD00F94A000) | 6743a37fce1e9be4 |
+| 383 | Crash Bandicoot N. Sane Trilogy | [0100D1B006744000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D1B006744000) | 29e1a37d84227147 |
+| 384 | Crash Bandicoot™ 4: It’s About Time | [010073401175E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010073401175E000) | 8778d3227d806567, d3ca5602f3467451, e8db38f170b0149d |
+| 385 | Crash Dummy | [010046600BD0E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010046600BD0E000) | dc2e82a825e4b747 |
+| 386 | Crash Team Racing Nitro-Fueled | [0100F9F00C696000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F9F00C696000) | 1c68951840693051, 20e862bd6c39d8ae, 22df179b89611807, 47e60871471f1ce9, 64736428d344e78e, 67813b3f85782991, 6c34f9d999e908e8, 6d693314dac7b040, 9a5cf70301fbeb93, be5ee5a46fcde180, c25bb998c6d3c629, d614a20dde59e4d7, dfcfaff44673ef2b, ec79bf385ed287e8, ed5d2d9df7a61c7d |
+| 387 | Crawlco Block Knockers | [0100148012F7A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100148012F7A000) | 40bb457f738e3cbe |
+| 388 | Crayon Shin-chan "Ora to Hakase no Natsuyasumi": Owaranai Nanokakan no Tab [Rev 1.0.0] | [01005BA00F486000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005BA00F486000) | 581b2b50678f2941 |
+| 389 | Crimsonland | [01005640080B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005640080B0000) | 89a17f4a3a24595f |
+| 390 | Crimzon Clover - World EXplosion | [01006B800DE26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006B800DE26000) | 7f112d4c048e9eee |
+| 391 | Cris Tales | [0100B0400EBC4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B0400EBC4000) | 9d1c31c1e9270643 |
+| 392 | Crisis Wing | [0100CAC015A8A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CAC015A8A000) | c0cfaea6a0bd3942 |
+| 393 | Croc's World | [01004F800C4DA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004F800C4DA000) | 777320c58883bd91 |
+| 394 | Croc's World 2 | [01009DB00DE12000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009DB00DE12000) | 934946857ae782c7 |
+| 395 | Croc's World 3 | [010025200FC54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010025200FC54000) | 98f36c45c6c78ab6 |
+| 396 | CrossCode | [01003D90058FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D90058FC000) | bccabe04aaa3bd58 |
+| 397 | Crown Trick | [0100059012BAE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100059012BAE000) | 3d7fcd24d5ee4042, d54a9e2cc4ba2947 |
+| 398 | Cruisn Blast [Rev 1.06] | [0100B41013C82000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B41013C82000) | 9346d69abd4cc24b |
+| 399 | Cryogear | [0100AC100CCF6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AC100CCF6000) | 2ad1db30685b030e |
+| 400 | Crypt of the Necrodancer | [0100CEA007D08000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CEA007D08000) | b238fa943d2a300d |
+| 401 | Crysis 2 Remastered | [0100582010AE0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100582010AE0000) | 06a2a4a3d5ff4d7c, 1d2022d0d6edcd29 |
+| 402 | Crysis Remastered | [0100E66010ADE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E66010ADE000) | 5d28e2b25f564f43, 926553c68db4f96e, f8783cb2cb3bf79f |
+| 403 | Crystal Ortha | [01008FA012FC0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008FA012FC0000) | 9b192f49cdbc0746 |
+| 404 | Cube Life: Island Survival | [0100519007636000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100519007636000) | 711f2270ba94194e |
+| 405 | Cuphead | [0100A5C00D162000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A5C00D162000) | 80537fb47433794b, e5f6265d8d486648, ffe6641915cd2f4c |
+| 406 | Cursed Castilla ex | [0100ED700B376000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED700B376000) | d8014da69caf4d6c |
+| 407 | Cyber Shadow | [01008D100DE46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D100DE46000) | 7ab40e8a9691c2c3 |
+| 408 | Daemon X Machina | [0100CB8005B26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CB8005B26000) | 619d3570bf6b9b7b |
+| 409 | Daemon X Machina | [0100B6400CA56000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6400CA56000) | 619d3570bf6b9b7b, ce8a42e1a1c73b26 |
+| 410 | Damsel | [0100BD2009A1C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD2009A1C000) | f6b9d27b867f2b4f |
+| 411 | Dandara | [0100BFC002B4E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BFC002B4E000) | f000171741236440 |
+| 412 | Dandy Ace | [0100608014708000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100608014708000) | 0100608014708000, 4f19956a6cdaca48 |
+| 413 | Dandy Dungeon - Legend of Brave Yamada - | [0100DFB00D808000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DFB00D808000) | 29410ca2711a4145 |
+| 414 | Danger Gazers | [0100B3901324A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B3901324A000) | eec8e7475d2b06c0 |
+| 415 | Danmaku Unlimited 3 | [0100417007F78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100417007F78000) | 35177d3968aca808, cf4207220d0ada5b |
+| 416 | Darius Cozmic Collection Console | [01000330105BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000330105BE000) | ded774f05f23a7e9 |
+| 417 | Darius Cozmic Revelation [2x Rev 1.0.0] | [010015800F93C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010015800F93C000) | e6af25ecbd97a207 |
+| 418 | Dark Souls: Remastered | [01004AB00A260000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004AB00A260000) | 5a797a3a5da6c4f3, 9985b82cc518ffaf, df3766a2bb651a3e, f4b72c9ef704ca64 |
+| 419 | Dark Water: Slime Invader | [0100C88014614000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C88014614000) | 9b1e3922172a594b |
+| 420 | Dark Witch Music Episode: Rudymical | [01001FA0034E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001FA0034E2000) | 9f751801449b6d7a |
+| 421 | Darksiders Genesis [Rev 1.0.0] | [0100F2300D4BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2300D4BA000) | 0eb0818751685be8, 1dd738fe18fd9bbc, darksiders genes, db17131624d04a9c, dd7a7a508f483608 |
+| 422 | Darksiders II [Deathinitive Edition] | [010071800BA98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071800BA98000) | 173e2edea9e5d940 |
+| 423 | Darksiders III [Rev 1.0.0] | [0100F8F014190000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8F014190000) | af7114f019ce6e1d |
 | 424 | Darksiders Warmastered Edition | [0100E1400BA96000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1400BA96000) | a4cc4c44c07aec14 |
-| 425 | Darkwood | [010033500B7B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010033500B7B6000) | 1cc75c05b5c0cb40, 207231a04b2f3744, 250ce7c4a4de1940, 39a33d59f1f2b841 |
-| 426 | DC Super Hero Girls™: Teen Power | [0100F8F00C4F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8F00C4F2000) | bc714e2d7d32ab41 |
-| 427 | Dead Cells | [0100FC000AEF0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FC000AEF0000) | 0ec417630f5c7a35, 62f7f1e54f9353f8 |
-| 428 | Dead Cells | [0100646009FBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100646009FBE000) | 07590851285f3479, 0b9a75586bc1a6c6, 113fe52d64570f0f, 193312261c565696, 1be215b198e66550, 254c9e4b338bfcd3, 376d8ef97fb8a97d, 5474c91b733d8621, 62cd40cee7d6e7b7, 62f7f1e54f9353f8, 880653d91ece0771, 985189e46f9cf34d, b2fcf615ded71da7, ce6074604542acac, d54a4677ec796e15, d8bfb3dfd14773f8, da6049b1703bcb2c, e123f86e654ca1ef, efe3aca35e248bb6 |
-| 429 | dead cells 1.3 | [010064009FBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010064009FBE000) | efe3aca35e248bb6 |
-| 430 | Dead Effect 2 | [01007860152EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007860152EE000) | 630ab427cb952e4d |
-| 431 | Dead or Alive Xtreme 3: Scarlet | [01009CC00C97C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009CC00C97C000) | d81d2492b00f45d2 |
-| 432 | DEAD OR SCHOOL | [0100E7100C52C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E7100C52C000) | d29fa0c8b15e7842 |
-| 433 | Deadly Days | [010095A011A14000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095A011A14000) | 18591dd841cc6a44 |
-| 434 | Deadly Premonition 2: A Blessing In Disguise | [0100BAC011928000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BAC011928000) | 2481dafb3edc6b4e, 3c9b3ecfad8a9542, 47855f311db97849 |
-| 435 | Death Road to Canada | [0100423009358000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100423009358000) | 4cb1dc253d230b2c |
-| 436 | Death Tales | [0100A51013550000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A51013550000) | b4889e2facba7e5c |
-| 437 | Death's Gambit: Afterlife | [01006A0015812000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006A0015812000) | bc39a2ba6fd581d1, c7d5d3afb3b946b5 |
-| 438 | Deep Sky Derelicts: Definitive Edition | [0100C3E00D68E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C3E00D68E000) | cb90194eced68b43 |
-| 439 | Deep Space Rush | [01000A700F956000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000A700F956000) | 3c1fb5bc36eb1f66 |
-| 440 | Defend Your Castle | [01006E600D9C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006E600D9C2000) | 71cead463a463746 |
-| 441 | Defense Grid 2 | [010061300BBF8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010061300BBF8000) | 3953274ef966b6b2, e674d6fdaeae5844 |
-| 442 | DELTARUNE Chapter 1 | [010023800D64A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010023800D64A000) | e450a5dd753d257f |
-| 443 | Demon Pit | [010084600F51C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010084600F51C000) | 92d5eac4cfd36242 |
-| 444 | Demon's Tier+ | [0100161011458000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100161011458000) | 7e2745f9a427a583 |
-| 445 | Demong Hunter | [010000401313A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010000401313A000) | f97054189a86de4f |
-| 446 | Densha de GO !! -Hashiro Yamanote Line- [Rev 1.0.0] | [0100BC501355A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BC501355A000) | 72556bdf87ff54ea |
-| 447 | Descenders | [0100D4600D0E4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D4600D0E4000) | da3378adc2ecb844 |
-| 448 | Descenders [Rev 1.0.0] | [0100C2F013084000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C2F013084000) | d0fcd671804c1b42 |
-| 449 | Destroy All Humans! | [01009E701356A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009E701356A000) | 7a4bd7bd8c9388fa |
-| 450 | Devil Engine | [010031B00CF66000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010031B00CF66000) | bb1817c904cd13fe |
-| 451 | Devil May Cry | [0100E8000D5B8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E8000D5B8000) | 883f54c67475abae |
-| 452 | Devil May Cry 2 | [01007CF00D5BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007CF00D5BA000) | f8c066a1e59d8cce |
-| 453 | Devil May Cry 3 Special Edition | [01007B600D5BC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007B600D5BC000) | 010bcee657eafedf, 258d8ba560cfa34c |
-| 454 | Devious Dungeon | [01009EA00A320000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009EA00A320000) | 2d57263d985efa40 |
-| 455 | Devious Dungeon 2 | [0100FD600DFDC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FD600DFDC000) | bf57b4d7ba5ef145 |
-| 456 | Dex | [01003F601025E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003F601025E000) | f0a4874a7fa53947 |
-| 457 | Diablo III: Eternal Collection | [01001B300B9BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B300B9BE000) | 1da2a1a648905450, 2ac6db9e14898083, 2d117920406c4b15, 46b754c506e2ee0a, 4cc6e18934fedee1, 8972613a7ca4e46d, a3e80174bf5ae455, ab8893b8563cb2fd, c0f4b9ffffa1f5dd, e5cd0078f196b4ed, eafc2cef9b161d20 |
-| 458 | Diablo® II: Resurrected™ | [0100726014352000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100726014352000) | 4de22400c997ed23 |
-| 459 | Diabolic | [0100F73011456000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F73011456000) | 7fe0a7323d2e968a |
-| 460 | Digimon Story: Cyber Sleuth [Complete Edition] | [010014E00DB56000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010014E00DB56000) | 92a6c699e4bae7da, bedae701dd8565cd, ca86dbb44a335ead |
-| 461 | Disco Elysium - The Final Cut | [01006C5015E84000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C5015E84000) | 8cd5adbf3bbf1d5d |
-| 462 | Disease -Hidden Object- | [01005E600AB64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005E600AB64000) | 4cee2e7a0a18e44b |
-| 463 | Disgaea 1 Complete | [01004B100AF18000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B100AF18000) | 18b01c2123631637 |
-| 464 | Disgaea 4 Complete+ | [0100A9800E9B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A9800E9B4000) | 6a1bf67d25fc2ed0, 767dc7b2885026a8 |
-| 465 | Disgaea 5 Complete | [01005700031AE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005700031AE000) | cc9abdfa887f316d |
-| 466 | Disgaea 6: Defiance of Destiny | [0100ABC013136000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ABC013136000) | 0b3ac195c9f27084 |
-| 467 | Disjunction | [01000B70122A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000B70122A2000) | 5cfdd9f0daf0308e |
-| 468 | Disney Classic Games: Aladdin and The Lion King | [0100A2F00EEFC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A2F00EEFC000) | 6dacef3fd1431455 |
-| 469 | Disney Tsum Tsum Festival | [010012800EBAE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010012800EBAE000) | 1f7d8734ceb66148, 62dc4bf18520b348 |
-| 470 | Divinity: Original Sin 2 - Definitive Edition | [010027400CDC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010027400CDC6000) | 1dd992e93e645a52, 3c4e2b234cb55b78, 7d3432c23010c1bd, dbd602f66e2de27d, eee583fdd942f6aa, f821dc8cc9a45414 |
-| 471 | Dongo Adventure | [010088B010DD2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010088B010DD2000) | 5015dea149a3c14f |
-| 472 | Donkey Kong Country: Tropical Freeze (rev001) | [0100C1F0051B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C1F0051B6000) | f48bd40d89b529c1 |
-| 473 | DOOM | [0100416004C00000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100416004C00000) | 01ace43e724259c3 |
-| 474 | DOOM (1993) | [010018900DD0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010018900DD0000) | c35190ad7468cb42 |
-| 475 | DOOM (1993) | [010018900DD00000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010018900DD00000) | 2816930e5331df42, 53b3e4a3b478bf4b, 9b97e6f23f01a044 |
-| 476 | DOOM 3 | [010029D00E740000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029D00E740000) | 28b88c3bdf442ebb, 9408aaa62605d822 |
-| 477 | DOOM 64 | [01005D700E742000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005D700E742000) | 1f45f195fb7468c5 |
-| 478 | DOOM II (Classic) | [0100D4F00DD02000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D4F00DD02000) | 1f6c11f9ae3c2148, 5bf6780e838c1e47, 6a881b176cc04d49, b23620b7c664034b |
-| 479 | DOOM® Eternal | [0100B1A00D8CE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1A00D8CE000) | 01357918afdde9c0, 0367b729a8638f45, 1e85d7c778b7ab24, c4e8abde598cbe54, doom eternal ver, ed6715cb8e011e31, f73bb6e8e8df350d |
-| 480 | Doraemon: Story of Seasons | [010073700E412000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010073700E412000) | 1bbc6341e973e943, 59624bd909dfdd4b, d5285c0a02fdc14c, ee35389beb0ff248 |
-| 481 | DOTORI | [0100DBD013C92000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DBD013C92000) | b559cde7bc2ad148 |
-| 482 | Double Cross | [010038D00C1DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038D00C1DC000) | 7ef6091d867f8047 |
-| 483 | DOUBLE DRAGON | [010067C00E496000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010067C00E496000) | 7c9c04e77258fa47, a84d1538fbfcb546 |
-| 484 | Double Dragon & Kunio-kun: Retro Brawler Bundle | [0100C0E00F0AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C0E00F0AC000) | 0d1c3b432523b045 |
-| 485 | DOUBLE DRAGON II The Revenge | [01009E3001DDE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009E3001DDE000) | 7bb496830fbaefb5 |
-| 486 | Double Dragon Neon | [01005B10132B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005B10132B2000) | f840d4127e63312d |
-| 487 | DOUBLE DRAGON Ⅱ: The Revenge | [0100DD900E498000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DD900E498000) | 6a71dc9407b10148 |
-| 488 | DOUBLE DRAGON Ⅲ: The Sacred Stones | [01001AD00E49A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001AD00E49A000) | c4994905d081354c |
-| 489 | DOUBLE DRAGON4 | [010001B005E5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010001B005E5C000) | fe9ddb64d10bf747 |
-| 490 | Doug Hates His Job | [0100A14013B1E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A14013B1E000) | b99305304df99c41 |
-| 491 | Down to Hell | [0100B6600FE06000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6600FE06000) | 62c8976e3dee9740 |
-| 492 | Drag Sim 2020 | [0100B59011A1C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B59011A1C000) | fe87beb149f96c45 |
-| 493 | DragoDino | [0100566009238000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100566009238000) | 114f5a2d5fe04446 |
-| 494 | DRAGON BALL FighterZ | [0100A250097F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A250097F0000) | 46c8ba904c2f37cb, 70df9fbff6e78f49, 7a06910a203e80b2, 810a82b5c6fb347f, 949f85fcf0608a26, 9b710d5867004cf8, cd53729b7ae2d794, ce094b2b58e4d0c8, e6c3fe55ad27891e, ef3a27c7a00fb584 |
-| 495 | Dragon Ball Heroes | [0100E5E00C464000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5E00C464000) | 35712a42cf7d37c9 |
-| 496 | Dragon Ball Xenoverse 2 | [010078D000F88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010078D000F88000) | 0d0e5aab66ad6795, 0f4992d359c3b6dd, 15f6affe27bc79dc, 3549519a39128dbb, 54c53bf518bef0ed, 5691ded1329c2cf7, 5d6d051aea5d556d, 867b51c287259559, f89026442c938f06, ffd194436f8d3d2d |
-| 497 | Dragon Ball Z KAKAROT + A New Power Awakening Set [Rev 1.00] | [0100EF00134F4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EF00134F4000) | c652ec8d0928bac0 |
-| 498 | DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET | [010051C0134F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051C0134F8000) | fbe93aaaa4c11567 |
-| 499 | Dragon Lapis | [010076F012CD8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076F012CD8000) | 92ec5e5a7338b442 |
-| 500 | Dragon Marked For Death | [010089700150E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010089700150E000) | 185a67621d9b8d61, 4233b4516cb5b3d8, 66d0494fb531f45f, 6e1fcdb58ddea086, 70a2f7fc803e2d0e, 9b066abb5e29b8fe, e22ee1b82e5b8835, e4114eb197e80ca8, e671d5f4979f0cea, e6d27d568f3ea9c8 |
-| 501 | DRAGON QUEST | [0100EFC00EFB2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EFC00EFB2000) | 4c1e8f555e6b88da |
-| 502 | Dragon Quest 1, 2 & 3 Collection | [010015600EFB6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010015600EFB6000) | 43d16253cd0bdd2a |
-| 503 | Dragon Quest Builders | [010008900705C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010008900705C000) | 93a84d948c179001 |
-| 504 | Dragon Quest Builders - Alefgard o Fukkatsu Seyo | [01007B5002F56000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007B5002F56000) | 61fa6eeda9a63672 |
-| 505 | DRAGON QUEST BUILDERS 2 | [010042000A986000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042000A986000) | 1a0b233dc70b7f6e, 687753c332cfff53, a6b07ff854883072, ed620a2fd245ffe0, f311f4b1e6f32be0 |
-| 506 | Dragon Quest Builders 2 | [010050000705E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010050000705E000) | 3ebf22ed97873d1f, 43d3724d70a32464, 4e1a22c61868d4c0, 79a11fd138520490, a93ef5c9c956ac1f, abb2ac36c4d38805, d29dc85061688483, d58e985f267b9abd, f847df7905274ef5 |
-| 507 | Dragon Quest Builders 2 (JAP) | [010050000705E00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010050000705E00) | 010050000705e000 |
-| 508 | Dragon Quest Builders 2 (JAP) | [ABB2AC36C4D3880](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/ABB2AC36C4D3880) | 010050000705e000 |
-| 509 | Dragon Quest Heroes I・II for Nintendo Switch | [0100CD3000BDC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CD3000BDC000) | 5c598e5025bf97bc, bf91b9e86ff34541 |
-| 510 | DRAGON QUEST II: Luminaries of the Legendary Line | [010062200EFB4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010062200EFB4000) | 10423bbc86d3bfde |
-| 511 | Dragon Quest XI S: Echoes of an Elusive Age [Definitive Edition] | [01006C300E9F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C300E9F0000) | 0237abe1ee27da42, 1719aabfa5eae42b, 191270f5ed4db907, 6b54b4be4b1771f4 |
-| 512 | Dragon Quest XI S: Sugisarishi Toki o Motomete | [010054A0085CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010054A0085CA000) | 325e49e94a030b7e, 744e00542ff45574 |
-| 513 | DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition | [010026800EA0A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026800EA0A000) | a7578001b492c202 |
-| 514 | Dragon Sinker | [0100356009860000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100356009860000) | 0a9c8c76d0b32948 |
-| 515 | Dragon Star Varnir | [01001C60148CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C60148CC000) | 5fe3da408d621385 |
-| 516 | Dragon's Lair Trilogy | [010027100C544000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010027100C544000) | 63d62c0424d49543 |
-| 517 | DragonBlaze for Nintendo Switch | [010099B00A2DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010099B00A2DC000) | 9ec9964ffd6e3f73 |
-| 518 | DragonFangZ | [0100DA0006F50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DA0006F50000) | 0090cbff9230c84f |
-| 519 | Dragons Dogma: Dark Arisen | [010032C00AC58000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010032C00AC58000) | 2cdb9b9d70010e88, deb6b520bb1e0352, ed2c2056af00b1c7 |
-| 520 | Drawn to Life: Two Realms | [0100FF1012C1C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF1012C1C000) | af2af618c7cf574d |
-| 521 | Dreaming Sarah | [010048F012C24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010048F012C24000) | fdaa28be827d1b9c |
-| 522 | Dreamscaper | [010066C00FA94000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010066C00FA94000) | 949f9cdc8746f98d |
-| 523 | DreamWorks Dragons Dawn of New Riders | [0100ED200B6FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED200B6FC000) | 41e7d227f248534e |
-| 524 | Drift Racing Madness | [0100850011FDA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100850011FDA000) | da2839fce6e16a4e |
-| 525 | Drunken Fist | [0100BDB012F78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BDB012F78000) | d8e7a91f33e3728f |
-| 526 | Duck Game | [0100750001C70000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100750001C70000) | d5446193e5bc2e4c |
-| 527 | Duke Nukem 3D: 20th Anniversary World Tour | [01007EF00CB88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007EF00CB88000) | 49a4a5cff8450314, 68ea5bfa8daa9371 |
-| 528 | Dungeon Limbus | [0100CAB012FCC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CAB012FCC000) | 73e570746ed6aa41 |
-| 529 | Dungeon ni Deai o Motomeru nowa Machigatteiru Daroka: Infinite Combate | [0100AFC00CEE6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AFC00CEE6000) | 84d19a943300e243, 9725ccaa784be34c |
-| 530 | Dungeonoid | [01002130136C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002130136C0000) | f780a21406f4aa4e |
-| 531 | DungeonTop | [01004A0013790000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004A0013790000) | 05fe9024b0ac5146 |
-| 532 | Dungreed | [0100FAD00C2AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FAD00C2AA000) | ce5a908f1736cb49 |
-| 533 | Dungreed [Rev 1.0.0] | [010045B00C496000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045B00C496000) | 5db69691ddc47b45, cfd9ab668979ea45 |
-| 534 | Dusk Diver | [0100B2B00E7AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2B00E7AA000) | 2d31515a27c3ecec |
-| 535 | Dusk Diver | [010011C00E636000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011C00E636000) | 2d05e2fc4bed8cf5 |
-| 536 | Dust: An Elysian Tail | [0100B6E00A420000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6E00A420000) | d273f6d43b6f1af6, e962be62e05dde43 |
-| 537 | Dusty Raging Fist | [010097D00402C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010097D00402C000) | 3663a5c4e19b5840 |
-| 538 | Dwarf Journey | [01009E8013FCE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009E8013FCE000) | 53b9d027023e4d44 |
-| 539 | DYNASTY WARRIORS 8: Xtreme Legends Definitive Edition | [0100E9A00CB30000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9A00CB30000) | 0d63b368b4161cac |
-| 540 | Eagle Island | [010037400C7DA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010037400C7DA000) | 092e5781403f9625, 64d3b49f38c60f55, f0e3bd5e823c6145 |
-| 541 | Earth Atlantis | [0100E07006C84000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E07006C84000) | 5ab9630ecf782342 |
-| 542 | EARTH DEFENSE FORCE: WORLD BROTHERS | [01006D5014796000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006D5014796000) | c19c80633bee4bd1 |
-| 543 | Earthlock | [01006E50042EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006E50042EA000) | d75dbe0c21357141 |
-| 544 | EarthNight | [0100A2E00BB0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A2E00BB0C000) | 0c2192b8ddc2dd48 |
-| 545 | eBASEBALL: Powerful Pro Yakyu 2020 [Rev 1.0.0] | [010073000FE18000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010073000FE18000) | 5cb8f3e19852f4c1, 5d82d7f60d6ded46, cb946f6ae634f5f9 |
-| 546 | Eight Dragons | [01003AD013BD2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003AD013BD2000) | 587aede0433e5d41 |
-| 547 | Eiyuu Densetsu: Sen no Kiseki III [Rev 1.0.0] | [0100E57010542000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E57010542000) | 3fb33205c25d3436 |
-| 548 | El Hijo - A Wild West Tale | [010020A01209C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010020A01209C000) | 9139c20dd37e1944 |
-| 549 | Elden: Path of the Forgotten | [0100B5B00EF38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B5B00EF38000) | 5187063dc7cb7c43 |
-| 550 | Eldest Souls | [010093C00F30A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010093C00F30A000) | 2f726d926695a220 |
-| 551 | Elliot | [0100D85013754000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D85013754000) | 428980f461ab5b44 |
-| 552 | Elliot Quest | [0100128003A24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100128003A24000) | 75b6f3935221af6d, f35372f6362e4e05 |
-| 553 | Empire Of Sin [Rev 1.0.0] | [010058600E530000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010058600E530000) | 8eb54ae3e9cd284d |
-| 554 | ENDER LILIES: Quietus of the Knights | [0100CCF012E9A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CCF012E9A000) | 3048549aef6b02d1, c9fb83b55873d1a6, e46ce3fff909b1d6, eba346eff38c931a |
-| 555 | Endurance - space action | [010045C011DF6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045C011DF6000) | 768520e5eb082918 |
-| 556 | Enter the Gungeon | [01009D60076F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009D60076F6000) | 0988ba5931f79147, 41353ef03c96cf44, 86b75b735e8ce94b, b3116bd471906840, e1ccdccc11e3d04b |
-| 557 | Escape from Chernobyl | [0100FEF00F0AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FEF00F0AA000) | 7725c643b39658f4 |
-| 558 | Escape From Tethys | [010092901203A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010092901203A000) | f65f17ea16c29146 |
-| 559 | Evan's Remains | [01003F900E74E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003F900E74E000) | 51416f403efaa3b9 |
-| 560 | Everdark Tower | [010029500DFBA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029500DFBA000) | 94e79e909cd7d64b |
-| 561 | Evergate | [01009C4012284000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009C4012284000) | 4d330e2011155a4a |
-| 562 | Everhood | [0100E20014028000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E20014028000) | 5ed66ab27852d64b |
-| 563 | Everspace™ - Stellar Edition | [0100DCF0093EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DCF0093EC000) | 71873feb4648fa39 |
-| 564 | Evil Defenders | [010080600B53E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010080600B53E000) | f82f507fb0c82b4d |
-| 565 | Evil Tonight | [01001B2013D72000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B2013D72000) | 10a4a3005c5a0534, 5bedb46d354e6cf2, 6094d142d4d7c99d, a719b112b688c739 |
-| 566 | Evoland Legendary Edition | [0100ED100B160000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED100B160000) | 9f334187b57ba085, b853770c72416f65 |
-| 567 | Exit the Gungeon | [0100DD30110CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DD30110CC000) | 0988ba5931f79147, 378a61255ca26c4e |
-| 568 | Explosionade DX | [0100410012112000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100410012112000) | 48c172d0e2f4be42 |
-| 569 | Fable of Fairy Stones:妖精石物語 | [0100E3D0103CE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E3D0103CE000) | 4278baf87482ec4b |
-| 570 | Fairune Collection | [01008A6009758000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008A6009758000) | ea5c70af7f4d8a4f |
-| 571 | Fairy Fencer F™: Advent Dark Force | [010002300C632000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010002300C632000) | 810604cb1d5b9de9 |
-| 572 | Fairy Tale [Rev 1.0.0] | [0100CF900FA3E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CF900FA3E000) | 20ee036f0f679257, 29a5e596c24badde, 5f894a204984a1f7, 6df7c8e12b9b8d24, 9202714ae1ff3520, b52fc65a9bb66580 |
-| 573 | Fairy Tale [Rev 1.0.0] | [0100F3100EFCC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F3100EFCC000) | 6fdc6ffe937e5d78 |
-| 574 | Fall Of Light - Darkest Edition | [01005A600BE60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005A600BE60000) | 4fe377f89a528a42 |
-| 575 | Family Feud [Rev 1.0] | [010060200FC44000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010060200FC44000) | d3e9fbc256313540 |
-| 576 | FANTASY HERO～unsigned legacy～ | [0100767008502000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100767008502000) | 48625e6d08b74557 |
-| 577 | Fantasy Strike | [0100944003820000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100944003820000) | 9000cc23f2376946, e226101567d1be44 |
-| 578 | Farm Together | [010086B00BB50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010086B00BB50000) | 3af310c7483c404e |
-| 579 | Fate/Extella: The Umbral Star | [010053E002EA2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010053E002EA2000) | 76ec789b99a25ba5 |
-| 580 | Fear Effect Sedna | [01005AC0068F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005AC0068F6000) | 89647e6361e7cd48 |
-| 581 | Feathery Ears | [01006C3011C56000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C3011C56000) | 1c7c2b75926d0947, 3ee273ceb6829739 |
-| 582 | Feral Fury | [010097E00ADC2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010097E00ADC2000) | e3d0ba009ed53707 |
-| 583 | Fernz Gate | [01006E800B7F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006E800B7F2000) | 192a2ca0ebeb9845 |
-| 584 | Feudal Alloy | [0100AA3009738000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AA3009738000) | c317caf34f49a74b |
-| 585 | Fifa 19 | [0100FFA0093E8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FFA0093E8000) | 907a0c5bb38c865f |
-| 586 | FIFA 20 [Legacy Edition] | [01005DE00D05C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005DE00D05C000) | f2d740184944d73c |
-| 587 | FIFA 21: Legacy Edition [Rev 1.0.0] | [01000A001171A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000A001171A000) | 283e6dbf59b544ef, 33e7809b7250cf17, 480820c613eeea50, e567f4c52bc3fd4a |
-| 588 | Fight | [0100995013404000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100995013404000) | 4fcdb74dfd8ba740 |
-| 589 | Fight Crab (rev001) [Rev 1.1.1] | [01006980127F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006980127F0000) | 89996c4eed1f7a45 |
-| 590 | Fight of Animals | [010047E010B3E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010047E010B3E000) | 2ba5dabaf794914d |
-| 591 | Fight of Animals: Arena | [0100AC6015996000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AC6015996000) | 9c444c4eac73544e |
-| 592 | Fight of Gods | [01002F600C684000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002F600C684000) | 35ceb2cb0d33364b |
-| 593 | Fight'N Rage | [0100C7D00E730000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C7D00E730000) | 1a9f7090d7fffabc, 591ca4b00e5d84dd |
-| 594 | FIGHTING EX LAYER ANOTHER DASH | [0100D02014048000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D02014048000) | 7a4c24dd63b1d96f |
-| 595 | Figment | [0100118009C68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100118009C68000) | 5a9dc352aaf1f548 |
-| 596 | Fin and the Ancient Mystery | [0100C8200E942000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C8200E942000) | dc8170c81cb4f142, eb87bf4d8c40564a |
-| 597 | FINAL FANTASY IX | [01007EF00B094000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007EF00B094000) | a49a739c07989244, eada9f7ad4d3ba41 |
-| 598 | FINAL FANTASY VII | [0100A5B00BDC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A5B00BDC6000) | 4d630af93ac272dc, 99b42a70ec0234b5, ca4ed0693797f529 |
-| 599 | FINAL FANTASY VIII Remastered | [01008B900DC0A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008B900DC0A000) | b899412d980f0b44 |
-| 600 | Final Fantasy X X-2 HD Remaster | [0100FE500D0CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FE500D0CA000) | c581c65cd5743adf |
-| 601 | FINAL FANTASY X/X-2 HD Remaster | [0100BC300CB48000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BC300CB48000) | 1ce9f39ddb8a1a93, 1ec9f39dddb8a1a9 |
-| 602 | Final Fantasy XII The Zodiac Age | [0100EB100AB42000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB100AB42000) | 598723c7a3d43935, c2932c4d1c84ed7d |
-| 603 | FINAL FANTASY XV POCKET EDITION HD | [010068F00AA78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010068F00AA78000) | ceed69743f258249 |
-| 604 | FINAL FANTASY® CRYSTAL CHRONICLES™ Remastered Edition | [0100CE4010AAC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CE4010AAC000) | 687ab956c7a3914b, e1d8b399b787ae41 |
-| 605 | Final Light, The Prison | [01001BA00AE4E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001BA00AE4E000) | 352d01c0d629b74f, 45e162b5385dc449 |
-| 606 | FINALSWORD DefinitiveEdition | [0100F62013DAE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F62013DAE000) | 265b7ee5bb75864a |
-| 607 | Finding Teddy 2 : Definitive Edition | [0100FF100FB68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF100FB68000) | 0a90f4970abf3ede |
-| 608 | Fire Emblem Musou | [0100EAE003A5A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EAE003A5A000) | 316baf584d815ab7, 466e46e9aef48d9f |
-| 609 | Fire Emblem Warriors | [0100F15003E64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F15003E64000) | 1953770037acc52a, 43fc559a975dd485 |
-| 610 | Fire Emblem: Three Houses | [010055D009F78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010055D009F78000) | 19ba39bd3ee8131d, 47ca26d2aa77d0ba, 89048449ba238c8c, 9454f2c47f827602, cecf500cea4c214c, f0142d706fd2323b |
-| 611 | Firework | [0100BA9012B36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BA9012B36000) | 3885a17f2d28b1e7 |
-| 612 | Flashback | [01000A0004C50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000A0004C50000) | 4427c1b4902c4449 |
-| 613 | Flinthook | [0100307004B4C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100307004B4C000) | 6cb9aa4d4e880356 |
-| 614 | Fly Punch Boom! | [0100FC300F4A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FC300F4A4000) | de9f681aed612147 |
-| 615 | FLYING GIRL STRIKER | [0100CCA00EDCE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CCA00EDCE000) | b1891931c1eba942 |
-| 616 | Flynn: Son of Crimson | [01005F2014B80000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005F2014B80000) | 0570324e7dc2d797, 5730dcf4c2dd8eba |
-| 617 | Fobia | [010056000BA1C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010056000BA1C000) | c1e79c256bdf6e41 |
-| 618 | For The King | [010069400B6BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010069400B6BE000) | 45bc618b7067a346, 5105f83d319c8143, 7e00252e0cdc2e4c |
-| 619 | Forager | [01001D200BCC4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001D200BCC4000) | b3f0e741dbe41bf5 |
-| 620 | Foregone | [010044B00E70A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010044B00E70A000) | 1812915cf5b12646, 1bed7508ca97e540, fbaf2dbe9f2f6546 |
-| 621 | FOX n FORESTS | [01008A100A028000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008A100A028000) | 280589b597abe848 |
-| 622 | FoxyLand | [0100D2501001A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D2501001A000) | 4e2b065027e78663 |
-| 623 | Frane: Dragons' Odyssey | [0100C0C00DD0E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C0C00DD0E000) | 09b846aebe22fe44 |
-| 624 | Freedom Finger | [010082B00EE50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010082B00EE50000) | 8e500d494507154c |
-| 625 | Freedom Planet | [0100EB800B614000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB800B614000) | 6fe8e047d88be449 |
-| 626 | Fuga: Melodies of Steel | [01000130120EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000130120EE000) | 915a86b4d6a5eacd |
-| 627 | Full Metal Furies | [010079300AD54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010079300AD54000) | 0b76ec521212fd1c |
-| 628 | FullBlast | [010036A00B290000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010036A00B290000) | c2d7a3622913c742 |
-| 629 | Furi | [01009D3008D20000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009D3008D20000) | 4feeee035bd05141 |
-| 630 | Furi - Definitive Edition | [01000EC00AF98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000EC00AF98000) | 83fb796d7b625e42 |
-| 631 | Fury Unleashed | [0100ECE00C0C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ECE00C0C4000) | 069084599b9fe640, 265d097cce8d8a49, 33c2f7fb7b9cdc48 |
-| 632 | FUSER™ | [0100E1F013674000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1F013674000) | 13d5bb6d03dc2601 |
-| 633 | Fushigi no Gensokyo: Lotus Labyrinth | [0100D7800C56A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D7800C56A000) | 76afb6a1db0a65d9 |
-| 634 | Fushigi no Gensoukyou TOD -RELOADED- | [010033500944A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010033500944A000) | cd0578ffc3b7c72e |
-| 635 | G.I. Joe: Operation Blackout | [0100EB10108EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB10108EA000) | 99c3b03aa94f9ed7, e4e950730783f283 |
-| 636 | Galaxy Champions TV | [010023500EF76000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010023500EF76000) | 7c392af48783654c |
-| 637 | Galaxy Warfighter | [0100EDB01005C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EDB01005C000) | ca634037ff84ad42 |
-| 638 | Game Dev Story | [0100AF700BCD2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AF700BCD2000) | b783994a7721864b, eaf9c6474584ae4a |
-| 639 | Game Doraemon: Nobita no Shin Kyoryu [Rev 1.0.0] | [01006BD00F8C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006BD00F8C0000) | 06b9d4461dc8a442, d13dee59be762ab5 |
-| 640 | Gangsta Paradise | [01001A50145E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001A50145E0000) | 811fb7885b2d7247 |
-| 641 | Garage | [01000FA00A4E4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000FA00A4E4000) | b887d7ff382cd64f |
-| 642 | Garden Story | [0100B4D012490000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B4D012490000) | 0100b4d012490000, 722adbb54278776d, deed081549eb305b |
-| 643 | Gas Station: Highway Services | [010032D012602000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010032D012602000) | ee18a97637d15740 |
-| 644 | Gates of Hell | [0100EA001069E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EA001069E000) | b662a47bdea4dc4c |
-| 645 | Gato Roboto | [010025500C098000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010025500C098000) | 261fa67f1c963a1c, 41c02541bc629910 |
-| 646 | Gear Club Unlimited 2 | [010072900AFF0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072900AFF0000) | 0a547e79e76c8849 |
-| 647 | Gear.Club Unlimited | [010065E003FD8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010065E003FD8000) | cd94fcb8cc23b24a |
-| 648 | Gekido Kintaros Revenge | [010052A00942A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010052A00942A000) | 100289938ec87946 |
-| 649 | Genetic Disaster | [010014901144C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010014901144C000) | d941bd608240c448 |
-| 650 | GensokyoDefenders | [010000300C79C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010000300C79C000) | 64a8da29d4719019 |
-| 651 | Ghost 1.0 | [0100EEB005ACC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EEB005ACC000) | 5441813a911b7b45 |
-| 652 | Ghost 1.0 + UnEpic Collection | [0100E0D00DFEE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0D00DFEE000) | a7dc83325c7b69a9 |
-| 653 | Ghost 1.0 plus Unepic Collection | [010036400DFF0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010036400DFF0000) | a680bcfccdab360d |
-| 654 | Ghost Blade HD [Rev 1.0.2] | [010063200C588000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010063200C588000) | 76584d2eaa42c27f |
-| 655 | Ghost of a Tale | [0100D140112BC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D140112BC000) | 8ac511f87d786b46 |
-| 656 | Ghost Sweeper | [01004B301108C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B301108C000) | 50221310d086a129 |
-| 657 | Ghostbusters: The Video Game Remastered | [0100EAE00D9EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EAE00D9EC000) | 0fe6747d03eba4e3, 5aaa63bef45a8c0a |
-| 658 | Ghostrunner | [010090F012916000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010090F012916000) | e883dffd31c64950 |
-| 659 | Ghosts 'n Goblins Resurrection | [0100D6200F2BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D6200F2BA000) | 6726a5080b7fbac7, a89b6b019e1f02ef |
-| 660 | Ghoulboy | [0100A9500C606000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A9500C606000) | 703e05c8fa44594e, 91a6639441289b4c |
-| 661 | GhoulBoy | [0100C9D00C8E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C9D00C8E2000) | 4f30069d2ede974a |
-| 662 | Giana Sisters: Twisted Dreams - Owltimate Edition | [01003830092B8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003830092B8000) | bea2cb7d4b453556 |
-| 663 | GIGA WRECKER ALT. | [010045F00BFC2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045F00BFC2000) | 8704d866d10eb543 |
-| 664 | GIGA WRECKER ALT. | [0100A4900EDDE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A4900EDDE000) | 00828465529fee46 |
-| 665 | GIGANTIC ARMY | [010067A00D35E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010067A00D35E000) | c32b8a1fdd88dcbe |
-| 666 | Gigantosaurus The Game | [01002C400E526000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C400E526000) | ef7b49570430043e |
-| 667 | Ginger: Beyond the Crystal | [0100C50007070000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C50007070000) | 59024102424ac443 |
-| 668 | Gleamlight | [0100ED2010292000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED2010292000) | 73f509ebf8307343 |
-| 669 | Glitch's Trip | [0100B6F01227C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6F01227C000) | 6d69e98be519ca47 |
-| 670 | Glittering Sword | [0100230013D0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100230013D0C000) | e8f1613fa8389cf0 |
-| 671 | Gnosia | [01008EF013A7C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008EF013A7C000) | 389c6c494eec527c |
-| 672 | Goblin Sword | [010067C010F88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010067C010F88000) | 3eb41ec2fcad4d68, 95b083bd9d0dc15c, e717df86ce42cd4d |
-| 673 | GOD EATER 3 | [01001C700873E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C700873E000) | 1250e446d020c4ca, 368cdf823b83a54b, 769ce69fd09f7ec6, 9ed444678b20813a, c0f144f5139f542e, f43bdc91fc97e529 |
-| 674 | GODS Remastered | [0100BAA00AE16000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BAA00AE16000) | 8b36f764eb350c41 |
-| 675 | Gods Will Fall | [0100CFA0111C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CFA0111C8000) | 1bf7be722958394b |
-| 676 | Godstrike | [0100FA50138A6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FA50138A6000) | 6b1a71c6e7329803 |
-| 677 | Going Under | [01004D501113C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004D501113C000) | 6c295313079c434d |
-| 678 | GOKEN | [0100126006EF0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100126006EF0000) | cf79603efd9e774d |
-| 679 | Golf Story | [0100779004172000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100779004172000) | 300060790d4c2c4a, fcedea4c677dd643 |
-| 680 | GoNNER | [01007C2002B3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007C2002B3C000) | 9f04dff0e1149440 |
-| 681 | GONNER2 | [0100EA70127F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EA70127F2000) | 7a13a0e5d4cb8e47 |
-| 682 | Good Job!™ | [0100B0500FE4E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B0500FE4E000) | 951d09eece122a47 |
-| 683 | Good Night, Knight | [01003AD0123A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003AD0123A2000) | afe32bedbd98f691 |
-| 684 | Grand Brix Shooter | [010038D00EC88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038D00EC88000) | 233ef0208adfef4f |
-| 685 | Grand Prix Story | [0100BE600D07A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE600D07A000) | 5dc3c46ef8c9ee48 |
-| 686 | Grand Theft Auto San Andreas Version 1.0.2 | [010065A014024000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010065A014024000) | 7061706ef4d97b84 |
-| 687 | GRANDIA HD Collection | [0100E0600BBC8002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0600BBC8002) | 034886422b6f840b |
-| 688 | GRANDIA HD Collection | [0100E0600BB8001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0600BB8001) | 812a9ad7ab2000b0 |
-| 689 | GRANDIA HD Collection | [0100E0600BBC8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0600BBC8000) | cb4964f21cd34f6d |
-| 690 | GRANDIA HD Collection | [0100E0600BBC8001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0600BBC8001) | 8b679e3f55bd9de5, cb4964f21cd34f6d |
-| 691 | Grave Danger | [010074E0099FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010074E0099FA000) | 00a4a69c29c73b42 |
-| 692 | Graveyard Keeper | [0100B6800B5C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6800B5C8000) | 10be30fead5ad443, 35577fd32a942e48 |
-| 693 | Greak: Memories of Azur | [010045E012ECE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045E012ECE000) | be65af4dfe4a9941 |
-| 694 | Greedroid | [0100BD800DFA6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD800DFA6000) | 9889452e84c5394c |
-| 695 | Green Hell | [0100453012FEA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100453012FEA000) | 0b0ed086a895204c, 87ab66d783094e44, d3a8f87e96c94045 |
-| 696 | GREEN The Life Algorithm | [0100DFE00F002000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DFE00F002000) | 52b45ab71e411b4d |
-| 697 | Grey Skies: A War of the Worlds Story | [0100DA7013792000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DA7013792000) | 6867b68d25d91f55 |
-| 698 | Gridd: Retroenhanced | [0100197008B52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100197008B52000) | 50ecdb66433e1d4b |
-| 699 | Grimvalor | [01001C700F518000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C700F518000) | 12a99f6002fd464e |
-| 700 | Grindstone | [0100538012496000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100538012496000) | 55f3e1211440fa49 |
-| 701 | Grood | [01005240121F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005240121F2000) | 4ecbce12e16d3048 |
-| 702 | GROOVE COASTER WAI WAI PARTY!!!! | [0100EB500D92E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB500D92E000) | 5e462a2e7fa7136c |
-| 703 | Gryphon Knight Epic: Definitive Edition | [0100A16011872000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A16011872000) | df8ddc222b04c24d |
-| 704 | GTA Vice City Version 1.0.3 | [0100182014022000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100182014022000) | 3ec230850491826d |
-| 705 | GTA3 The Definitive Edition v1.0.2 | [0100C3C012718000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C3C012718000) | 7263a54a1e58dd45 |
-| 706 | Guacamelee! One-Two Punch Collection | [01007E100456C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007E100456C000) | 09b0d1846cc99974, 536e86a461401f9f, fbe5462b68407e75 |
-| 707 | Guacamelee! Super Turbo Championship Edition | [0100BAE00B470000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BAE00B470000) | 184fc082f199328e |
-| 708 | Gun Crazy | [01009630106A6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009630106A6000) | 1da05d6dfed0b4c1 |
-| 709 | Gun Gun Pixies | [01009EB00DC76000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009EB00DC76000) | 1953770037acc52a, 35b2bf0c429a1ec0 |
-| 710 | GUNBIRD for Nintendo Switch | [01003C6008940000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003C6008940000) | 5783a91c341b29e4, c6a4443809d9fa0a |
-| 711 | GUNBIRD2 for Nintendo Switch | [0100BCB00AE98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BCB00AE98000) | 266c41c9585e9a14, abac5a08624f0306 |
-| 712 | Gunbrick: Reloaded | [01008DF00B78E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008DF00B78E000) | 5d956d4949715a4e |
-| 713 | Gunlord X | [0100EC200BFF8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC200BFF8000) | 2bc3f1356efa8560 |
-| 714 | Guns Gore and Cannoli | [0100934003BCC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100934003BCC000) | 408fde3f0287ac43 |
-| 715 | Guns, Gore and Cannoli 2 | [01006D4003BCE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006D4003BCE000) | bbf599d8f665ff4a |
-| 716 | Gunslugs | [01008050130EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008050130EE000) | 3b14bbcee9dde7cb |
-| 717 | Gunvolt Chronicles: Luminous Avenger iX | [01008C800E654000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008C800E654000) | 9e70f504efe74a5b, 9e885a66c9ca0de1, e90d985d706df59f |
-| 718 | Habroxia | [01007E100EFA8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007E100EFA8000) | 6bc96ab409d90d32 |
-| 719 | Hades | [0100535012974000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100535012974000) | 981ed32c0e1ef006, a16cb7e952a7e911, a23f80213077971a, a9c78517999a1b5a, d41357a3da356b09, fbbae054d5d0dc1e |
-| 720 | Hakoniwa Explorer Plus | [0100618010D76000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100618010D76000) | 066442551a10fea7 |
-| 721 | Hammerwatch | [01003B9007E86000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003B9007E86000) | 6ee12e07e6151a74 |
-| 722 | Hardcore Maze Cube | [0100D55011D60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D55011D60000) | 622dd70e54d2084a |
-| 723 | HARDCORE MECHA: Fighter Edition [Rev 1.0.0] | [01002F0011DD4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002F0011DD4000) | 6100fc7c12fd8e47, b0a374ec18548849 |
-| 724 | Harukanaru Toki no Naka de 7 [Rev 1.0.0] | [0100CF400F7CE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CF400F7CE000) | cbb6127b4f896ec5 |
-| 725 | Has Been Heroes | [0100E29001298000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E29001298000) | 14a906483411b74e |
-| 726 | Hatsune Miku: Project DIVA Mega Mix | [01001CC00FA1A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001CC00FA1A000) | 2ff03fc088cba7a7, 8cf5d24227c5dd98, e0c41878f636ad4f |
-| 727 | Hatsune Miku: Project Diva Mega39s [Rev 1.0.0] | [0100F3100DA46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F3100DA46000) | cadfcd07e6596093 |
-| 728 | Haunted Dawn: The Zombie Apocalypse | [01009E6014F18000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009E6014F18000) | 62ddb75afc960446 |
-| 729 | HAUNTED: Halloween '86 | [010085500F6B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010085500F6B6000) | 021e57fe033a4343 |
-| 730 | Haven | [0100E2600DBAA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E2600DBAA000) | 18a00efbfc61974f |
-| 731 | Heaven Dust | [010059100D928000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010059100D928000) | 188cf8540b981749 |
-| 732 | Hell is Other Demons | [0100E4300C278000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4300C278000) | 32821b95b7b08a42 |
-| 733 | Hellblade: Senua's Sacrifice | [010044500CF8E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010044500CF8E000) | 052fcb358955ed48 |
-| 734 | Hellmut: The Badass from Hell | [0100A0300D1A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0300D1A0000) | 63b9577d6f33e149 |
-| 735 | Hero must die. again | [010049500F996000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049500F996000) | 010049500f996000, ed2c2056af00b1c7 |
-| 736 | Heroes of Loot | [010091E01330C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010091E01330C000) | 567cb20694b517f3 |
-| 737 | HEROINE ANTHEM ZERO episode 1 | [01001B70080F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B70080F0000) | 45b257c493eeb045 |
-| 738 | Heroland | [0100E1E00EF30000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1E00EF30000) | d37c29f215a33a45 |
-| 739 | Hill Climbing Mania | [0100147011F4E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100147011F4E000) | b2a838fe966cb54e |
-| 740 | Hob: The Definitive Edition | [01004B100A5CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B100A5CC000) | 2144e3740a714489, 4e7978e35f9d7490 |
-| 741 | Hollow Knight | [0100633007D48000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100633007D48000) | 155c8506c654fb4d, fb968cfb649a5842 |
-| 742 | Horace | [010086D011EB8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010086D011EB8000) | edf9c3851a2ec4a0 |
-| 743 | Horizon Chase Turbo | [01009EA00B714000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009EA00B714000) | 0fd4cffbe940d846, 819e5faed7cb2e4c, c4155f1414558e45, dc0392fb78995746, e807e56db799da40, fc03e9c290b99944, fd04fc9f3849184d |
-| 744 | Hot Wheels Unleashed [Rev 1.0.0] | [01003D001597A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D001597A000) | 7084bda5918c68c4 |
-| 745 | HOT WHEELS UNLEASHED™ | [0100AA60136D2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AA60136D2000) | e8eded95565f2f99 |
-| 746 | Hotshot Racing | [0100BDE008218000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BDE008218000) | 67d4d404c8e0dd12 |
-| 747 | Hungry Shark World | [0100E1A00AF40000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1A00AF40000) | 84f3ebf079d0c34d |
-| 748 | Huntdown | [0100EBA004726000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EBA004726000) | 0e4cd9323816d642, 20be97be1162e647 |
-| 749 | Hunter's Legacy: Purrfect Edition | [010068000CAC0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010068000CAC0000) | 4d514c14e9fa804a |
-| 750 | Hunting Simulator | [0100C460040EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C460040EA000) | 38d978866da4e740 |
-| 751 | Hyper Light Drifter - Special Edition | [01003B200B372000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003B200B372000) | 7375e3124c4762c8 |
-| 752 | Hyperspace Delivery Service | [010049000F6B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049000F6B0000) | dbe0ab47c73d874a |
-| 753 | Hyrule Warriors: Age Of Calamity [Rev 1.0.0] | [01002B00111A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002B00111A2000) | 0496d4b4c6ae1cf4, 3a2d1227979971e5, 5a982fa25220e4df, 908cd685037018e9, 935ebe83c4a06583, c3cf52bf2b05d731 |
-| 754 | Hyrule Warriors: Definitive Edition | [0100AE00096EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AE00096EA000) | 0c869f41b8b9175e, 815a2c19d1767896 |
-| 755 | I Am Setsuna | [0100849000BDA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100849000BDA000) | 0bba2167aed893be |
-| 756 | Ice Age: Scrats Nutty Adventure | [01004E5007E92000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004E5007E92000) | 3295d9b0da169a4f, 799d52eeaaf76b47 |
-| 757 | Ice Station Z | [0100954014718000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100954014718000) | 14f0c4ab904a3f47 |
-| 758 | ICEY | [0100BE9007E7E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE9007E7E000) | 684a8d1aebeb7845 |
-| 759 | Iconoclasts | [0100BC60099FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BC60099FE000) | 4e1c499387103542 |
-| 760 | Ikaruga | [01009F20086A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009F20086A0000) | 360954416f3ae3bf, 6cb42a082864095c |
-| 761 | Ikenfell | [010040900AF46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040900AF46000) | 82e28ce7709d9c15 |
-| 762 | Illusion of L'Phalcia | [01000B700EC22000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000B700EC22000) | dcad50aef4e03c48 |
-| 763 | Immortals Fenyx Rising [Rev 1.0.0] | [01006E60131B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006E60131B6000) | 305a12dd6b139a0a, 89b1333eac986eda, cade195fe9f14b2a |
-| 764 | Immortals Fenyx Rising [Rev 1.0.0] | [01004A600EC0A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004A600EC0A000) | 0011956ab1854781, 305a12dd6b139a0a, 46b9082762ac86de, 70f3f6751d73c644, 7667839b25e6b6eb, 89b1333eac986eda, b20264c1f11968bc, cade195fe9f14b2a, fdbd4273618f7207 |
-| 765 | IMPLOSION | [0100737003190000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100737003190000) | 1967a586ca3f9594 |
-| 766 | Indivisible | [01001D3003FDE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001D3003FDE000) | 76891617fe876b5f |
-| 767 | Inexistence Rebirth | [010001D014348000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010001D014348000) | 8e1251e46a5bcaaa |
-| 768 | Infinite - Beyond the Mind | [010085D0101A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010085D0101A4000) | e2962af45de03f8c |
-| 769 | Infinite Tanks WWII | [010057101473A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010057101473A000) | fed199fe706ff17d |
-| 770 | INMOST | [0100F1401161E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F1401161E000) | 749be2421442084d |
-| 771 | Inside Grass: A little adventure | [0100EC7012D34000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC7012D34000) | 82621f7ea403de49 |
-| 772 | Into the Dead 2 | [01000F700DECE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000F700DECE000) | 5da7219e9c868b40, 6c2e85a41eb3fb4a |
-| 773 | Ion Fury | [010041C00D086000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010041C00D086000) | 2774b972a2adff45, 9d2efcf198f2247f, ab507fa827afff86, e3f099c642642dd2 |
-| 774 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth Infinite Combate | [010063E0104BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010063E0104BE000) | bf4a86cc45871342 |
-| 775 | Is It Wrong to Try to Pick Up Girls in a Dungeon?: Infinite Combate [Rev 1.0.0] | [010082200EE6A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010082200EE6A000) | 204512ddc12f5247 |
-| 776 | Island Saver | [0100A2600FCA0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A2600FCA0000) | 5deb62b4085e8b45 |
-| 777 | Isolation Story | [0100924013162000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100924013162000) | ac81f731198bba41 |
-| 778 | It came from space and ate our brains | [01002E501015A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002E501015A000) | 01002e501015a000, b3946e23d25c5b4c |
-| 779 | Ittle Dew | [01005070088E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005070088E0000) | 3040b326c1e01843 |
-| 780 | Ittle Dew 2+ | [01004070022F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004070022F0000) | b375f9c4583e074b |
-| 781 | Jack Axe | [0100EF500EF42000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EF500EF42000) | baa6db7690e723bc |
-| 782 | JackQuest: The Tale of the Sword | [0100C80009ABE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C80009ABE000) | 3749bfea64dc98df |
-| 783 | Jay and Silent Bob: Mall Brawl | [0100CD1010740000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CD1010740000) | 9fa43604f9ee9343, f79075633c5b7b40 |
-| 784 | Jet Kave Adventure | [0100E4900D266000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4900D266000) | 55ee3667931f2a4e |
-| 785 | Jet Set Knights | [01005C1012C22000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005C1012C22000) | 166ccc3f97efe368, 699fab245432f155 |
-| 786 | Jets'n'Guns | [010026200FF36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026200FF36000) | 49b81bb7a4a30917 |
-| 787 | Jets'n'Guns 2 | [01000BF012920000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000BF012920000) | ff756020d95b3ec5 |
-| 788 | Jikkyo Powerful Pro Yakyu | [0100E9C00BF28000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9C00BF28000) | 859a3a3d296d44e8 |
-| 789 | Joe Devers Lone Wolf | [0100D49008748000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D49008748000) | 838e2d7bb425994d |
-| 790 | John Wick Hex | [01007090104EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007090104EC000) | 925f0e0d520e8a4e |
-| 791 | Johnny Turbo's Arcade: Fighter's History | [0100B3F00B9F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B3F00B9F2000) | 64b19fa91081374f |
-| 792 | Johnny Turbo's Arcade: Night Slashers | [0100F7300C90E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F7300C90E000) | 64b19fa91081374f |
-| 793 | Johnny Turbos Arcade Caveman Ninja | [0100355002CBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100355002CBE000) | 980fb826274c0947 |
-| 794 | Johnny Turbos Arcade Two Crude | [010080D002CC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010080D002CC6000) | a08736d63a033846 |
-| 795 | Jotun: Valhalla Edition | [0100340009736000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100340009736000) | 6593d6d07b08024b |
-| 796 | Journey of the Broken Circle | [0100251012E38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100251012E38000) | a83041c29cc30a41 |
-| 797 | Juiced! | [0100F7C012D68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F7C012D68000) | 7af131133cec43fb |
-| 798 | Juicy Realm | [0100C7600F654000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C7600F654000) | 1cc0f472aaa0cb44, 5eb90226e5a2aa45, 9040949bee1a224b, c72372c4bd3f9e47, cd13d3722e4ea24a |
-| 799 | Jumanji: The Video Game | [0100B4D00C76E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B4D00C76E000) | 54e9c7460334eeb4 |
-| 800 | JUMP FORCE: Deluxe Edition [Rev 1.00] | [0100183010F12000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100183010F12000) | d637d1dcff836cb2, f5ae4f045dda9e45 |
-| 801 | JUMP FORCE: Deluxe Edition [Rev 1.00] | [01008CD01187E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008CD01187E000) | abba41088700b6de, e33e6767e0d727fa |
-| 802 | Junk Jack | [010043901005A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010043901005A000) | d06812e9f4d77318 |
-| 803 | Jurassic World Evolution: Complete Edition | [010050A011344000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010050A011344000) | b0708a7be9d178d9, b4508f122c4e512e |
-| 804 | Just Dance 2018 | [0100A0500348A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0500348A000) | 448e0f0e1c1cbade |
-| 805 | Just Dance 2019 | [010075600AE96000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010075600AE96000) | 48bcb6087dca2090 |
-| 806 | Just Dance 2021 [Rev 317118.553751] | [0100BF9011B52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BF9011B52000) | 7b64dba6fff3b5dd |
-| 807 | Just Dance® 2020 | [0100DDB00DB38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DDB00DB38000) | 6674d85b7a37a96f |
-| 808 | JYDGE | [010035A0044E8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010035A0044E8000) | 8728efbc0732aa2f |
-| 809 | Kairobotica | [0100D5F00EC52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D5F00EC52000) | f9284cc26fc6564f |
-| 810 | KAMEN RIDER CLIMAX SCRAMBLE | [0100BDC00A664000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BDC00A664000) | b807bdb67dca9648 |
-| 811 | Kamen Rider: Memory Of Heroez (Premium Sound Edition) [Rev 1.0.0] | [0100A9801180E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A9801180E000) | 3ddc1e43a0c36d40, 912318946167dc48 |
-| 812 | Kamen Rider: Memory Of Heroez [Rev 1.0.0] | [010060F00EE92000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010060F00EE92000) | 87e3f1492d37734d |
-| 813 | KAMIKO | [010085300314E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010085300314E000) | 20c625ac27190391 |
-| 814 | Kangokuto Mary Skelter 2 for Nintendo Switch | [0100C3500D956000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C3500D956000) | b1fc6fb94ece1df1, b2c87992da9ce1e8 |
-| 815 | Kangokuto Mary Skelter Finale [Rev 1.0.0] | [010042C011736000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042C011736000) | 9b44e06034d7bba0 |
-| 816 | Karma Knight | [01005300128E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005300128E2000) | 6fc0bc9f5e5fe749 |
-| 817 | Katana Kami: A Way Of The Samurai Story [Rev 1.0.0] | [0100F6A00E31E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F6A00E31E000) | 8b562b57837a3d48 |
-| 818 | Katana ZERO | [010029600D56A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029600D56A000) | 158a7f586431982e |
-| 819 | KAUIL’S TREASURE | [010028F013358000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010028F013358000) | e055f38d30be4f42 |
-| 820 | Kaze and the Wild Masks | [010038B00F142000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038B00F142000) | 3f1e5c8189629f4f, 7a1598fa5877f246 |
-| 821 | Keen: One Girl Army | [0100D7C01115E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D7C01115E000) | 5a95eb5631c22043 |
-| 822 | KEMCO RPG Select Vol. 1 [Rev 1.0.1] | [010042800A516000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042800A516000) | 742f9d7917f6bb4c |
-| 823 | Kemono Heroes | [0100B61010272000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B61010272000) | 903196324d35db4e |
-| 824 | KeroBlaster | [0100DA200A09A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DA200A09A000) | 9a9b1a4513a3576b |
-| 825 | KILL la KILL -IF | [0100FB400D832000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FB400D832000) | 1131b24a070766c3 |
-| 826 | King Lucas | [0100E6B00FFBA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E6B00FFBA000) | ea5ba579f77a014a |
-| 827 | King of Seas | [01008D80148C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D80148C8000) | 2c9aa9a24c5e389c |
-| 828 | King's Bounty II | [010026F013B3A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026F013B3A000) | 36d4dfb5da75b787, ebc2fa4a226e0774 |
-| 829 | Kingdom Hearts: Melody of Memories [Rev 1.01] | [0100B42011EF6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B42011EF6000) | cc7695a3d8342841 |
-| 830 | Kingdom Hearts: Melody of Memories [Rev 1.01] | [01005D2011EA8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005D2011EA8000) | 0f878e7cfccbe14c, 5c549b9bf83f254f, c7cf8f4fd4f19648 |
-| 831 | Kingdom Hearts: Melody of Memories [Rev 1.01] | [0100C6000E71E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C6000E71E000) | 62488500f7894744 |
-| 832 | Kingdom of Arcadia | [0100B4E012CAC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B4E012CAC000) | bebdf967daeefc6a |
-| 833 | Kingdom Rush Frontiers | [010046200FC62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010046200FC62000) | b1c0e2f9dbf2adfb |
-| 834 | Kingdom Two Crowns | [01005EF003FF2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005EF003FF2000) | f2da1e131cd72241 |
-| 835 | Kingdom: New Lands | [0100BD9004AB6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD9004AB6000) | 871a5f971b929d4e |
-| 836 | Kingdoms of Amalur: Re-Reckoning [Rev 1.0.0] | [0100EF50132BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EF50132BE000) | 816bfb8a2f5b5916 |
-| 837 | Kirby Fighters™ 2 | [0100227010460000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100227010460000) | 738ae024b3aecb69 |
-| 838 | Kirby Star Allies | [01007E3006DDA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007E3006DDA000) | d55608916fa56c18 |
-| 839 | Kitaria Fables [Rev 1.0.0] | [0100F30013BFC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F30013BFC000) | 2b7c360d075f7544 |
-| 840 | Knight Terrors | [0100D51006AAC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D51006AAC000) | 48e19a79bd94264c |
-| 841 | Knightin'+ | [01005F8010D98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005F8010D98000) | e1f19426d584d567 |
-| 842 | Kono Subarashii Sekai ni Shukufuku o Kibo no Meikyu to Tsudoishi Bokensha-tachi Plus [Rev 1.0.0] | [01004920105FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004920105FC000) | d1cbd97f27390104 |
-| 843 | Kotodama: The 7 Mysteries of Fujisawa | [010046600CCA4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010046600CCA4000) | 1ac1dd4498520448 |
-| 844 | KUNAI | [010035A00DF62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010035A00DF62000) | d0be93d85d02c64e |
-| 845 | Kwaidan ～Azuma manor story～ | [0100894011F62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100894011F62000) | 8a6ee4f53fca3c44 |
-| 846 | L.O.L. Surprise! Remix: We Rule The World [Rev 1.0.2] | [0100F2B0123AE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2B0123AE000) | 821623d5241ab14b |
-| 847 | LA MULANA 1 | [0100E5D00F4AE001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5D00F4AE001) | 546537ede7d31355 |
-| 848 | LA MULANA 2 | [0100E5D00F4AE002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5D00F4AE002) | a73e8bf6d692314a |
-| 849 | LA-MULANA | [010026000F662000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026000F662000) | 5160d10088bb2289 |
-| 850 | LA-MULANA 2 | [01005E000D3D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005E000D3D8000) | c22c6b213d9f9c40 |
-| 851 | LA-MULANA 2 | [010038000F644000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038000F644000) | 582b12ea6fc34845 |
-| 852 | Labyrinth of Refrain: Coven of Dusk | [010058500B3E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010058500B3E0000) | a70b9eb509780b4a |
-| 853 | Lair of the Clockwork God | [01008280119B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008280119B2000) | a438aaa96812fe44 |
-| 854 | Landflix Odyssey | [0100BE3013A38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE3013A38000) | c55df60aebbb4eae |
-| 855 | Langrisser I and II [Rev 1.0.0] | [0100BAB00E8C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BAB00E8C0000) | 06b9d4461dc8a442 |
-| 856 | Lapis x Labyrinth | [010059500D070000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010059500D070000) | 7aa99f168bbe05de |
-| 857 | Last Fight [Rev 1.0.1] | [01009E100BDD6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009E100BDD6000) | 184cd27602cef34d |
-| 858 | Laytons Mystery Journey: Katrielle and the Millionaires Conspiracy [Deluxe Edition] | [0100CE500D226000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CE500D226000) | 6e3697980fb82e82 |
-| 859 | Legend of Kay Anniversary | [01002DB007A96000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002DB007A96000) | 45396fcb2433872f |
-| 860 | Legend of Keepers: Career of a Dungeon Manager | [0100C67015076000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C67015076000) | 29cca88a99029547 |
-| 861 | Legend of Mana | [01003570130E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003570130E2000) | 8af5434b6dbb81cc |
-| 862 | Legend of the Skyfish | [0100ECC00EF3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ECC00EF3C000) | eb415b6b0545b744 |
-| 863 | Legend of the Tetrarchs | [01007E900DFB6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007E900DFB6000) | 4c1d271b7b598d41 |
-| 864 | Legends of Ethernal | [01008EE012CD4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008EE012CD4000) | 6426eb51f081aa45 |
-| 865 | LEGO City: Undercover | [010085500130A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010085500130A000) | 2aa90ecc2a24da46, 7b021c62485d604c |
-| 866 | LEGO City: Undercover | [01003A30012C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003A30012C0000) | 669f6e70c268f748 |
-| 867 | LEGO Harry Potter Collection | [010052A00B5D2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010052A00B5D2000) | 01c46c3e39c5370f |
-| 868 | LEGO Jurassic World | [01001C100E772000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C100E772000) | 1b80403be8882745 |
-| 869 | LEGO Marvel Super Heroes | [01006F600FFC8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006F600FFC8000) | 5d769abcad9f2743 |
-| 870 | LEGO Marvel Super Heroes 2 | [0100D3A00409E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D3A00409E000) | 20cd49f2ba64744d |
-| 871 | LEGO Marvel Super Heroes 2 | [01007690040A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007690040A0000) | e21eae8cb8581043 |
-| 872 | LEGO The Incredibles | [0100A01006E00000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A01006E00000) | 2103782a9ae5384e |
-| 873 | LEGO The Incredibles | [0100F19006E04000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F19006E04000) | 414d247f3fd8084e |
-| 874 | LEGO® DC Super-Villains | [010070D009EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010070D009EC000) | 711c52fc37606d45 |
-| 875 | LEGRAND LEGACY: Tale of the Fatebounds | [0100E7500BF84000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E7500BF84000) | ec34fb71507c2b42 |
-| 876 | Lethal League Blaze | [01003AB00983C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003AB00983C000) | 6cbb3b19c992634f |
-| 877 | Letter Quest Remastered | [01008C300648E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008C300648E000) | f94d4262f0311e4d |
-| 878 | Liege Dragon | [010041F0128AE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010041F0128AE000) | 68485fb688541b47 |
-| 879 | Light Fall | [010030A006F6E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010030A006F6E000) | d4801982fd785f42 |
-| 880 | Little Big Workshop | [0100F6B01188E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F6B01188E000) | 9b7a1e12c165644e |
-| 881 | Little Inferno | [0100B18001D8E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B18001D8E000) | 4e1af3b11a41f81c |
-| 882 | Little Nightmares II | [010097100EDD6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010097100EDD6000) | 73ace23d9e196304 |
-| 883 | Little Triangle | [01000690085BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000690085BE000) | 992d2df3ec0d134a |
-| 884 | Lonely Mountains: Downhill | [0100A0C00E0DE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0C00E0DE000) | 2ec4d1b667108246 |
-| 885 | Loot Hero DX | [010077E013D60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010077E013D60000) | fefe79a36161f553 |
-| 886 | Lost Castle | [0100581007068000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100581007068000) | 83f63a18c3490647 |
-| 887 | Lost in Random™ | [01005FE01291A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005FE01291A000) | 416914c121775277 |
-| 888 | Lost Sea | [010071B00964A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071B00964A000) | 53a7c333f5a5164e |
-| 889 | Lost Sphear | [010077B0038B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010077B0038B2000) | 641a9243ba35c638 |
-| 890 | Love Esquire | [0100D600129A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D600129A4000) | 18974dfcc74e58fc |
-| 891 | Lovecraft´s Untold Stories | [010041100CE7E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010041100CE7E000) | 06a06f7f844b3048, 39e84e8ca98f7445, 603713f56498a749 |
-| 892 | LoveR Kiss [Rev 1.0.0] | [01007250089F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007250089F8000) | 6a508fae5ee5a625, 8529f6bd4d1ac688, eb388107c2c7630a |
-| 893 | Lucah: Born of a Dream | [0100AAA00DD4C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AAA00DD4C000) | 03dffe48b573ca48, 504d86d833937a40 |
-| 894 | Luigis Mansion 3 | [0100DCA0064A6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DCA0064A6000) | 075ad583a1603f84, 486f6a3b2d6bcf5c, 788dd38ad97f1d12, 79e5950ffa85acf6, a27c9ba72927796a |
-| 895 | M.A.C.E. Space Shooter | [0100F02005D1E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F02005D1E000) | 21cc83cf5a6c67ae |
-| 896 | M.A.C.E. Tower Defense | [010032800F038000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010032800F038000) | 9eaa0a8818ea8546 |
-| 897 | MachiKnights -Blood bagos- | [0100F2400D434000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2400D434000) | 8eb9f6fb15b3428b |
-| 898 | Mad Bullets | [01008F000E908000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008F000E908000) | 07cdecb2cfdb33db |
-| 899 | Mad Tower Tycoon | [0100C5F012A3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5F012A3C000) | e80d3cc1c0bac34c |
-| 900 | Magazine Mogul | [01004A200E722000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004A200E722000) | 1f3961008c458b42 |
-| 901 | Mages of Mystralia | [0100549008C9C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100549008C9C000) | 876049d0d3d7ca4a, de32b7731b63fe48 |
-| 902 | Magic Scroll Tactics | [010013800BE2C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010013800BE2C000) | e4473ceedcc3cc4f |
-| 903 | MagiCat | [01008E500BF62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008E500BF62000) | 833d81cc2e69914c |
-| 904 | Maid of Sker | [01002E900CF38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002E900CF38000) | d7ef1ae60aada34a |
-| 905 | Makai Senki Disgaea 6 [Rev 1.0.0] | [0100307011D80000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100307011D80000) | 0061513a543e48db, b766e8ad3284ab9c |
-| 906 | Makai Senki Disgaea Refine | [01000E600B05C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000E600B05C000) | 489626ae0cfbfd15 |
-| 907 | Mana Spark | [01005A700CC3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005A700CC3C000) | 527a6996351df24f |
-| 908 | Maneater | [010093D00CB22000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010093D00CB22000) | 153ee73742bff405 |
-| 909 | March to a Million | [010097500E552000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010097500E552000) | ba6922f2e506d442 |
-| 910 | Märchen Forest [Rev 1.0.0] | [01001B2012D5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B2012D5E000) | b07176ceb2483f4c |
-| 911 | Mario + Rabbids Kingdom Battle | [010067300059A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010067300059A000) | 3b39e0c06b8841f1 |
-| 912 | Mario Golf™: Super Rush | [0100C9C00E25C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C9C00E25C000) | 70617e8dac74382a, a7f339f38ee6b26c |
-| 913 | Mario Kart 8 Deluxe | [0100152000022000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100152000022000) | 1cd9216a21737fb4, 96dfd1769e560c27, fe1b230800d4933c |
-| 914 | Mario Tennis Aces | [0100BDE00862A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BDE00862A000) | 32487e7e3d94954e, 4b9a64ded26c6e46, 88ef9ecb522d12db, 9fda2c32e8de3ebf, a85c59aedf83e5c9, a9b238505a969318, f5942324c223cd16 |
-| 915 | Marvel Ultimate Alliance 3: The Black Order | [010060700AC50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010060700AC50000) | 066e47b7e18919a7, 5ed21fb245de6fd6, 667b85fe3416042d, bb1b99313a37497b, e853c44fdf18b88f, f5b177df07a33d38, f6a5b20e04316d19, f92c9527298b5cce |
-| 916 | Mary Skelter 2 | [01003DE00C95E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003DE00C95E000) | 1caa05a4630e7769, b1fc6fb94ece1df1, c16e154e683d7eb8 |
-| 917 | Masters of Anima | [0100CC7009196000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CC7009196000) | 221c5199de0ad409, b1c8b55e8d400e57 |
-| 918 | Max and the book of chaos | [0100A8C011F26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A8C011F26000) | 7a0d43680365424e |
-| 919 | Mayhem Brawler | [01002C70149B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C70149B4000) | 833b93270803234e, 9f158d0cdd74440b |
-| 920 | Mech Rage | [0100EC000CE24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC000CE24000) | b117cba20eb26a4f |
-| 921 | Mechstermination Force | [0100E4600D31A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4600D31A000) | 59d3aec4b3c1f9c6 |
-| 922 | Mega Man 11 | [0100B0C0086B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B0C0086B0000) | 047fdd0c5af5f1c5, 3469a1b2e0fea93c |
-| 923 | Mega Man Legacy Collection | [01002D4007AE0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002D4007AE0000) | 381ebb12fb9a8c78 |
-| 924 | Mega Man Legacy Collection 2 | [0100842008EC4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100842008EC4000) | cde43aac8c49c618 |
-| 925 | Mega Man X Legacy Collection | [01005C60086BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005C60086BE000) | ead37d36abd7c4c8 |
-| 926 | Mega Man X Legacy Collection 2 | [01005250086C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005250086C4000) | ece85107b8dc81db |
-| 927 | Mega Man Zero/ZX Legacy Collection [Rev 1.0.0] | [010025C00D410000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010025C00D410000) | 2a38895c5e732182 |
-| 928 | Megabyte Punch | [0100FC700F942000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FC700F942000) | 74e0c0485919c342 |
-| 929 | Meganoid | [010028101227A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010028101227A000) | 10318952dad3d9e1 |
-| 930 | MELTY BLOOD: TYPE LUMINA | [01001E30126A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001E30126A0000) | 030e8ed4b6ecd104, 46ffd77d1647f1ae |
-| 931 | Mercenaries Blaze: Dawn of the Twin Dragons | [0100A790133FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A790133FC000) | acdb9f8fa16b0f4f |
-| 932 | Mercenaries Wings: The False Phoenix | [010094500C216000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010094500C216000) | fea1e2af77833e40 |
-| 933 | Mercenary Kings | [0100F900046C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F900046C4000) | e19317ee3daf4fea |
-| 934 | METAL MAX Xeno:  Reborn [Rev 0.1] | [0100E8F00F6BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E8F00F6BE000) | b6f1f3441fddbf47 |
-| 935 | Metaloid: Origin | [01002DE00E5D0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002DE00E5D0000) | d76d38b9e285e4cc |
-| 936 | Metaverse Keeper | [0100AFF00F938000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AFF00F938000) | 52e597efe89c6348 |
-| 937 | Metro Redux [Rev 1.0.0] | [0100D4900E82C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D4900E82C000) | 85c362cc9790f0ed |
-| 938 | Metro: Last Light Redux | [0100F0400E850000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F0400E850000) | 85c362cc9790f0ed |
-| 939 | Metroid™ Dread | [010093801237C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010093801237C000) | 49161d9ccbc15df9, 64b4b34a5490b80f, 6c1c79196ed2af54, e8e8ec3fd0159d65 |
-| 940 | Micro Pico Racers | [0100E5E012744000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5E012744000) | 9889bea1eaa23c42 |
-| 941 | Miden Tower | [01001EB011D38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001EB011D38000) | 0d5d07181f8be84c |
-| 942 | Midnight Deluxe | [01000FB008900000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000FB008900000) | ab085264ca5a9442 |
-| 943 | Mighty Goose | [0100AD701344C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AD701344C000) | 230115d50145b816 |
-| 944 | MIGHTY GUNVOLT BURST | [01000E2003FA0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000E2003FA0000) | e621cc4f5ac77b1c |
-| 945 | Miitopia™ | [01003DA010E8A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003DA010E8A000) | 3378b75a3dd2ada9, 38a937bb6d6c8f3d |
-| 946 | Miles and Kilo | [01004B7009F00000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B7009F00000) | 900c13947dee53ff |
-| 947 | MindSeize | [0100B05012FB2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B05012FB2000) | 53ee95838a26cc41 |
-| 948 | Minecraft (rev001) | [0100D71004694000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D71004694000) | 390a94ddff4e98a2, 460de4e3e9b83e39 |
-| 949 | Minecraft Dungeons | [01006C100EC08000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C100EC08000) | 4e87c5792a7c8290, 5ee3f44479a972ea, 6e4f953fd94fa7bc, 919717f094b9c8cd, b0efb225275ba084, fd6b97411349ddb3 |
-| 950 | Mini Motor Racing X | [01003560119A6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003560119A6000) | 489a7372c2fd7948 |
-| 951 | Minoria | [0100FAE010864000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FAE010864000) | 22f902ea52fb9449 |
-| 952 | Missile Dancer | [0100CFA0138C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CFA0138C8000) | bd89832dce35bd0b |
-| 953 | Mist Hunter | [010059200CC40000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010059200CC40000) | 5a12f43732856844 |
-| 954 | MISTOVER | [010034E00EFD0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010034E00EFD0000) | 72353029e0dd9843, 9b3b5f6d3d95ae4c, a845c02558e6e447 |
-| 955 | MO:Astray | [010011300F74C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011300F74C000) | 6c3210e6db52484a, d0621765de125240 |
-| 956 | Moero Chronicle™ Hyper | [0100B8500D570000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B8500D570000) | d6db4c4b00699a19 |
-| 957 | Moero Crystal H | [01004EB0119AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004EB0119AC000) | f386b1aed15c029c |
-| 958 | Momodora: Reverie Under the Moonlight | [01004A400C320000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004A400C320000) | 1fa6ede0487edafd, d9c5d440ea56b37b |
-| 959 | MONKEY BARRELS | [0100FBD00ED24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FBD00ED24000) | 611f06c0ec29b743, fe50c0f9760f4343 |
-| 960 | Monkey King: Master of the Clouds | [01004C500B8E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004C500B8E0000) | 40961c0a47988049 |
-| 961 | Monochrome Order | [010075200F1CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010075200F1CA000) | 5d1bc3e14c488c47 |
-| 962 | Mononoke Slashdown | [0100F3A00FB78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F3A00FB78000) | 6911a0b8b685e532 |
-| 963 | Monopoly | [01007430037F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007430037F6000) | 78440bac00d01742, b3efc64152be0d27 |
-| 964 | Monster Boy and the Cursed Kingdom | [01006F7001D10000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006F7001D10000) | 107a4d01b1bf5d44, 7dd8afc6a77afbb3, bef7bd1a79121305, ee7693162065f488, ff7be16d88b0c439 |
-| 965 | Monster Harvest | [01004E001256A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004E001256A000) | 84a900975bbc204b |
-| 966 | MONSTER HUNTER GENERATIONS ULTIMATE | [0100770008DD8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100770008DD8000) | 91a0f7e64876346e, 936abc6624fc8d8a, fb08f1d20fd1204f |
-| 967 | MONSTER HUNTER GENERATIONS ULTIMATE™ Demo | [0100E6400B1EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E6400B1EA000) | d95baaadde3908ef |
-| 968 | Monster Hunter Rise [Rev 1.0.0] | [0100B04011742000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B04011742000) | 1318dd201757a788, 23a75866baa8b4d9, 46205b7bd869e2e4, 5cac0323ccbc04bf, 6cdec176ea1d12c5, b09f83b9ef28c00d, f7a7784e77202be7 |
-| 969 | Monster Hunter Stories 2: Wings of Ruin | [0100E21011446000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E21011446000) | 4b8e91070d920211, bcd9fddeba070270, ee762e3c16403a53 |
-| 970 | Monster Hunter XX Nintendo Switch Ver. | [0100C3800049C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C3800049C000) | 9d4c86e6ef74504a |
-| 971 | Monster Jam: Steel Titans [Rev 1.0.1] | [010095C00F354000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095C00F354000) | 92d64159071e039f |
-| 972 | Monster Sanctuary | [0100A0F00DA68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0F00DA68000) | 6353afd4731b1144, 919f748a49edcc4d, fd058635cd4e2b43 |
-| 973 | Monster Slayers | [0100D1700C732000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D1700C732000) | 341cd937b9a177a5 |
-| 974 | Monster Train First Class | [01006D9013894000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006D9013894000) | f0afc43d4e9e6540 |
-| 975 | Monster Viator | [01001620105FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001620105FE000) | 555c31c0b8c8d540 |
-| 976 | moon | [0100E1800EFCE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1800EFCE000) | 089898e9f7812443 |
-| 977 | Moon Hunters | [01004FD00382A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004FD00382A000) | 5e4bc2f68fd39749 |
-| 978 | Moon Raider | [01000C301457C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000C301457C000) | 2206455c8debc1fd |
-| 979 | Moonlighter | [0100F4700B2E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F4700B2E0000) | 962cafe79900af46, bbf3f7535ed52140, cd63653c77e52d44 |
-| 980 | Morbid: The Seven Acolytes | [010040E00F642000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040E00F642000) | 44d8102a3a314307, c2743da0740c6a26 |
-| 981 | Morphite | [0100776003F0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100776003F0C000) | a757cc723f059240 |
-| 982 | Mortal Kombat 11 | [0100F2200C984000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2200C984000) | 053c0def634d577b, 0a62ba391b96f85a, 122e262da74e5148, 2102a7476c861be3, 253ce7ff39ea6dd8, 42f093afb5ed34e2, 452a442f3d18086d, 4db479bdec804fca, 4f7ab1a3eefc7eb2, 5cc95226dbaaae04, 600436311afc7f24, 618a891e4a49d835, 69cfb1478185a732, 6ee15d1e9bc5ce90, 71f12f744212cbe8, 7dd420a59ee310dd, a18f8879b9a93f3b, b87694bcc4e7c77e, c8c44bca0e8fa163, db4da7bf6af18d4a, dbf3cf1a67412d92, dfe3c7c2880ce91d, e5efef0cabb585cc |
-| 983 | Mother Russia Bleeds | [0100D9C00AA52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D9C00AA52000) | 3b1f3c4e8d93b74a |
-| 984 | Moto Rush GT | [01003F200D0F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003F200D0F2000) | d9417a4323518e47 |
-| 985 | Moving Out | [0100C4C00E73E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C4C00E73E000) | d613dc6c33ccaa41 |
-| 986 | Mr. DRILLER DrillLand | [0100DCA011262000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DCA011262000) | 8ae3fac28ffdba0e |
-| 987 | Muse Dash | [01008E200C5C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008E200C5C2000) | 0a0e633cd3526a41, 61a564531b665643, ee67e4ace805674c |
-| 988 | Mushihimesama | [010045800FBD0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045800FBD0000) | 87d5d35af6571d94, bba1d0305b1083eb |
-| 989 | Mushroom Heroes | [01005BD0112B8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005BD0112B8000) | 2010fabdb517f74e |
-| 990 | Musou Orochi 3 | [0100E8500AD58000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E8500AD58000) | 07650fd5e5e2b82c, 1d18291b37a88ab1 |
-| 991 | Mutant Mudds Collection | [01004BE004A86000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004BE004A86000) | dc7ebf2d74ae270d |
-| 992 | Mutant Year Zero: Road to Eden [Deluxe Edition] | [0100E6B00DEA4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E6B00DEA4000) | eb33b25f08668b19 |
-| 993 | My Friend Pedro | [010031200B94C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010031200B94C000) | 11428e3e3bec214e, cc7797e4ef90c248, myfriendpedro1v0 |
-| 994 | My Hero Ones Justice 2 [Rev 1.0.0] | [01007E700DBF6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007E700DBF6000) | 445a7e604fa1a98b, 6b8a78ea6780099a |
-| 995 | My Time at Portia | [0100E25008E68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E25008E68000) | 0f91da8517ff2c47, 5a8d16ace656d54b, 5fc2c9ce6c79d64a, 7a11fee67d77df44, 981a2d07e0947446, dd16f4688ab7004b |
-| 996 | Myastere -Ruins of Deazniff- | [01003E3013BE4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003E3013BE4000) | ca594d5fa57f6c2c |
-| 997 | MyFarm 2018 | [010021F00AD76000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010021F00AD76000) | a18d105404da2c47 |
-| 998 | Mystery Mine | [01002800117EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002800117EE000) | cbf01f0658eade4e |
-| 999 | Mystik Belle Enchanted Edition | [0100FFB015C6E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FFB015C6E000) | 93eb061008cd762b |
-| 1000 | NAMCO MUSEUM® ARCHIVES Vol 1 | [010084E010E18000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010084E010E18000) | d8f700a70f7df4f2 |
-| 1001 | Narcos: Rise of the Cartels | [010072B00BDDE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072B00BDDE000) | 188f1ed1673facbd, 2e6fa6fae12d8085 |
-| 1002 | Narita Boy | [010062200E912000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010062200E912000) | 976d33b11368ef49 |
-| 1003 | NARUTO SHIPPUDEN: Ultimate Ninja STORM TRILOGY | [0100EC800800C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC800800C000) | 577efdfdbb7545cf |
-| 1004 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO | [010084D00CF5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010084D00CF5E000) | 71cdeb75b75fa30e |
-| 1005 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO | [01006CF00CF60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006CF00CF60000) | fc2d8e44186e60c3 |
-| 1006 | NBA 2K Playgrounds 2 | [01001AE00C1B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001AE00C1B2000) | 0cf694c10af10fa8, 689ca7b6ce68bf90, a9fb2947a86384aa, bd81fef7e65a788b, c38678c1d242d6f5, ebe7b75a6c67814a |
-| 1007 | Need for Speed™ Hot Pursuit Remastered | [010029B0118E8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029B0118E8000) | 3515e683e1d5e5a1 |
-| 1008 | Nefarious | [010023500B0BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010023500B0BA000) | 4a30e3f987fb714a |
-| 1009 | Negative: The Way of Shinobi | [01008390136FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008390136FC000) | 81c77252a08b20aa |
-| 1010 | Neko Navy Daydream Edition | [0100E5500B020800](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5500B020800) | fbd5d6c83ed9a340, ff16116308df4e4b |
-| 1011 | Nelke & the Legendary Alchemists ~Ateliers of the New World | [01006ED00BC76000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006ED00BC76000) | 61cdd17992865cf4 |
-| 1012 | NEO: The World Ends with You | [010043B013C5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010043B013C5C000) | 6a3e02d91948ec42, f48fbf0922d5424a |
-| 1013 | Neon Abyss | [0100BAB01113A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BAB01113A000) | 48feaf16afb29340, a78d968009a9374c |
-| 1014 | Neon Drive | [010032000EAC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010032000EAC6000) | 2b5c0f5f97fe9a4d |
-| 1015 | Neoverse Trinity Edition | [01001A201331E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001A201331E000) | 320bcb5ae7a26f17 |
-| 1016 | Nevaeh | [0100C20012A54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C20012A54000) | 1e6ee43811536d1e |
-| 1017 | Never Give Up | [01005AD00B91A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005AD00B91A000) | 3990733a2735114c |
-| 1018 | Neversong & Pinstripe [Rev 2.0.0,0.0.0] | [01000C1011960000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000C1011960000) | 802040931b870548 |
-| 1019 | New Pokémon Snap [Rev 1.0.0] | [0100F4300BF2C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F4300BF2C000) | b8301424493b656b |
-| 1020 | New Star Manager | [010082900C5FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010082900C5FA000) | 878c20b66512e926, c308d2d0051be481 |
-| 1021 | New Super Lucky's Tale | [010017700B6C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010017700B6C2000) | 14872049185c584c, 9acb46936749f543 |
-| 1022 | New Super Mario Bros. U Deluxe | [0100EA80032EA00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EA80032EA00) | aee6dccc06d9c05b |
-| 1023 | New Super Mario Bros. U Deluxe | [0100EA80032EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EA80032EA000) | aee6dccc06d9c05b |
-| 1024 | Nexomon | [01000BE0156B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000BE0156B2000) | 5afef0a8bcb47841 |
-| 1025 | Nexomon Extinction | [01005A5011A44000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005A5011A44000) | 1718cb7c2f015246, 30bb08c96945af42, 4bbca0443db50447, 681dfb4b169e3548, 96d466ab34670744, eda96e07f0b5074a |
-| 1026 | Ni no Kuni II: Revenant Kingdom (All in One Edition) [Rev 1.0.0] | [0100C4E013E5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C4E013E5E000) | 5b67ef657677fd66 |
-| 1027 | Ni no Kuni: Shiroki Seihai no Joo for Nintendo Switch | [010032400E700000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010032400E700000) | b0ce5ccdff637507, eb75a3490903f50d |
-| 1028 | Ni No Kuni: Wrath of the White Witch | [0100E5600D446000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5600D446000) | 45f10c499223a9e4, c32b29cb5fba96d9 |
-| 1029 | Ni no Kuni™ II: Revenant Kingdom PRINCE'S EDITION | [0100BE7013E06000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE7013E06000) | 14c7986beb94a1a1, 2c931e8a8748eccf |
-| 1030 | Niche - a genetics survival game | [01000EC010BF4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000EC010BF4000) | 34a500aa3fafff47 |
-| 1031 | Nickelodeon All-Star Brawl | [0100DCF013740000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DCF013740000) | 96637d97114249ae |
-| 1032 | nickelodeon Kart Racers | [0100D6200933C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D6200933C000) | f7de0ebc3764568a |
-| 1033 | Nickelodeon Kart Racers 2: Grand Prix [Rev 1.0.0] | [0100EBC00FE14000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EBC00FE14000) | 567f6b4a4d3fea08 |
-| 1034 | Nightmare Boy | [01005F4009112000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005F4009112000) | 023d9ce57d7ff64b, be7051cb9022834a |
-| 1035 | Nights of Azure 2: Bride of the New Moon | [0100628004BCE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100628004BCE000) | 81da4f9e1e961ca6 |
-| 1036 | Nihilumbra | [0100AA0008736000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AA0008736000) | bbf8eb91e352e244 |
-| 1037 | Nine Parchments | [0100D03003F0E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D03003F0E000) | f7893e37fc10c803 |
-| 1038 | Ninja Box | [0100272009E32000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100272009E32000) | cbbab0dad19d4c42 |
-| 1039 | NINJA GAIDEN: Master Collection | [01002AF014F4C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002AF014F4C000) | f20fdc280af01cbe |
-| 1040 | Ninja Striker! | [010081D00A480000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010081D00A480000) | ef1e15af5ef000e1 |
-| 1041 | Ninja Village | [010090600CB98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010090600CB98000) | 4b77a64e9fb22347 |
-| 1042 | Ninjala | [0100CCD0073EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CCD0073EA000) | d4911813945ba5cc |
-| 1043 | Nintendo 64™ – Nintendo Switch Online | [0100C9A00ECE6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C9A00ECE6000) | eb79ef243458597c |
-| 1044 | No More Heroes | [0100F0400F202000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F0400F202000) | 7541670de3a49d9f |
-| 1045 | No More Heroes 2: Desperate Struggle | [010071400F204000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071400F204000) | 29aca13a1dcbecbb |
-| 1046 | No More Heroes 3 | [01007C600EB42000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007C600EB42000) | c3af706f3f7844ea |
-| 1047 | No Straight Roads | [01009F3011004000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009F3011004000) | 56de406668fa3ce1, ef9d1821b0a08a90 |
-| 1048 | Nongunz: Doppelganger Edition | [0100542012884000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100542012884000) | d8443a6bca4a0143 |
-| 1049 | NoReload Heroes | [0100E9A00B0BC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9A00B0BC000) | f8697f92bf87db49 |
-| 1050 | Northgard | [0100A9E00D97A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A9E00D97A000) | 64656a05f26586e4, f3777cd802f343fc |
-| 1051 | Nosferatu Lilinor | [0100373010D26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100373010D26000) | 397660b098ccf7d4 |
-| 1052 | Nubarron: The adventure of an unlucky gnome | [0100343013248000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100343013248000) | b2b4207363638e49 |
-| 1053 | Nuclear Throne | [0100CFE00CE6E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CFE00CE6E000) | 920c5e25051824ec |
-| 1054 | OBAKEIDORO! [Rev 1.0.6] | [010074600CC7A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010074600CC7A000) | 4d4fcfd3be47484a, 5236854392c05e4d, 710b99c18aa32240 |
-| 1055 | Oceanhorn - Monster of Uncharted Seas | [01007D7001D0E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007D7001D0E000) | 3ad80bd8cfcb3423 |
-| 1056 | Oceanhorn 2: Knights of the Lost Realm | [01006CB010840000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006CB010840000) | 53ce4dc2fb6423a2, e5e739813c69b5a6 |
-| 1057 | Octogeddon | [0100E6E00AF44000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E6E00AF44000) | 51ae5df244c2f1ee |
-| 1058 | OCTOPATH TRAVELER | [010057D006492000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010057D006492000) | 0d8a6a8804a6654c, 72fd3930fac64f21, b88a8d8e5516dde9, d2d9a400f18d3749 |
-| 1059 | Octopath Traveler | [0100E66006406000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E66006406000) | 07a71ace45b7d6ae |
-| 1060 | Oddmar | [01001F100FA04000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001F100FA04000) | 97118b66caae2840 |
-| 1061 | Oddworld: Munch's Oddysee | [0100BB500EE3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BB500EE3C000) | 7fd2abdd308a998e |
-| 1062 | Oddworld: Stranger's Wrath | [01002EA00ABBA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002EA00ABBA000) | 01002ea00abba000, 159108e2e30c21ff, 542b1d1d14978b82 |
-| 1063 | OF MICE AND SAND -REVISED- | [01002310064B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002310064B4000) | ed461dd4749922ff |
-| 1064 | Oh!Edo Towns | [01009A700DA8E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009A700DA8E000) | 38430ac28c4ecd4c |
-| 1065 | Okami HD | [0100F10009870000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F10009870000) | a4fddc7fd35b30cb |
-| 1066 | Okami HD(EUR US) | [0100276009872000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100276009872000) | a4fddc7fd35b30cb |
-| 1067 | OkunoKA Madness | [0100907011392000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100907011392000) | b9843922affefb4c |
-| 1068 | Olija | [01004D501230A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004D501230A000) | 976cb106d479d045 |
-| 1069 | Oliver's Adventures in the Fairyland | [0100E4600F188000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4600F188000) | e85777df5c90fa22 |
-| 1070 | Omega Labyrinth Life | [010079200E85C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010079200E85C000) | 4cd08d3edaef044c, e50048278d47174f |
-| 1071 | Omega Strike | [0100F8C00C21C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8C00C21C000) | 199aee8cfffd5e73 |
-| 1072 | OMG Zombies! | [01006DB00D970000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006DB00D970000) | 4291f2ae3b78c2de |
-| 1073 | Once Upon a Coma | [0100E940044F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E940044F2000) | 15b87fdc1d89954c, 2745fd4aff073f4e |
-| 1074 | One Dog Story | [01009C301061A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009C301061A000) | 17d0ca29336dd042 |
-| 1075 | One More Dungeon | [0100BD3006A02000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD3006A02000) | d6427ccf92af29e2 |
-| 1076 | One Piece Pirate Warriors 3 - Deluxe Edition | [0100774009CF6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100774009CF6000) | 3865de04c2f35feb |
-| 1077 | One Piece Unlimited World Red - Deluxe Edition | [0100574002AF4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100574002AF4000) | f1546b842fcf9d6c |
-| 1078 | One Piece: Kaizoku Musou 3 - Deluxe Edition | [0100553006F36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100553006F36000) | 38c57174e8cb6a34 |
-| 1079 | One Piece: Kaizoku Musou 4 [Rev 1.0.0] | [010089C00DA6A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010089C00DA6A000) | 43df498afedee217, f9d1ecebb1f2d952 |
-| 1080 | ONE PIECE: PIRATE WARRIORS 4 | [01008FE00E2F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008FE00E2F6000) | 7ad7ff7329152b07, f55ef3484a73aee8 |
-| 1081 | One Way Heroics Plus | [0100AD9011056000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AD9011056000) | 419ceea03ccb6e43 |
-| 1082 | Onimusha: Warlords | [0100416008A1200](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100416008A1200) | bdb65bae30a95abe |
-| 1083 | Onimusha: Warlords | [0100416008A12000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100416008A12000) | bdb65bae30a95abe |
-| 1084 | ONINAKI | [01001AF00CE54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001AF00CE54000) | c8f7a25e31377144, c949e2576f532c43, da78949bb4161f40 |
-| 1085 | Operation Hardcore | [010039C00A45C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010039C00A45C000) | 35c56d941eb3d44a |
-| 1086 | Operencia: The Stolen Sun | [01006CF00CFA4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006CF00CFA4000) | 1ed621dd90bcd575 |
-| 1087 | Ori and the Blind Forest: Definitive Edition | [010061D00DB74000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010061D00DB74000) | 9c4f2a47916b6a54 |
-| 1088 | Ori and the Will of the Wisps | [01008DD013200000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008DD013200000) | 11c33c7c2dbd3c54, 4cc9824a6383cf51, 5fe46b8ce469468e |
-| 1089 | Orn: The Tiny Forest Sprite | [01006C70102EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C70102EA000) | 5540db46dbe1c7a6 |
-| 1090 | Othercide | [0100E5900F49A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5900F49A000) | 1e6bd2f99d2e0547 |
-| 1091 | Outbreak | [010047F013104000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010047F013104000) | 319115d455581d4d |
-| 1092 | Outbreak Lost Hope | [0100D9F013102000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D9F013102000) | 45e7b3d332786b45 |
-| 1093 | Outbreak The Nightmare Chronicles | [01006EE013100000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006EE013100000) | e710a0e5ed885042 |
-| 1094 | Outbreak: Endless Nightmares | [0100A0D013464000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0D013464000) | d4a2e6ce65603944 |
-| 1095 | Outbreak: Epidemic | [0100C850130FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C850130FE000) | 15639f4bc0eb994e |
-| 1096 | Outbreak: The New Nightmare | [0100B450130FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B450130FC000) | bc36feab084d9b4a |
-| 1097 | Outbuddies DX | [0100B8900EFA6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B8900EFA6000) | d30c78263bff3ca9 |
-| 1098 | Outlast | [01008D4007A1E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D4007A1E000) | c3d46bb3c7059db1 |
-| 1099 | Outpost Delta | [0100CCF00F5BC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CCF00F5BC000) | 923a91015f81b947, e339c1e93e63c242 |
-| 1100 | Overcooked 2 | [01006FD0080B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006FD0080B2000) | 150f46f0966d1544 |
-| 1101 | OVERWHELM | [01005F000CC18000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005F000CC18000) | 528f3262a75e4ea8 |
-| 1102 | Owlboy | [0100E570094E8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E570094E8000) | 24487b6e21e48eec |
-| 1103 | Pacific Wings | [010006900EF5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010006900EF5E000) | 2a74deb620163dbc |
-| 1104 | Paint the Town Red | [010026E013EFC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026E013EFC000) | a9af6300aadef1d1 |
-| 1105 | Pang Adventures | [010087300B730000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010087300B730000) | 20d6a4241790f0b8, 9b2eef81ce8723e7 |
-| 1106 | Pankapu | [0100635006C32000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100635006C32000) | ca2ac536c1304c40 |
-| 1107 | Panty Party (rev001) | [0100BED00E350000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BED00E350000) | 828197c1da25ea47 |
-| 1108 | Panzer Dragoon: Remake | [0100C6A00E94A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C6A00E94A000) | 5bb8164df0b16049 |
-| 1109 | Panzer Paladin | [01004AE0108E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004AE0108E0000) | 180c3b0f6b98f4f6 |
-| 1110 | Paper Mario™: The Origami King | [0100A3900C3E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A3900C3E2000) | bdd6dc7da7a69290, e74395f066fd8ccb |
-| 1111 | Part Time UFO™ | [01006B5012B32000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006B5012B32000) | 3e13ee84f3a5f642 |
-| 1112 | Pathway | [0100114014724000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100114014724000) | 4620f3bb04d55348 |
-| 1113 | Paw Paw Paw | [01008E2013144000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008E2013144000) | b0db8a9e370b6a48 |
-| 1114 | Pawarumi | [0100A56006CEE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A56006CEE000) | 93301ee57e1e4a4e |
-| 1115 | PC Building Simulator | [010072800CBE8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072800CBE8000) | 2e8b2eec47779448, 564956551b65dd44, dd95d1a6ec0adf42 |
-| 1116 | Peach Ball Senran Kagura | [010082500350E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010082500350E000) | a0bd46b324abdb68 |
-| 1117 | Penny-Punching Princess | [0100C510049E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C510049E0000) | 534fbdb4492325c2, 84d19a943300e243 |
-| 1118 | Persona 5 Scramble: The Phantom Strikers  | [0100E4F010D92000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4F010D92000) | ca98347015beaa59 |
-| 1119 | Persona 5 Scramble: The Phantom Strikers [Rev 1.0.0] | [01005BD010872000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005BD010872000) | 496a2f5a9ce4fbeb |
-| 1120 | Persona 5 Scramble: The Phantom Strikers [Rev 1.0.0] | [01001C400E9D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C400E9D8000) | 3f57f096b84c7cfb, 740094a857a59066 |
-| 1121 | Persona® 5 Strikers | [0100801011C3E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100801011C3E000) | c4df04f647bdc727 |
-| 1122 | Pew Paw | [010045A01221E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045A01221E000) | 8e52b43604cabae7 |
-| 1123 | PHANTOM BREAKER:BATTLE GROUNDS OVER DRIVE | [0100063005C86000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100063005C86000) | 9e37b240fab20ab0 |
-| 1124 | Phantom Trigger | [0100C31005A50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C31005A50000) | 5f3b7618cfa088ff |
-| 1125 | Phoenix Wright: Ace Attorney Trilogy | [0100CB000A142000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CB000A142000) | 12b57556658e4f44 |
-| 1126 | Phoenotopia : Awakening | [01005E100A4F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005E100A4F0000) | 270bbaaa0cc10a49, 49fd30a3b6b16544, 6d45a44e37d5bb4c |
-| 1127 | Pikachin-Kit Game de Pirameki Daisakusen | [01009C100A8AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009C100A8AA000) | 21bb89de67757849 |
-| 1128 | Pikmin 3 Deluxe [Rev 1.0.0] | [0100F4C009322000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F4C009322000) | cd23d5cfb75d7e94, d467f5ad367bbee8 |
-| 1129 | Pillars of Eternity: Complete Edition | [0100D6200E130000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D6200E130000) | a40da7c8de72fa41 |
-| 1130 | Pine | [01002BA00D662000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002BA00D662000) | 324eb3403dd14441, 5363156258dd6c42, a38595d6dd8f6f4f, aca5799b4a322e4c |
-| 1131 | Pinstripe | [010041100B148000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010041100B148000) | 802040931b870548, 99576dd9532d5d47 |
-| 1132 | Pixel Devil and the Broken Cartridge | [010011300D52A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011300D52A000) | 2ca718653e59a64b |
-| 1133 | Pixel Game Maker Series The Witch and The 66 Mushrooms | [01002C90133CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C90133CA000) | 6186cfec5352cb54 |
-| 1134 | PixelJunk Monsters 2 | [0100E4D00A690000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4D00A690000) | 4b171b8f549b7948 |
-| 1135 | Plants vs. Zombies: Battle for Neighborville (Complete Edition) [Rev 1.0.0] | [0100C56010FD8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C56010FD8000) | c8ce497181fbd794 |
-| 1136 | PLOID | [010081B013B58000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010081B013B58000) | e72872287906f568 |
-| 1137 | Pocket Arcade Story | [010011B00E6B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011B00E6B2000) | 759961046d584045 |
-| 1138 | Pocket Harvest | [010058C00E25A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010058C00E25A000) | 4afc691c3d3c9542 |
-| 1139 | Pocket Stables | [01008D400E1BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D400E1BA000) | f626906b9861154c |
-| 1140 | Pode | [01009440095FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009440095FE000) | 1022c3cea1e0f546 |
-| 1141 | Pokémon Café Mix | [010072400E04A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072400E04A000) | 2b242d6bb478f127 |
-| 1142 | Pokémon Mystery Dungeon: Rescue Team DX [Rev 1.0.1] | [01003D200BAA2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D200BAA2000) | 3ab632dee82d5944, 9dda1efeef70de46 |
-| 1143 | Pokémon Shield | [01008DB008C2C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008DB008C2C000) | 3518bf2ead557fe6, a16802625e7826bf, b44abd65a6a2fe82, b56ca071216570e8, bdd027f80fab4ef4, dbddd13845acd2bd, e38a27bc77702548 |
-| 1144 | Pokémon Sword | [0100ABF008968000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ABF008968000) | 4628a512b1d93d37, 479bd2b581f4bc6a, 490648316cc1ccdc, 5a7eebf172343616, 8dafedbb5be81c2c, 9d2db721a9894075, a3b75bcd3311385a |
-| 1145 | Pokémon: Lets Go, Eevee | [0100187003A36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100187003A36000) | 0a3f0d21e67dad80, 5831ec64d6b696fd, dcd187e409188ab1 |
-| 1146 | Pokémon: Lets Go, Pikachu! | [010003F003A34000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010003F003A34000) | 1c375692de4f4b87, c208db6a4ef4361f, d5d5567049fa0d15 |
-| 1147 | Pokémon™ Brilliant Diamond | [0100000011D90000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100000011D90000) | ea058a067cbd6943, f87fc6075104ec4d |
-| 1148 | Pokken Tournament DX | [0100B3F000BE2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B3F000BE2000) | 49690ba2efdcd7a7 |
-| 1149 | Polandball: Can Into Space | [0100A3500B4EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A3500B4EC000) | dd522c070476294a |
-| 1150 | Ponpu | [010096B01179A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010096B01179A000) | 5d6f2751999d884b |
-| 1151 | Pool Pro GOLD | [010070B01260C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010070B01260C000) | 8505a0a7d6727449 |
-| 1152 | Poopdie - Erstes Kapitel | [010051A011AD8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051A011AD8000) | a260850758df224c |
-| 1153 | Portal Knights | [0100437004170000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100437004170000) | 4f3d7062d176246d, d59d81c06f923846 |
-| 1154 | Potata: Fairy Flower | [01005FC010EB2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005FC010EB2000) | 42f4f5085262684b |
-| 1155 | Power Rangers: Battle for the Grid | [0100E1E00CF1A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1E00CF1A000) | cf6726cdec67c44f |
-| 1156 | Prehistoric Dude [Rev 1.0.0] | [010054F01266C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010054F01266C000) | afeea14ff3229a77 |
-| 1157 | Prinny 1 & 2:  Exploded and Reloaded [2 x Rev 1.0.1] | [01007A0011878000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007A0011878000) | e2611f3937023235 |
-| 1158 | Prinny® 2: Dawn of Operation Panties, Dood! | [01008FA01187A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008FA01187A000) | d638f8cad17cca99 |
-| 1159 | Pro Yakyuu Famista Evolution | [01008EA0080F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008EA0080F6000) | 8fab041b6bd95a26 |
-| 1160 | Project Highrise: Architects Edition | [0100BBD00976C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BBD00976C000) | 7c94babbddf3d243 |
-| 1161 | Project Warlock | [0100BDB01150E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BDB01150E000) | a826ad7b5cb6c048, c5821d9ce5c36e4f, d597de8544d8ed4f |
-| 1162 | Projection: First Light | [010063901024A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010063901024A000) | fa012b0e290e8e44 |
-| 1163 | Psyvariar Delta | [0100EC100A790000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC100A790000) | f89cc6c0ae94744c |
-| 1164 | Pumpkin Jack | [01006C10131F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C10131F6000) | 0f73f1d52820f90b, ee24cc35be30e682 |
-| 1165 | Punch Club | [0100A6000ACEA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A6000ACEA000) | 149284506f1bcc48 |
-| 1166 | QUAKE | [0100BA5012E54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BA5012E54000) | 3a5dcbc7074c1b84, 563b6f98641922ce, 822293637951b6af |
-| 1167 | Quest Hunter | [010095500D9F4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095500D9F4000) | 672682d615771c45 |
-| 1168 | Quest of Dungeons | [01001DE005012000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001DE005012000) | b01d8ea969dc1ccc |
-| 1169 | R-Type Dimensions EX | [0100E5400BE64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5400BE64000) | 9987904475ea8346, a9bab930855ced47, d13345de88c6f94f |
-| 1170 | R-Type Final 2 [Rev 1.0.0] | [0100F930136B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F930136B6000) | 225ea8c428ef4c9d, 41b6418e96424d37, 489dce236cc2ca95, 5d3eee4c03b390a7, 5eefe50943fc63f3, d964f65fcb9d9982, ea26613ea5a1479a |
-| 1171 | Rabi-Ribi | [01005BF00E4DE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005BF00E4DE000) | 539e6bdf2b110885, ca86dbb44a335ead |
-| 1172 | Rack N Ruin | [0100B8100C54A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B8100C54A000) | 4e587fe27a463d4c |
-| 1173 | RAD | [010024400C516000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010024400C516000) | 0bb3b1a39b34ac1b |
-| 1174 | Rad Rodgers Radical Edition | [010000600CD54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010000600CD54000) | 78885a1ca987c04c |
-| 1175 | Radiation City | [0100DA400E07E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DA400E07E000) | 8ac5ab12589a13be |
-| 1176 | Radical Rabbit Stew | [0100C8B00D2BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C8B00D2BE000) | 3d23184747f25b4d |
-| 1177 | Radio Squid | [0100655012064000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100655012064000) | 4a52e0e29438c94a |
-| 1178 | Raging Justice | [01003D00099EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D00099EC000) | 32c72b0d3fdf012f |
-| 1179 | Raiden IV x MIKADO Remix [Rev 1.0.0] | [01005CD013116000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005CD013116000) | 429485e8c171aa7e |
-| 1180 | Raiden V: Directors Cut | [01002B000D97E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002B000D97E000) | 941057a850e286df |
-| 1181 | Railway Empire - Nintendo Switch™ Edition | [01002EE00DC02000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002EE00DC02000) | 01002ee00dc02000, 126d0de908b959fe, 25f8fb4f9d1fac9d, c501187900ebf465 |
-| 1182 | Raji: An Ancient Epic | [010010B00DDA2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010010B00DDA2000) | ab09e78cdfec6e08, ff114a09d935be7a |
-| 1183 | Rayman Legends: Definitive Edition | [01005FF002E2A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005FF002E2A000) | 01005ff002e2a000, f466da1d713533c2 |
-| 1184 | Reaper: Tale of a Pale Swordsman | [01000F300F082000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000F300F082000) | 1780f95f2107a40c |
-| 1185 | Red Colony [Rev 1.0] | [0100351013A06000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100351013A06000) | 668d86248cb21165 |
-| 1186 | Red Death | [0100069010592000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100069010592000) | af1c53e6a85198f7 |
-| 1187 | Red Faction Guerrilla Re-Mars-tered | [010075000C608000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010075000C608000) | f1d71307616ab7e4 |
-| 1188 | Redeemer: Enhanced Edition | [01000D100DCF8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D100DCF8000) | 86aa48e1585f2ee7 |
-| 1189 | Reed 2 [Rev 1.0.0] | [01003EF0118D2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003EF0118D2000) | d93fa66964036f0e |
-| 1190 | Reflex Unit 2 | [010014901201E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010014901201E000) | 139abe52f6fa0748, fdea726242b49448 |
-| 1191 | Reknum | [0100A1D00FE54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A1D00FE54000) | bdcac16e3d2977b2 |
-| 1192 | RemiLore | [010095900B436000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095900B436000) | 39fbfc95e715944a, 48e6db6a91b59943, b27a372645a23e48 |
-| 1193 | Remothered: Broken Porcelain | [0100FBD00F5F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FBD00F5F6000) | b999bd4c357f1be3 |
-| 1194 | Remothered: Tormented Fathers | [01008F600F2D0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008F600F2D0000) | c817fa3b253c70b5, eb57cf3434044523 |
-| 1195 | Remothered: Tormented Fathers | [0100FF300C902000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF300C902000) | eb57cf3434044523 |
-| 1196 | Resident Evil  | [010050F00BC1A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010050F00BC1A000) | 010050f00bc1a000, 6bec9b23b09df46c, fb4239aa962b429b |
-| 1197 | Resident Evil 0 | [010097000BC10000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010097000BC10000) | fb4239aa962b429b |
-| 1198 | Resident Evil 4 | [010099A00BC1E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010099A00BC1E000) | 82c2a04a21d3e0b8, 8ceaf0d2ae48a935 |
-| 1199 | Resident Evil 5 | [010018100CD46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010018100CD46000) | 010018100cd46000, c517ecbb79de9733, ebffdb223149a725 |
-| 1200 | Resident Evil 6 | [01002A000CD48000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002A000CD48000) | 061d2a06cd700785, 2a797a895c35383b |
-| 1201 | RESIDENT EVIL REVELATIONS 2 | [010095300212A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095300212A000) | aef8885ae0603c44 |
-| 1202 | Resident Evil: Revelations | [0100643002136000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100643002136000) | 7b0e2611e8c9cae5 |
-| 1203 | Rest in Pieces | [01004A600EB3E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004A600EB3E000) | 56c0212550aee846 |
-| 1204 | Retro City Rampage DX | [0100F17004156000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F17004156000) | 34c173b15a2a9d09, f954b6268cb0c31d |
-| 1205 | Retro Machina | [01000ED014A2C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000ED014A2C000) | 0854ba405cd1554f |
-| 1206 | Return of the Heir | [01009AA014736000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009AA014736000) | 9dfcef719fc2c633 |
-| 1207 | Revenant Saga | [0100AA2006510000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AA2006510000) | 6462206160d88744 |
-| 1208 | Revenge Of Justice [Rev 1.0.0] | [010027400F708000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010027400F708000) | 4f83d8adbbf69d48 |
-| 1209 | Reverie: Sweet As Edition | [01008FF00B8FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008FF00B8FA000) | 6945855dd2799048 |
-| 1210 | REZ PLZ | [010071D00F156000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071D00F156000) | fc82339dcaa50b42 |
-| 1211 | Rhythm of the Gods | [010081D0100F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010081D0100F0000) | 6290d08ceb02ea4d, cff50afda441cc05 |
-| 1212 | Riddled Corpses EX | [01002C700C326000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C700C326000) | 4e87acad6e878c33 |
-| 1213 | Rift Adventure | [0100F5501483C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F5501483C000) | 05e742a660d46b42 |
-| 1214 | Rift Keeper | [0100AC600D898000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AC600D898000) | bde75d1f4547014c |
-| 1215 | Rigid Force Redux | [0100763010D5A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100763010D5A000) | b1285fb749d8fa45 |
-| 1216 | RiMS Racing [Rev 1.0.0] | [01003CD01299E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003CD01299E000) | 74c54f3670579c7a |
-| 1217 | Ring Fit Adventure | [01002FF008C24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002FF008C24000) | b0a94a27a8ea158c |
-| 1218 | Ring of Pain | [0100F090122D2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F090122D2000) | 3c9cf3fc790de947 |
-| 1219 | Rise and Shine | [010065B00B0EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010065B00B0EC000) | c212c43cbce55e4d |
-| 1220 | Rise: Race The Future | [01006BA00E652000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006BA00E652000) | 25e86d4af2490d40, ec792ee441368f4b |
-| 1221 | Rising Hell | [010020C012F48000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010020C012F48000) | 062e5ab0b5bda14f, b667f988dab60947 |
-| 1222 | Risk of Rain 2 | [010076D00E4BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076D00E4BA000) | e6a93d88f05ca346, eefe1f0f04f5c348 |
-| 1223 | Ritual: Crown of Horns | [010042500FABA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042500FABA000) | 3de5d42478b9e64a, b2536fd5d496664f |
-| 1224 | Rival Megagun | [0100A7D008392000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A7D008392000) | b5cd63f318862a41 |
-| 1225 | Rivals of Aether | [0100D2700DE7C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D2700DE7C000) | 8865505ebb80a0ac |
-| 1226 | RIVE: Ultimate Edition | [010069C00401A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010069C00401A000) | 87b9b2e7c8997fdb |
-| 1227 | River City Girls | [01004E700DFE6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004E700DFE6000) | 55670fa38f492343, 73e0765bf7b07047 |
-| 1228 | River City Melee Mach!! | [0100B2100767C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2100767C000) | 9c3bb6699dc39c4e |
-| 1229 | Road Redemption | [010053000B986000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010053000B986000) | 2e690a37be3bb244, 314920e043074742 |
-| 1230 | Roah | [01000440123A6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000440123A6000) | 5971feaa4ee83249 |
-| 1231 | Robonauts ロボノーツ | [010042900A8CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042900A8CC000) | 894d7deb7c212365 |
-| 1232 | Robotech: The Macross Saga HD Edition | [010060B0129CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010060B0129CC000) | 6a57ec49b5438344 |
-| 1233 | Rockman X Anniversary Collection | [010012B0086C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010012B0086C0000) | bbae8b50000e47af |
-| 1234 | Rogue Explorer | [010090C014D3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010090C014D3C000) | 7c7aad88b10a5d4d |
-| 1235 | Rogue Heroes: Ruins of Tasos | [01009FA010848000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009FA010848000) | a066c2c4ca84afa4 |
-| 1236 | Rogue Legacy [Rev 1.0.1] | [010056500AD50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010056500AD50000) | c4b40301fb00e359 |
-| 1237 | Rogue Singularity | [010068400ABB6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010068400ABB6000) | 180b54bcba560d43 |
-| 1238 | Rogue Trooper Redux | [01001CC00416C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001CC00416C000) | 01001cc00416c000, e14ba06266b126aa |
-| 1239 | RollerCoaster Tycoon 3 Complete Edition | [01004900113F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004900113F8000) | d44dc01dff9fa2f2 |
-| 1240 | Rolling Gunner | [010076200CA16000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076200CA16000) | 3e85b413d006e7f4 |
-| 1241 | Romancing SaGa 2 | [01001F600829A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001F600829A000) | ba25511843ac1948 |
-| 1242 | Romancing SaGa 3 | [0100D0400D27A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D0400D27A000) | 65c66922bb286344 |
-| 1243 | Roulette at Aces Casino | [01005D3012322000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005D3012322000) | c9fe7052aa82234c |
-| 1244 | Rune Factory 4 Special | [010027100C79A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010027100C79A000) | 78680e8a35f31d50 |
-| 1245 | Rune Factory 4 Special [Rev 1.0.0] | [010009400DD38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010009400DD38000) | 2cec14b73753cf62 |
-| 1246 | Rune Factory 4 Special [Rev 1.0.0] | [010051D00E3A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051D00E3A4000) | c03c9f6a862543f9 |
-| 1247 | Rune Factory 5 [Rev 1.00.6] | [010014D01216E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010014D01216E000) | 552d910b62926e40 |
-| 1248 | Rustler [Rev 1.0.0] | [010071E0145F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071E0145F8000) | cf6371f1a91bcb4d |
-| 1249 | Ruvato : Original Complex | [01007690147D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007690147D8000) | b37f668e6958ba44 |
-| 1250 | S.N.I.P.E.R. - Hunter Scope | [0100B8B012ECA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B8B012ECA000) | 95c6f28b19df2d4f |
-| 1251 | Sacred Stones | [01005CE00F970000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005CE00F970000) | edad5c13e9f926f3 |
-| 1252 | SaGa Frontier Remastered | [0100A51013530000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A51013530000) | 38532d3efa8c1542, b895f6f2c665554b |
-| 1253 | Saints Row IV®: Re-Elected™ | [01008D100D43E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D100D43E000) | 3ffe0e20ec5360da, 5aee4a11a2391d4d, e601d29108935cba |
-| 1254 | Saints Row: The Third - The Full Package | [0100DE600BEEE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DE600BEEE000) | a8631edcc0013045, c619cc7fe091c312, ffedeb38f462558e |
-| 1255 | SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE | [010DE600BEEE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010DE600BEEE000) | ffedeb38f462558e |
-| 1256 | Sakuna: Of Rice And Ruin [Rev 1.0.0] | [0100B1400E8FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1400E8FE000) | 2523cb8b455abc1d, fc24c93ab8fc630b |
-| 1257 | Salt And Sanctuary | [0100D250083B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D250083B4000) | 51156cac4dd69c27, 56e611cac30aed49, ecf47ade11877035 |
-| 1258 | Samurai Defender: Ninja Warfare | [01002B400873C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002B400873C000) | c1ffa39d6bedce46, e33e4cd60710ac4d |
-| 1259 | Samurai Jack: Battle Through Time | [01006C600E46E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C600E46E000) | 6d5db3434ccf63f2 |
-| 1260 | SAMURAI SHODOWN | [01002DF00F76C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002DF00F76C000) | 881d373adf68a62e |
-| 1261 | SAMURAI SHODOWN | [010066501069C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010066501069C000) | 81cd4e0887e05420 |
-| 1262 | Samurai Showdown | [01008FC00D964000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008FC00D964000) | 0670ffe5088a2139, ad27e9b20590843a, ec6d3fe35366bfee |
-| 1263 | SAMURAI WARRIORS 5 | [0100B28014132000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B28014132000) | 60b4e42155e07989, 810cba3d7db83ec0, aea6b2652ea9e34b |
-| 1264 | SamuraiAces for Nintendo Switch | [0100ADF0096F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ADF0096F2000) | 49cf469a110921e7 |
-| 1265 | Satazius NEXT | [01009580113A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009580113A4000) | 12be223e21ff518f |
-| 1266 | Savage Halloween | [01007130135E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007130135E2000) | 70a49340a64d574b |
-| 1267 | Scott Pilgrim vs. The World™: The Game – Complete Edition | [0100394011C30000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100394011C30000) | 064f1988133c54db |
-| 1268 | ScourgeBringer | [01005F7011950000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005F7011950000) | 5a5e278a9102d445, bf34bbc69ab7c936, edef023ba60c527f |
-| 1269 | SD Gundam G Generation: Cross Rays [Premium G Sound Edition] | [010022900D3EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010022900D3EC000) | 239145d13200977b, 2a8617716d59c2dd, 3871a99feb20ce86, 56e89cc6d60359e8, 79cd7c99f9189705, a2241f15842996d7 |
-| 1270 | Sea Of Solitude: The Directors Cut [Rev 1.0.0] | [0100AFE012BA2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AFE012BA2000) | 1d327b699c913a47 |
-| 1271 | Secrets of Magic 2 - Witches & Wizards | [01000C100CFD8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000C100CFD8000) | 8cdb26f131cae447 |
-| 1272 | Seek Hearts | [010075D0101FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010075D0101FA000) | dc21619c9456324c |
-| 1273 | SEGA AGES Out Run | [0100D4D00AC62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D4D00AC62000) | 4449ceb401f9d642 |
-| 1274 | SEGA AGES Sonic The Hedgehog | [010051F00AC5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051F00AC5E000) | 9f107a9b28296d41 |
-| 1275 | SEGA AGES Sonic The Hedgehog 2 | [01000D200C614000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D200C614000) | fcc0665401ede611 |
-| 1276 | SEGA AGES Thunder Force AC | [0100D0800C612000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D0800C612000) | 22a13e2c7fb7f796 |
-| 1277 | SEGA AGES Thunder Force IV | [0100D6800AC5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D6800AC5C000) | 437743a9a4e50b44 |
-| 1278 | SEGA AGES Wonder Boy: Monster Land | [01001E700AC60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001E700AC60000) | 28071ec935dbb7a3 |
-| 1279 | SEGA Genesis Classics | [0100A6300B250000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A6300B250000) | 7980ad54fef93945 |
-| 1280 | Sega Mega Drive Classics | [0100F7300B24E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F7300B24E000) | 60b7597943d57b4b |
-| 1281 | SELFY COLLECTION　夢のスタイリスト | [010044700FB46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010044700FB46000) | 613da8ddcd6c1242 |
-| 1282 | Senjou no Valkyria 4 | [0100C11009378000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C11009378000) | 13197ccf3745e1c5 |
-| 1283 | Sephirothic Stories | [010059700D4A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010059700D4A0000) | 274d62f691fa5a40 |
-| 1284 | Serious Sam Collection | [010007D00D43A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010007D00D43A000) | 5c5282206ebc804e |
-| 1285 | Seven Knights -Time Wanderer- | [010018400C24E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010018400C24E000) | 4b50363368364a94, f6667ba0d144374f |
-| 1286 | Shadow Blade: Reload | [0100D5500DA94000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D5500DA94000) | e03782d850353f40 |
-| 1287 | Shadow Gangs | [0100BE501382A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE501382A000) | a12ef68286ee36a1 |
-| 1288 | Shadows of Adam | [0100AD700CBBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AD700CBBE000) | b90544ef4061b848 |
-| 1289 | Shadowverse: Champion's Battle | [01005880134C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005880134C2000) | 01003b90136da000, 1f936e043fb8c349 |
-| 1290 | Shady Part of Me | [0100820013612000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100820013612000) | 553900942d6cf36d |
-| 1291 | Shakedown: Hawaii | [0100B10002904000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B10002904000) | 82092df70410f821 |
-| 1292 | Shalnor Legends: Sacred Lands | [0100B4900E008000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B4900E008000) | 87d0fcd94b1e1b3d |
-| 1293 | Shantae and the Pirates Curse | [0100EFD00A4FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EFD00A4FA000) | 1ae49f909f236ef2 |
-| 1294 | Shantae and the Seven Sirens | [0100EB901040A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB901040A000) | 54db023d61d80c4e |
-| 1295 | Shantae: Half- Genie Hero Ultimate Edition | [01002AF009470000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002AF009470000) | 6559c96f6a92504d |
-| 1296 | Shantae: Half- Genie Hero Ultimate Edition! | [01006A200936C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006A200936C000) | 01006a200936c000, 27a4723579d81133 |
-| 1297 | Shantae: Half-Genie Hero | [0100AE0003424000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AE0003424000) | e0551154ab7ab947 |
-| 1298 | Shantae: Risky's Revenge - Director's Cut | [0100ADA012370000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ADA012370000) | f139ec48132e8b34 |
-| 1299 | Shaolin vs Wutang | [01003AB01062C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003AB01062C000) | 494799a88d1cd64d |
-| 1300 | Shaq Fu: A Legend Reborn | [0100769004584000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100769004584000) | be4eeedc9c1c054a |
-| 1301 | Shieldwall Chronicles: Swords of the North | [0100C7E01442C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C7E01442C000) | f822b545f3b71a4e |
-| 1302 | Shikhondo - Soul Eater | [010061400A990000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010061400A990000) | 414e5441f75b234f |
-| 1303 | Shin Megami Tensei III Nocturne HD Remaster | [01003B0012DC2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003B0012DC2000) | 0b3b0f3a81c13c41, 69323306e9f5447f, ebd3efb2950f5140 |
-| 1304 | Shin Megami Tensei III: Nocturne HD Remaster [Rev 1.0.0] | [010045800ED1E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045800ED1E000) | d809429f56d1ca44 |
-| 1305 | Shin Megami Tensei V | [010063B012DC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010063B012DC6000) | a6a06f3baefe4d75 |
-| 1306 | Shin Megami Tensei V [Rev 1.0.0] | [010038D0133C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038D0133C2000) | a7643f3b7d8ee906 |
-| 1307 | Shing [Rev 1.0] | [01009050133B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009050133B4000) | 432bca17c1eef64e |
-| 1308 | Shinobi Blade | [0100006013A4A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100006013A4A000) | 020c7008b8751c4d |
-| 1309 | Shinobi Spirits S: Legend of Heroes | [0100B0300E8B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B0300E8B6000) | 3e251d14861e7b4d |
-| 1310 | Shinsekai Into the Depths™ | [01004EE0104F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004EE0104F6000) | a94795507e338446 |
-| 1311 | Shio | [0100C2F00A568000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C2F00A568000) | 98ffc4d49752c04a |
-| 1312 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | [01007430122D0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007430122D0000) | 9b3de98f500ba4ff, e1783a922ca90e2f |
-| 1313 | Shovel Knight: King of Cards | [01008B20022AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008B20022AA000) | 1dccdb6fe282748d |
-| 1314 | Shovel Knight: Shovel of Hope | [01002D2011850000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002D2011850000) | 6da1d223e4557e3d |
-| 1315 | Shovel Knight: Specter of Torment | [01001180021FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001180021FA000) | 5eabc1e307d28486 |
-| 1316 | Shovel Knight: Treasure Trove | [010057D0021E8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010057D0021E8000) | 1fe2563d9b1ff9b4, b9c8987a2f5ee46e |
-| 1317 | Shu | [01001DE0076A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001DE0076A4000) | 28cb1224495ddc4e, 92733fbf49aeae41 |
-| 1318 | Sid Meiers Civilization VI | [010044500C182000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010044500C182000) | 199e91fc40cb4f7d |
-| 1319 | Sigi - A Fart for Melusina | [01007FC00B674000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007FC00B674000) | 3112ad812b0a0c45, 8d2316a709875547 |
-| 1320 | Silent World | [0100A32010618000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A32010618000) | 3b2c913acdc2d24c |
-| 1321 | Sine Mora EX | [01002820036A8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002820036A8000) | a30ff4807facdd60 |
-| 1322 | SINNER: Sacrifice for Redemption | [0100B16009C10000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B16009C10000) | 2ad8ff948353fdfd |
-| 1323 | Sir Lovelot | [0100E9201410E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9201410E000) | 23b711b95e9f4c78 |
-| 1324 | Skatemasta Tcheco | [01001F101289A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001F101289A000) | f84540a3289faf62 |
-| 1325 | Skelattack | [01001A900F862000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001A900F862000) | 1b419efede09e88b |
-| 1326 | Skellboy | [01008CA00CF34000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008CA00CF34000) | 8ca43e408d847247, fce8993d4423a144 |
-| 1327 | Skul: The Hero Slayer | [0100ACF013E9A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ACF013E9A000) | 9cd50457d78ed3bb |
-| 1328 | Skullgirls 2nd Encore | [010046B00DE62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010046B00DE62000) | ac3b5f9d54899ec6 |
-| 1329 | Skully [Rev 1.0.0] | [0100D7B011654000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D7B011654000) | 1265f75ec9d5c2f9, cf28f8b7f5472223 |
-| 1330 | Sky Force Anniversary | [010083100B5CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010083100B5CA000) | 5af4ddbec5670d4a, 883f60906915d348 |
-| 1331 | Sky Force Reloaded | [01006FE005B6E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006FE005B6E000) | 01006fe005b6e000, 7ef14f11ea37d414, 98abc1afa513404a, f35d3df7cc780649 |
-| 1332 | Sky Jaguar 2 | [0100E0C010AB8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0C010AB8000) | 2f7f83f5fc76d702 |
-| 1333 | Skybolt Zack | [010041C01014E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010041C01014E000) | d51712a8cede1542 |
-| 1334 | Slain | [0100224004004000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100224004004000) | 9c150c477f6f7344 |
-| 1335 | Slay the Spire | [010026300BA4A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026300BA4A000) | 0f3b375b8e9518c9, 21d02e7d96188cf4, 334ab8bb31621c07, 678a5068b1db8450, a38237a9bfef6131, f1496a8d2effc1d2 |
-| 1336 | Slayaway Camp: Butchers Cut | [0100501006494000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100501006494000) | 1fb8f9e571155f4e |
-| 1337 | Slayin 2 | [01004E900EDDA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004E900EDDA000) | e67d4f728f112046 |
-| 1338 | Slots of Poker at Aces Casino | [0100023012640000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100023012640000) | f7148b7a4e88974a |
-| 1339 | SMASHING THE BATTLE | [01002AA00C974000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002AA00C974000) | b1662bb6d8542f4a |
-| 1340 | Smelter | [0100B45010E9C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B45010E9C000) | 1f9f743632739d4d, 7515c5c9ddce5f44 |
-| 1341 | Snack World: The Dungeon Crawl - Gold [Rev 1.0.0] | [0100F2800D46E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2800D46E000) | 929c0bea2bf097f7 |
-| 1342 | SNACK WORLD: THE DUNGEON CRAWL — GOLD | [010010400D46A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010010400D46A000) | 929c0bea2bf097f7, d3fa3aa21a0eb48c |
-| 1343 | Sniper | [0100839010DD6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100839010DD6000) | 197659f4ad54ea4b |
-| 1344 | Sniper Elite 3 [Ultimate Edition] | [010075A00BA14000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010075A00BA14000) | 8a49c2d4180b9477 |
-| 1345 | Sniper Elite 3 [Ultimate Edition] [Rev 1.0.0] | [010009E00F49C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010009E00F49C000) | 8a49c2d4180b9477 |
-| 1346 | Sniper Elite 4 | [010007B010FCC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010007B010FCC000) | bbfd41df5ba37d79 |
-| 1347 | Sniper Elite V2 Remastered | [0100BB000A3AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BB000A3AA000) | 4e6b0fe98465c36b, b61f280560a937d2, e8b40682041dafdd, f744cb9e08568aa9 |
-| 1348 | SNK GALS' FIGHTERS | [01007EE011116000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007EE011116000) | 3e4f4d748b244c82 |
-| 1349 | SNK HEROINES Tag Team Frenzy | [010027F00AD6C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010027F00AD6C000) | 241e280992c82e65 |
-| 1350 | SNK Heroines: Tag Team Frenzy | [010007C00B508000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010007C00B508000) | 27eeb113fd1fc102 |
-| 1351 | Snow Battle Princess Sayuki | [0100ADF00CB64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ADF00CB64000) | 24620f1b3f64d649 |
-| 1352 | Son of a Witch | [01006AE00C6D6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006AE00C6D6000) | 777a6a89b56a68ef |
-| 1353 | Songbringer | [010031D00A604000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010031D00A604000) | 6d863b684db5bd73 |
-| 1354 | Songs for a Hero: Definitive Edition | [0100802012890000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100802012890000) | dd1d3e2eeb0ea969, f20687cc1eacd0e2 |
-| 1355 | Sonic Colors: Ultimate | [010040E0116B8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040E0116B8000) | 0fa6c17db4fad19c, 1cb3c3d728ec4bc0, 9e9b03d1fa193eda |
-| 1356 | Sonic Forces | [01001270012B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001270012B6000) | 6d9ea94f8aac00a8 |
-| 1357 | Sonic Forces | [0100111004460000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100111004460000) | 6d9ea94f8aac00a8 |
-| 1358 | Sonic Mania Plus [Rev1.04] | [01009AA000FAA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009AA000FAA000) | 03fd1524e17a841c |
-| 1359 | South Park: The Fractured But Whole [Rev 1.0] | [01008F2005154000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008F2005154000) | df15edaaf603e00c |
-| 1360 | South Park™: The Stick of Truth™ | [010095300B6A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095300B6A4000) | 3728e6eb07b4e9ef |
-| 1361 | Space Blaze [Rev 1.0.0] | [0100B9F00C162000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B9F00C162000) | 5e127d37c8317a47 |
-| 1362 | Space Elite Force | [0100707011722000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100707011722000) | 5a5a9e3220a34b47 |
-| 1363 | Space Elite Force 2 | [010084F0123AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010084F0123AC000) | bdfc6f3ea589874d |
-| 1364 | Space Grunts | [0100AE701287E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AE701287E000) | 0eb2cdc7cf560b04 |
-| 1365 | Space Invaders Forever | [0100F0C012C10000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F0C012C10000) | 2e9d4a761ab93843 |
-| 1366 | Space Invaders Forever [2x Rev 1.0.0] | [0100C56012C96000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C56012C96000) | 713e445c7e80134b |
-| 1367 | Space Revenge | [0100E0D014C4C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0D014C4C000) | 4033e17aa065677a |
-| 1368 | Space Robinson | [0100795011D68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100795011D68000) | 2bdbdeed272bb826 |
-| 1369 | Sparklite | [01007ED00C032000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007ED00C032000) | bfafbb54899f1441, d0e79c23f66c2c42 |
-| 1370 | Spectacular Sparky | [010009F011FB2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010009F011FB2000) | 5ce9f689b77c794b, a22fe7b6ee7add57 |
-| 1371 | Speedway Bundle Stock & Truck | [01000D6013D36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D6013D36000) | 3d46f1c57c982e45 |
-| 1372 | Spellspire | [0100E74007EAC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E74007EAC000) | 13c5b59ea899762f |
-| 1373 | Spelunker Party! | [010021F004270000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010021F004270000) | 65457968dae86a45 |
-| 1374 | Spelunky | [0100710013ABA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100710013ABA000) | 5197521a3eed9a81 |
-| 1375 | Spelunky 2 | [01007EC013ABC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007EC013ABC000) | a5a0bea13ad893fe, bbb29f6d5b5a7c05 |
-| 1376 | Sphinx and the Cursed Mummy | [0100BD500BA94000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD500BA94000) | 2d135b3b59a8949f, b73bf75feb33abc5 |
-| 1377 | Spinch | [010076D0122A8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076D0122A8000) | cef69569fefe245e |
-| 1378 | Spinny's Journey | [01001E40136FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001E40136FE000) | 67fcf2133c80e746 |
-| 1379 | Spirit Arena | [010001B01398C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010001B01398C000) | 4ff93be275dce443 |
-| 1380 | Spiritfarer | [0100BD400DC52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD400DC52000) | 0100bd400dc52000, 173156d7823bf145, 241262da79eb9e4e, 5c59f135645f9846, 899ac6d046e76345, d368bc1e9495514a |
-| 1381 | Splasher | [0100FF9003F10000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF9003F10000) | 84052a5d8a59604c |
-| 1382 | Splatoon 2 | [0100F8F0000A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8F0000A2000) | 25e4de94c55dc7a3, 8a7f4570b0d5d94c |
-| 1383 | SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | [010062800D39C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010062800D39C000) | 00114d2ec3f08a53 |
-| 1384 | SpongeBob: Krusty Cook-Off | [01000D3013E8C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D3013E8C000) | 6ec1a152ad773a4b |
-| 1385 | Spyro: Reignited Trilogy | [010077B00E046000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010077B00E046000) | d2775fafcf4835cb |
-| 1386 | Star Horizon | [0100EC2011B9C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC2011B9C000) | 52374a85f1ec7a44 |
-| 1387 | STAR OCEAN First Departure R | [0100EBF00E702000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EBF00E702000) | 5ec132f471291b7e |
-| 1388 | Star Renegades [Rev 1.0.0] | [0100D050135B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D050135B6000) | 19c0219a57c5e241 |
-| 1389 | Star Story: The Horizon Escape | [0100D7000AE6A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D7000AE6A000) | 101279c95bf61b40 |
-| 1390 | STAR WARS™ Episode I Racer | [0100BD100FFBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD100FFBE000) | 425007690f14dcb7, 4e91e35363a552d2, 6b81a9a7d4d34552, c695bb70759d44c6 |
-| 1391 | STAR WARS™ Jedi Knight II: Jedi Outcast™ | [0100BB500EACA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BB500EACA000) | fa0405385b531fcf |
-| 1392 | STAR WARS™ Republic Commando™ | [0100FA10115F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FA10115F8000) | 99cac56a0829ef37 |
-| 1393 | Stardew Valley | [0100E65002BB8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E65002BB8000) | 44ba37318c492264, c45898e4542eccda, f24cc94cb6289ed2 |
-| 1394 | Stardust Galaxy Warriors: Stellar Climax | [01001B600BC32000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B600BC32000) | 69aa157d881de641 |
-| 1395 | Starlink: Battle for Atlas [Rev 1.0.0] | [01002CC003FE6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002CC003FE6000) | 630dc5de0776e6e8 |
-| 1396 | STAY COOL, KOBAYASHI-SAN!: A RIVER CITY RANSOM STORY | [0100B61009C60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B61009C60000) | 9b3795d79e82816f |
-| 1397 | SteamWorld Dig | [01009320084A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009320084A4000) | 9b8a73daf4b90ea9 |
-| 1398 | SteamWorld Heist: Ultimate Edition | [0100A21007FFA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A21007FFA000) | 8aebd36f3700963b |
-| 1399 | SteamWorld Quest: Hand of Gilgamech | [0100F6D00D83E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F6D00D83E000) | a3179fef84570923 |
-| 1400 | Steel Assault | [01001C6014772000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C6014772000) | 0ce7ee14a2cbb718 |
-| 1401 | Stela | [01002DE01043E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002DE01043E000) | 7aca9116672a7795 |
-| 1402 | Stitchy in Tooki Trouble | [010077B014518000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010077B014518000) | 511c939d3ea8a74a |
-| 1403 | Stoned for Fitness Boxing | [0100E7300AAD4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E7300AAD4000) | a44f64ba820eaa46 |
-| 1404 | Story of a Gladiator | [0100D5D00DAF2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D5D00DAF2000) | 8e66d62ef6a31e46 |
-| 1405 | Story Of Season: Friends of Mineral Town [Rev 1.0.0] | [0100ED400EEC2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED400EEC2000) | 5ce05588b1d56ec0, 7f00ec72055a9dca, 9587aa1da8220111, b781309cf5399c6a, e963f5692eb8aedd |
-| 1406 | STORY OF SEASONS: Friends of Mineral Town | [0100AA000EEB2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AA000EEB2000) | 5ce05588b1d56ec0 |
-| 1407 | STORY OF SEASONS: Pioneers of Olive Town | [010082E012A84000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010082E012A84000) | 4410c92b04087143, a4095add59310847, ab82dad4706e0747, ebd208b4b2bf0b42 |
-| 1408 | Straimium Immortaly | [0100DA000D71A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DA000D71A000) | 1cc83aea9778d972 |
-| 1409 | Stranded Deep | [01004F4014C62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004F4014C62000) | 61975b301708e44b |
-| 1410 | Stranded Sails - Explorers of the Cursed Islands | [010078D00E8F4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010078D00E8F4000) | be0c58a3ae69eb4f |
-| 1411 | Strange Brigade | [01001DC012E7E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001DC012E7E000) | af134532a4e50784 |
-| 1412 | Stranger Things 3: The Game | [0100DD600DD48000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DD600DD48000) | 5dddf2ec1683c444 |
-| 1413 | Street Fighter 30th Anniversary Collection | [0100024008310000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100024008310000) | a65e31f83f2cbb54 |
-| 1414 | Street Racing: Tokyo Rush | [01001E901482A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001E901482A000) | ad575e1c5d3e414b |
-| 1415 | Streets of Rage 4 | [0100EC9010258000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC9010258000) | 20cc1e2d6502624a, 94e241a6ce450751, a69706619587f523, c4725c8a6bcc1b29, cccdc48539e8cc1f, ff092115439d1f8a |
-| 1416 | Streets of Red : Devils Dare Deluxe | [0100C1700A9F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C1700A9F0000) | c7e03551b705ba49 |
-| 1417 | Strike Force 2 - Terrorist Hunt | [01004B500F07C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B500F07C000) | e8785f78d8d42b74 |
-| 1418 | STRIKERS1945 for Nintendo Switch | [0100FF5005B76000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF5005B76000) | 13a66415dfd9fc45, 349e43d4f0e71aaa, fe906f0365d9dcfe |
-| 1419 | STRIKERS1945Ⅱ for Nintendo Switch | [0100720008ED2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100720008ED2000) | 44b325524b98375b, 6cd0059343d5c11a, c1fcd151248425e7 |
-| 1420 | STRIKERS1999 for Nintendo Switch | [0100D8200D4E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D8200D4E2000) | 537bee1f2ffc7f7f, 7f555bcfac873e7a |
-| 1421 | SturmFront - The Mutant War: Übel Edition | [010029701420A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029701420A000) | c7cae59f4a307241 |
-| 1422 | STURMWIND EX | [0100C5500E7AE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5500E7AE000) | b529a461f3a7d61c |
-| 1423 | Subnautica | [0100429011144000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100429011144000) | 90bbaf36dd244c48 |
-| 1424 | Subnautica: Below Zero | [010014C011146000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010014C011146000) | 90bbaf36dd244c48 |
-| 1425 | Summer in Mara | [0100A130109B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A130109B2000) | 01ecf7c70a87804c, 497bf9528e83e64b |
-| 1426 | Summer Sweetheart | [01004E500DB9E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004E500DB9E000) | f203511733ae3449 |
-| 1427 | Sundered: Eldritch Edition | [01002D3007962000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002D3007962000) | a2dfd07e5eb5f743 |
-| 1428 | Super Bomberman R | [01007AD00013E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007AD00013E000) | 146eaadfe847c841, a0a745da9ae25946 |
-| 1429 | Super Daryl Deluxe | [010078800869A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010078800869A000) | 3b7455aaa75e1b27 |
-| 1430 | Super Dragonball Heroes World Mission | [0100CAF00C462000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CAF00C462000) | 390a4067482509c9, c7be7a7c6253b52d |
-| 1431 | Super Dragonfly Chronicles | [0100967012972000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100967012972000) | 54e6066bd8697d47 |
-| 1432 | Super Hydorah | [010099F00B374000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010099F00B374000) | 772010c59b988e26, 98d835a423bdbcfa |
-| 1433 | Super Kirby Clash™ | [01003FB00C5A8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003FB00C5A8000) | c9649e053bd7be27, dcdfa5a4ad9a175d |
-| 1434 | Super Mario 3D All-Stars [Rev 1.0.0] | [010049900F546000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049900F546000) | a638857e6df584ff, bdd6dc7da7a69290, ff44f58218c6a6b2 |
-| 1435 | Super Mario Maker 2 | [01009B90006DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009B90006DC000) | 3ebb1eb2fffb029a, 60b80d35e3db7606, e7101fe3bb2c4bac, e74294b43f76ef2a, edb8feede2bfa3ff |
-| 1436 | Super Mario Odyssey | [0100000000010000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100000000010000) | 3ca12dfaaf9c82da, b424be150a8e7d78, f5dccddb37e97724 |
-| 1437 | Super Mario Party | [010036B0034E4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010036B0034E4000) | 49a50a8bcfa6b036, 9f13b69757666412 |
-| 1438 | Super Mario™ 3D World + Bowser’s Fury | [010028600EBDA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010028600EBDA000) | 891687f016a18f17, 9f7efc2fb9653e5c |
-| 1439 | Super Meat Boy | [01004F8006A78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004F8006A78000) | 18bafde1b12b11be |
-| 1440 | Super Meat Boy Forever | [01009C200D60E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009C200D60E000) | ebb3ab15544f5df7 |
-| 1441 | Super Monkey Ball Banana Mania | [010001701248C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010001701248C000) | 0e563a7ff32784ec |
-| 1442 | Super Monkey Ball: Banana Blitz HD | [0100B2A00E1E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2A00E1E0000) | 0da43de40287b24a, 5814a3099a30b54a, 82bce946568dd041 |
-| 1443 | Super Nintendo Entertainment System™ - Nintendo Switch Online | [01008D300C50C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D300C50C000) | 5667fbc45986b522, edac20e98757406e |
-| 1444 | Super Phantom Cat: Remake | [0100C9A00D124000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C9A00D124000) | fdc133d5edcc9945 |
-| 1445 | Super Pixel Racers | [0100F5100E9DE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F5100E9DE000) | 9cdcb9b1dd852c49 |
-| 1446 | Super Punch Patrol | [01001F90122B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001F90122B2000) | 01001f90122b2000, 403e242118364bd6 |
-| 1447 | Super Putty Squad | [0100331005E8E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100331005E8E000) | a028e4f0c384a83c |
-| 1448 | SUPER ROBOT WARS T | [01006C900CC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C900CC6000) | f78fbd6e48e6fce1 |
-| 1449 | Super Robot Wars T | [01006C900CC60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C900CC60000) | 3a1a0309a1a756df, b49e93fb9664813b, fc92ab978eb6c815 |
-| 1450 | Super Robot Wars V | [0100CA400E300000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CA400E300000) | 736eb95aca241014, be5faeaf26b2bd48, eac0ac0033ce59e1 |
-| 1451 | Super Robot Wars X [Rev 1.0.0] | [010026800E304000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026800E304000) | 4873aa2e8514685f, cefbf4f864b51f37 |
-| 1452 | Super Saurio Fly | [01004CF00A60E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004CF00A60E000) | 6c8970071ef11148 |
-| 1453 | Super Smash Bros. Ultimate | [01006A800016E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006A800016E000) | 06646fddd47a619f, 1b4270ced2653872, 2ef410f4d4d2d279, 343d891a4bcf0684, 4590c9bb2c530754, 4a3f8ed7dcce3ad4, 7a77e0d95e57814c, 875f34e0d735b604, 9825a8b3c3904a82, 9fe4e3c363968930, b0cb5479f051741a, d45361e905c9e3c1, fd471eb458c915e7 |
-| 1454 | Super Street Racer | [0100FB400F54E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FB400F54E000) | 72971ef198d7792b |
-| 1455 | Super Street: Racer | [010074200E910000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010074200E910000) | b9f66d47fc26defa |
-| 1456 | Super Toy Cars | [0100384009344000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100384009344000) | f8c08ad2cda26a46 |
-| 1457 | SuperEpic: The Entertainment War | [0100630010252000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100630010252000) | 583c5daa080f9f49 |
-| 1458 | Supraland | [0100A6E01201C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A6E01201C000) | 3e829f9d2a644e30 |
-| 1459 | Survive! MR.CUBE | [010029A00AEB0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029A00AEB0000) | e982392825a0b048 |
-| 1460 | Sushi Striker: The Way of Sushido | [0100DDD0085A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DDD0085A4000) | 06544787c615088e |
-| 1461 | SWORD ART ONLINE: FATAL BULLET Complete Edition | [01005DF00DC26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005DF00DC26000) | 029c2837b0eee8a9, 0bc8e0955e19e9ed, 7d388942a921e50a |
-| 1462 | SWORD ART ONLINE: Hollow Realization Deluxe Edition | [0100EC400D54E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC400D54E000) | 1fe34416e3f057ad |
-| 1463 | SWORD ART ONLINE: Hollow Realization Deluxe Edition | [01001B600D1D6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B600D1D6000) | 0c356a98bcf20184, be2722b00a4d6573 |
-| 1464 | Sword of the Guardian | [01001C900CAD0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C900CAD0000) | 21b490c1f7d43b4b |
-| 1465 | Sword of the Necromancer | [0100E4701355C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4701355C000) | b4e61e315d54142f |
-| 1466 | Swords and Sandals: Spartacus | [0100241012432000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100241012432000) | 8729a8df5adf0646 |
-| 1467 | Syder Reloaded | [0100A2500E232000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A2500E232000) | 899a1b60b0b44747, fb9b6960f530944d |
-| 1468 | Sydney Hunter and the Curse of the Mayan | [010007300C482000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010007300C482000) | 1d9b0b8d64487d43, 70852b805bbf7b4a |
-| 1469 | Table Top Racing: World Tour - Nitro Edition | [010015B00BB00000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010015B00BB00000) | 2acb02a77b0dc448 |
-| 1470 | Tails Of Iron | [0100EF3013F60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EF3013F60000) | a164c9dab8988b11 |
-| 1471 | Takotan | [0100761012B0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100761012B0C000) | 89b21f067b29073a |
-| 1472 | Tales of Vesperia: Definitive Edition | [01002C0008E52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C0008E52000) | 9e812d3826d6e7ac, e16a71d239010576, f244b656b1cafe52 |
-| 1473 | Tales of Vesperia™: Definitive Edition | [01002C0008E5200](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C0008E5200) | 9e812d3826d6e7ac, f244b656b1cafe52 |
-| 1474 | Tamashii | [010012800EE3E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010012800EE3E000) | 196ac2bdeba69477 |
-| 1475 | Tamiku | [010008A0128C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010008A0128C4000) | a437e84f0f0158e1 |
-| 1476 | Tangledeep | [010048F007ADE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010048F007ADE000) | ab6322343406634a |
-| 1477 | Taxi Chaos | [0100B76011DAA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B76011DAA000) | ed6980128b99108a |
-| 1478 | Tcheco in the Castle of Lucio | [0100F43011E5A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F43011E5A000) | 505340019ca26040 |
-| 1479 | Team Sonic Racing | [010092B0091D0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010092B0091D0000) | 158af044f62a4aa2, 9ca62cc01a646921 |
-| 1480 | Tears of Avia | [010076E0150CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076E0150CC000) | 98b20f02ef446776 |
-| 1481 | TENGAI for Nintendo Switch | [0100B2600A398000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2600A398000) | f11440abc24deb09 |
-| 1482 | Tennis in the Face | [01002970080AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002970080AA000) | 6a819ad63d809d95 |
-| 1483 | Terraria | [0100E46006708000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E46006708000) | 0a22a4322335834d, 364dc52deb2a5c46, 877a4236c64b0e4e, a85426058506934f |
-| 1484 | Terraria [Rev 1.0] | [010024B00F9D0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010024B00F9D0000) | 1f53e00d05581144 |
-| 1485 | Teslagrad | [01005C8005F34000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005C8005F34000) | 6290d08ceb02ea4d |
-| 1486 | TETRIS 99 | [010040600C5CE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040600C5CE000) | 07b0a65f53280fc8, 3f63328f03aaf417 |
-| 1487 | Tetris® Effect: Connected | [0100DE501433A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DE501433A000) | 02e64f62153c1f00, 4aea702b9de72fd5 |
-| 1488 | THE ALLIANCE ALIVE HD REMASTERED | [01003CF00DCFA00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003CF00DCFA00) | 16139c5ae42d284e |
-| 1489 | The Alliance Alive HD Remastered [Awakening Edition] | [01003CF00DCFA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003CF00DCFA000) | 4df9da0bd7a61546 |
-| 1490 | The Alliance Alive HD Remastered [Awakening Edition] | [010083A00B2DA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010083A00B2DA000) | 89b3007e82ae104a |
-| 1491 | The Bard's Tale ARPG: Remastered and Resnarkled | [0100CD500DDAE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CD500DDAE000) | cd98cc2621a30f51 |
-| 1492 | The Binding of Isaac: Afterbirth Plus | [0100F8A004458000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8A004458000) | d6e5754880af8be3 |
-| 1493 | The Binding of Isaac: Afterbirth Plus | [010021C000B6A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010021C000B6A000) | 4fb46e8cdfad75ad, 9872b9e3508b9ffe, b33a680a4eeaeedf, cd4463054576d9be, d6e5754880af8be3 |
-| 1494 | The Binding of Isaac: Afterbirth+ | [01005B9002312000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005B9002312000) | 148657004cd52eaf |
-| 1495 | The Bug Butcher | [01008D700AB14000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D700AB14000) | 1763c8105148364a |
-| 1496 | The Bug Butcher (ザ・バグ・ブッチャー) | [0100CA900B6BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CA900B6BA000) | f529fa78f576c24a |
-| 1497 | THE Card Battle: Eternal Destiny | [0100FBE0151DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FBE0151DC000) | a354be6dd8d06f46 |
-| 1498 | THE Card: Poker, Texas hold 'em, Blackjack and Page One | [0100EB600AB5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB600AB5E000) | 42407ec9b931e646 |
-| 1499 | The Coma 2: Vicious Sisters | [0100B7C01169C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B7C01169C000) | 6b8c6bd1c4c4f145 |
-| 1500 | The Coma: Recut | [0100451012918000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100451012918000) | 5136f141b1639f4e |
-| 1501 | The Coma: Recut | [010033100691A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010033100691A000) | ac20f6432b5ca44b |
-| 1502 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000F20102AC000) | 2fbe522f4dbad51e |
-| 1503 | The Count Lucanor | [01000850037C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000850037C0000) | 2eaaf5f168f363d9 |
-| 1504 | The Dark Crystal: Age of Resistance Tactics | [010051800E922000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051800E922000) | 01744dbed078494c |
-| 1505 | The Elder Scrolls V: Skyrim | [01000A10041EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000A10041EA000) | f924779598832227 |
-| 1506 | The Explorer of Night | [0100308013768000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100308013768000) | aaae665afcc8794e |
-| 1507 | The Falconeer: Warrior Edition | [0100BA5013E52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BA5013E52000) | 450f1e06cb093f4e |
-| 1508 | The Final Station | [0100CDC00789E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CDC00789E000) | 56de44e38c9a4b44 |
-| 1509 | The Flame in the Flood | [0100C38004DCC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C38004DCC000) | 2ef0f322f3a40e7d |
-| 1510 | The Forbidden Arts | [010007700D4AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010007700D4AC000) | 47834dd89cc22747 |
-| 1511 | The friends of Ringo Ishikawa | [010030700CBBC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010030700CBBC000) | 3749bfea64dc98df |
-| 1512 | The Good Life | [0100B1B015ABA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1B015ABA000) | 4b7c5de5de1b9f5b |
-| 1513 | The Great Ace Attorney Chronicles | [010036E00FB20000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010036E00FB20000) | 1da748fc9499882f |
-| 1514 | The Incredible Adventures of Super Panda | [0100D1500F6DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D1500F6DC000) | 56d6a748dd5cc64c |
-| 1515 | The King's Bird | [010020500BD98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010020500BD98000) | 881bac95c002184f |
-| 1516 | THE LAST BLADE: Beyond the Destiny | [0100A35012908000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A35012908000) | 9ddb09ed29cfd95f |
-| 1517 | The Last Dead End | [0100AAD011592000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AAD011592000) | e37415338f94905a |
-| 1518 | The Last Kids on Earth and the Staff of Doom | [0100C27011544000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C27011544000) | 562f197c579e7a45, 69ee3835aa82d64d |
-| 1519 | THE LAST REMNANT Remastered | [0100AC800D022000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AC800D022000) | 4bc3de4ea95c471d |
-| 1520 | The Legend of Dark Witch | [0100B1900F0B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1900F0B6000) | 688f083106e7467d, d469aa790876b5f6, f062735ce0525729 |
-| 1521 | The Legend of Heroes: Trails of Cold Steel III | [01005420101DA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005420101DA000) | 134ec3d8be75126f |
-| 1522 | The Legend Of Heroes: Trails Of Cold Steel IV [Rev 1.0.0] | [0100D3C010DE8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D3C010DE8000) | 4980e9e242678015 |
-| 1523 | The Legend of Ninja | [0100C5A01327E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5A01327E000) | 3bf0514d5fc82e4e |
-| 1524 | The Legend of Tianding | [0100AD90155FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AD90155FC000) | 0edbc12f53aeb997 |
-| 1525 | The Legend of Zelda: Breath of the Wild | [01007EF00011E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007EF00011E000) | 16a91992bba71201, 8e9978d50bdd20b4 |
-| 1526 | The Legend of Zelda: Links Awakening | [01006BB00C6F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006BB00C6F0000) | 909e904af78ac1b8, ae16f71e002af8cb |
-| 1527 | The Legend of Zelda™: Skyward Sword HD | [01002DA013484000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002DA013484000) | 5441af3c89f97e1d, d824d4b1bbd45d03 |
-| 1528 | The LEGO Movie 2 Videogame | [0100A4400BE74000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A4400BE74000) | bac1309ddf75b14d |
-| 1529 | The LEGO NINJAGO Movie Videogame | [01000CE002072000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000CE002072000) | 2aa90ecc2a24da46 |
-| 1530 | The Lightbringer | [0100491014980000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100491014980000) | eb736d27f0bbf7cf |
-| 1531 | The Long Dark | [01007A700A87C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007A700A87C000) | 9b4979a234077441, ac7114153a1da944 |
-| 1532 | The Lost Child | [01008A000A404000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008A000A404000) | c7209aeda44b0447 |
-| 1533 | The Lost Cube | [01000F2013CF8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000F2013CF8000) | 7d646a32a37bf945 |
-| 1534 | The Messenger | [0100DC300AC78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DC300AC78000) | 2a979c3fdf717642, d8e60563c302aa41, eabd92ad1cdc0e43, ede81745c5421d45, fb6206b43c698a4b |
-| 1535 | The Mummy Demastered | [0100496004194000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100496004194000) | fe343c581ba5b49f |
-| 1536 | The Ninja Saviors: Return of the Warriors | [01001FB00E386000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001FB00E386000) | 55f09d019671d740 |
-| 1537 | The Ninja Warriors Once Again (ザ・ニンジャウォーリアーズ ワンスアゲイン) | [010036200CF6A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010036200CF6A000) | 61d93ce7139cd44e, a19f68759121af43 |
-| 1538 | The Outer Worlds | [0100626011656000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100626011656000) | 4382212487d292d0, 4a64edcb99de833c, 761cd556ab357c87, 7d68e9e4670405a4, 9f310253603704d9 |
-| 1539 | The Persistence | [010050101127C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010050101127C000) | 4d1c7699d3fe0e32 |
-| 1540 | The Pinball Arcade | [0100CD300880E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CD300880E000) | fadc5bb443b6d715 |
-| 1541 | The Princess Guide | [0100E6A00B960000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E6A00B960000) | 1d20c4a989b37608 |
-| 1542 | The Pyraplex | [0100BBD00D9D6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BBD00D9D6000) | bf59a5d4241b924e |
-| 1543 | The Sinking City | [010028D00BA1A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010028D00BA1A000) | 85e49c169a8b988a |
-| 1544 | The Snack World: Trejarers Gold | [010072B007418000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072B007418000) | 26d8482bad9998b2 |
-| 1545 | The Story Goes On | [01007FA00DA22000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007FA00DA22000) | 829f522f9904634e |
-| 1546 | The Survivalists [Rev 1.0] | [0100EF200DA60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EF200DA60000) | 9237d917928aeb4a |
-| 1547 | The Swords of Ditto: Mormo's Curse | [010037D00D568000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010037D00D568000) | 998578d430bc7d3f, fcb264311604ca8b |
-| 1548 | The TakeOver | [0100CAE01021A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CAE01021A000) | 8d298584cde83d4f |
-| 1549 | The Touryst | [0100C3300D8C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C3300D8C4000) | 0b66b82e9902a3c1, 7dcda84f355f527f |
-| 1550 | The Way Remastered | [0100F8900A5B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8900A5B0000) | 45d613aebd45af46 |
-| 1551 | The Witcher 3: Wild Hunt | [0100E67012924000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E67012924000) | caf28ae07f8cf6c0, ef9887f9546bd28c |
-| 1552 | The Witcher 3: Wild Hunt [Complete Edition] | [010019C00E9CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010019C00E9CC000) | 7d0794dc20faf372, 986ce0bb97d63ce6 |
-| 1553 | The Witcher 3: Wild Hunt [Complete Edition] | [01003D100E9C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D100E9C6000) | 11f23ecbdfba7e24, 4ffb62f1cd9e17f8, 7d0794dc20faf372, 986ce0bb97d63ce6 |
-| 1554 | The Witcher 3: Wild Hunt — Complete Edition | [0100BFE00E9CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BFE00E9CA000) | 7d0794dc20faf372 |
-| 1555 | The Wonderful 101: Remastered | [0100B1300FF08000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1300FF08000) | 6f043b70de8f5893 |
-| 1556 | The World Ends With You: Final Remix | [0100C1500B82E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C1500B82E000) | 2a5408063198b646 |
-| 1557 | They Bleed Pixels | [01001C2010D08000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C2010D08000) | 073a619a4a4c528d |
-| 1558 | Thief Simulator | [0100CE400E34E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CE400E34E000) | d01cbd41caa0d840 |
-| 1559 | This Strange Realm Of Mine | [0100C7C00F77C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C7C00F77C000) | 89ddb76dc0cca744 |
-| 1560 | Thunder Paw | [01009AF0110E4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009AF0110E4000) | d724828447669524 |
-| 1561 | Thy Sword [Rev 1.0.0] | [01000AC011588000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000AC011588000) | ae9902f06d93bfeb |
-| 1562 | Time Recoil | [0100F770045CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F770045CA000) | dddf84085a5a59af |
-| 1563 | Timespinner | [0100DD300CF3A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DD300CF3A000) | 95947700181f5c61 |
-| 1564 | Tin & Kuna | [0100F7C010AF6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F7C010AF6000) | 3764ce647410824a |
-| 1565 | Tiny Barbarian DX | [0100D940022F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D940022F6000) | 069b9a025b219e56 |
-| 1566 | Tiny Gladiators | [0100DF900FC52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DF900FC52000) | 90ebcb0fd4322e45 |
-| 1567 | TINY METAL: FULL METAL RUMBLE | [0100B1600DB3A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1600DB3A000) | 86892ef0abdaaaa3 |
-| 1568 | Tiny Troopers Joint Ops XL | [0100D3D008E6C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D3D008E6C000) | 1962dda88596d44a |
-| 1569 | Tiny Troopers Joint Ops XL | [0100B52006E8C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B52006E8C000) | 4eed78e274c5824b |
-| 1570 | Titan Quest | [0100605008268000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100605008268000) | 473269469145c1cf, 8f39d37c86ea460a |
-| 1571 | ToeJam & Earl: Back in the Groove! | [0100B5200BB7C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B5200BB7C000) | 8e06e89604736b46, 9386ab7fd676d747 |
-| 1572 | Toki | [0100F3400A432000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F3400A432000) | 1838099aae00b548, 9bf460fb87a78144 |
-| 1573 | Tokyo Mirage Sessions ♯FE Encore [Rev 1.0.0] | [0100A9400C9C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A9400C9C2000) | 33463e11899166bb |
-| 1574 | Tonight We Riot | [0100D400100F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D400100F8000) | 3567e82c6981424d |
-| 1575 | Tony Hawk's™ Pro Skater™ 1 + 2 | [0100CC00102B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CC00102B4000) | 8afcbe6a930cd42e, 93a4bfb86bca2c3d |
-| 1576 | Toon Shooters 2: The Freelancers | [0100D31013F24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D31013F24000) | 206c185e2f5a9a2e, c41d950ba5984bfc |
-| 1577 | Toon War | [01009EA00E2B8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009EA00E2B8000) | 13ef97853a0caa46 |
-| 1578 | Torchlight II | [010090400D366000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010090400D366000) | 3c58651f0107fbe1, 99a367d031056e1f, a0c6c2d22dea7933 |
-| 1579 | Torchlight III | [010075400DDB8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010075400DDB8000) | 9c4a5006b994e86e, b6e63986d4fee5fd, e500a363d43b1ccc |
-| 1580 | Touhou Genso Wanderer -Lotus Labyrinth R- | [0100A7A015E4C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A7A015E4C000) | 7546a496ebc6dcbc |
-| 1581 | Touhou Luna Nights | [0100D850131B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D850131B0000) | fe5b26032bfc9289 |
-| 1582 | Towaga: Among Shadows | [010062900E610000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010062900E610000) | 777978c76acca348 |
-| 1583 | Towertale | [0100F6200F77E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F6200F77E000) | 867076902772414c |
-| 1584 | Toy Stunt Bike: Tiptops Trials | [01009FF00A160000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009FF00A160000) | 8e1f47e7060f7c80 |
-| 1585 | Traditional Tactics Ne+ | [010008C01010A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010008C01010A000) | 70fbec50f87b5a80 |
-| 1586 | Transformer: Battlegrounds [Rev 1] | [01005E500E528000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005E500E528000) | 28f6c06633f0534b |
-| 1587 | Transistor | [0100BE500BEA2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE500BEA2000) | 7ed6b28290c61cbe |
-| 1588 | Travis Strikes Again: No More Heroes | [010011600C946000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011600C946000) | 2ff317a1828bc0fc, ef72a4b5bf1973f3 |
-| 1589 | Trials of Mana | [0100D7800E9E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D7800E9E0000) | 74a7b4b505977ca5, 92c25172d38dfedb, 9e66575bdc49ec40, e419da6f3bf16a1c |
-| 1590 | Trials of Mana (中文版) | [0100E2D00FE90000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E2D00FE90000) | a712ff9389602dcb |
-| 1591 | Trine 2: Complete Story | [010064E00A932000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010064E00A932000) | 525b902e6f916ea5 |
-| 1592 | Trine 3: The Artifacts of Power | [0100DEC00A934000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DEC00A934000) | 86d9ea9ca4680295 |
-| 1593 | Trine 4: The Nightmare Prince | [010055E00CA68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010055E00CA68000) | b70f06eac87fa2af |
-| 1594 | Trine Series 1-3 | [0100D9000A930000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D9000A930000) | 32b4bbe0d88214d3 |
-| 1595 | Trollhunters: Defenders Of Arcadia [Rev 0.1] | [0100145011008000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100145011008000) | f65c6060142fc64f |
-| 1596 | Tropico 6 - Nintendo Switch™ Edition | [0100FBE0113CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FBE0113CC000) | 2e4d1158a395f558 |
-| 1597 | Trouserheart | [01001EF00BF3A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001EF00BF3A000) | 1dfd2b4fe2198e4a |
-| 1598 | Turrican Flashback [Rev 1.0.0] | [010004B0130C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010004B0130C8000) | 995e954e8606f40f, e3082dd62ef54f41 |
-| 1599 | Two Parsecs From Earth | [0100BCE012894000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BCE012894000) | 983e28b1198ae349, a59916f2a577b146 |
-| 1600 | Two Point Hospital [Rev 1.0.0] | [010031200E044000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010031200E044000) | 04b125635599f349, 13265e4eba0f0d41, 296658de5ef59049, 49bfad179af06e42, c3c6a6dc345fe046, db0700010fee8447 |
-| 1601 | TY the Tasmanian Tiger HD | [010038400C2FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038400C2FE000) | 965107e5a2ce0a3d, 985ea0225c2d2ae3, bae5c2e836df8e72 |
-| 1602 | TY the Tasmanian Tiger™ 2: Bush Rescue™ HD | [0100BC701417A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BC701417A000) | 3f7b53d09b3b4672 |
-| 1603 | Tyr : Chains of Valhalla | [01003B200C6CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003B200C6CA000) | 8eb5b7c66fc82a42 |
-| 1604 | Ultra Age | [01008D4015904000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D4015904000) | 7769608a9494e5db, 84b07884f70b3cd7, aac1a3684ea9cecf |
-| 1605 | Ultra Age [Rev 1.0.0] | [01006DD00FE16000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006DD00FE16000) | 7769608a9494e5db, aac1a3684ea9cecf |
-| 1606 | ULTRA STREET FIGHTER II: The Final Challengers | [01007330027EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007330027EE000) | 2ae749ed04831745, 8726f5e816b001b2 |
-| 1607 | Ultracore | [0100E5C00DC46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5C00DC46000) | 13082aab64bdb509 |
-| 1608 | Umihara Kawase BaZooKa! [Rev 1.0.0] | [010093A01095E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010093A01095E000) | cc45e98bfbec91a8 |
-| 1609 | Umihara Kawase Fresh! | [01007D600B70A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007D600B70A000) | 6980f28d418a55b6 |
-| 1610 | Unbound: Worlds Apart | [0100C5A013B7A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5A013B7A000) | 719be27194d137df, 842053a9e717fdc2, bb5609f056926ac3 |
-| 1611 | UNDER NIGHT IN-BIRTH Exe:Late[cl-r] | [0100B2900DF06000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2900DF06000) | 46e1b5c89a40d85e |
-| 1612 | Under Night In-Birth Exe:Late[cl-r] | [010038C00EC34000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038C00EC34000) | 120f62bb506d4e36, 46e1b5c89a40d85e |
-| 1613 | Underhero | [01005CD00F85A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005CD00F85A000) | 4630fbc60041c444, 4c43a24535e79d47 |
-| 1614 | UnderMine | [01000B3012F3A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000B3012F3A000) | 72c59093e64eab49 |
-| 1615 | Undertale | [010080B00AD66000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010080B00AD66000) | 24db41fcd513d080 |
-| 1616 | Unepic | [01008F80049C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008F80049C6000) | e7c9870159c6877f |
-| 1617 | UnMetal | [01008F4014A74000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008F4014A74000) | b7ff059e225348df, ba30581e9c9e6c3b |
-| 1618 | Unravel Two | [0100E5D00CC0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5D00CC0C000) | f04d4fe8bf580369 |
-| 1619 | Unruly Heroes | [010001300CC4A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010001300CC4A000) | fd5c98d408eccd4c |
-| 1620 | Unto The End | [0100E49013190000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E49013190000) | b122a99e438c394c |
-| 1621 | Up Cliff Drive | [0100D86012928000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D86012928000) | 2d3c44ad39aafd46 |
-| 1622 | Urban Trial Playground | [01001B10068EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B10068EC000) | 1caa05a4630e7769 |
-| 1623 | V-Rally 4 | [010064400B138000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010064400B138000) | c07b867928055e3d, eb8a679b5ddd0060 |
-| 1624 | V.O.I.D. | [010040000D08E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040000D08E000) | 3af9a4c3a016afeb |
-| 1625 | Vaccine | [01009E2003FE2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009E2003FE2000) | 34441e3e5ed09859 |
-| 1626 | Valentina | [0100A59012070000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A59012070000) | 56e1be633e5b9f44 |
-| 1627 | Valfaris | [010089700F30C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010089700F30C000) | 3f4477107ab9b84c, c0a75cfe9b9b814a |
-| 1628 | Valkyria Chronicles | [0100CAF00B744000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CAF00B744000) | fe77ffb8cbfb3a5c |
-| 1629 | Valkyria Chronicles 4 | [01005C600AC68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005C600AC68000) | 3758602aa47add37 |
-| 1630 | Valthirian Arc: Hero School Story | [010042100BAA6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042100BAA6000) | 27214fd55a2c6c4b |
-| 1631 | Vambrace: Cold Soul | [01000E000DD40000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000E000DD40000) | 2b99be136d8c1f49, ce42204cb46ac947 |
-| 1632 | Vampire's Fall: Origins | [0100BD0012A68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD0012A68000) | f0f1f7c836290c48 |
-| 1633 | VAMPYR | [01000BD00CE64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000BD00CE64000) | 2e387d52731f6cf8, e417100ffeefd1de |
-| 1634 | Vaporum | [010030F00CA1E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010030F00CA1E000) | 363883e3b5306749, 5c813c18c1d7744a |
-| 1635 | Vaporum: Lockdown | [010088D013CE0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010088D013CE0000) | 480b952ad15d7b4b |
-| 1636 | Venture Kid | [010095B00DBC8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095B00DBC8000) | c97dc98aa4a91c9f |
-| 1637 | Vigil: The Longest Night | [01002D100EF3A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002D100EF3A000) | 92e26d68dc4d1d40, b288c9ecb6bf4c4a |
-| 1638 | Void Bastards | [0100D010113A8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D010113A8000) | 27901a8fe21dff42, 2ae8719f2962c94e |
-| 1639 | Void Source | [010099E013430000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010099E013430000) | 6d59180e4c70f068 |
-| 1640 | Void tRrLM(); //Void Terrarium [Rev 1.0.0] | [0100FF7010E7E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF7010E7E000) | e0d8fb949ed755bb |
-| 1641 | Void tRrLM(); [Rev 1.0.0] | [010009900E170000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010009900E170000) | 4a40b29138017ee8 |
-| 1642 | Völgarr the Viking | [0100B1A0066DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1A0066DC000) | a2ad2e750b402fac |
-| 1643 | Vortex Attack EX | [010018400E4FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010018400E4FC000) | 51661056e0e8b01c |
-| 1644 | Voxel Shot for Nintendo Switch（ボクセルショット） | [010022A009368000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010022A009368000) | 010022a009368000, c022f11a85e1aa4e |
-| 1645 | Wallachia: Reign of Dracula | [010017E012888000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010017E012888000) | 314e0bd3bc855594, 56e7b8f33024d194 |
-| 1646 | Wanba Warriors | [0100E29010A4A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E29010A4A000) | bc8df755d071cb48 |
-| 1647 | War Of Stealth - assassin | [01004FA01391A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004FA01391A000) | 4c328c448d094a41 |
-| 1648 | War-Torn Dreams | [0100563011B4A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100563011B4A000) | b05589f793720454 |
-| 1649 | WarGroove | [01000F0002BB6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000F0002BB6000) | 397bd5555e9a4c44, 64771f8d1e0d6ac4, 7dc603c454f6517e, a32afc17c02b0e80, b05c886de8291583 |
-| 1650 | WarioWare: Get It Together! [Rev 1.0.0] | [0100563010E0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100563010E0C000) | e6784f640b1cdff9 |
-| 1651 | WarriOrb | [010032700EAC4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010032700EAC4000) | e8e018bf25229ee3 |
-| 1652 | WARRIORS OROCHI 4 | [010016A00AEC0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010016A00AEC0000) | 5c9ccd358be85fc9, c99da50e73027754 |
-| 1653 | Way of the Passive Fist | [0100BA200C378000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BA200C378000) | c2dac77c25bb7944 |
-| 1654 | WE ARE DOOMED | [01000F101286A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000F101286A000) | 7f069ce45b991cf1 |
-| 1655 | WeakWood Throne | [0100011012A70000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100011012A70000) | ce353ad90855ec51 |
-| 1656 | West of Dead | [0100C2C00D74E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C2C00D74E000) | 497bf9528e83e64b, d645b9f300d6b842 |
-| 1657 | Whipseey and the Lost Atlas | [010017500E7E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010017500E7E0000) | 25ce48f161ddf0cb |
-| 1658 | Who Wants to Be a Millionaire? | [010027F0128EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010027F0128EA000) | 91e6239aca62174f |
-| 1659 | WILD GUNS Reloaded | [0100C39009EEE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C39009EEE000) | 3785b9800028344e, 56b03164a8800b49 |
-| 1660 | Wild Guns Reloaded | [0100CFC00A1D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CFC00A1D8000) | ce3e20fbad467949 |
-| 1661 | Willy Jetman: Astromonkey's Revenge | [010000100FB62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010000100FB62000) | 55ee1a69145de04e |
-| 1662 | Windbound | [010044000F7F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010044000F7F2000) | 195d347b5fc2fd40, c66df87114d6a44b, fabe51450032974d |
-| 1663 | Witcheye | [0100BD4011FFE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD4011FFE000) | c8627e913deb5943 |
-| 1664 | Wizard of Legend | [0100522007AAA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100522007AAA000) | 4dbce15edeb87a4c, 5b0505b54116e948, f0b56a498c439946 |
-| 1665 | Wizards of Brandel | [010081900F9E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010081900F9E2000) | 122ebf9e18e9db4b |
-| 1666 | Wolfenstein II: The New Colossus | [01009040091E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009040091E0000) | 94c6c3fc4d99c443, f2fe5ef877839f4f |
-| 1667 | Wolfenstein: Youngblood | [01003BD00CAAE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003BD00CAAE000) | 21a35d07d6e6c2f0, 88c0cd2f98b39f8b, c8fdf722e6bacffa |
-| 1668 | Wolflame | [01003380113A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003380113A2000) | 0d2088e1f2af8ddc |
-| 1669 | Wonder Blade | [010037A00F5E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010037A00F5E2000) | d5e27670148ba14a |
-| 1670 | WONDER BOY RETURNS REMIX | [010069B00D9FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010069B00D9FE000) | 6b1446944d519842, bb52a5b81f24e249 |
-| 1671 | Wonder Boy: Asha in Monster World [Rev 1.0] | [0100EB2012E36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB2012E36000) | ff72d70018425549 |
-| 1672 | Wonder Boy: The Dragons Trap | [0100A6300150C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A6300150C000) | 13793f02e257147f, c5fed26bf457566d |
-| 1673 | Wonder Boy: The Dragons Trap | [010041200A40E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010041200A40E000) | d2b0d0b0a6045847 |
-| 1674 | Woodle Tree 2: Deluxe | [0100E0300EB04000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0300EB04000) | 524ad3a220a14a47 |
-| 1675 | World of Final Fantasy Maxima | [010072000BD32000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072000BD32000) | 5767fd44c331b44b, ac72a1252ab09ec0 |
-| 1676 | World to the West | [0100CB60092A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CB60092A2000) | 5b759e7a3a3d6040 |
-| 1677 | WorldNeverland-ElneaKingdom- | [01008E9007064000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008E9007064000) | 28e19d6f448e5046, 6d89b45f36f95a4d |
-| 1678 | WRC 8 FIA World Rally Championship | [010087800DCEA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010087800DCEA000) | 64efd5d6ad8ea937 |
-| 1679 | WRC 9 The Official Game | [01001A0011798000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001A0011798000) | d07802e022207509 |
-| 1680 | Wulverblade | [010033700418A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010033700418A000) | c50b3ae5b8c2ee42, c68bc0a4f96db645 |
-| 1681 | WWE 2K Battlegrounds [Rev 1.0.0.1] | [010081700EDF4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010081700EDF4000) | 2fc6ff2ec90cebc3, 484f4aeaf4b9dba0, 4fd0f117e250f4f9, 5e0b2ab13f32af9a, eed1291d86692dd3 |
-| 1682 | WWE 2K18 | [010009800203E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010009800203E000) | deee18d307c81634 |
-| 1683 | X-Morph: Defense | [0100DF100B97C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DF100B97C000) | b0d911bc4c9a3760 |
-| 1684 | Xeno Crisis | [010013F009B88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010013F009B88000) | 2ad00f3d29d8674f |
-| 1685 | Xenoblade 2 | [0100F3400332C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F3400332C000) | e3938fa78579c1ca |
-| 1686 | Xenoblade Chronicles 2 | [0100E95004038000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E95004038000) | 6d34a75dbb68d4fb, d007651bc7c6a51e, e3938fa78579c1ca, f77f1559371c0ec6 |
-| 1687 | Xenoblade Chronicles 2: Torna - The Golden Country | [0100C9F009F7A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C9F009F7A000) | 56246a89466a791b, 72419a1325ae47de |
-| 1688 | Xenoblade Chronicles™: Definitive Edition | [0100FF500E34A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF500E34A000) | 1ec9082cb52ecaf5, 2e071b4562d6656b, 92c78bb3dcbbc3f7 |
-| 1689 | XEODRIFTER(ゼオドリフター) | [0100CD500B2C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CD500B2C6000) | 27762205ff419c14 |
-| 1690 | Yaga | [01006FB00DB02000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006FB00DB02000) | 898cb70f55c96045 |
-| 1691 | Yes, Your Grace | [01006040110AE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006040110AE000) | 34595d4a89892b43, dd0b39252695d247 |
-| 1692 | YesterMorrow | [010076B0101A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076B0101A0000) | bd98f25704ec9447 |
-| 1693 | Yet Another Zombie Defense HD | [010085500B29A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010085500B29A000) | 8e0f8d1ab9a89843 |
-| 1694 | Yo-Kai Watch 1 for Nintendo Switch | [0100C0000CEEA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C0000CEEA000) | aa45748622cf57c8, b52dfbc326b26e60 |
-| 1695 | Yo-kai Watch 4: Bokura wa Onaji Sora o Miageteiru | [010086C00AF7C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010086C00AF7C000) | 042a9d9eebc14b3c, 0d5772548b8e6d08, 20fd1a80a9c3985d, 6d79fe2d5451b8c6, 91dd8da34fc975fd, 93706fd3b59f1513, 994c5fa1497445ff, c65b6c18d3de5189, c7dab27f22acd2ed, dcfccd795d18f3f9, f014c53d501d35cf |
-| 1696 | Yomawari: The Long Night Collection | [010012F00B6F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010012F00B6F2000) | 345f918e2934551a |
-| 1697 | Yomi O Saku Hana [Rev 1.00] | [0100E640118C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E640118C4000) | 9b2d93106cb1df4a |
-| 1698 | Yono and the Celestial Elephants | [0100BE50042F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE50042F6000) | 500019a77d76c142 |
-| 1699 | Yooka-Laylee | [0100F110029C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F110029C8000) | 743c88f0f1c33dbb |
-| 1700 | Yooka-Laylee and the Impossible Lair | [010022F00DA66000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010022F00DA66000) | 8432cec51f882448, cb788aa9e4e02d49, ea84f555e2d0bc41 |
-| 1701 | Yoshi's Crafted World™ Demo | [0100AE800C9C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AE800C9C6000) | 6e114d3262f05290, 7253a3bbe715d092 |
-| 1702 | Yoshis Crafted World | [01006000040C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006000040C2000) | 44ae9fd12897c702, 7253a3bbe715d092 |
-| 1703 | Youtubers Life 2 | [01004DE013EDE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004DE013EDE000) | 013dc955b6c145cd |
-| 1704 | Youtubers Life OMG Edition | [01002C9005F36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C9005F36000) | 3bd313a3e57dd24c |
-| 1705 | Ys IX: Monstrum Nox [Rev 1.0.0] | [0100E390124D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E390124D8000) | 2b2967745a4c4098 |
-| 1706 | Ys Origin | [0100F90010882000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F90010882000) | 11c2b5b0961cd855, 31fc374be830f17e |
-| 1707 | Ys VIII: Lacrimosa of DANA | [01007F200B0C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007F200B0C0000) | 351694385b22760d |
-| 1708 | Yu-Gi-Oh! Legacy of The Duelist: Link Evolution | [010022400BE5A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010022400BE5A000) | cdc49702ee3df923, ef8ee6ded15ec7fa |
-| 1709 | Yu-Gi-Oh! Rush Duel: Saikyou Battle Royale!! [Rev 1.0.0] | [01003C101454A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003C101454A000) | af7cf48b21607841 |
-| 1710 | YUMENIKKI -DREAM DIARY- | [0100D6B00CD88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D6B00CD88000) | 75541916aab21c49 |
-| 1711 | Zelda Musou: Hyrule All Stars DX | [01002AB007FD2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002AB007FD2000) | 00c2155000000000, 3f8ffad9352a760a, 6da232f1929a838e |
-| 1712 | Zengeon [Rev 1.61] | [0100057011E50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100057011E50000) | 11ac5288ea1bb24e |
-| 1713 | Zenith | [0100AAC00E692000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AAC00E692000) | d7e8f09623a6e544 |
-| 1714 | Zero Strain | [01004B001058C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B001058C000) | f3d71b69aae71376 |
-| 1715 | Zoids Wild: Blast Unleashed [Rev 1.0.0] | [010069C0123D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010069C0123D8000) | f894caf55083a245 |
-| 1716 | Zoids Wild: King of Blast | [0100E43009320000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E43009320000) | bcc92811606bd64f |
-| 1717 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C7300EEE4000) | 54211726d36a8d9c |
-| 1718 | Zombie Army Trilogy | [010025B0106D4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010025B0106D4000) | 2af552cc09e0b42d |
-| 1719 | Zombie Blast Crew | [0100B610138F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B610138F8000) | 91999509bd032341 |
-| 1720 | Zombie's Cool | [01001740116EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001740116EC000) | 4c7871760fa6a44c |
-| 1721 | Zombieland: Double Tap - Road Trip | [0100E5800D32C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5800D32C000) | b55b6dbc68eca640, eca39ad294492a40 |
-| 1722 | ことばのパズル　もじぴったんアンコール | [01006B900F436000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006B900F436000) | 32dcacd4d7dc1c48 |
-| 1723 | アイスクリームサーファー | [010014200BD02000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010014200BD02000) | 266ceb07b8a88f4b |
-| 1724 | ガンズゴア＆カノーリ２ | [010056200B46A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010056200B46A000) | e05627b3d675904e |
-| 1725 | クエストオブダンジョンズ | [0100CBA005160000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CBA005160000) | 4ab92853f8551341 |
-| 1726 | グノーシア | [0100E48010F52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E48010F52000) | c22b26791e9066a9 |
-| 1727 | スチームワールドクエスト | [01000AA00E4DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000AA00E4DC000) | d1e6ea9384c3674b |
-| 1728 | スチームワールドディグ２ | [01004120081AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004120081AC000) | a6a50d6081b0c317 |
-| 1729 | デーモンクリスタル | [0100A1400C9D6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A1400C9D6000) | 46efcae09e6c9747 |
-| 1730 | デーモンクリスタル２　ナイザー | [010090300D9F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010090300D9F8000) | 4f806f1a4ae09a4a |
-| 1731 | ドラゴンクエスト | [0100A5500E488000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A5500E488000) | f3845d78427cb893 |
-| 1732 | ドラゴンクエストⅡ　悪霊の神々 | [0100B1900E48E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1900E48E000) | d84098833bf007c6 |
-| 1733 | ドラゴンクエストⅢ　そして伝説へ… | [01002A800E490000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002A800E490000) | dc72232650d79885 |
-| 1734 | ノーリロードヒーローズ | [0100D730105B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D730105B6000) | f8697f92bf87db49 |
-| 1735 | バトル オブ エレメンタル BURST | [0100F9E00ED30000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F9E00ED30000) | c5c3a5df6275b3cd |
-| 1736 | モンスターファーム | [0100E9900ED74000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9900ED74000) | b5e50e20dea65d80 |
-| 1737 | ロマンシング サガ2 | [01002A1004B34000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002A1004B34000) | 16d2c9fdc70e9d41 |
-| 1738 | 中華大仙 | [0100DDD00B684000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DDD00B684000) | 37bab4d99968f748 |
-| 1739 | 戦国キャノン for Nintendo Switch | [0100C0E008340000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C0E008340000) | 498f36f55a42e1bf |
-| 1740 | 東方スペルバブル | [0100E9D00D6C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9D00D6C2000) | 9a5b6a581dfe374c |
-| 1741 | 滅やばたにえん | [0100074010F1C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100074010F1C000) | 47b04792d093604e |
-| 1742 | 牧場物語 重聚礦石鎮 | [0100C2D00EBD4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C2D00EBD4000) | 1f27449539e34189, 3353df7acba29330, 74b04562d41e3c1e, 865096b06ff9b91a |
-| 1743 | 鷹の爪VSハエの羽団 | [01003D100EAF4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D100EAF4000) | 56b2e6241792d94e |
-| 1744 | ＮＡＲＵＴＯ－ナルト－ 疾風伝　ナルティメットストーム４ ROAD TO BORUTO | [01003F800CF5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003F800CF5C000) | 6535310591f44da1, c6d310a3669a5742 |
-| 1745 | 01000698009c6e00 | [01000698009C6E00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000698009C6E00) | 70c806f458d36843 |
-| 1746 | 01001f7012e66000 | [01001F7012E66000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001F7012E66000) | 16c46473eeab2746 |
-| 1747 | 01001fa01451c001 | [01001FA01451C001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001FA01451C001) | 9894331947eacc47 |
-| 1748 | 01001fa01451c002 | [01001FA01451C002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001FA01451C002) | ca075eb0db8bbf91 |
-| 1749 | 01002130150a2000 | [01002130150A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002130150A2000) | 27efbb8fa331c148 |
-| 1750 | 0100275011e54000 | [0100275011E54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100275011E54000) | 360df0107795cb40 |
-| 1751 | 01002a0012a0a000 | [01002A0012A0A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002A0012A0A000) | 53938bcea352ec42, a0b9997a5d7ca848 |
-| 1752 | 01003b90136da000 | [01003B90136DA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003B90136DA000) | 1f936e043fb8c349 |
-| 1753 | 01003d60131de000 | [01003D60131DE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D60131DE000) | 5d37985ffd683d9a, aa9f5136791936a7 |
-| 1754 | 010040f011de4001 | [010040F011DE4001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040F011DE4001) | 94f8f5db3d8e0a47 |
-| 1755 | 010040f011de4002 | [010040F011DE4002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040F011DE4002) | fbb667b7d6bfa041 |
-| 1756 | 0100414d32524e00 | [0100414D32524E00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100414D32524E00) | f5f97f2d8a78f237 |
-| 1757 | 010042501329e000 | [010042501329E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042501329E000) | 119c804970c52cd2 |
-| 1758 | 010042800A51600 | [010042800A51600](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042800A51600) | 742f9d7917f6bb4c |
-| 1759 | 010047e010b3e550 | [010047E010B3E550](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010047E010B3E550) | 404c24b13d16da49 |
-| 1760 | 010049900f546001 | [010049900F546001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049900F546001) | 9d00360ea7ceac4e |
-| 1761 | 010049900f546002 | [010049900F546002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049900F546002) | 64000c752a890efb, b21e3733e11d6fcf, ed0d7ace84eec780 |
-| 1762 | 010049900f546003 | [010049900F546003](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049900F546003) | 15fded0d90ef5d72, a638857e6df584ff, ff44f58218c6a6b2 |
-| 1763 | 01004bd012500000 | [01004BD012500000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004BD012500000) | 52b74c9f694cc45f |
-| 1764 | 010051d010fc2000 | [010051D010FC2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051D010FC2000) | 3ecc0a9fb0b72ca3, 640d046f7294bbe9, a7a7f29b0366d99c |
-| 1765 | 010062300e0d4000 | [010062300E0D4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010062300E0D4000) | a156cd049516bb48 |
-| 1766 | 0100696014f4a000 | [0100696014F4A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100696014F4A000) | dc27156b7ab58d31, eb526f5a41621d69 |
-| 1767 | 010072400e06a000 | [010072400E06A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072400E06A000) | 7ac8cbfa0d59a04c |
-| 1768 | 01007550129b2000 | [01007550129B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007550129B2000) | 541ec1d423bc2d40 |
-| 1769 | 010076b01196c000 | [010076B01196C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076B01196C000) | fa302ad3e2cca94b |
-| 1770 | 01007af011732000 | [01007AF011732000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007AF011732000) | fcb101343c2e1845 |
-| 1771 | 0100877008162000 | [0100877008162000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100877008162000) | 351694385b22760d |
-| 1772 | 01008F000908000 | [01008F000908000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008F000908000) | 0508130c213d6d7e |
-| 1773 | 010093a01305c000 | [010093A01305C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010093A01305C000) | 2d10be721f63e813, d95baaadde3908ef |
-| 1774 | 0100a2c01320e000 | [0100A2C01320E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A2C01320E000) | 3575af17fabcb399 |
-| 1775 | 0100a58012268000 | [0100A58012268000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A58012268000) | 95f978b38ed9b44d |
-| 1776 | 0100a8b014930000 | [0100A8B014930000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A8B014930000) | e26a54f785a76ee7 |
-| 1777 | 0100aa00128ba001 | [0100AA00128BA001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AA00128BA001) | 1765890577923cd4 |
-| 1778 | 0100af400dfa4000 | [0100AF400DFA4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AF400DFA4000) | f47c51db0ee9f98a |
-| 1779 | 0100b28014132800 | [0100B28014132800](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B28014132800) | 60b4e42155e07989, aea6b2652ea9e34b |
-| 1780 | 0100bef013050000 | [0100BEF013050000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BEF013050000) | dede62934d90ed75 |
-| 1781 | 0100c1f0141aa000 | [0100C1F0141AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C1F0141AA000) | 7ab40e8a9691c2c3 |
-| 1782 | 0100c5a013b7a800 | [0100C5A013B7A800](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5A013B7A800) | 719be27194d137df |
-| 1783 | 0100cbf0115f2001 | [0100CBF0115F2001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CBF0115F2001) | f4dec1d076552e4b |
-| 1784 | 0100cbf0115f2002 | [0100CBF0115F2002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CBF0115F2002) | c0a75cfe9b9b814a |
-| 1785 | 0100cee0140ce000 | [0100CEE0140CE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CEE0140CE000) | 17cef19e3899e814, 4b9f056d355024cc |
-| 1786 | 0100ddb015cda000 | [0100DDB015CDA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DDB015CDA000) | de8dae262124a8b8 |
-| 1787 | 0100e2f014f46000 | [0100E2F014F46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E2F014F46000) | 73c01d12ec628195, 7aeabb797c931714 |
-| 1788 | 0100fd70134fa000 | [0100FD70134FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FD70134FA000) | 155b66a148bfbfbb |
-| 1789 | 0535DC453AB50000 | [0535DC453AB50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0535DC453AB50000) | 0000000000000000 |
-| 1790 | 054507E0B7552000 | [054507E0B7552000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/054507E0B7552000) | 0000000000000000, 4a7114c9560237cb, 5c0cbfefda841930, b5e8bf1fe6465e7e, d326058041b7f4dc, def702cdac4994ef |
-| 1791 | 05BE1C0259DE0000 | [05BE1C0259DE0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/05BE1C0259DE0000) | 56e7b8f33024d194 |
-| 1792 | 05C992BE824A0000 | [05C992BE824A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/05C992BE824A0000) | 0000000000000000, 0000000000000001 |
-| 1793 | 1000B700EC22000 | [1000B700EC22000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/1000B700EC22000) | dcad50aef4e03c48 |
-| 1794 | 1005c9002b42000 | [1005C9002B42000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/1005C9002B42000) | e7c1eca56d362ef6 |
-| 1795 | 207231A04B2F3744 | [207231A04B2F3744](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/207231A04B2F3744) | 250ce7c4a4de1940 |
-| 1796 | 360df0107795cb40 | [360DF0107795CB40](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/360DF0107795CB40) | 360df0107795cb40 |
+| 425 | Darksiders Warmastered Edition  | [0100E140BA96000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E140BA96000) | a4cc4c44c07aec14 |
+| 426 | Darkwood | [010033500B7B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010033500B7B6000) | 1cc75c05b5c0cb40, 207231a04b2f3744, 250ce7c4a4de1940, 39a33d59f1f2b841 |
+| 427 | DC Super Hero Girls™: Teen Power | [0100F8F00C4F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8F00C4F2000) | bc714e2d7d32ab41 |
+| 428 | Dead Cells | [0100646009FBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100646009FBE000) | 073e52946bd464a0, 07590851285f3479, 0b9a75586bc1a6c6, 113fe52d64570f0f, 193312261c565696, 1be215b198e66550, 254c9e4b338bfcd3, 324e785b5f3cee68, 376d8ef97fb8a97d, 5474c91b733d8621, 62cd40cee7d6e7b7, 62f7f1e54f9353f8, 880653d91ece0771, 985189e46f9cf34d, b2fcf615ded71da7, ce6074604542acac, d54a4677ec796e15, d8bfb3dfd14773f8, da6049b1703bcb2c, e123f86e654ca1ef, efe3aca35e248bb6 |
+| 429 | Dead Cells | [0100FC000AEF0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FC000AEF0000) | 0ec417630f5c7a35, 62f7f1e54f9353f8 |
+| 430 | dead cells 1.3 | [010064009FBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010064009FBE000) | efe3aca35e248bb6 |
+| 431 | Dead Effect 2 | [01007860152EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007860152EE000) | 630ab427cb952e4d |
+| 432 | Dead or Alive Xtreme 3: Scarlet | [01009CC00C97C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009CC00C97C000) | d81d2492b00f45d2 |
+| 433 | DEAD OR SCHOOL | [0100E7100C52C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E7100C52C000) | d29fa0c8b15e7842 |
+| 434 | Deadly Days | [010095A011A14000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095A011A14000) | 18591dd841cc6a44 |
+| 435 | Deadly Premonition 2: A Blessing In Disguise | [0100BAC011928000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BAC011928000) | 2481dafb3edc6b4e, 3c9b3ecfad8a9542, 47855f311db97849 |
+| 436 | Death Road to Canada | [0100423009358000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100423009358000) | 4cb1dc253d230b2c |
+| 437 | Death Tales | [0100A51013550000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A51013550000) | b4889e2facba7e5c |
+| 438 | Death's Door | [0100B31015AF8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B31015AF8000) | 469507dfa61af848 |
+| 439 | Death's Gambit: Afterlife | [01006A0015812000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006A0015812000) | bc39a2ba6fd581d1, c7d5d3afb3b946b5 |
+| 440 | Deep Sky Derelicts: Definitive Edition | [0100C3E00D68E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C3E00D68E000) | cb90194eced68b43 |
+| 441 | Deep Space Rush | [01000A700F956000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000A700F956000) | 3c1fb5bc36eb1f66 |
+| 442 | Defend Your Castle | [01006E600D9C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006E600D9C2000) | 71cead463a463746 |
+| 443 | Defense Grid 2 | [010061300BBF8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010061300BBF8000) | 3953274ef966b6b2, e674d6fdaeae5844 |
+| 444 | DELTARUNE Chapter 1 | [010023800D64A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010023800D64A000) | e450a5dd753d257f |
+| 445 | Demon Pit | [010084600F51C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010084600F51C000) | 92d5eac4cfd36242 |
+| 446 | Demon's Tier+ | [0100161011458000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100161011458000) | 7e2745f9a427a583 |
+| 447 | Demong Hunter | [010000401313A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010000401313A000) | f97054189a86de4f |
+| 448 | Densha de GO !! -Hashiro Yamanote Line- [Rev 1.0.0] | [0100BC501355A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BC501355A000) | 72556bdf87ff54ea |
+| 449 | Descenders | [0100D4600D0E4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D4600D0E4000) | da3378adc2ecb844 |
+| 450 | Descenders [Rev 1.0.0] | [0100C2F013084000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C2F013084000) | d0fcd671804c1b42 |
+| 451 | Destroy All Humans! | [01009E701356A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009E701356A000) | 7a4bd7bd8c9388fa |
+| 452 | Devil Engine | [010031B00CF66000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010031B00CF66000) | bb1817c904cd13fe |
+| 453 | Devil May Cry | [0100E8000D5B8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E8000D5B8000) | 883f54c67475abae |
+| 454 | Devil May Cry 2 | [01007CF00D5BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007CF00D5BA000) | f8c066a1e59d8cce |
+| 455 | Devil May Cry 3 Special Edition | [01007B600D5BC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007B600D5BC000) | 010bcee657eafedf, 258d8ba560cfa34c |
+| 456 | Devious Dungeon | [01009EA00A320000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009EA00A320000) | 2d57263d985efa40 |
+| 457 | Devious Dungeon 2 | [0100FD600DFDC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FD600DFDC000) | bf57b4d7ba5ef145 |
+| 458 | Dex | [01003F601025E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003F601025E000) | f0a4874a7fa53947 |
+| 459 | Diablo III: Eternal Collection | [01001B300B9BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B300B9BE000) | 1da2a1a648905450, 2ac6db9e14898083, 2d117920406c4b15, 46b754c506e2ee0a, 4cc6e18934fedee1, 8972613a7ca4e46d, a3e80174bf5ae455, ab8893b8563cb2fd, c0f4b9ffffa1f5dd, e5cd0078f196b4ed, eafc2cef9b161d20 |
+| 460 | Diablo® II: Resurrected™ | [0100726014352000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100726014352000) | 4de22400c997ed23 |
+| 461 | Diabolic | [0100F73011456000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F73011456000) | 7fe0a7323d2e968a |
+| 462 | Digimon Story: Cyber Sleuth [Complete Edition] | [010014E00DB56000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010014E00DB56000) | 92a6c699e4bae7da, bedae701dd8565cd, ca86dbb44a335ead |
+| 463 | Disco Elysium - The Final Cut | [01006C5015E84000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C5015E84000) | 8cd5adbf3bbf1d5d |
+| 464 | Disease -Hidden Object- | [01005E600AB64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005E600AB64000) | 4cee2e7a0a18e44b |
+| 465 | Disgaea 1 Complete | [01004B100AF18000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B100AF18000) | 18b01c2123631637 |
+| 466 | Disgaea 4 Complete+ | [0100A9800E9B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A9800E9B4000) | 6a1bf67d25fc2ed0, 767dc7b2885026a8 |
+| 467 | Disgaea 5 Complete | [01005700031AE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005700031AE000) | cc9abdfa887f316d |
+| 468 | Disgaea 6: Defiance of Destiny | [0100ABC013136000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ABC013136000) | 0b3ac195c9f27084 |
+| 469 | Disjunction | [01000B70122A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000B70122A2000) | 5cfdd9f0daf0308e |
+| 470 | Disney Classic Games: Aladdin and The Lion King | [0100A2F00EEFC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A2F00EEFC000) | 6dacef3fd1431455 |
+| 471 | Disney Tsum Tsum Festival | [010012800EBAE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010012800EBAE000) | 1f7d8734ceb66148, 62dc4bf18520b348 |
+| 472 | Divinity: Original Sin 2 - Definitive Edition | [010027400CDC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010027400CDC6000) | 1dd992e93e645a52, 3c4e2b234cb55b78, 7d3432c23010c1bd, dbd602f66e2de27d, eee583fdd942f6aa, f821dc8cc9a45414 |
+| 473 | Dongo Adventure | [010088B010DD2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010088B010DD2000) | 5015dea149a3c14f |
+| 474 | Donkey Kong Country: Tropical Freeze (rev001) | [0100C1F0051B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C1F0051B6000) | f48bd40d89b529c1 |
+| 475 | DOOM | [0100416004C00000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100416004C00000) | 01ace43e724259c3 |
+| 476 | DOOM (1993) | [010018900DD0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010018900DD0000) | c35190ad7468cb42 |
+| 477 | DOOM (1993) | [010018900DD00000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010018900DD00000) | 2816930e5331df42, 53b3e4a3b478bf4b, 9b97e6f23f01a044 |
+| 478 | DOOM 3 | [010029D00E740000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029D00E740000) | 28b88c3bdf442ebb, 9408aaa62605d822 |
+| 479 | DOOM 64 | [01005D700E742000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005D700E742000) | 1f45f195fb7468c5 |
+| 480 | DOOM II (Classic) | [0100D4F00DD02000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D4F00DD02000) | 1f6c11f9ae3c2148, 5bf6780e838c1e47, 6a881b176cc04d49, b23620b7c664034b |
+| 481 | DOOM® Eternal | [0100B1A00D8CE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1A00D8CE000) | 01357918afdde9c0, 0367b729a8638f45, 1e85d7c778b7ab24, b2e03687892e59fb, c4e8abde598cbe54, doom eternal ver, ed6715cb8e011e31, f73bb6e8e8df350d |
+| 482 | Doraemon: Story of Seasons | [010073700E412000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010073700E412000) | 1bbc6341e973e943, 59624bd909dfdd4b, d5285c0a02fdc14c, ee35389beb0ff248 |
+| 483 | DOTORI | [0100DBD013C92000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DBD013C92000) | b559cde7bc2ad148 |
+| 484 | Double Cross | [010038D00C1DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038D00C1DC000) | 7ef6091d867f8047 |
+| 485 | DOUBLE DRAGON | [010067C00E496000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010067C00E496000) | 7c9c04e77258fa47, a84d1538fbfcb546 |
+| 486 | Double Dragon & Kunio-kun: Retro Brawler Bundle | [0100C0E00F0AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C0E00F0AC000) | 0d1c3b432523b045 |
+| 487 | DOUBLE DRAGON II The Revenge | [01009E3001DDE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009E3001DDE000) | 7bb496830fbaefb5 |
+| 488 | Double Dragon Neon | [01005B10132B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005B10132B2000) | f840d4127e63312d |
+| 489 | DOUBLE DRAGON Ⅱ: The Revenge | [0100DD900E498000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DD900E498000) | 6a71dc9407b10148 |
+| 490 | DOUBLE DRAGON Ⅲ: The Sacred Stones | [01001AD00E49A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001AD00E49A000) | c4994905d081354c |
+| 491 | DOUBLE DRAGON4 | [010001B005E5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010001B005E5C000) | fe9ddb64d10bf747 |
+| 492 | Doug Hates His Job | [0100A14013B1E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A14013B1E000) | b99305304df99c41 |
+| 493 | Down to Hell | [0100B6600FE06000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6600FE06000) | 62c8976e3dee9740 |
+| 494 | Drag Sim 2020 | [0100B59011A1C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B59011A1C000) | fe87beb149f96c45 |
+| 495 | DragoDino | [0100566009238000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100566009238000) | 114f5a2d5fe04446 |
+| 496 | DRAGON BALL FighterZ | [0100A250097F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A250097F0000) | 46c8ba904c2f37cb, 70df9fbff6e78f49, 7a06910a203e80b2, 810a82b5c6fb347f, 949f85fcf0608a26, 9b710d5867004cf8, cd53729b7ae2d794, ce094b2b58e4d0c8, e6c3fe55ad27891e, ef3a27c7a00fb584 |
+| 497 | Dragon Ball Heroes | [0100E5E00C464000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5E00C464000) | 35712a42cf7d37c9 |
+| 498 | Dragon Ball Xenoverse 2 | [010078D000F88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010078D000F88000) | 0d0e5aab66ad6795, 0f4992d359c3b6dd, 15f6affe27bc79dc, 3549519a39128dbb, 54c53bf518bef0ed, 5691ded1329c2cf7, 5d6d051aea5d556d, 867b51c287259559, f89026442c938f06, ffd194436f8d3d2d |
+| 499 | Dragon Ball Z KAKAROT + A New Power Awakening Set [Rev 1.00] | [0100EF00134F4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EF00134F4000) | c652ec8d0928bac0 |
+| 500 | DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET | [010051C0134F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051C0134F8000) | fbe93aaaa4c11567 |
+| 501 | Dragon Lapis | [010076F012CD8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076F012CD8000) | 92ec5e5a7338b442 |
+| 502 | Dragon Marked For Death | [010089700150E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010089700150E000) | 185a67621d9b8d61, 4233b4516cb5b3d8, 66d0494fb531f45f, 6e1fcdb58ddea086, 70a2f7fc803e2d0e, 9b066abb5e29b8fe, e22ee1b82e5b8835, e4114eb197e80ca8, e671d5f4979f0cea, e6d27d568f3ea9c8 |
+| 503 | DRAGON QUEST | [0100EFC00EFB2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EFC00EFB2000) | 4c1e8f555e6b88da |
+| 504 | Dragon Quest 1, 2 & 3 Collection | [010015600EFB6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010015600EFB6000) | 43d16253cd0bdd2a |
+| 505 | Dragon Quest Builders | [010008900705C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010008900705C000) | 93a84d948c179001 |
+| 506 | Dragon Quest Builders - Alefgard o Fukkatsu Seyo | [01007B5002F56000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007B5002F56000) | 61fa6eeda9a63672 |
+| 507 | Dragon Quest Builders 2 | [010050000705E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010050000705E000) | 3ebf22ed97873d1f, 43d3724d70a32464, 4e1a22c61868d4c0, 79a11fd138520490, a93ef5c9c956ac1f, abb2ac36c4d38805, d29dc85061688483, d58e985f267b9abd, f847df7905274ef5 |
+| 508 | DRAGON QUEST BUILDERS 2 | [010042000A986000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042000A986000) | 1a0b233dc70b7f6e, 687753c332cfff53, a6b07ff854883072, ed620a2fd245ffe0, f311f4b1e6f32be0 |
+| 509 | Dragon Quest Builders 2 (JAP) | [ABB2AC36C4D3880](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/ABB2AC36C4D3880) | 010050000705e000 |
+| 510 | Dragon Quest Builders 2 (JAP) | [010050000705E00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010050000705E00) | 010050000705e000 |
+| 511 | Dragon Quest Heroes I・II for Nintendo Switch | [0100CD3000BDC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CD3000BDC000) | 5c598e5025bf97bc, bf91b9e86ff34541 |
+| 512 | DRAGON QUEST II: Luminaries of the Legendary Line | [010062200EFB4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010062200EFB4000) | 10423bbc86d3bfde |
+| 513 | Dragon Quest XI S: Echoes of an Elusive Age [Definitive Edition] | [01006C300E9F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C300E9F0000) | 0237abe1ee27da42, 1719aabfa5eae42b, 191270f5ed4db907, 6b54b4be4b1771f4 |
+| 514 | Dragon Quest XI S: Sugisarishi Toki o Motomete | [010054A0085CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010054A0085CA000) | 325e49e94a030b7e, 744e00542ff45574 |
+| 515 | DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition | [010026800EA0A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026800EA0A000) | a7578001b492c202 |
+| 516 | Dragon Sinker | [0100356009860000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100356009860000) | 0a9c8c76d0b32948 |
+| 517 | Dragon Star Varnir | [01001C60148CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C60148CC000) | 5fe3da408d621385 |
+| 518 | Dragon's Lair Trilogy | [010027100C544000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010027100C544000) | 63d62c0424d49543 |
+| 519 | DragonBlaze for Nintendo Switch | [010099B00A2DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010099B00A2DC000) | 9ec9964ffd6e3f73 |
+| 520 | DragonFangZ | [0100DA0006F50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DA0006F50000) | 0090cbff9230c84f |
+| 521 | Dragons Dogma: Dark Arisen | [010032C00AC58000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010032C00AC58000) | 2cdb9b9d70010e88, deb6b520bb1e0352, ed2c2056af00b1c7 |
+| 522 | Drawn to Life: Two Realms | [0100FF1012C1C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF1012C1C000) | af2af618c7cf574d |
+| 523 | Dreaming Sarah | [010048F012C24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010048F012C24000) | fdaa28be827d1b9c |
+| 524 | Dreamscaper | [010066C00FA94000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010066C00FA94000) | 949f9cdc8746f98d |
+| 525 | DreamWorks Dragons Dawn of New Riders | [0100ED200B6FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED200B6FC000) | 41e7d227f248534e |
+| 526 | Drift Racing Madness | [0100850011FDA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100850011FDA000) | da2839fce6e16a4e |
+| 527 | Drunken Fist | [0100BDB012F78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BDB012F78000) | d8e7a91f33e3728f |
+| 528 | Duck Game | [0100750001C70000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100750001C70000) | d5446193e5bc2e4c |
+| 529 | Duke Nukem 3D: 20th Anniversary World Tour | [01007EF00CB88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007EF00CB88000) | 49a4a5cff8450314, 68ea5bfa8daa9371 |
+| 530 | Dungeon Limbus | [0100CAB012FCC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CAB012FCC000) | 73e570746ed6aa41 |
+| 531 | Dungeon ni Deai o Motomeru nowa Machigatteiru Daroka: Infinite Combate | [0100AFC00CEE6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AFC00CEE6000) | 84d19a943300e243, 9725ccaa784be34c |
+| 532 | Dungeonoid | [01002130136C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002130136C0000) | f780a21406f4aa4e |
+| 533 | DungeonTop | [01004A0013790000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004A0013790000) | 05fe9024b0ac5146 |
+| 534 | Dungreed | [0100FAD00C2AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FAD00C2AA000) | ce5a908f1736cb49 |
+| 535 | Dungreed [Rev 1.0.0] | [010045B00C496000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045B00C496000) | 5db69691ddc47b45, cfd9ab668979ea45 |
+| 536 | Dusk Diver | [0100B2B00E7AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2B00E7AA000) | 2d31515a27c3ecec |
+| 537 | Dusk Diver | [010011C00E636000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011C00E636000) | 2d05e2fc4bed8cf5 |
+| 538 | Dust: An Elysian Tail | [0100B6E00A420000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6E00A420000) | d273f6d43b6f1af6, e962be62e05dde43 |
+| 539 | Dusty Raging Fist | [010097D00402C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010097D00402C000) | 3663a5c4e19b5840 |
+| 540 | Dwarf Journey | [01009E8013FCE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009E8013FCE000) | 53b9d027023e4d44 |
+| 541 | DYNASTY WARRIORS 8: Xtreme Legends Definitive Edition | [0100E9A00CB30000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9A00CB30000) | 0d63b368b4161cac |
+| 542 | Eagle Island | [010037400C7DA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010037400C7DA000) | 092e5781403f9625, 64d3b49f38c60f55, f0e3bd5e823c6145 |
+| 543 | Earth Atlantis | [0100E07006C84000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E07006C84000) | 5ab9630ecf782342 |
+| 544 | EARTH DEFENSE FORCE: WORLD BROTHERS | [01006D5014796000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006D5014796000) | c19c80633bee4bd1 |
+| 545 | Earthlock | [01006E50042EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006E50042EA000) | d75dbe0c21357141 |
+| 546 | EarthNight | [0100A2E00BB0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A2E00BB0C000) | 0c2192b8ddc2dd48 |
+| 547 | eBASEBALL: Powerful Pro Yakyu 2020 [Rev 1.0.0] | [010073000FE18000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010073000FE18000) | 5cb8f3e19852f4c1, 5d82d7f60d6ded46, cb946f6ae634f5f9 |
+| 548 | Eight Dragons | [01003AD013BD2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003AD013BD2000) | 587aede0433e5d41 |
+| 549 | Eiyuu Densetsu: Sen no Kiseki III [Rev 1.0.0] | [0100E57010542000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E57010542000) | 3fb33205c25d3436 |
+| 550 | El Hijo - A Wild West Tale | [010020A01209C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010020A01209C000) | 9139c20dd37e1944 |
+| 551 | Elden: Path of the Forgotten | [0100B5B00EF38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B5B00EF38000) | 5187063dc7cb7c43 |
+| 552 | Eldest Souls | [010093C00F30A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010093C00F30A000) | 2f726d926695a220 |
+| 553 | Elliot | [0100D85013754000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D85013754000) | 428980f461ab5b44 |
+| 554 | Elliot Quest | [0100128003A24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100128003A24000) | 75b6f3935221af6d, f35372f6362e4e05 |
+| 555 | Empire Of Sin [Rev 1.0.0] | [010058600E530000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010058600E530000) | 8eb54ae3e9cd284d |
+| 556 | ENDER LILIES: Quietus of the Knights | [0100CCF012E9A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CCF012E9A000) | 3048549aef6b02d1, c9fb83b55873d1a6, e46ce3fff909b1d6, eba346eff38c931a |
+| 557 | Endurance - space action | [010045C011DF6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045C011DF6000) | 768520e5eb082918 |
+| 558 | Enter the Gungeon | [01009D60076F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009D60076F6000) | 0988ba5931f79147, 41353ef03c96cf44, 86b75b735e8ce94b, b3116bd471906840, e1ccdccc11e3d04b |
+| 559 | Escape from Chernobyl | [0100FEF00F0AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FEF00F0AA000) | 7725c643b39658f4 |
+| 560 | Escape From Tethys | [010092901203A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010092901203A000) | f65f17ea16c29146 |
+| 561 | Evan's Remains | [01003F900E74E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003F900E74E000) | 51416f403efaa3b9 |
+| 562 | Everdark Tower | [010029500DFBA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029500DFBA000) | 94e79e909cd7d64b |
+| 563 | Evergate | [01009C4012284000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009C4012284000) | 4d330e2011155a4a |
+| 564 | Everhood | [0100E20014028000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E20014028000) | 5ed66ab27852d64b |
+| 565 | Everspace™ - Stellar Edition | [0100DCF0093EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DCF0093EC000) | 71873feb4648fa39 |
+| 566 | Evil Defenders | [010080600B53E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010080600B53E000) | f82f507fb0c82b4d |
+| 567 | Evil Tonight | [01001B2013D72000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B2013D72000) | 10a4a3005c5a0534, 370637265acb6a70, 5bedb46d354e6cf2, 6094d142d4d7c99d, a719b112b688c739 |
+| 568 | Evoland Legendary Edition | [0100ED100B160000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED100B160000) | 9f334187b57ba085, b853770c72416f65 |
+| 569 | Exit the Gungeon | [0100DD30110CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DD30110CC000) | 0988ba5931f79147, 378a61255ca26c4e |
+| 570 | Explosionade DX | [0100410012112000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100410012112000) | 48c172d0e2f4be42 |
+| 571 | Fable of Fairy Stones:妖精石物語 | [0100E3D0103CE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E3D0103CE000) | 4278baf87482ec4b |
+| 572 | Fairune Collection | [01008A6009758000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008A6009758000) | ea5c70af7f4d8a4f |
+| 573 | Fairy Fencer F™: Advent Dark Force | [010002300C632000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010002300C632000) | 810604cb1d5b9de9 |
+| 574 | Fairy Tale [Rev 1.0.0] | [0100CF900FA3E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CF900FA3E000) | 20ee036f0f679257, 29a5e596c24badde, 5f894a204984a1f7, 6df7c8e12b9b8d24, 9202714ae1ff3520, b52fc65a9bb66580 |
+| 575 | Fairy Tale [Rev 1.0.0] | [0100F3100EFCC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F3100EFCC000) | 6fdc6ffe937e5d78 |
+| 576 | Fall Of Light - Darkest Edition | [01005A600BE60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005A600BE60000) | 4fe377f89a528a42 |
+| 577 | Family Feud [Rev 1.0] | [010060200FC44000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010060200FC44000) | d3e9fbc256313540 |
+| 578 | FANTASY HERO～unsigned legacy～ | [0100767008502000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100767008502000) | 48625e6d08b74557 |
+| 579 | Fantasy Strike | [0100944003820000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100944003820000) | 9000cc23f2376946, e226101567d1be44 |
+| 580 | Farm Together | [010086B00BB50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010086B00BB50000) | 3af310c7483c404e |
+| 581 | FATAL FRAME: Maiden of Black Water | [0100BEB015604000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BEB015604000) | 1527e76f9f184833 |
+| 582 | Fate/Extella: The Umbral Star | [010053E002EA2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010053E002EA2000) | 76ec789b99a25ba5 |
+| 583 | Fear Effect Sedna | [01005AC0068F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005AC0068F6000) | 89647e6361e7cd48 |
+| 584 | Feathery Ears | [01006C3011C56000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C3011C56000) | 1c7c2b75926d0947, 3ee273ceb6829739 |
+| 585 | Feral Fury | [010097E00ADC2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010097E00ADC2000) | e3d0ba009ed53707 |
+| 586 | Fernz Gate | [01006E800B7F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006E800B7F2000) | 192a2ca0ebeb9845 |
+| 587 | Feudal Alloy | [0100AA3009738000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AA3009738000) | c317caf34f49a74b |
+| 588 | Fifa 19 | [0100FFA0093E8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FFA0093E8000) | 907a0c5bb38c865f |
+| 589 | FIFA 20 [Legacy Edition] | [01005DE00D05C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005DE00D05C000) | f2d740184944d73c |
+| 590 | FIFA 21: Legacy Edition [Rev 1.0.0] | [01000A001171A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000A001171A000) | 283e6dbf59b544ef, 33e7809b7250cf17, 480820c613eeea50, e567f4c52bc3fd4a |
+| 591 | Fight | [0100995013404000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100995013404000) | 4fcdb74dfd8ba740 |
+| 592 | Fight Crab (rev001) [Rev 1.1.1] | [01006980127F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006980127F0000) | 89996c4eed1f7a45 |
+| 593 | Fight of Animals | [010047E010B3E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010047E010B3E000) | 2ba5dabaf794914d |
+| 594 | Fight of Animals: Arena | [0100AC6015996000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AC6015996000) | 9c444c4eac73544e |
+| 595 | Fight of Gods | [01002F600C684000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002F600C684000) | 35ceb2cb0d33364b |
+| 596 | Fight'N Rage | [0100C7D00E730000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C7D00E730000) | 1a9f7090d7fffabc, 591ca4b00e5d84dd |
+| 597 | FIGHTING EX LAYER ANOTHER DASH | [0100D02014048000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D02014048000) | 7a4c24dd63b1d96f |
+| 598 | Figment | [0100118009C68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100118009C68000) | 5a9dc352aaf1f548 |
+| 599 | Fin and the Ancient Mystery | [0100C8200E942000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C8200E942000) | dc8170c81cb4f142, eb87bf4d8c40564a |
+| 600 | FINAL FANTASY IX | [01007EF00B094000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007EF00B094000) | a49a739c07989244, eada9f7ad4d3ba41 |
+| 601 | FINAL FANTASY VII | [0100A5B00BDC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A5B00BDC6000) | 4d630af93ac272dc, 99b42a70ec0234b5, ca4ed0693797f529 |
+| 602 | FINAL FANTASY VIII Remastered | [01008B900DC0A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008B900DC0A000) | b899412d980f0b44 |
+| 603 | Final Fantasy X X-2 HD Remaster | [0100FE500D0CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FE500D0CA000) | c581c65cd5743adf |
+| 604 | FINAL FANTASY X/X-2 HD Remaster | [0100BC300CB48000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BC300CB48000) | 1ce9f39ddb8a1a93, 1ec9f39dddb8a1a9 |
+| 605 | Final Fantasy XII The Zodiac Age | [0100EB100AB42000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB100AB42000) | 598723c7a3d43935, c2932c4d1c84ed7d |
+| 606 | FINAL FANTASY XV POCKET EDITION HD | [010068F00AA78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010068F00AA78000) | ceed69743f258249 |
+| 607 | FINAL FANTASY® CRYSTAL CHRONICLES™ Remastered Edition | [0100CE4010AAC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CE4010AAC000) | 687ab956c7a3914b, e1d8b399b787ae41 |
+| 608 | Final Light, The Prison | [01001BA00AE4E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001BA00AE4E000) | 352d01c0d629b74f, 45e162b5385dc449 |
+| 609 | FINALSWORD DefinitiveEdition | [0100F62013DAE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F62013DAE000) | 265b7ee5bb75864a |
+| 610 | Finding Teddy 2 : Definitive Edition | [0100FF100FB68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF100FB68000) | 0a90f4970abf3ede |
+| 611 | Fire Emblem Musou | [0100EAE003A5A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EAE003A5A000) | 316baf584d815ab7, 466e46e9aef48d9f |
+| 612 | Fire Emblem Warriors | [0100F15003E64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F15003E64000) | 1953770037acc52a, 43fc559a975dd485 |
+| 613 | Fire Emblem: Three Houses | [010055D009F78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010055D009F78000) | 19ba39bd3ee8131d, 47ca26d2aa77d0ba, 89048449ba238c8c, 9454f2c47f827602, cecf500cea4c214c, f0142d706fd2323b |
+| 614 | Firework | [0100BA9012B36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BA9012B36000) | 3885a17f2d28b1e7 |
+| 615 | Flashback | [01000A0004C50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000A0004C50000) | 4427c1b4902c4449 |
+| 616 | Flinthook | [0100307004B4C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100307004B4C000) | 6cb9aa4d4e880356 |
+| 617 | Fly Punch Boom! | [0100FC300F4A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FC300F4A4000) | de9f681aed612147 |
+| 618 | FLYING GIRL STRIKER | [0100CCA00EDCE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CCA00EDCE000) | b1891931c1eba942 |
+| 619 | Flynn: Son of Crimson | [01005F2014B80000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005F2014B80000) | 0570324e7dc2d797, 4b2db08f6277d771, 5730dcf4c2dd8eba |
+| 620 | Fobia | [010056000BA1C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010056000BA1C000) | c1e79c256bdf6e41 |
+| 621 | For The King | [010069400B6BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010069400B6BE000) | 45bc618b7067a346, 5105f83d319c8143, 7e00252e0cdc2e4c |
+| 622 | Forager | [01001D200BCC4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001D200BCC4000) | b3f0e741dbe41bf5 |
+| 623 | Foregone | [010044B00E70A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010044B00E70A000) | 1812915cf5b12646, 1bed7508ca97e540, fbaf2dbe9f2f6546 |
+| 624 | FOX n FORESTS | [01008A100A028000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008A100A028000) | 280589b597abe848 |
+| 625 | FoxyLand | [0100D2501001A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D2501001A000) | 4e2b065027e78663 |
+| 626 | Frane: Dragons' Odyssey | [0100C0C00DD0E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C0C00DD0E000) | 09b846aebe22fe44 |
+| 627 | Freedom Finger | [010082B00EE50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010082B00EE50000) | 8e500d494507154c |
+| 628 | Freedom Planet | [0100EB800B614000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB800B614000) | 6fe8e047d88be449 |
+| 629 | Fuga: Melodies of Steel | [01000130120EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000130120EE000) | 915a86b4d6a5eacd |
+| 630 | Full Metal Furies | [010079300AD54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010079300AD54000) | 0b76ec521212fd1c |
+| 631 | FullBlast | [010036A00B290000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010036A00B290000) | c2d7a3622913c742 |
+| 632 | Furi | [01009D3008D20000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009D3008D20000) | 4feeee035bd05141 |
+| 633 | Furi - Definitive Edition | [01000EC00AF98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000EC00AF98000) | 83fb796d7b625e42 |
+| 634 | Fury Unleashed | [0100ECE00C0C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ECE00C0C4000) | 069084599b9fe640, 265d097cce8d8a49, 33c2f7fb7b9cdc48 |
+| 635 | FUSER™ | [0100E1F013674000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1F013674000) | 13d5bb6d03dc2601 |
+| 636 | Fushigi no Gensokyo: Lotus Labyrinth | [0100D7800C56A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D7800C56A000) | 76afb6a1db0a65d9 |
+| 637 | Fushigi no Gensoukyou TOD -RELOADED- | [010033500944A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010033500944A000) | cd0578ffc3b7c72e |
+| 638 | G.I. Joe: Operation Blackout | [0100EB10108EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB10108EA000) | 99c3b03aa94f9ed7, e4e950730783f283 |
+| 639 | Galaxy Champions TV | [010023500EF76000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010023500EF76000) | 7c392af48783654c |
+| 640 | Galaxy Warfighter | [0100EDB01005C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EDB01005C000) | ca634037ff84ad42 |
+| 641 | Game Dev Story | [0100AF700BCD2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AF700BCD2000) | b783994a7721864b, eaf9c6474584ae4a |
+| 642 | Game Doraemon: Nobita no Shin Kyoryu [Rev 1.0.0] | [01006BD00F8C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006BD00F8C0000) | 06b9d4461dc8a442, d13dee59be762ab5 |
+| 643 | Gangsta Paradise | [01001A50145E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001A50145E0000) | 811fb7885b2d7247 |
+| 644 | Garage | [01000FA00A4E4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000FA00A4E4000) | b887d7ff382cd64f |
+| 645 | Garden Story | [0100B4D012490000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B4D012490000) | 0100b4d012490000, 722adbb54278776d, deed081549eb305b |
+| 646 | Gas Station: Highway Services | [010032D012602000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010032D012602000) | ee18a97637d15740 |
+| 647 | Gates of Hell | [0100EA001069E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EA001069E000) | b662a47bdea4dc4c |
+| 648 | Gato Roboto | [010025500C098000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010025500C098000) | 261fa67f1c963a1c, 41c02541bc629910 |
+| 649 | Gear Club Unlimited 2 | [010072900AFF0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072900AFF0000) | 0a547e79e76c8849 |
+| 650 | Gear.Club Unlimited | [010065E003FD8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010065E003FD8000) | cd94fcb8cc23b24a |
+| 651 | Gekido Kintaros Revenge | [010052A00942A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010052A00942A000) | 100289938ec87946 |
+| 652 | Genetic Disaster | [010014901144C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010014901144C000) | d941bd608240c448 |
+| 653 | GensokyoDefenders | [010000300C79C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010000300C79C000) | 64a8da29d4719019 |
+| 654 | Ghost 1.0 | [0100EEB005ACC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EEB005ACC000) | 5441813a911b7b45 |
+| 655 | Ghost 1.0 + UnEpic Collection | [0100E0D00DFEE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0D00DFEE000) | a7dc83325c7b69a9 |
+| 656 | Ghost 1.0 plus Unepic Collection | [010036400DFF0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010036400DFF0000) | a680bcfccdab360d |
+| 657 | Ghost Blade HD [Rev 1.0.2] | [010063200C588000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010063200C588000) | 76584d2eaa42c27f |
+| 658 | Ghost of a Tale | [0100D140112BC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D140112BC000) | 8ac511f87d786b46 |
+| 659 | Ghost Sweeper | [01004B301108C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B301108C000) | 50221310d086a129 |
+| 660 | Ghostbusters: The Video Game Remastered | [0100EAE00D9EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EAE00D9EC000) | 0fe6747d03eba4e3, 5aaa63bef45a8c0a |
+| 661 | Ghostrunner | [010090F012916000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010090F012916000) | e883dffd31c64950 |
+| 662 | Ghosts 'n Goblins Resurrection | [0100D6200F2BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D6200F2BA000) | 6726a5080b7fbac7, a89b6b019e1f02ef |
+| 663 | GhoulBoy | [0100C9D00C8E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C9D00C8E2000) | 4f30069d2ede974a |
+| 664 | Ghoulboy | [0100A9500C606000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A9500C606000) | 703e05c8fa44594e, 91a6639441289b4c |
+| 665 | Giana Sisters: Twisted Dreams - Owltimate Edition | [01003830092B8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003830092B8000) | bea2cb7d4b453556 |
+| 666 | GIGA WRECKER ALT. | [0100A4900EDDE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A4900EDDE000) | 00828465529fee46 |
+| 667 | GIGA WRECKER ALT. | [010045F00BFC2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045F00BFC2000) | 8704d866d10eb543 |
+| 668 | GIGANTIC ARMY | [010067A00D35E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010067A00D35E000) | c32b8a1fdd88dcbe |
+| 669 | Gigantosaurus The Game | [01002C400E526000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C400E526000) | ef7b49570430043e |
+| 670 | Ginger: Beyond the Crystal | [0100C50007070000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C50007070000) | 59024102424ac443 |
+| 671 | Gleamlight | [0100ED2010292000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED2010292000) | 73f509ebf8307343 |
+| 672 | Glitch's Trip | [0100B6F01227C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6F01227C000) | 6d69e98be519ca47 |
+| 673 | Glittering Sword | [0100230013D0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100230013D0C000) | e8f1613fa8389cf0 |
+| 674 | Gnosia | [01008EF013A7C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008EF013A7C000) | 389c6c494eec527c |
+| 675 | Goblin Sword | [010067C010F88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010067C010F88000) | 3eb41ec2fcad4d68, 95b083bd9d0dc15c, e717df86ce42cd4d |
+| 676 | GOD EATER 3 | [01001C700873E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C700873E000) | 1250e446d020c4ca, 368cdf823b83a54b, 769ce69fd09f7ec6, 9ed444678b20813a, c0f144f5139f542e, f43bdc91fc97e529 |
+| 677 | GODS Remastered | [0100BAA00AE16000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BAA00AE16000) | 8b36f764eb350c41 |
+| 678 | Gods Will Fall | [0100CFA0111C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CFA0111C8000) | 1bf7be722958394b |
+| 679 | Godstrike | [0100FA50138A6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FA50138A6000) | 6b1a71c6e7329803 |
+| 680 | Going Under | [01004D501113C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004D501113C000) | 6c295313079c434d |
+| 681 | GOKEN | [0100126006EF0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100126006EF0000) | cf79603efd9e774d |
+| 682 | Golf Story | [0100779004172000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100779004172000) | 300060790d4c2c4a, fcedea4c677dd643 |
+| 683 | GoNNER | [01007C2002B3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007C2002B3C000) | 9f04dff0e1149440 |
+| 684 | GONNER2 | [0100EA70127F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EA70127F2000) | 7a13a0e5d4cb8e47 |
+| 685 | Good Job!™ | [0100B0500FE4E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B0500FE4E000) | 951d09eece122a47 |
+| 686 | Good Night, Knight | [01003AD0123A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003AD0123A2000) | afe32bedbd98f691 |
+| 687 | Grand Brix Shooter | [010038D00EC88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038D00EC88000) | 233ef0208adfef4f |
+| 688 | Grand Prix Story | [0100BE600D07A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE600D07A000) | 5dc3c46ef8c9ee48 |
+| 689 | Grand Theft Auto San Andreas Version 1.0.2 | [010065A014024000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010065A014024000) | 7061706ef4d97b84 |
+| 690 | GRANDIA HD Collection | [0100E0600BB8001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0600BB8001) | 812a9ad7ab2000b0 |
+| 691 | GRANDIA HD Collection | [0100E0600BBC8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0600BBC8000) | cb4964f21cd34f6d |
+| 692 | GRANDIA HD Collection | [0100E0600BBC8001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0600BBC8001) | 8b679e3f55bd9de5, cb4964f21cd34f6d |
+| 693 | GRANDIA HD Collection | [0100E0600BBC8002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0600BBC8002) | 034886422b6f840b |
+| 694 | Grave Danger | [010074E0099FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010074E0099FA000) | 00a4a69c29c73b42 |
+| 695 | Graveyard Keeper | [0100B6800B5C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B6800B5C8000) | 10be30fead5ad443, 35577fd32a942e48 |
+| 696 | Greak: Memories of Azur | [010045E012ECE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045E012ECE000) | be65af4dfe4a9941 |
+| 697 | Greedroid | [0100BD800DFA6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD800DFA6000) | 9889452e84c5394c |
+| 698 | Green Hell | [0100453012FEA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100453012FEA000) | 0b0ed086a895204c, 87ab66d783094e44, d3a8f87e96c94045 |
+| 699 | GREEN The Life Algorithm | [0100DFE00F002000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DFE00F002000) | 52b45ab71e411b4d |
+| 700 | Grey Skies: A War of the Worlds Story | [0100DA7013792000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DA7013792000) | 6867b68d25d91f55 |
+| 701 | Gridd: Retroenhanced | [0100197008B52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100197008B52000) | 50ecdb66433e1d4b |
+| 702 | Grimvalor | [01001C700F518000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C700F518000) | 12a99f6002fd464e |
+| 703 | Grindstone | [0100538012496000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100538012496000) | 55f3e1211440fa49 |
+| 704 | Grood | [01005240121F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005240121F2000) | 4ecbce12e16d3048 |
+| 705 | GROOVE COASTER WAI WAI PARTY!!!! | [0100EB500D92E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB500D92E000) | 5e462a2e7fa7136c |
+| 706 | Gryphon Knight Epic: Definitive Edition | [0100A16011872000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A16011872000) | df8ddc222b04c24d |
+| 707 | GTA Vice City Version 1.0.3 | [0100182014022000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100182014022000) | 3ec230850491826d, a60e8ca86c6fd704 |
+| 708 | GTA3 The Definitive Edition v1.0.2 | [0100C3C012718000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C3C012718000) | 7263a54a1e58dd45 |
+| 709 | Guacamelee! One-Two Punch Collection | [01007E100456C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007E100456C000) | 09b0d1846cc99974, 536e86a461401f9f, fbe5462b68407e75 |
+| 710 | Guacamelee! Super Turbo Championship Edition | [0100BAE00B470000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BAE00B470000) | 184fc082f199328e |
+| 711 | Gun Crazy | [01009630106A6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009630106A6000) | 1da05d6dfed0b4c1 |
+| 712 | Gun Gun Pixies | [01009EB00DC76000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009EB00DC76000) | 1953770037acc52a, 35b2bf0c429a1ec0 |
+| 713 | GUNBIRD for Nintendo Switch | [01003C6008940000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003C6008940000) | 5783a91c341b29e4, c6a4443809d9fa0a |
+| 714 | GUNBIRD2 for Nintendo Switch | [0100BCB00AE98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BCB00AE98000) | 266c41c9585e9a14, abac5a08624f0306 |
+| 715 | Gunbrick: Reloaded | [01008DF00B78E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008DF00B78E000) | 5d956d4949715a4e |
+| 716 | Gunlord X | [0100EC200BFF8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC200BFF8000) | 2bc3f1356efa8560 |
+| 717 | Guns Gore and Cannoli | [0100934003BCC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100934003BCC000) | 408fde3f0287ac43 |
+| 718 | Guns, Gore and Cannoli 2 | [01006D4003BCE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006D4003BCE000) | bbf599d8f665ff4a |
+| 719 | Gunslugs | [01008050130EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008050130EE000) | 3b14bbcee9dde7cb |
+| 720 | Gunvolt Chronicles: Luminous Avenger iX | [01008C800E654000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008C800E654000) | 9e70f504efe74a5b, 9e885a66c9ca0de1, e90d985d706df59f |
+| 721 | Habroxia | [01007E100EFA8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007E100EFA8000) | 6bc96ab409d90d32 |
+| 722 | Hades | [0100535012974000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100535012974000) | 981ed32c0e1ef006, a16cb7e952a7e911, a23f80213077971a, a9c78517999a1b5a, d41357a3da356b09, fbbae054d5d0dc1e |
+| 723 | Hakoniwa Explorer Plus | [0100618010D76000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100618010D76000) | 066442551a10fea7 |
+| 724 | Hammerwatch | [01003B9007E86000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003B9007E86000) | 6ee12e07e6151a74 |
+| 725 | Hardcore Maze Cube | [0100D55011D60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D55011D60000) | 622dd70e54d2084a |
+| 726 | HARDCORE MECHA: Fighter Edition [Rev 1.0.0] | [01002F0011DD4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002F0011DD4000) | 6100fc7c12fd8e47, b0a374ec18548849 |
+| 727 | Harukanaru Toki no Naka de 7 [Rev 1.0.0] | [0100CF400F7CE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CF400F7CE000) | cbb6127b4f896ec5 |
+| 728 | Has Been Heroes | [0100E29001298000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E29001298000) | 14a906483411b74e |
+| 729 | Hatsune Miku: Project DIVA Mega Mix | [01001CC00FA1A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001CC00FA1A000) | 2ff03fc088cba7a7, 8cf5d24227c5dd98, e0c41878f636ad4f |
+| 730 | Hatsune Miku: Project Diva Mega39s [Rev 1.0.0] | [0100F3100DA46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F3100DA46000) | cadfcd07e6596093 |
+| 731 | Haunted Dawn: The Zombie Apocalypse | [01009E6014F18000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009E6014F18000) | 62ddb75afc960446 |
+| 732 | HAUNTED: Halloween '86 | [010085500F6B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010085500F6B6000) | 021e57fe033a4343 |
+| 733 | Haven | [0100E2600DBAA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E2600DBAA000) | 18a00efbfc61974f |
+| 734 | Heaven Dust | [010059100D928000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010059100D928000) | 188cf8540b981749 |
+| 735 | Hell is Other Demons | [0100E4300C278000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4300C278000) | 32821b95b7b08a42 |
+| 736 | Hellblade: Senua's Sacrifice | [010044500CF8E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010044500CF8E000) | 052fcb358955ed48 |
+| 737 | Hellmut: The Badass from Hell | [0100A0300D1A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0300D1A0000) | 63b9577d6f33e149 |
+| 738 | Hero must die. again | [010049500F996000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049500F996000) | 010049500f996000, ed2c2056af00b1c7 |
+| 739 | Heroes of Loot | [010091E01330C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010091E01330C000) | 567cb20694b517f3 |
+| 740 | HEROINE ANTHEM ZERO episode 1 | [01001B70080F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B70080F0000) | 45b257c493eeb045 |
+| 741 | Heroland | [0100E1E00EF30000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1E00EF30000) | d37c29f215a33a45 |
+| 742 | Hill Climbing Mania | [0100147011F4E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100147011F4E000) | b2a838fe966cb54e |
+| 743 | Hob: The Definitive Edition | [01004B100A5CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B100A5CC000) | 2144e3740a714489, 4e7978e35f9d7490 |
+| 744 | Hollow Knight | [0100633007D48000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100633007D48000) | 155c8506c654fb4d, fb968cfb649a5842 |
+| 745 | Horace | [010086D011EB8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010086D011EB8000) | edf9c3851a2ec4a0 |
+| 746 | Horizon Chase Turbo | [01009EA00B714000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009EA00B714000) | 0fd4cffbe940d846, 819e5faed7cb2e4c, c4155f1414558e45, dc0392fb78995746, e807e56db799da40, fc03e9c290b99944, fd04fc9f3849184d |
+| 747 | Hot Wheels Unleashed [Rev 1.0.0] | [01003D001597A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D001597A000) | 7084bda5918c68c4 |
+| 748 | HOT WHEELS UNLEASHED™ | [0100AA60136D2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AA60136D2000) | e8eded95565f2f99 |
+| 749 | Hotshot Racing | [0100BDE008218000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BDE008218000) | 67d4d404c8e0dd12 |
+| 750 | Hungry Shark World | [0100E1A00AF40000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1A00AF40000) | 84f3ebf079d0c34d |
+| 751 | Huntdown | [0100EBA004726000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EBA004726000) | 0e4cd9323816d642, 20be97be1162e647 |
+| 752 | Hunter's Legacy: Purrfect Edition | [010068000CAC0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010068000CAC0000) | 4d514c14e9fa804a |
+| 753 | Hunting Simulator | [0100C460040EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C460040EA000) | 38d978866da4e740 |
+| 754 | Hyper Light Drifter - Special Edition | [01003B200B372000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003B200B372000) | 7375e3124c4762c8 |
+| 755 | Hyperspace Delivery Service | [010049000F6B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049000F6B0000) | dbe0ab47c73d874a |
+| 756 | Hyrule Warriors: Age Of Calamity [Rev 1.0.0] | [01002B00111A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002B00111A2000) | 0496d4b4c6ae1cf4, 3a2d1227979971e5, 5a982fa25220e4df, 908cd685037018e9, 935ebe83c4a06583, c3cf52bf2b05d731 |
+| 757 | Hyrule Warriors: Definitive Edition | [0100AE00096EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AE00096EA000) | 0c869f41b8b9175e, 815a2c19d1767896 |
+| 758 | I Am Setsuna | [0100849000BDA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100849000BDA000) | 0bba2167aed893be |
+| 759 | Ice Age: Scrats Nutty Adventure | [01004E5007E92000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004E5007E92000) | 3295d9b0da169a4f, 799d52eeaaf76b47 |
+| 760 | Ice Station Z | [0100954014718000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100954014718000) | 14f0c4ab904a3f47 |
+| 761 | ICEY | [0100BE9007E7E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE9007E7E000) | 684a8d1aebeb7845 |
+| 762 | Iconoclasts | [0100BC60099FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BC60099FE000) | 4e1c499387103542 |
+| 763 | Ikaruga | [01009F20086A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009F20086A0000) | 360954416f3ae3bf, 6cb42a082864095c |
+| 764 | Ikenfell | [010040900AF46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040900AF46000) | 82e28ce7709d9c15 |
+| 765 | Illusion of L'Phalcia | [01000B700EC22000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000B700EC22000) | dcad50aef4e03c48 |
+| 766 | Immortals Fenyx Rising [Rev 1.0.0] | [01004A600EC0A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004A600EC0A000) | 0011956ab1854781, 305a12dd6b139a0a, 46b9082762ac86de, 70f3f6751d73c644, 7667839b25e6b6eb, 89b1333eac986eda, b20264c1f11968bc, cade195fe9f14b2a, fdbd4273618f7207 |
+| 767 | Immortals Fenyx Rising [Rev 1.0.0] | [01006E60131B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006E60131B6000) | 305a12dd6b139a0a, 89b1333eac986eda, cade195fe9f14b2a |
+| 768 | IMPLOSION | [0100737003190000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100737003190000) | 1967a586ca3f9594 |
+| 769 | Indivisible | [01001D3003FDE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001D3003FDE000) | 76891617fe876b5f |
+| 770 | Inexistence Rebirth | [010001D014348000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010001D014348000) | 8e1251e46a5bcaaa |
+| 771 | Infinite - Beyond the Mind | [010085D0101A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010085D0101A4000) | e2962af45de03f8c |
+| 772 | Infinite Tanks WWII | [010057101473A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010057101473A000) | fed199fe706ff17d |
+| 773 | INMOST | [0100F1401161E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F1401161E000) | 749be2421442084d |
+| 774 | Inside Grass: A little adventure | [0100EC7012D34000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC7012D34000) | 82621f7ea403de49 |
+| 775 | Into the Dead 2 | [01000F700DECE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000F700DECE000) | 5da7219e9c868b40, 6c2e85a41eb3fb4a |
+| 776 | Ion Fury | [010041C00D086000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010041C00D086000) | 2774b972a2adff45, 9d2efcf198f2247f, ab507fa827afff86, e3f099c642642dd2 |
+| 777 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth Infinite Combate | [010063E0104BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010063E0104BE000) | bf4a86cc45871342 |
+| 778 | Is It Wrong to Try to Pick Up Girls in a Dungeon?: Infinite Combate [Rev 1.0.0] | [010082200EE6A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010082200EE6A000) | 204512ddc12f5247 |
+| 779 | Island Saver | [0100A2600FCA0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A2600FCA0000) | 5deb62b4085e8b45 |
+| 780 | Isolation Story | [0100924013162000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100924013162000) | ac81f731198bba41 |
+| 781 | It came from space and ate our brains | [01002E501015A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002E501015A000) | 01002e501015a000, b3946e23d25c5b4c |
+| 782 | Ittle Dew | [01005070088E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005070088E0000) | 3040b326c1e01843 |
+| 783 | Ittle Dew 2+ | [01004070022F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004070022F0000) | b375f9c4583e074b, fbb317949968ac41 |
+| 784 | Jack Axe | [0100EF500EF42000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EF500EF42000) | baa6db7690e723bc |
+| 785 | JackQuest: The Tale of the Sword | [0100C80009ABE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C80009ABE000) | 3749bfea64dc98df |
+| 786 | Jay and Silent Bob: Mall Brawl | [0100CD1010740000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CD1010740000) | 9fa43604f9ee9343, f79075633c5b7b40 |
+| 787 | Jet Kave Adventure | [0100E4900D266000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4900D266000) | 55ee3667931f2a4e |
+| 788 | Jet Set Knights | [01005C1012C22000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005C1012C22000) | 166ccc3f97efe368, 699fab245432f155 |
+| 789 | Jets'n'Guns | [010026200FF36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026200FF36000) | 49b81bb7a4a30917 |
+| 790 | Jets'n'Guns 2 | [01000BF012920000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000BF012920000) | ff756020d95b3ec5 |
+| 791 | Jikkyo Powerful Pro Yakyu | [0100E9C00BF28000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9C00BF28000) | 859a3a3d296d44e8 |
+| 792 | Joe Devers Lone Wolf | [0100D49008748000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D49008748000) | 838e2d7bb425994d |
+| 793 | John Wick Hex | [01007090104EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007090104EC000) | 925f0e0d520e8a4e |
+| 794 | Johnny Turbo's Arcade: Fighter's History | [0100B3F00B9F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B3F00B9F2000) | 64b19fa91081374f |
+| 795 | Johnny Turbo's Arcade: Night Slashers | [0100F7300C90E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F7300C90E000) | 64b19fa91081374f |
+| 796 | Johnny Turbos Arcade Caveman Ninja | [0100355002CBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100355002CBE000) | 980fb826274c0947 |
+| 797 | Johnny Turbos Arcade Two Crude | [010080D002CC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010080D002CC6000) | a08736d63a033846 |
+| 798 | Jotun: Valhalla Edition | [0100340009736000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100340009736000) | 6593d6d07b08024b |
+| 799 | Journey of the Broken Circle | [0100251012E38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100251012E38000) | a83041c29cc30a41 |
+| 800 | Juiced! | [0100F7C012D68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F7C012D68000) | 7af131133cec43fb |
+| 801 | Juicy Realm | [0100C7600F654000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C7600F654000) | 1cc0f472aaa0cb44, 5eb90226e5a2aa45, 9040949bee1a224b, c72372c4bd3f9e47, cd13d3722e4ea24a |
+| 802 | Jumanji: The Video Game | [0100B4D00C76E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B4D00C76E000) | 54e9c7460334eeb4 |
+| 803 | JUMP FORCE: Deluxe Edition [Rev 1.00] | [01008CD01187E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008CD01187E000) | abba41088700b6de, e33e6767e0d727fa |
+| 804 | JUMP FORCE: Deluxe Edition [Rev 1.00] | [0100183010F12000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100183010F12000) | d637d1dcff836cb2, f5ae4f045dda9e45 |
+| 805 | Junk Jack | [010043901005A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010043901005A000) | d06812e9f4d77318 |
+| 806 | Jurassic World Evolution: Complete Edition | [010050A011344000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010050A011344000) | b0708a7be9d178d9, b4508f122c4e512e |
+| 807 | Just Dance 2018 | [0100A0500348A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0500348A000) | 448e0f0e1c1cbade |
+| 808 | Just Dance 2019 | [010075600AE96000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010075600AE96000) | 48bcb6087dca2090 |
+| 809 | Just Dance 2021 [Rev 317118.553751] | [0100BF9011B52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BF9011B52000) | 7b64dba6fff3b5dd |
+| 810 | Just Dance® 2020 | [0100DDB00DB38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DDB00DB38000) | 6674d85b7a37a96f |
+| 811 | JYDGE | [010035A0044E8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010035A0044E8000) | 8728efbc0732aa2f |
+| 812 | Kairobotica | [0100D5F00EC52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D5F00EC52000) | f9284cc26fc6564f |
+| 813 | KAMEN RIDER CLIMAX SCRAMBLE | [0100BDC00A664000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BDC00A664000) | b807bdb67dca9648 |
+| 814 | Kamen Rider: Memory Of Heroez (Premium Sound Edition) [Rev 1.0.0] | [0100A9801180E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A9801180E000) | 3ddc1e43a0c36d40, 912318946167dc48 |
+| 815 | Kamen Rider: Memory Of Heroez [Rev 1.0.0] | [010060F00EE92000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010060F00EE92000) | 87e3f1492d37734d |
+| 816 | KAMIKO | [010085300314E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010085300314E000) | 20c625ac27190391 |
+| 817 | Kangokuto Mary Skelter 2 for Nintendo Switch | [0100C3500D956000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C3500D956000) | b1fc6fb94ece1df1, b2c87992da9ce1e8 |
+| 818 | Kangokuto Mary Skelter Finale [Rev 1.0.0] | [010042C011736000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042C011736000) | 9b44e06034d7bba0 |
+| 819 | Karma Knight | [01005300128E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005300128E2000) | 6fc0bc9f5e5fe749 |
+| 820 | Katana Kami: A Way Of The Samurai Story [Rev 1.0.0] | [0100F6A00E31E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F6A00E31E000) | 8b562b57837a3d48 |
+| 821 | Katana ZERO | [010029600D56A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029600D56A000) | 158a7f586431982e |
+| 822 | KAUIL’S TREASURE | [010028F013358000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010028F013358000) | e055f38d30be4f42 |
+| 823 | Kaze and the Wild Masks | [010038B00F142000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038B00F142000) | 3f1e5c8189629f4f, 7a1598fa5877f246 |
+| 824 | Keen: One Girl Army | [0100D7C01115E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D7C01115E000) | 5a95eb5631c22043 |
+| 825 | KEMCO RPG Select Vol. 1 [Rev 1.0.1] | [010042800A516000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042800A516000) | 742f9d7917f6bb4c |
+| 826 | Kemono Heroes | [0100B61010272000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B61010272000) | 903196324d35db4e |
+| 827 | KeroBlaster | [0100DA200A09A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DA200A09A000) | 9a9b1a4513a3576b |
+| 828 | KILL la KILL -IF | [0100FB400D832000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FB400D832000) | 1131b24a070766c3 |
+| 829 | King Lucas | [0100E6B00FFBA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E6B00FFBA000) | ea5ba579f77a014a |
+| 830 | King of Seas | [01008D80148C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D80148C8000) | 2c9aa9a24c5e389c |
+| 831 | King's Bounty II | [010026F013B3A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026F013B3A000) | 36d4dfb5da75b787, ebc2fa4a226e0774 |
+| 832 | Kingdom Hearts: Melody of Memories [Rev 1.01] | [0100C6000E71E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C6000E71E000) | 62488500f7894744 |
+| 833 | Kingdom Hearts: Melody of Memories [Rev 1.01] | [01005D2011EA8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005D2011EA8000) | 0f878e7cfccbe14c, 5c549b9bf83f254f, c7cf8f4fd4f19648 |
+| 834 | Kingdom Hearts: Melody of Memories [Rev 1.01] | [0100B42011EF6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B42011EF6000) | cc7695a3d8342841 |
+| 835 | Kingdom of Arcadia | [0100B4E012CAC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B4E012CAC000) | bebdf967daeefc6a |
+| 836 | Kingdom Rush Frontiers | [010046200FC62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010046200FC62000) | b1c0e2f9dbf2adfb |
+| 837 | Kingdom Two Crowns | [01005EF003FF2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005EF003FF2000) | f2da1e131cd72241 |
+| 838 | Kingdom: New Lands | [0100BD9004AB6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD9004AB6000) | 871a5f971b929d4e |
+| 839 | Kingdoms of Amalur: Re-Reckoning [Rev 1.0.0] | [0100EF50132BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EF50132BE000) | 816bfb8a2f5b5916 |
+| 840 | Kirby Fighters™ 2 | [0100227010460000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100227010460000) | 738ae024b3aecb69 |
+| 841 | Kirby Star Allies | [01007E3006DDA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007E3006DDA000) | d55608916fa56c18 |
+| 842 | Kitaria Fables [Rev 1.0.0] | [0100F30013BFC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F30013BFC000) | 2b7c360d075f7544 |
+| 843 | Knight Terrors | [0100D51006AAC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D51006AAC000) | 48e19a79bd94264c |
+| 844 | Knightin'+ | [01005F8010D98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005F8010D98000) | e1f19426d584d567 |
+| 845 | Kono Subarashii Sekai ni Shukufuku o Kibo no Meikyu to Tsudoishi Bokensha-tachi Plus [Rev 1.0.0] | [01004920105FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004920105FC000) | d1cbd97f27390104 |
+| 846 | Kotodama: The 7 Mysteries of Fujisawa | [010046600CCA4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010046600CCA4000) | 1ac1dd4498520448 |
+| 847 | KUNAI | [010035A00DF62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010035A00DF62000) | d0be93d85d02c64e |
+| 848 | Kwaidan ～Azuma manor story～ | [0100894011F62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100894011F62000) | 8a6ee4f53fca3c44 |
+| 849 | L.O.L. Surprise! Remix: We Rule The World [Rev 1.0.2] | [0100F2B0123AE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2B0123AE000) | 821623d5241ab14b |
+| 850 | LA MULANA 1 | [0100E5D00F4AE001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5D00F4AE001) | 546537ede7d31355 |
+| 851 | LA MULANA 2 | [0100E5D00F4AE002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5D00F4AE002) | a73e8bf6d692314a |
+| 852 | LA-MULANA | [010026000F662000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026000F662000) | 5160d10088bb2289 |
+| 853 | LA-MULANA 2 | [01005E000D3D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005E000D3D8000) | c22c6b213d9f9c40 |
+| 854 | LA-MULANA 2 | [010038000F644000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038000F644000) | 582b12ea6fc34845 |
+| 855 | Labyrinth of Refrain: Coven of Dusk | [010058500B3E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010058500B3E0000) | a70b9eb509780b4a |
+| 856 | Lair of the Clockwork God | [01008280119B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008280119B2000) | a438aaa96812fe44 |
+| 857 | Landflix Odyssey | [0100BE3013A38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE3013A38000) | c55df60aebbb4eae |
+| 858 | Langrisser I and II [Rev 1.0.0] | [0100BAB00E8C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BAB00E8C0000) | 06b9d4461dc8a442 |
+| 859 | Lapis x Labyrinth | [010059500D070000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010059500D070000) | 7aa99f168bbe05de |
+| 860 | Last Fight [Rev 1.0.1] | [01009E100BDD6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009E100BDD6000) | 184cd27602cef34d |
+| 861 | Laytons Mystery Journey: Katrielle and the Millionaires Conspiracy [Deluxe Edition] | [0100CE500D226000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CE500D226000) | 6e3697980fb82e82 |
+| 862 | Legend of Kay Anniversary | [01002DB007A96000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002DB007A96000) | 45396fcb2433872f |
+| 863 | Legend of Keepers: Career of a Dungeon Manager | [0100C67015076000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C67015076000) | 29cca88a99029547 |
+| 864 | Legend of Mana | [01003570130E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003570130E2000) | 8af5434b6dbb81cc |
+| 865 | Legend of the Skyfish | [0100ECC00EF3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ECC00EF3C000) | eb415b6b0545b744 |
+| 866 | Legend of the Tetrarchs | [01007E900DFB6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007E900DFB6000) | 4c1d271b7b598d41 |
+| 867 | Legends of Ethernal | [01008EE012CD4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008EE012CD4000) | 6426eb51f081aa45 |
+| 868 | LEGO City: Undercover | [010085500130A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010085500130A000) | 2aa90ecc2a24da46, 7b021c62485d604c |
+| 869 | LEGO City: Undercover | [01003A30012C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003A30012C0000) | 669f6e70c268f748 |
+| 870 | LEGO Harry Potter Collection | [010052A00B5D2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010052A00B5D2000) | 01c46c3e39c5370f |
+| 871 | LEGO Jurassic World | [01001C100E772000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C100E772000) | 1b80403be8882745 |
+| 872 | LEGO Marvel Super Heroes | [01006F600FFC8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006F600FFC8000) | 5d769abcad9f2743 |
+| 873 | LEGO Marvel Super Heroes 2 | [01007690040A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007690040A0000) | e21eae8cb8581043 |
+| 874 | LEGO Marvel Super Heroes 2 | [0100D3A00409E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D3A00409E000) | 20cd49f2ba64744d |
+| 875 | LEGO The Incredibles | [0100A01006E00000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A01006E00000) | 2103782a9ae5384e |
+| 876 | LEGO The Incredibles | [0100F19006E04000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F19006E04000) | 414d247f3fd8084e |
+| 877 | LEGO® DC Super-Villains | [010070D009EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010070D009EC000) | 711c52fc37606d45 |
+| 878 | LEGRAND LEGACY: Tale of the Fatebounds | [0100E7500BF84000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E7500BF84000) | ec34fb71507c2b42 |
+| 879 | Lethal League Blaze | [01003AB00983C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003AB00983C000) | 6cbb3b19c992634f |
+| 880 | Letter Quest Remastered | [01008C300648E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008C300648E000) | f94d4262f0311e4d |
+| 881 | Liege Dragon | [010041F0128AE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010041F0128AE000) | 68485fb688541b47 |
+| 882 | Light Fall | [010030A006F6E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010030A006F6E000) | d4801982fd785f42 |
+| 883 | Little Big Workshop | [0100F6B01188E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F6B01188E000) | 9b7a1e12c165644e |
+| 884 | Little Inferno | [0100B18001D8E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B18001D8E000) | 4e1af3b11a41f81c |
+| 885 | Little Nightmares II | [010097100EDD6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010097100EDD6000) | 73ace23d9e196304 |
+| 886 | Little Triangle | [01000690085BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000690085BE000) | 992d2df3ec0d134a |
+| 887 | Lonely Mountains: Downhill | [0100A0C00E0DE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0C00E0DE000) | 2ec4d1b667108246 |
+| 888 | Loot Hero DX | [010077E013D60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010077E013D60000) | fefe79a36161f553 |
+| 889 | Lost Castle | [0100581007068000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100581007068000) | 83f63a18c3490647 |
+| 890 | Lost in Random™ | [01005FE01291A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005FE01291A000) | 416914c121775277 |
+| 891 | Lost Sea | [010071B00964A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071B00964A000) | 53a7c333f5a5164e |
+| 892 | Lost Sphear | [010077B0038B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010077B0038B2000) | 641a9243ba35c638 |
+| 893 | Love Esquire | [0100D600129A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D600129A4000) | 18974dfcc74e58fc |
+| 894 | Lovecraft´s Untold Stories | [010041100CE7E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010041100CE7E000) | 06a06f7f844b3048, 39e84e8ca98f7445, 603713f56498a749 |
+| 895 | LoveR Kiss [Rev 1.0.0] | [01007250089F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007250089F8000) | 6a508fae5ee5a625, 8529f6bd4d1ac688, eb388107c2c7630a |
+| 896 | Lucah: Born of a Dream | [0100AAA00DD4C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AAA00DD4C000) | 03dffe48b573ca48, 504d86d833937a40 |
+| 897 | Luigis Mansion 3 | [0100DCA0064A6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DCA0064A6000) | 075ad583a1603f84, 486f6a3b2d6bcf5c, 788dd38ad97f1d12, 79e5950ffa85acf6, a27c9ba72927796a |
+| 898 | M.A.C.E. Space Shooter | [0100F02005D1E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F02005D1E000) | 21cc83cf5a6c67ae |
+| 899 | M.A.C.E. Tower Defense | [010032800F038000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010032800F038000) | 9eaa0a8818ea8546 |
+| 900 | MachiKnights -Blood bagos- | [0100F2400D434000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2400D434000) | 8eb9f6fb15b3428b |
+| 901 | Mad Bullets | [01008F000E908000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008F000E908000) | 07cdecb2cfdb33db |
+| 902 | Mad Tower Tycoon | [0100C5F012A3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5F012A3C000) | e80d3cc1c0bac34c |
+| 903 | Magazine Mogul | [01004A200E722000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004A200E722000) | 1f3961008c458b42 |
+| 904 | Mages of Mystralia | [0100549008C9C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100549008C9C000) | 876049d0d3d7ca4a, de32b7731b63fe48 |
+| 905 | Magic Scroll Tactics | [010013800BE2C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010013800BE2C000) | e4473ceedcc3cc4f |
+| 906 | MagiCat | [01008E500BF62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008E500BF62000) | 833d81cc2e69914c |
+| 907 | Maid of Sker | [01002E900CF38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002E900CF38000) | d7ef1ae60aada34a |
+| 908 | Makai Senki Disgaea 6 [Rev 1.0.0] | [0100307011D80000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100307011D80000) | 0061513a543e48db, b766e8ad3284ab9c |
+| 909 | Makai Senki Disgaea Refine | [01000E600B05C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000E600B05C000) | 489626ae0cfbfd15 |
+| 910 | Mana Spark | [01005A700CC3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005A700CC3C000) | 527a6996351df24f |
+| 911 | Maneater | [010093D00CB22000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010093D00CB22000) | 153ee73742bff405 |
+| 912 | March to a Million | [010097500E552000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010097500E552000) | ba6922f2e506d442 |
+| 913 | Märchen Forest [Rev 1.0.0] | [01001B2012D5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B2012D5E000) | b07176ceb2483f4c |
+| 914 | Mario + Rabbids Kingdom Battle | [010067300059A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010067300059A000) | 3b39e0c06b8841f1 |
+| 915 | Mario Golf™: Super Rush | [0100C9C00E25C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C9C00E25C000) | 70617e8dac74382a, a7f339f38ee6b26c |
+| 916 | Mario Kart 8 Deluxe | [0100152000022000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100152000022000) | 1cd9216a21737fb4, 96dfd1769e560c27, fe1b230800d4933c |
+| 917 | Mario Tennis Aces | [0100BDE00862A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BDE00862A000) | 32487e7e3d94954e, 4b9a64ded26c6e46, 88ef9ecb522d12db, 9fda2c32e8de3ebf, a85c59aedf83e5c9, a9b238505a969318, f5942324c223cd16 |
+| 918 | Marvel Ultimate Alliance 3: The Black Order | [010060700AC50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010060700AC50000) | 066e47b7e18919a7, 5ed21fb245de6fd6, 667b85fe3416042d, bb1b99313a37497b, e853c44fdf18b88f, f5b177df07a33d38, f6a5b20e04316d19, f92c9527298b5cce |
+| 919 | Mary Skelter 2 | [01003DE00C95E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003DE00C95E000) | 1caa05a4630e7769, b1fc6fb94ece1df1, c16e154e683d7eb8 |
+| 920 | Masters of Anima | [0100CC7009196000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CC7009196000) | 221c5199de0ad409, b1c8b55e8d400e57 |
+| 921 | Max and the book of chaos | [0100A8C011F26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A8C011F26000) | 7a0d43680365424e |
+| 922 | Mayhem Brawler | [01002C70149B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C70149B4000) | 833b93270803234e, 9f158d0cdd74440b |
+| 923 | Mech Rage | [0100EC000CE24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC000CE24000) | b117cba20eb26a4f |
+| 924 | Mechstermination Force | [0100E4600D31A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4600D31A000) | 59d3aec4b3c1f9c6 |
+| 925 | Mega Man 11 | [0100B0C0086B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B0C0086B0000) | 047fdd0c5af5f1c5, 3469a1b2e0fea93c |
+| 926 | Mega Man Legacy Collection | [01002D4007AE0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002D4007AE0000) | 381ebb12fb9a8c78 |
+| 927 | Mega Man Legacy Collection 2 | [0100842008EC4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100842008EC4000) | cde43aac8c49c618 |
+| 928 | Mega Man X Legacy Collection | [01005C60086BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005C60086BE000) | ead37d36abd7c4c8 |
+| 929 | Mega Man X Legacy Collection 2 | [01005250086C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005250086C4000) | ece85107b8dc81db |
+| 930 | Mega Man Zero/ZX Legacy Collection [Rev 1.0.0] | [010025C00D410000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010025C00D410000) | 2a38895c5e732182 |
+| 931 | Megabyte Punch | [0100FC700F942000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FC700F942000) | 74e0c0485919c342 |
+| 932 | Meganoid | [010028101227A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010028101227A000) | 10318952dad3d9e1 |
+| 933 | MELTY BLOOD: TYPE LUMINA | [01001E30126A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001E30126A0000) | 030e8ed4b6ecd104, 46ffd77d1647f1ae |
+| 934 | Mercenaries Blaze: Dawn of the Twin Dragons | [0100A790133FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A790133FC000) | acdb9f8fa16b0f4f |
+| 935 | Mercenaries Wings: The False Phoenix | [010094500C216000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010094500C216000) | fea1e2af77833e40 |
+| 936 | Mercenary Kings | [0100F900046C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F900046C4000) | e19317ee3daf4fea |
+| 937 | METAL MAX Xeno:  Reborn [Rev 0.1] | [0100E8F00F6BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E8F00F6BE000) | b6f1f3441fddbf47 |
+| 938 | Metaloid: Origin | [01002DE00E5D0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002DE00E5D0000) | d76d38b9e285e4cc |
+| 939 | Metaverse Keeper | [0100AFF00F938000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AFF00F938000) | 52e597efe89c6348 |
+| 940 | Metro Redux [Rev 1.0.0] | [0100D4900E82C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D4900E82C000) | 85c362cc9790f0ed |
+| 941 | Metro: Last Light Redux | [0100F0400E850000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F0400E850000) | 85c362cc9790f0ed |
+| 942 | Metroid™ Dread | [010093801237C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010093801237C000) | 49161d9ccbc15df9, 64b4b34a5490b80f, 6c1c79196ed2af54, e8e8ec3fd0159d65 |
+| 943 | Micro Pico Racers | [0100E5E012744000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5E012744000) | 9889bea1eaa23c42 |
+| 944 | Miden Tower | [01001EB011D38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001EB011D38000) | 0d5d07181f8be84c |
+| 945 | Midnight Deluxe | [01000FB008900000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000FB008900000) | ab085264ca5a9442 |
+| 946 | Mighty Goose | [0100AD701344C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AD701344C000) | 230115d50145b816 |
+| 947 | MIGHTY GUNVOLT BURST | [01000E2003FA0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000E2003FA0000) | e621cc4f5ac77b1c |
+| 948 | Miitopia™ | [01003DA010E8A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003DA010E8A000) | 3378b75a3dd2ada9, 38a937bb6d6c8f3d |
+| 949 | Miles and Kilo | [01004B7009F00000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B7009F00000) | 900c13947dee53ff |
+| 950 | MindSeize | [0100B05012FB2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B05012FB2000) | 53ee95838a26cc41 |
+| 951 | Minecraft (rev001) | [0100D71004694000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D71004694000) | 390a94ddff4e98a2, 460de4e3e9b83e39 |
+| 952 | Minecraft Dungeons | [01006C100EC08000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C100EC08000) | 4e87c5792a7c8290, 5ee3f44479a972ea, 6e4f953fd94fa7bc, 919717f094b9c8cd, b0efb225275ba084, fd6b97411349ddb3 |
+| 953 | Mini Motor Racing X | [01003560119A6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003560119A6000) | 489a7372c2fd7948 |
+| 954 | Minoria | [0100FAE010864000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FAE010864000) | 22f902ea52fb9449 |
+| 955 | Missile Dancer | [0100CFA0138C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CFA0138C8000) | bd89832dce35bd0b |
+| 956 | Mist Hunter | [010059200CC40000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010059200CC40000) | 5a12f43732856844 |
+| 957 | MISTOVER | [010034E00EFD0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010034E00EFD0000) | 72353029e0dd9843, 9b3b5f6d3d95ae4c, a845c02558e6e447 |
+| 958 | MO:Astray | [010011300F74C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011300F74C000) | 6c3210e6db52484a, d0621765de125240 |
+| 959 | Moero Chronicle™ Hyper | [0100B8500D570000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B8500D570000) | d6db4c4b00699a19 |
+| 960 | Moero Crystal H | [01004EB0119AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004EB0119AC000) | f386b1aed15c029c |
+| 961 | Momodora: Reverie Under the Moonlight | [01004A400C320000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004A400C320000) | 1fa6ede0487edafd, d9c5d440ea56b37b |
+| 962 | MONKEY BARRELS | [0100FBD00ED24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FBD00ED24000) | 611f06c0ec29b743, fe50c0f9760f4343 |
+| 963 | Monkey King: Master of the Clouds | [01004C500B8E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004C500B8E0000) | 40961c0a47988049 |
+| 964 | Monochrome Order | [010075200F1CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010075200F1CA000) | 5d1bc3e14c488c47 |
+| 965 | Mononoke Slashdown | [0100F3A00FB78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F3A00FB78000) | 6911a0b8b685e532 |
+| 966 | Monopoly | [01007430037F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007430037F6000) | 78440bac00d01742, b3efc64152be0d27 |
+| 967 | Monster Boy and the Cursed Kingdom | [01006F7001D10000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006F7001D10000) | 107a4d01b1bf5d44, 7dd8afc6a77afbb3, bef7bd1a79121305, ee7693162065f488, ff7be16d88b0c439 |
+| 968 | Monster Harvest | [01004E001256A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004E001256A000) | 84a900975bbc204b |
+| 969 | MONSTER HUNTER GENERATIONS ULTIMATE | [0100770008DD8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100770008DD8000) | 91a0f7e64876346e, 936abc6624fc8d8a, fb08f1d20fd1204f |
+| 970 | MONSTER HUNTER GENERATIONS ULTIMATE™ Demo | [0100E6400B1EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E6400B1EA000) | d95baaadde3908ef |
+| 971 | Monster Hunter Rise [Rev 1.0.0] | [0100B04011742000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B04011742000) | 1318dd201757a788, 23a75866baa8b4d9, 46205b7bd869e2e4, 5cac0323ccbc04bf, 6cdec176ea1d12c5, b09f83b9ef28c00d, f7a7784e77202be7 |
+| 972 | Monster Hunter Stories 2: Wings of Ruin | [0100E21011446000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E21011446000) | 4b8e91070d920211, bcd9fddeba070270, ee762e3c16403a53 |
+| 973 | Monster Hunter XX Nintendo Switch Ver. | [0100C3800049C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C3800049C000) | 9d4c86e6ef74504a |
+| 974 | Monster Jam: Steel Titans [Rev 1.0.1] | [010095C00F354000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095C00F354000) | 92d64159071e039f |
+| 975 | Monster Sanctuary | [0100A0F00DA68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0F00DA68000) | 6353afd4731b1144, 919f748a49edcc4d, eee2b36b6080d949, fd058635cd4e2b43 |
+| 976 | Monster Slayers | [0100D1700C732000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D1700C732000) | 341cd937b9a177a5 |
+| 977 | Monster Train First Class | [01006D9013894000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006D9013894000) | f0afc43d4e9e6540 |
+| 978 | Monster Viator | [01001620105FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001620105FE000) | 555c31c0b8c8d540 |
+| 979 | moon | [0100E1800EFCE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1800EFCE000) | 089898e9f7812443 |
+| 980 | Moon Hunters | [01004FD00382A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004FD00382A000) | 5e4bc2f68fd39749 |
+| 981 | Moon Raider | [01000C301457C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000C301457C000) | 2206455c8debc1fd |
+| 982 | Moonlighter | [0100F4700B2E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F4700B2E0000) | 962cafe79900af46, bbf3f7535ed52140, cd63653c77e52d44 |
+| 983 | Morbid: The Seven Acolytes | [010040E00F642000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040E00F642000) | 44d8102a3a314307, c2743da0740c6a26 |
+| 984 | Morphite | [0100776003F0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100776003F0C000) | a757cc723f059240 |
+| 985 | Mortal Kombat 11 | [0100F2200C984000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2200C984000) | 053c0def634d577b, 0a62ba391b96f85a, 122e262da74e5148, 2102a7476c861be3, 253ce7ff39ea6dd8, 42f093afb5ed34e2, 452a442f3d18086d, 4db479bdec804fca, 4f7ab1a3eefc7eb2, 5cc95226dbaaae04, 600436311afc7f24, 618a891e4a49d835, 69cfb1478185a732, 6ee15d1e9bc5ce90, 71f12f744212cbe8, 7dd420a59ee310dd, a18f8879b9a93f3b, b87694bcc4e7c77e, c8c44bca0e8fa163, db4da7bf6af18d4a, dbf3cf1a67412d92, dfe3c7c2880ce91d, e5efef0cabb585cc |
+| 986 | Mother Russia Bleeds | [0100D9C00AA52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D9C00AA52000) | 3b1f3c4e8d93b74a |
+| 987 | Moto Rush GT | [01003F200D0F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003F200D0F2000) | d9417a4323518e47 |
+| 988 | Moving Out | [0100C4C00E73E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C4C00E73E000) | d613dc6c33ccaa41 |
+| 989 | Mr. DRILLER DrillLand | [0100DCA011262000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DCA011262000) | 8ae3fac28ffdba0e |
+| 990 | Muse Dash | [01008E200C5C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008E200C5C2000) | 0a0e633cd3526a41, 61a564531b665643, ee67e4ace805674c |
+| 991 | Mushihimesama | [010045800FBD0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045800FBD0000) | 87d5d35af6571d94, bba1d0305b1083eb |
+| 992 | Mushroom Heroes | [01005BD0112B8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005BD0112B8000) | 2010fabdb517f74e |
+| 993 | Musou Orochi 3 | [0100E8500AD58000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E8500AD58000) | 07650fd5e5e2b82c, 1d18291b37a88ab1 |
+| 994 | Mutant Mudds Collection | [01004BE004A86000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004BE004A86000) | dc7ebf2d74ae270d |
+| 995 | Mutant Year Zero: Road to Eden [Deluxe Edition] | [0100E6B00DEA4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E6B00DEA4000) | eb33b25f08668b19 |
+| 996 | My Friend Pedro | [010031200B94C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010031200B94C000) | 11428e3e3bec214e, cc7797e4ef90c248, myfriendpedro1v0 |
+| 997 | My Hero Ones Justice 2 [Rev 1.0.0] | [01007E700DBF6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007E700DBF6000) | 445a7e604fa1a98b, 6b8a78ea6780099a |
+| 998 | My Time at Portia | [0100E25008E68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E25008E68000) | 0f91da8517ff2c47, 5a8d16ace656d54b, 5fc2c9ce6c79d64a, 7a11fee67d77df44, 981a2d07e0947446, dd16f4688ab7004b |
+| 999 | Myastere -Ruins of Deazniff- | [01003E3013BE4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003E3013BE4000) | ca594d5fa57f6c2c |
+| 1000 | MyFarm 2018 | [010021F00AD76000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010021F00AD76000) | a18d105404da2c47 |
+| 1001 | Mystery Mine | [01002800117EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002800117EE000) | cbf01f0658eade4e |
+| 1002 | Mystik Belle Enchanted Edition | [0100FFB015C6E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FFB015C6E000) | 93eb061008cd762b |
+| 1003 | NAMCO MUSEUM® ARCHIVES Vol 1 | [010084E010E18000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010084E010E18000) | d8f700a70f7df4f2 |
+| 1004 | Narcos: Rise of the Cartels | [010072B00BDDE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072B00BDDE000) | 188f1ed1673facbd, 2e6fa6fae12d8085 |
+| 1005 | Narita Boy | [010062200E912000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010062200E912000) | 976d33b11368ef49 |
+| 1006 | NARUTO SHIPPUDEN: Ultimate Ninja STORM TRILOGY | [0100EC800800C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC800800C000) | 577efdfdbb7545cf |
+| 1007 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO | [01006CF00CF60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006CF00CF60000) | fc2d8e44186e60c3 |
+| 1008 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO | [010084D00CF5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010084D00CF5E000) | 71cdeb75b75fa30e |
+| 1009 | NBA 2K Playgrounds 2 | [01001AE00C1B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001AE00C1B2000) | 0cf694c10af10fa8, 689ca7b6ce68bf90, a9fb2947a86384aa, bd81fef7e65a788b, c38678c1d242d6f5, ebe7b75a6c67814a |
+| 1010 | Need for Speed™ Hot Pursuit Remastered | [010029B0118E8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029B0118E8000) | 3515e683e1d5e5a1 |
+| 1011 | Nefarious | [010023500B0BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010023500B0BA000) | 4a30e3f987fb714a |
+| 1012 | Negative: The Way of Shinobi | [01008390136FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008390136FC000) | 81c77252a08b20aa |
+| 1013 | Neko Navy Daydream Edition | [0100E5500B020800](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5500B020800) | fbd5d6c83ed9a340, ff16116308df4e4b |
+| 1014 | Nelke & the Legendary Alchemists ~Ateliers of the New World | [01006ED00BC76000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006ED00BC76000) | 61cdd17992865cf4 |
+| 1015 | NEO: The World Ends with You | [010043B013C5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010043B013C5C000) | 6a3e02d91948ec42, f48fbf0922d5424a |
+| 1016 | Neon Abyss | [0100BAB01113A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BAB01113A000) | 48feaf16afb29340, a78d968009a9374c |
+| 1017 | Neon Drive | [010032000EAC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010032000EAC6000) | 2b5c0f5f97fe9a4d |
+| 1018 | Neoverse Trinity Edition | [01001A201331E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001A201331E000) | 320bcb5ae7a26f17 |
+| 1019 | Nevaeh | [0100C20012A54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C20012A54000) | 1e6ee43811536d1e |
+| 1020 | Never Give Up | [01005AD00B91A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005AD00B91A000) | 3990733a2735114c |
+| 1021 | Neversong & Pinstripe [Rev 2.0.0,0.0.0] | [01000C1011960000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000C1011960000) | 802040931b870548 |
+| 1022 | New Pokémon Snap [Rev 1.0.0] | [0100F4300BF2C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F4300BF2C000) | b8301424493b656b |
+| 1023 | New Star Manager | [010082900C5FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010082900C5FA000) | 878c20b66512e926, c308d2d0051be481 |
+| 1024 | New Super Lucky's Tale | [010017700B6C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010017700B6C2000) | 14872049185c584c, 9acb46936749f543 |
+| 1025 | New Super Mario Bros. U Deluxe | [0100EA80032EA00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EA80032EA00) | aee6dccc06d9c05b |
+| 1026 | New Super Mario Bros. U Deluxe | [0100EA80032EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EA80032EA000) | aee6dccc06d9c05b |
+| 1027 | Nexomon | [01000BE0156B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000BE0156B2000) | 5afef0a8bcb47841 |
+| 1028 | Nexomon Extinction | [01005A5011A44000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005A5011A44000) | 1718cb7c2f015246, 30bb08c96945af42, 4bbca0443db50447, 681dfb4b169e3548, 96d466ab34670744, eda96e07f0b5074a |
+| 1029 | Ni no Kuni II: Revenant Kingdom (All in One Edition) [Rev 1.0.0] | [0100C4E013E5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C4E013E5E000) | 5b67ef657677fd66 |
+| 1030 | Ni no Kuni: Shiroki Seihai no Joo for Nintendo Switch | [010032400E700000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010032400E700000) | b0ce5ccdff637507, eb75a3490903f50d |
+| 1031 | Ni No Kuni: Wrath of the White Witch | [0100E5600D446000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5600D446000) | 45f10c499223a9e4, c32b29cb5fba96d9 |
+| 1032 | Ni no Kuni™ II: Revenant Kingdom PRINCE'S EDITION | [0100BE7013E06000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE7013E06000) | 14c7986beb94a1a1, 2c931e8a8748eccf |
+| 1033 | Niche - a genetics survival game | [01000EC010BF4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000EC010BF4000) | 34a500aa3fafff47 |
+| 1034 | Nickelodeon All-Star Brawl | [0100DCF013740000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DCF013740000) | 96637d97114249ae |
+| 1035 | nickelodeon Kart Racers | [0100D6200933C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D6200933C000) | f7de0ebc3764568a |
+| 1036 | Nickelodeon Kart Racers 2: Grand Prix [Rev 1.0.0] | [0100EBC00FE14000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EBC00FE14000) | 567f6b4a4d3fea08 |
+| 1037 | Nightmare Boy | [01005F4009112000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005F4009112000) | 023d9ce57d7ff64b, be7051cb9022834a |
+| 1038 | Nights of Azure 2: Bride of the New Moon | [0100628004BCE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100628004BCE000) | 81da4f9e1e961ca6 |
+| 1039 | Nihilumbra | [0100AA0008736000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AA0008736000) | bbf8eb91e352e244 |
+| 1040 | Nine Parchments | [0100D03003F0E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D03003F0E000) | f7893e37fc10c803 |
+| 1041 | Ninja Box | [0100272009E32000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100272009E32000) | cbbab0dad19d4c42 |
+| 1042 | NINJA GAIDEN: Master Collection | [01002AF014F4C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002AF014F4C000) | f20fdc280af01cbe |
+| 1043 | Ninja Striker! | [010081D00A480000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010081D00A480000) | ef1e15af5ef000e1 |
+| 1044 | Ninja Village | [010090600CB98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010090600CB98000) | 4b77a64e9fb22347 |
+| 1045 | Ninjala | [0100CCD0073EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CCD0073EA000) | d4911813945ba5cc |
+| 1046 | Nintendo 64™ – Nintendo Switch Online | [0100C9A00ECE6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C9A00ECE6000) | eb79ef243458597c |
+| 1047 | No More Heroes | [0100F0400F202000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F0400F202000) | 7541670de3a49d9f |
+| 1048 | No More Heroes 2: Desperate Struggle | [010071400F204000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071400F204000) | 29aca13a1dcbecbb |
+| 1049 | No More Heroes 3 | [01007C600EB42000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007C600EB42000) | c3af706f3f7844ea |
+| 1050 | No Straight Roads | [01009F3011004000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009F3011004000) | 56de406668fa3ce1, ef9d1821b0a08a90 |
+| 1051 | Nongunz: Doppelganger Edition | [0100542012884000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100542012884000) | d8443a6bca4a0143 |
+| 1052 | NoReload Heroes | [0100E9A00B0BC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9A00B0BC000) | f8697f92bf87db49 |
+| 1053 | Northgard | [0100A9E00D97A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A9E00D97A000) | 64656a05f26586e4, f3777cd802f343fc |
+| 1054 | Nosferatu Lilinor | [0100373010D26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100373010D26000) | 397660b098ccf7d4 |
+| 1055 | Nubarron: The adventure of an unlucky gnome | [0100343013248000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100343013248000) | b2b4207363638e49 |
+| 1056 | Nuclear Throne | [0100CFE00CE6E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CFE00CE6E000) | 920c5e25051824ec |
+| 1057 | OBAKEIDORO! [Rev 1.0.6] | [010074600CC7A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010074600CC7A000) | 4d4fcfd3be47484a, 5236854392c05e4d, 710b99c18aa32240 |
+| 1058 | Oceanhorn - Monster of Uncharted Seas | [01007D7001D0E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007D7001D0E000) | 3ad80bd8cfcb3423 |
+| 1059 | Oceanhorn 2: Knights of the Lost Realm | [01006CB010840000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006CB010840000) | 53ce4dc2fb6423a2, e5e739813c69b5a6 |
+| 1060 | Octogeddon | [0100E6E00AF44000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E6E00AF44000) | 51ae5df244c2f1ee |
+| 1061 | OCTOPATH TRAVELER | [010057D006492000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010057D006492000) | 0d8a6a8804a6654c, 72fd3930fac64f21, b88a8d8e5516dde9, d2d9a400f18d3749 |
+| 1062 | Octopath Traveler | [0100E66006406000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E66006406000) | 07a71ace45b7d6ae |
+| 1063 | Oddmar | [01001F100FA04000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001F100FA04000) | 97118b66caae2840 |
+| 1064 | Oddworld: Munch's Oddysee | [0100BB500EE3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BB500EE3C000) | 7fd2abdd308a998e |
+| 1065 | Oddworld: Stranger's Wrath | [01002EA00ABBA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002EA00ABBA000) | 01002ea00abba000, 159108e2e30c21ff, 542b1d1d14978b82 |
+| 1066 | OF MICE AND SAND -REVISED- | [01002310064B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002310064B4000) | ed461dd4749922ff |
+| 1067 | Oh!Edo Towns | [01009A700DA8E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009A700DA8E000) | 38430ac28c4ecd4c |
+| 1068 | Okami HD | [0100F10009870000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F10009870000) | a4fddc7fd35b30cb |
+| 1069 | Okami HD(EUR US) | [0100276009872000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100276009872000) | a4fddc7fd35b30cb |
+| 1070 | OkunoKA Madness | [0100907011392000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100907011392000) | b9843922affefb4c |
+| 1071 | Olija | [01004D501230A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004D501230A000) | 976cb106d479d045 |
+| 1072 | Oliver's Adventures in the Fairyland | [0100E4600F188000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4600F188000) | e85777df5c90fa22 |
+| 1073 | Omega Labyrinth Life | [010079200E85C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010079200E85C000) | 4cd08d3edaef044c, e50048278d47174f |
+| 1074 | Omega Strike | [0100F8C00C21C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8C00C21C000) | 199aee8cfffd5e73 |
+| 1075 | OMG Zombies! | [01006DB00D970000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006DB00D970000) | 4291f2ae3b78c2de |
+| 1076 | Once Upon a Coma | [0100E940044F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E940044F2000) | 15b87fdc1d89954c, 2745fd4aff073f4e |
+| 1077 | One Dog Story | [01009C301061A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009C301061A000) | 17d0ca29336dd042 |
+| 1078 | One More Dungeon | [0100BD3006A02000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD3006A02000) | d6427ccf92af29e2 |
+| 1079 | One Piece Pirate Warriors 3 - Deluxe Edition | [0100774009CF6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100774009CF6000) | 3865de04c2f35feb |
+| 1080 | One Piece Unlimited World Red - Deluxe Edition | [0100574002AF4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100574002AF4000) | f1546b842fcf9d6c |
+| 1081 | One Piece: Kaizoku Musou 3 - Deluxe Edition | [0100553006F36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100553006F36000) | 38c57174e8cb6a34 |
+| 1082 | One Piece: Kaizoku Musou 4 [Rev 1.0.0] | [010089C00DA6A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010089C00DA6A000) | 43df498afedee217, f9d1ecebb1f2d952 |
+| 1083 | ONE PIECE: PIRATE WARRIORS 4 | [01008FE00E2F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008FE00E2F6000) | 7ad7ff7329152b07, f55ef3484a73aee8 |
+| 1084 | One Way Heroics Plus | [0100AD9011056000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AD9011056000) | 419ceea03ccb6e43 |
+| 1085 | Onimusha: Warlords | [0100416008A12000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100416008A12000) | bdb65bae30a95abe |
+| 1086 | Onimusha: Warlords | [0100416008A1200](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100416008A1200) | bdb65bae30a95abe |
+| 1087 | ONINAKI | [01001AF00CE54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001AF00CE54000) | c8f7a25e31377144, c949e2576f532c43, da78949bb4161f40 |
+| 1088 | Operation Hardcore | [010039C00A45C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010039C00A45C000) | 35c56d941eb3d44a |
+| 1089 | Operencia: The Stolen Sun | [01006CF00CFA4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006CF00CFA4000) | 1ed621dd90bcd575 |
+| 1090 | Ori and the Blind Forest: Definitive Edition | [010061D00DB74000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010061D00DB74000) | 9c4f2a47916b6a54 |
+| 1091 | Ori and the Will of the Wisps | [01008DD013200000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008DD013200000) | 11c33c7c2dbd3c54, 4cc9824a6383cf51, 5fe46b8ce469468e |
+| 1092 | Orn: The Tiny Forest Sprite | [01006C70102EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C70102EA000) | 5540db46dbe1c7a6 |
+| 1093 | Othercide | [0100E5900F49A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5900F49A000) | 1e6bd2f99d2e0547 |
+| 1094 | Outbreak | [010047F013104000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010047F013104000) | 319115d455581d4d |
+| 1095 | Outbreak Lost Hope | [0100D9F013102000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D9F013102000) | 45e7b3d332786b45 |
+| 1096 | Outbreak The Nightmare Chronicles | [01006EE013100000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006EE013100000) | e710a0e5ed885042 |
+| 1097 | Outbreak: Endless Nightmares | [0100A0D013464000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A0D013464000) | d4a2e6ce65603944 |
+| 1098 | Outbreak: Epidemic | [0100C850130FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C850130FE000) | 15639f4bc0eb994e |
+| 1099 | Outbreak: The New Nightmare | [0100B450130FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B450130FC000) | bc36feab084d9b4a |
+| 1100 | Outbuddies DX | [0100B8900EFA6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B8900EFA6000) | d30c78263bff3ca9 |
+| 1101 | Outlast | [01008D4007A1E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D4007A1E000) | c3d46bb3c7059db1 |
+| 1102 | Outpost Delta | [0100CCF00F5BC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CCF00F5BC000) | 923a91015f81b947, e339c1e93e63c242 |
+| 1103 | Overcooked 2 | [01006FD0080B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006FD0080B2000) | 150f46f0966d1544 |
+| 1104 | OVERWHELM | [01005F000CC18000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005F000CC18000) | 528f3262a75e4ea8 |
+| 1105 | Owlboy | [0100E570094E8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E570094E8000) | 24487b6e21e48eec |
+| 1106 | Pacific Wings | [010006900EF5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010006900EF5E000) | 2a74deb620163dbc |
+| 1107 | Paint the Town Red | [010026E013EFC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026E013EFC000) | a9af6300aadef1d1 |
+| 1108 | Pang Adventures | [010087300B730000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010087300B730000) | 20d6a4241790f0b8, 9b2eef81ce8723e7 |
+| 1109 | Pankapu | [0100635006C32000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100635006C32000) | ca2ac536c1304c40 |
+| 1110 | Panty Party (rev001) | [0100BED00E350000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BED00E350000) | 828197c1da25ea47 |
+| 1111 | Panzer Dragoon: Remake | [0100C6A00E94A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C6A00E94A000) | 5bb8164df0b16049 |
+| 1112 | Panzer Paladin | [01004AE0108E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004AE0108E0000) | 180c3b0f6b98f4f6 |
+| 1113 | Paper Mario™: The Origami King | [0100A3900C3E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A3900C3E2000) | bdd6dc7da7a69290, e74395f066fd8ccb |
+| 1114 | Part Time UFO™ | [01006B5012B32000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006B5012B32000) | 3e13ee84f3a5f642 |
+| 1115 | Pathway | [0100114014724000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100114014724000) | 4620f3bb04d55348 |
+| 1116 | Paw Paw Paw | [01008E2013144000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008E2013144000) | b0db8a9e370b6a48 |
+| 1117 | Pawarumi | [0100A56006CEE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A56006CEE000) | 93301ee57e1e4a4e |
+| 1118 | PC Building Simulator | [010072800CBE8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072800CBE8000) | 2e8b2eec47779448, 564956551b65dd44, dd95d1a6ec0adf42 |
+| 1119 | Peach Ball Senran Kagura | [010082500350E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010082500350E000) | a0bd46b324abdb68 |
+| 1120 | Penny-Punching Princess | [0100C510049E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C510049E0000) | 534fbdb4492325c2, 84d19a943300e243 |
+| 1121 | Persona 5 Scramble: The Phantom Strikers  | [0100E4F010D92000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4F010D92000) | ca98347015beaa59 |
+| 1122 | Persona 5 Scramble: The Phantom Strikers [Rev 1.0.0] | [01005BD010872000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005BD010872000) | 496a2f5a9ce4fbeb |
+| 1123 | Persona 5 Scramble: The Phantom Strikers [Rev 1.0.0] | [01001C400E9D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C400E9D8000) | 3f57f096b84c7cfb, 740094a857a59066 |
+| 1124 | Persona® 5 Strikers | [0100801011C3E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100801011C3E000) | c4df04f647bdc727 |
+| 1125 | Pew Paw | [010045A01221E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045A01221E000) | 8e52b43604cabae7 |
+| 1126 | PHANTOM BREAKER:BATTLE GROUNDS OVER DRIVE | [0100063005C86000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100063005C86000) | 9e37b240fab20ab0 |
+| 1127 | Phantom Trigger | [0100C31005A50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C31005A50000) | 5f3b7618cfa088ff |
+| 1128 | Phoenix Wright: Ace Attorney Trilogy | [0100CB000A142000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CB000A142000) | 12b57556658e4f44 |
+| 1129 | Phoenotopia : Awakening | [01005E100A4F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005E100A4F0000) | 270bbaaa0cc10a49, 49fd30a3b6b16544, 6d45a44e37d5bb4c |
+| 1130 | Pikachin-Kit Game de Pirameki Daisakusen | [01009C100A8AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009C100A8AA000) | 21bb89de67757849 |
+| 1131 | Pikmin 3 Deluxe [Rev 1.0.0] | [0100F4C009322000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F4C009322000) | cd23d5cfb75d7e94, d467f5ad367bbee8 |
+| 1132 | Pillars of Eternity: Complete Edition | [0100D6200E130000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D6200E130000) | a40da7c8de72fa41 |
+| 1133 | Pine | [01002BA00D662000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002BA00D662000) | 324eb3403dd14441, 5363156258dd6c42, a38595d6dd8f6f4f, aca5799b4a322e4c |
+| 1134 | Pinstripe | [010041100B148000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010041100B148000) | 802040931b870548, 99576dd9532d5d47 |
+| 1135 | Pixel Devil and the Broken Cartridge | [010011300D52A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011300D52A000) | 2ca718653e59a64b |
+| 1136 | Pixel Game Maker Series The Witch and The 66 Mushrooms | [01002C90133CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C90133CA000) | 6186cfec5352cb54 |
+| 1137 | PixelJunk Monsters 2 | [0100E4D00A690000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4D00A690000) | 4b171b8f549b7948 |
+| 1138 | Plants vs. Zombies: Battle for Neighborville (Complete Edition) [Rev 1.0.0] | [0100C56010FD8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C56010FD8000) | c8ce497181fbd794 |
+| 1139 | PLOID | [010081B013B58000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010081B013B58000) | e72872287906f568 |
+| 1140 | Pocket Arcade Story | [010011B00E6B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011B00E6B2000) | 759961046d584045 |
+| 1141 | Pocket Harvest | [010058C00E25A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010058C00E25A000) | 4afc691c3d3c9542 |
+| 1142 | Pocket Stables | [01008D400E1BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D400E1BA000) | f626906b9861154c |
+| 1143 | Pode | [01009440095FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009440095FE000) | 1022c3cea1e0f546 |
+| 1144 | Pokémon Café Mix | [010072400E04A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072400E04A000) | 2b242d6bb478f127 |
+| 1145 | Pokémon Mystery Dungeon: Rescue Team DX [Rev 1.0.1] | [01003D200BAA2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D200BAA2000) | 3ab632dee82d5944, 9dda1efeef70de46 |
+| 1146 | Pokémon Shield | [01008DB008C2C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008DB008C2C000) | 3518bf2ead557fe6, a16802625e7826bf, b44abd65a6a2fe82, b56ca071216570e8, bdd027f80fab4ef4, dbddd13845acd2bd, e38a27bc77702548 |
+| 1147 | Pokémon Sword | [0100ABF008968000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ABF008968000) | 4628a512b1d93d37, 479bd2b581f4bc6a, 490648316cc1ccdc, 5a7eebf172343616, 8dafedbb5be81c2c, 9d2db721a9894075, a3b75bcd3311385a |
+| 1148 | Pokémon: Lets Go, Eevee | [0100187003A36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100187003A36000) | 0a3f0d21e67dad80, 5831ec64d6b696fd, dcd187e409188ab1 |
+| 1149 | Pokémon: Lets Go, Pikachu! | [010003F003A34000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010003F003A34000) | 1c375692de4f4b87, c208db6a4ef4361f, d5d5567049fa0d15 |
+| 1150 | Pokémon™ Brilliant Diamond | [0100000011D90000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100000011D90000) | ea058a067cbd6943, f87fc6075104ec4d |
+| 1151 | Pokken Tournament DX | [0100B3F000BE2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B3F000BE2000) | 49690ba2efdcd7a7 |
+| 1152 | Polandball: Can Into Space | [0100A3500B4EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A3500B4EC000) | dd522c070476294a |
+| 1153 | Ponpu | [010096B01179A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010096B01179A000) | 5d6f2751999d884b |
+| 1154 | Pool Pro GOLD | [010070B01260C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010070B01260C000) | 8505a0a7d6727449 |
+| 1155 | Poopdie - Erstes Kapitel | [010051A011AD8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051A011AD8000) | a260850758df224c |
+| 1156 | Portal Knights | [0100437004170000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100437004170000) | 4f3d7062d176246d, d59d81c06f923846 |
+| 1157 | Potata: Fairy Flower | [01005FC010EB2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005FC010EB2000) | 42f4f5085262684b |
+| 1158 | Power Rangers: Battle for the Grid | [0100E1E00CF1A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E1E00CF1A000) | cf6726cdec67c44f |
+| 1159 | Prehistoric Dude [Rev 1.0.0] | [010054F01266C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010054F01266C000) | afeea14ff3229a77 |
+| 1160 | Prinny 1 & 2:  Exploded and Reloaded [2 x Rev 1.0.1] | [01007A0011878000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007A0011878000) | e2611f3937023235 |
+| 1161 | Prinny® 2: Dawn of Operation Panties, Dood! | [01008FA01187A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008FA01187A000) | d638f8cad17cca99 |
+| 1162 | Pro Yakyuu Famista Evolution | [01008EA0080F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008EA0080F6000) | 8fab041b6bd95a26 |
+| 1163 | Project Highrise: Architects Edition | [0100BBD00976C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BBD00976C000) | 7c94babbddf3d243 |
+| 1164 | Project Warlock | [0100BDB01150E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BDB01150E000) | a826ad7b5cb6c048, c5821d9ce5c36e4f, d597de8544d8ed4f |
+| 1165 | Projection: First Light | [010063901024A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010063901024A000) | fa012b0e290e8e44 |
+| 1166 | Psyvariar Delta | [0100EC100A790000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC100A790000) | f89cc6c0ae94744c |
+| 1167 | Pumpkin Jack | [01006C10131F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C10131F6000) | 0f73f1d52820f90b, ee24cc35be30e682 |
+| 1168 | Punch Club | [0100A6000ACEA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A6000ACEA000) | 149284506f1bcc48 |
+| 1169 | QUAKE | [0100BA5012E54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BA5012E54000) | 3a5dcbc7074c1b84, 563b6f98641922ce, 822293637951b6af |
+| 1170 | Quest Hunter | [010095500D9F4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095500D9F4000) | 672682d615771c45 |
+| 1171 | Quest of Dungeons | [01001DE005012000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001DE005012000) | b01d8ea969dc1ccc |
+| 1172 | R-Type Dimensions EX | [0100E5400BE64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5400BE64000) | 9987904475ea8346, a9bab930855ced47, d13345de88c6f94f |
+| 1173 | R-Type Final 2 [Rev 1.0.0] | [0100F930136B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F930136B6000) | 225ea8c428ef4c9d, 41b6418e96424d37, 489dce236cc2ca95, 5d3eee4c03b390a7, 5eefe50943fc63f3, d964f65fcb9d9982, ea26613ea5a1479a |
+| 1174 | Rabi-Ribi | [01005BF00E4DE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005BF00E4DE000) | 539e6bdf2b110885, ca86dbb44a335ead |
+| 1175 | Rack N Ruin | [0100B8100C54A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B8100C54A000) | 4e587fe27a463d4c |
+| 1176 | RAD | [010024400C516000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010024400C516000) | 0bb3b1a39b34ac1b |
+| 1177 | Rad Rodgers Radical Edition | [010000600CD54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010000600CD54000) | 78885a1ca987c04c |
+| 1178 | Radiation City | [0100DA400E07E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DA400E07E000) | 8ac5ab12589a13be |
+| 1179 | Radical Rabbit Stew | [0100C8B00D2BE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C8B00D2BE000) | 3d23184747f25b4d |
+| 1180 | Radio Squid | [0100655012064000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100655012064000) | 4a52e0e29438c94a |
+| 1181 | Raging Justice | [01003D00099EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D00099EC000) | 32c72b0d3fdf012f |
+| 1182 | Raiden IV x MIKADO Remix [Rev 1.0.0] | [01005CD013116000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005CD013116000) | 429485e8c171aa7e |
+| 1183 | Raiden V: Directors Cut | [01002B000D97E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002B000D97E000) | 941057a850e286df |
+| 1184 | Railway Empire - Nintendo Switch™ Edition | [01002EE00DC02000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002EE00DC02000) | 01002ee00dc02000, 126d0de908b959fe, 25f8fb4f9d1fac9d, c501187900ebf465 |
+| 1185 | Raji: An Ancient Epic | [010010B00DDA2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010010B00DDA2000) | ab09e78cdfec6e08, ff114a09d935be7a |
+| 1186 | Rayman Legends: Definitive Edition | [01005FF002E2A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005FF002E2A000) | 01005ff002e2a000, f466da1d713533c2 |
+| 1187 | Reaper: Tale of a Pale Swordsman | [01000F300F082000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000F300F082000) | 1780f95f2107a40c |
+| 1188 | Red Colony [Rev 1.0] | [0100351013A06000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100351013A06000) | 668d86248cb21165 |
+| 1189 | Red Death | [0100069010592000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100069010592000) | af1c53e6a85198f7 |
+| 1190 | Red Faction Guerrilla Re-Mars-tered | [010075000C608000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010075000C608000) | f1d71307616ab7e4 |
+| 1191 | Redeemer: Enhanced Edition | [01000D100DCF8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D100DCF8000) | 86aa48e1585f2ee7 |
+| 1192 | Reed 2 [Rev 1.0.0] | [01003EF0118D2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003EF0118D2000) | d93fa66964036f0e |
+| 1193 | Reflex Unit 2 | [010014901201E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010014901201E000) | 139abe52f6fa0748, fdea726242b49448 |
+| 1194 | Reknum | [0100A1D00FE54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A1D00FE54000) | bdcac16e3d2977b2 |
+| 1195 | RemiLore | [010095900B436000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095900B436000) | 39fbfc95e715944a, 48e6db6a91b59943, b27a372645a23e48 |
+| 1196 | Remothered: Broken Porcelain | [0100FBD00F5F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FBD00F5F6000) | b999bd4c357f1be3 |
+| 1197 | Remothered: Tormented Fathers | [01008F600F2D0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008F600F2D0000) | c817fa3b253c70b5, eb57cf3434044523 |
+| 1198 | Remothered: Tormented Fathers | [0100FF300C902000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF300C902000) | eb57cf3434044523 |
+| 1199 | Resident Evil  | [010050F00BC1A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010050F00BC1A000) | 010050f00bc1a000, 6bec9b23b09df46c, fb4239aa962b429b |
+| 1200 | Resident Evil 0 | [010097000BC10000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010097000BC10000) | fb4239aa962b429b |
+| 1201 | Resident Evil 4 | [010099A00BC1E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010099A00BC1E000) | 82c2a04a21d3e0b8, 8ceaf0d2ae48a935 |
+| 1202 | Resident Evil 5 | [010018100CD46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010018100CD46000) | 010018100cd46000, c517ecbb79de9733, ebffdb223149a725 |
+| 1203 | Resident Evil 6 | [01002A000CD48000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002A000CD48000) | 061d2a06cd700785, 2a797a895c35383b |
+| 1204 | RESIDENT EVIL REVELATIONS 2 | [010095300212A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095300212A000) | aef8885ae0603c44 |
+| 1205 | Resident Evil: Revelations | [0100643002136000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100643002136000) | 7b0e2611e8c9cae5 |
+| 1206 | Rest in Pieces | [01004A600EB3E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004A600EB3E000) | 56c0212550aee846 |
+| 1207 | Retro City Rampage DX | [0100F17004156000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F17004156000) | 34c173b15a2a9d09, f954b6268cb0c31d |
+| 1208 | Retro Machina | [01000ED014A2C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000ED014A2C000) | 0854ba405cd1554f |
+| 1209 | Return of the Heir | [01009AA014736000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009AA014736000) | 9dfcef719fc2c633 |
+| 1210 | Revenant Saga | [0100AA2006510000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AA2006510000) | 6462206160d88744 |
+| 1211 | Revenge Of Justice [Rev 1.0.0] | [010027400F708000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010027400F708000) | 4f83d8adbbf69d48 |
+| 1212 | Reverie: Sweet As Edition | [01008FF00B8FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008FF00B8FA000) | 6945855dd2799048 |
+| 1213 | REZ PLZ | [010071D00F156000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071D00F156000) | fc82339dcaa50b42 |
+| 1214 | Rhythm of the Gods | [010081D0100F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010081D0100F0000) | 6290d08ceb02ea4d, cff50afda441cc05 |
+| 1215 | Riddled Corpses EX | [01002C700C326000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C700C326000) | 4e87acad6e878c33 |
+| 1216 | Rift Adventure | [0100F5501483C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F5501483C000) | 05e742a660d46b42 |
+| 1217 | Rift Keeper | [0100AC600D898000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AC600D898000) | bde75d1f4547014c |
+| 1218 | Rigid Force Redux | [0100763010D5A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100763010D5A000) | b1285fb749d8fa45 |
+| 1219 | RiMS Racing [Rev 1.0.0] | [01003CD01299E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003CD01299E000) | 74c54f3670579c7a |
+| 1220 | Ring Fit Adventure | [01002FF008C24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002FF008C24000) | b0a94a27a8ea158c |
+| 1221 | Ring of Pain | [0100F090122D2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F090122D2000) | 3c9cf3fc790de947 |
+| 1222 | Rise and Shine | [010065B00B0EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010065B00B0EC000) | c212c43cbce55e4d |
+| 1223 | Rise: Race The Future | [01006BA00E652000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006BA00E652000) | 25e86d4af2490d40, ec792ee441368f4b |
+| 1224 | Rising Hell | [010020C012F48000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010020C012F48000) | 062e5ab0b5bda14f, b667f988dab60947 |
+| 1225 | Risk of Rain 2 | [010076D00E4BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076D00E4BA000) | e6a93d88f05ca346, eefe1f0f04f5c348 |
+| 1226 | Ritual: Crown of Horns | [010042500FABA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042500FABA000) | 3de5d42478b9e64a, b2536fd5d496664f |
+| 1227 | Rival Megagun | [0100A7D008392000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A7D008392000) | b5cd63f318862a41 |
+| 1228 | Rivals of Aether | [0100D2700DE7C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D2700DE7C000) | 8865505ebb80a0ac |
+| 1229 | RIVE: Ultimate Edition | [010069C00401A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010069C00401A000) | 87b9b2e7c8997fdb |
+| 1230 | River City Girls | [01004E700DFE6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004E700DFE6000) | 55670fa38f492343, 73e0765bf7b07047 |
+| 1231 | River City Melee Mach!! | [0100B2100767C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2100767C000) | 9c3bb6699dc39c4e |
+| 1232 | Road Redemption | [010053000B986000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010053000B986000) | 2e690a37be3bb244, 314920e043074742 |
+| 1233 | Roah | [01000440123A6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000440123A6000) | 5971feaa4ee83249 |
+| 1234 | Robonauts ロボノーツ | [010042900A8CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042900A8CC000) | 894d7deb7c212365 |
+| 1235 | Robotech: The Macross Saga HD Edition | [010060B0129CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010060B0129CC000) | 6a57ec49b5438344 |
+| 1236 | Rockman X Anniversary Collection | [010012B0086C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010012B0086C0000) | bbae8b50000e47af |
+| 1237 | Rogue Explorer | [010090C014D3C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010090C014D3C000) | 7c7aad88b10a5d4d |
+| 1238 | Rogue Heroes: Ruins of Tasos | [01009FA010848000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009FA010848000) | a066c2c4ca84afa4 |
+| 1239 | Rogue Legacy [Rev 1.0.1] | [010056500AD50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010056500AD50000) | c4b40301fb00e359 |
+| 1240 | Rogue Singularity | [010068400ABB6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010068400ABB6000) | 180b54bcba560d43 |
+| 1241 | Rogue Trooper Redux | [01001CC00416C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001CC00416C000) | 01001cc00416c000, e14ba06266b126aa |
+| 1242 | RollerCoaster Tycoon 3 Complete Edition | [01004900113F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004900113F8000) | d44dc01dff9fa2f2 |
+| 1243 | Rolling Gunner | [010076200CA16000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076200CA16000) | 3e85b413d006e7f4 |
+| 1244 | Romancing SaGa 2 | [01001F600829A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001F600829A000) | ba25511843ac1948 |
+| 1245 | Romancing SaGa 3 | [0100D0400D27A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D0400D27A000) | 65c66922bb286344 |
+| 1246 | Roulette at Aces Casino | [01005D3012322000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005D3012322000) | c9fe7052aa82234c |
+| 1247 | Rune Factory 4 Special | [010027100C79A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010027100C79A000) | 78680e8a35f31d50 |
+| 1248 | Rune Factory 4 Special [Rev 1.0.0] | [010009400DD38000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010009400DD38000) | 2cec14b73753cf62 |
+| 1249 | Rune Factory 4 Special [Rev 1.0.0] | [010051D00E3A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051D00E3A4000) | c03c9f6a862543f9 |
+| 1250 | Rune Factory 5 [Rev 1.00.6] | [010014D01216E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010014D01216E000) | 552d910b62926e40 |
+| 1251 | Rustler [Rev 1.0.0] | [010071E0145F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010071E0145F8000) | cf6371f1a91bcb4d |
+| 1252 | Ruvato : Original Complex | [01007690147D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007690147D8000) | b37f668e6958ba44 |
+| 1253 | S.N.I.P.E.R. - Hunter Scope | [0100B8B012ECA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B8B012ECA000) | 95c6f28b19df2d4f |
+| 1254 | Sacred Stones | [01005CE00F970000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005CE00F970000) | edad5c13e9f926f3 |
+| 1255 | SaGa Frontier Remastered | [0100A51013530000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A51013530000) | 38532d3efa8c1542, b895f6f2c665554b |
+| 1256 | Saints Row IV®: Re-Elected™ | [01008D100D43E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D100D43E000) | 3ffe0e20ec5360da, 5aee4a11a2391d4d, e601d29108935cba |
+| 1257 | Saints Row: The Third - The Full Package | [0100DE600BEEE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DE600BEEE000) | a8631edcc0013045, c619cc7fe091c312, ffedeb38f462558e |
+| 1258 | SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE | [010DE600BEEE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010DE600BEEE000) | ffedeb38f462558e |
+| 1259 | Sakuna: Of Rice And Ruin [Rev 1.0.0] | [0100B1400E8FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1400E8FE000) | 2523cb8b455abc1d, fc24c93ab8fc630b |
+| 1260 | Salt And Sanctuary | [0100D250083B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D250083B4000) | 51156cac4dd69c27, 56e611cac30aed49, ecf47ade11877035 |
+| 1261 | Samurai Defender: Ninja Warfare | [01002B400873C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002B400873C000) | c1ffa39d6bedce46, e33e4cd60710ac4d |
+| 1262 | Samurai Jack: Battle Through Time | [01006C600E46E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C600E46E000) | 6d5db3434ccf63f2 |
+| 1263 | SAMURAI SHODOWN | [01002DF00F76C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002DF00F76C000) | 881d373adf68a62e |
+| 1264 | SAMURAI SHODOWN | [010066501069C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010066501069C000) | 81cd4e0887e05420 |
+| 1265 | Samurai Showdown | [01008FC00D964000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008FC00D964000) | 0670ffe5088a2139, ad27e9b20590843a, ec6d3fe35366bfee |
+| 1266 | SAMURAI WARRIORS 5 | [0100B28014132000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B28014132000) | 60b4e42155e07989, 810cba3d7db83ec0, aea6b2652ea9e34b |
+| 1267 | SamuraiAces for Nintendo Switch | [0100ADF0096F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ADF0096F2000) | 49cf469a110921e7 |
+| 1268 | Satazius NEXT | [01009580113A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009580113A4000) | 12be223e21ff518f |
+| 1269 | Savage Halloween | [01007130135E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007130135E2000) | 70a49340a64d574b |
+| 1270 | Scott Pilgrim vs. The World™: The Game – Complete Edition | [0100394011C30000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100394011C30000) | 064f1988133c54db |
+| 1271 | ScourgeBringer | [01005F7011950000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005F7011950000) | 5a5e278a9102d445, bf34bbc69ab7c936, edef023ba60c527f |
+| 1272 | SD Gundam G Generation: Cross Rays [Premium G Sound Edition] | [010022900D3EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010022900D3EC000) | 239145d13200977b, 2a8617716d59c2dd, 3871a99feb20ce86, 56e89cc6d60359e8, 79cd7c99f9189705, a2241f15842996d7 |
+| 1273 | Sea Of Solitude: The Directors Cut [Rev 1.0.0] | [0100AFE012BA2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AFE012BA2000) | 1d327b699c913a47 |
+| 1274 | Secrets of Magic 2 - Witches & Wizards | [01000C100CFD8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000C100CFD8000) | 8cdb26f131cae447 |
+| 1275 | Seek Hearts | [010075D0101FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010075D0101FA000) | dc21619c9456324c |
+| 1276 | SEGA AGES Out Run | [0100D4D00AC62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D4D00AC62000) | 4449ceb401f9d642 |
+| 1277 | SEGA AGES Sonic The Hedgehog | [010051F00AC5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051F00AC5E000) | 9f107a9b28296d41 |
+| 1278 | SEGA AGES Sonic The Hedgehog 2 | [01000D200C614000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D200C614000) | fcc0665401ede611 |
+| 1279 | SEGA AGES Thunder Force AC | [0100D0800C612000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D0800C612000) | 22a13e2c7fb7f796 |
+| 1280 | SEGA AGES Thunder Force IV | [0100D6800AC5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D6800AC5C000) | 437743a9a4e50b44 |
+| 1281 | SEGA AGES Wonder Boy: Monster Land | [01001E700AC60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001E700AC60000) | 28071ec935dbb7a3 |
+| 1282 | SEGA Genesis Classics | [0100A6300B250000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A6300B250000) | 7980ad54fef93945 |
+| 1283 | Sega Mega Drive Classics | [0100F7300B24E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F7300B24E000) | 60b7597943d57b4b |
+| 1284 | SELFY COLLECTION　夢のスタイリスト | [010044700FB46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010044700FB46000) | 613da8ddcd6c1242 |
+| 1285 | Senjou no Valkyria 4 | [0100C11009378000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C11009378000) | 13197ccf3745e1c5 |
+| 1286 | Sephirothic Stories | [010059700D4A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010059700D4A0000) | 274d62f691fa5a40 |
+| 1287 | Serious Sam Collection | [010007D00D43A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010007D00D43A000) | 5c5282206ebc804e |
+| 1288 | Seven Knights -Time Wanderer- | [010018400C24E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010018400C24E000) | 4b50363368364a94, f6667ba0d144374f |
+| 1289 | Shadow Blade: Reload | [0100D5500DA94000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D5500DA94000) | e03782d850353f40 |
+| 1290 | Shadow Gangs | [0100BE501382A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE501382A000) | a12ef68286ee36a1 |
+| 1291 | Shadows of Adam | [0100AD700CBBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AD700CBBE000) | b90544ef4061b848 |
+| 1292 | Shadowverse: Champion's Battle | [01005880134C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005880134C2000) | 01003b90136da000, 1f936e043fb8c349 |
+| 1293 | Shady Part of Me | [0100820013612000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100820013612000) | 553900942d6cf36d |
+| 1294 | Shakedown: Hawaii | [0100B10002904000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B10002904000) | 82092df70410f821 |
+| 1295 | Shalnor Legends: Sacred Lands | [0100B4900E008000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B4900E008000) | 87d0fcd94b1e1b3d |
+| 1296 | Shantae and the Pirates Curse | [0100EFD00A4FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EFD00A4FA000) | 1ae49f909f236ef2 |
+| 1297 | Shantae and the Seven Sirens | [0100EB901040A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB901040A000) | 54db023d61d80c4e |
+| 1298 | Shantae: Half- Genie Hero Ultimate Edition | [01002AF009470000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002AF009470000) | 6559c96f6a92504d |
+| 1299 | Shantae: Half- Genie Hero Ultimate Edition! | [01006A200936C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006A200936C000) | 01006a200936c000, 27a4723579d81133 |
+| 1300 | Shantae: Half-Genie Hero | [0100AE0003424000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AE0003424000) | e0551154ab7ab947 |
+| 1301 | Shantae: Risky's Revenge - Director's Cut | [0100ADA012370000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ADA012370000) | f139ec48132e8b34 |
+| 1302 | Shaolin vs Wutang | [01003AB01062C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003AB01062C000) | 494799a88d1cd64d |
+| 1303 | Shaq Fu: A Legend Reborn | [0100769004584000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100769004584000) | be4eeedc9c1c054a |
+| 1304 | Shieldwall Chronicles: Swords of the North | [0100C7E01442C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C7E01442C000) | f822b545f3b71a4e |
+| 1305 | Shikhondo - Soul Eater | [010061400A990000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010061400A990000) | 414e5441f75b234f |
+| 1306 | Shin Megami Tensei III Nocturne HD Remaster | [01003B0012DC2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003B0012DC2000) | 0b3b0f3a81c13c41, 69323306e9f5447f, ebd3efb2950f5140 |
+| 1307 | Shin Megami Tensei III: Nocturne HD Remaster [Rev 1.0.0] | [010045800ED1E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010045800ED1E000) | d809429f56d1ca44 |
+| 1308 | Shin Megami Tensei V | [010063B012DC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010063B012DC6000) | a6a06f3baefe4d75 |
+| 1309 | Shin Megami Tensei V [Rev 1.0.0] | [010038D0133C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038D0133C2000) | a7643f3b7d8ee906 |
+| 1310 | Shing [Rev 1.0] | [01009050133B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009050133B4000) | 432bca17c1eef64e |
+| 1311 | Shinobi Blade | [0100006013A4A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100006013A4A000) | 020c7008b8751c4d |
+| 1312 | Shinobi Spirits S: Legend of Heroes | [0100B0300E8B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B0300E8B6000) | 3e251d14861e7b4d |
+| 1313 | Shinsekai Into the Depths™ | [01004EE0104F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004EE0104F6000) | a94795507e338446 |
+| 1314 | Shio | [0100C2F00A568000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C2F00A568000) | 98ffc4d49752c04a |
+| 1315 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | [01007430122D0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007430122D0000) | 9b3de98f500ba4ff, e1783a922ca90e2f |
+| 1316 | Shovel Knight: King of Cards | [01008B20022AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008B20022AA000) | 1dccdb6fe282748d |
+| 1317 | Shovel Knight: Shovel of Hope | [01002D2011850000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002D2011850000) | 6da1d223e4557e3d |
+| 1318 | Shovel Knight: Specter of Torment | [01001180021FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001180021FA000) | 5eabc1e307d28486 |
+| 1319 | Shovel Knight: Treasure Trove | [010057D0021E8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010057D0021E8000) | 1fe2563d9b1ff9b4, b9c8987a2f5ee46e |
+| 1320 | Shu | [01001DE0076A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001DE0076A4000) | 28cb1224495ddc4e, 92733fbf49aeae41 |
+| 1321 | Sid Meiers Civilization VI | [010044500C182000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010044500C182000) | 199e91fc40cb4f7d |
+| 1322 | Sigi - A Fart for Melusina | [01007FC00B674000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007FC00B674000) | 3112ad812b0a0c45, 8d2316a709875547 |
+| 1323 | Silent World | [0100A32010618000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A32010618000) | 3b2c913acdc2d24c |
+| 1324 | Sine Mora EX | [01002820036A8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002820036A8000) | a30ff4807facdd60 |
+| 1325 | SINNER: Sacrifice for Redemption | [0100B16009C10000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B16009C10000) | 2ad8ff948353fdfd |
+| 1326 | Sir Lovelot | [0100E9201410E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9201410E000) | 23b711b95e9f4c78 |
+| 1327 | Skatemasta Tcheco | [01001F101289A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001F101289A000) | f84540a3289faf62 |
+| 1328 | Skelattack | [01001A900F862000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001A900F862000) | 1b419efede09e88b |
+| 1329 | Skellboy | [01008CA00CF34000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008CA00CF34000) | 8ca43e408d847247, fce8993d4423a144 |
+| 1330 | Skul: The Hero Slayer | [0100ACF013E9A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ACF013E9A000) | 9cd50457d78ed3bb |
+| 1331 | Skullgirls 2nd Encore | [010046B00DE62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010046B00DE62000) | ac3b5f9d54899ec6 |
+| 1332 | Skully [Rev 1.0.0] | [0100D7B011654000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D7B011654000) | 1265f75ec9d5c2f9, cf28f8b7f5472223 |
+| 1333 | Sky Force Anniversary | [010083100B5CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010083100B5CA000) | 5af4ddbec5670d4a, 883f60906915d348 |
+| 1334 | Sky Force Reloaded | [01006FE005B6E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006FE005B6E000) | 01006fe005b6e000, 7ef14f11ea37d414, 98abc1afa513404a, f35d3df7cc780649 |
+| 1335 | Sky Jaguar 2 | [0100E0C010AB8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0C010AB8000) | 2f7f83f5fc76d702 |
+| 1336 | Skybolt Zack | [010041C01014E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010041C01014E000) | d51712a8cede1542 |
+| 1337 | Slain | [0100224004004000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100224004004000) | 9c150c477f6f7344 |
+| 1338 | Slay the Spire | [010026300BA4A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026300BA4A000) | 0f3b375b8e9518c9, 21d02e7d96188cf4, 334ab8bb31621c07, 678a5068b1db8450, a38237a9bfef6131, f1496a8d2effc1d2 |
+| 1339 | Slayaway Camp: Butchers Cut | [0100501006494000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100501006494000) | 1fb8f9e571155f4e |
+| 1340 | Slayin 2 | [01004E900EDDA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004E900EDDA000) | e67d4f728f112046 |
+| 1341 | Slots of Poker at Aces Casino | [0100023012640000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100023012640000) | f7148b7a4e88974a |
+| 1342 | SMASHING THE BATTLE | [01002AA00C974000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002AA00C974000) | b1662bb6d8542f4a |
+| 1343 | Smelter | [0100B45010E9C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B45010E9C000) | 1f9f743632739d4d, 7515c5c9ddce5f44 |
+| 1344 | Snack World: The Dungeon Crawl - Gold [Rev 1.0.0] | [0100F2800D46E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F2800D46E000) | 929c0bea2bf097f7 |
+| 1345 | SNACK WORLD: THE DUNGEON CRAWL — GOLD | [010010400D46A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010010400D46A000) | 929c0bea2bf097f7, d3fa3aa21a0eb48c |
+| 1346 | Sniper | [0100839010DD6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100839010DD6000) | 197659f4ad54ea4b |
+| 1347 | Sniper Elite 3 [Ultimate Edition] | [010075A00BA14000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010075A00BA14000) | 8a49c2d4180b9477 |
+| 1348 | Sniper Elite 3 [Ultimate Edition] [Rev 1.0.0] | [010009E00F49C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010009E00F49C000) | 8a49c2d4180b9477 |
+| 1349 | Sniper Elite 4 | [010007B010FCC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010007B010FCC000) | bbfd41df5ba37d79 |
+| 1350 | Sniper Elite V2 Remastered | [0100BB000A3AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BB000A3AA000) | 4e6b0fe98465c36b, b61f280560a937d2, e8b40682041dafdd, f744cb9e08568aa9 |
+| 1351 | SNK GALS' FIGHTERS | [01007EE011116000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007EE011116000) | 3e4f4d748b244c82 |
+| 1352 | SNK HEROINES Tag Team Frenzy | [010027F00AD6C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010027F00AD6C000) | 241e280992c82e65 |
+| 1353 | SNK Heroines: Tag Team Frenzy | [010007C00B508000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010007C00B508000) | 27eeb113fd1fc102 |
+| 1354 | Snow Battle Princess Sayuki | [0100ADF00CB64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ADF00CB64000) | 24620f1b3f64d649 |
+| 1355 | Son of a Witch | [01006AE00C6D6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006AE00C6D6000) | 777a6a89b56a68ef |
+| 1356 | Songbringer | [010031D00A604000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010031D00A604000) | 6d863b684db5bd73 |
+| 1357 | Songs for a Hero: Definitive Edition | [0100802012890000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100802012890000) | dd1d3e2eeb0ea969, f20687cc1eacd0e2 |
+| 1358 | Sonic Colors: Ultimate | [010040E0116B8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040E0116B8000) | 0fa6c17db4fad19c, 1cb3c3d728ec4bc0, 9e9b03d1fa193eda |
+| 1359 | Sonic Forces | [01001270012B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001270012B6000) | 6d9ea94f8aac00a8 |
+| 1360 | Sonic Forces | [0100111004460000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100111004460000) | 6d9ea94f8aac00a8 |
+| 1361 | Sonic Mania Plus [Rev1.04] | [01009AA000FAA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009AA000FAA000) | 03fd1524e17a841c |
+| 1362 | South Park: The Fractured But Whole [Rev 1.0] | [01008F2005154000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008F2005154000) | df15edaaf603e00c |
+| 1363 | South Park™: The Stick of Truth™ | [010095300B6A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095300B6A4000) | 3728e6eb07b4e9ef |
+| 1364 | Space Blaze [Rev 1.0.0] | [0100B9F00C162000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B9F00C162000) | 5e127d37c8317a47 |
+| 1365 | Space Elite Force | [0100707011722000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100707011722000) | 5a5a9e3220a34b47 |
+| 1366 | Space Elite Force 2 | [010084F0123AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010084F0123AC000) | bdfc6f3ea589874d |
+| 1367 | Space Grunts | [0100AE701287E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AE701287E000) | 0eb2cdc7cf560b04 |
+| 1368 | Space Invaders Forever | [0100F0C012C10000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F0C012C10000) | 2e9d4a761ab93843 |
+| 1369 | Space Invaders Forever [2x Rev 1.0.0] | [0100C56012C96000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C56012C96000) | 713e445c7e80134b |
+| 1370 | Space Revenge | [0100E0D014C4C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0D014C4C000) | 4033e17aa065677a |
+| 1371 | Space Robinson | [0100795011D68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100795011D68000) | 2bdbdeed272bb826 |
+| 1372 | Sparklite | [01007ED00C032000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007ED00C032000) | bfafbb54899f1441, d0e79c23f66c2c42 |
+| 1373 | Spectacular Sparky | [010009F011FB2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010009F011FB2000) | 5ce9f689b77c794b, a22fe7b6ee7add57 |
+| 1374 | Speedway Bundle Stock & Truck | [01000D6013D36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D6013D36000) | 3d46f1c57c982e45 |
+| 1375 | Spellspire | [0100E74007EAC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E74007EAC000) | 13c5b59ea899762f |
+| 1376 | Spelunker Party! | [010021F004270000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010021F004270000) | 65457968dae86a45 |
+| 1377 | Spelunky | [0100710013ABA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100710013ABA000) | 5197521a3eed9a81 |
+| 1378 | Spelunky 2 | [01007EC013ABC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007EC013ABC000) | a5a0bea13ad893fe, bbb29f6d5b5a7c05 |
+| 1379 | Sphinx and the Cursed Mummy | [0100BD500BA94000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD500BA94000) | 2d135b3b59a8949f, b73bf75feb33abc5 |
+| 1380 | Spinch | [010076D0122A8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076D0122A8000) | cef69569fefe245e |
+| 1381 | Spinny's Journey | [01001E40136FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001E40136FE000) | 67fcf2133c80e746 |
+| 1382 | Spirit Arena | [010001B01398C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010001B01398C000) | 4ff93be275dce443 |
+| 1383 | Spiritfarer | [0100BD400DC52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD400DC52000) | 0100bd400dc52000, 173156d7823bf145, 241262da79eb9e4e, 5c59f135645f9846, 899ac6d046e76345, d368bc1e9495514a |
+| 1384 | Splasher | [0100FF9003F10000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF9003F10000) | 84052a5d8a59604c |
+| 1385 | Splatoon 2 | [0100F8F0000A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8F0000A2000) | 25e4de94c55dc7a3, 8a7f4570b0d5d94c |
+| 1386 | SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | [010062800D39C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010062800D39C000) | 00114d2ec3f08a53 |
+| 1387 | SpongeBob: Krusty Cook-Off | [01000D3013E8C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000D3013E8C000) | 6ec1a152ad773a4b |
+| 1388 | Spyro: Reignited Trilogy | [010077B00E046000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010077B00E046000) | d2775fafcf4835cb |
+| 1389 | Star Horizon | [0100EC2011B9C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC2011B9C000) | 52374a85f1ec7a44 |
+| 1390 | STAR OCEAN First Departure R | [0100EBF00E702000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EBF00E702000) | 5ec132f471291b7e |
+| 1391 | Star Renegades [Rev 1.0.0] | [0100D050135B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D050135B6000) | 19c0219a57c5e241 |
+| 1392 | Star Story: The Horizon Escape | [0100D7000AE6A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D7000AE6A000) | 101279c95bf61b40 |
+| 1393 | STAR WARS™ Episode I Racer | [0100BD100FFBE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD100FFBE000) | 425007690f14dcb7, 4e91e35363a552d2, 6b81a9a7d4d34552, c695bb70759d44c6 |
+| 1394 | STAR WARS™ Jedi Knight II: Jedi Outcast™ | [0100BB500EACA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BB500EACA000) | fa0405385b531fcf |
+| 1395 | STAR WARS™ Republic Commando™ | [0100FA10115F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FA10115F8000) | 99cac56a0829ef37 |
+| 1396 | Stardew Valley | [0100E65002BB8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E65002BB8000) | 44ba37318c492264, 54d5695b9f5d8248, c45898e4542eccda, f24cc94cb6289ed2 |
+| 1397 | Stardust Galaxy Warriors: Stellar Climax | [01001B600BC32000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B600BC32000) | 69aa157d881de641 |
+| 1398 | Starlink: Battle for Atlas [Rev 1.0.0] | [01002CC003FE6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002CC003FE6000) | 630dc5de0776e6e8 |
+| 1399 | STAY COOL, KOBAYASHI-SAN!: A RIVER CITY RANSOM STORY | [0100B61009C60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B61009C60000) | 9b3795d79e82816f |
+| 1400 | SteamWorld Dig | [01009320084A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009320084A4000) | 9b8a73daf4b90ea9 |
+| 1401 | SteamWorld Heist: Ultimate Edition | [0100A21007FFA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A21007FFA000) | 8aebd36f3700963b |
+| 1402 | SteamWorld Quest: Hand of Gilgamech | [0100F6D00D83E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F6D00D83E000) | a3179fef84570923 |
+| 1403 | Steel Assault | [01001C6014772000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C6014772000) | 077e6c9060518627, 0ce7ee14a2cbb718 |
+| 1404 | Stela | [01002DE01043E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002DE01043E000) | 7aca9116672a7795 |
+| 1405 | Stitchy in Tooki Trouble | [010077B014518000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010077B014518000) | 511c939d3ea8a74a |
+| 1406 | Stoned for Fitness Boxing | [0100E7300AAD4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E7300AAD4000) | a44f64ba820eaa46 |
+| 1407 | Story of a Gladiator | [0100D5D00DAF2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D5D00DAF2000) | 8e66d62ef6a31e46 |
+| 1408 | Story Of Season: Friends of Mineral Town [Rev 1.0.0] | [0100ED400EEC2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100ED400EEC2000) | 5ce05588b1d56ec0, 7f00ec72055a9dca, 9587aa1da8220111, b781309cf5399c6a, e963f5692eb8aedd |
+| 1409 | STORY OF SEASONS: Friends of Mineral Town | [0100AA000EEB2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AA000EEB2000) | 5ce05588b1d56ec0 |
+| 1410 | STORY OF SEASONS: Pioneers of Olive Town | [010082E012A84000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010082E012A84000) | 4410c92b04087143, a4095add59310847, ab82dad4706e0747, ebd208b4b2bf0b42 |
+| 1411 | Straimium Immortaly | [0100DA000D71A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DA000D71A000) | 1cc83aea9778d972 |
+| 1412 | Stranded Deep | [01004F4014C62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004F4014C62000) | 61975b301708e44b |
+| 1413 | Stranded Sails - Explorers of the Cursed Islands | [010078D00E8F4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010078D00E8F4000) | be0c58a3ae69eb4f |
+| 1414 | Strange Brigade | [01001DC012E7E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001DC012E7E000) | af134532a4e50784 |
+| 1415 | Stranger Things 3: The Game | [0100DD600DD48000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DD600DD48000) | 5dddf2ec1683c444 |
+| 1416 | Street Fighter 30th Anniversary Collection | [0100024008310000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100024008310000) | a65e31f83f2cbb54 |
+| 1417 | Street Racing: Tokyo Rush | [01001E901482A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001E901482A000) | ad575e1c5d3e414b |
+| 1418 | Streets of Rage 4 | [0100EC9010258000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC9010258000) | 20cc1e2d6502624a, 94e241a6ce450751, a69706619587f523, c4725c8a6bcc1b29, cccdc48539e8cc1f, ff092115439d1f8a |
+| 1419 | Streets of Red : Devils Dare Deluxe | [0100C1700A9F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C1700A9F0000) | c7e03551b705ba49 |
+| 1420 | Strike Force 2 - Terrorist Hunt | [01004B500F07C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B500F07C000) | e8785f78d8d42b74 |
+| 1421 | STRIKERS1945 for Nintendo Switch | [0100FF5005B76000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF5005B76000) | 13a66415dfd9fc45, 349e43d4f0e71aaa, fe906f0365d9dcfe |
+| 1422 | STRIKERS1945Ⅱ for Nintendo Switch | [0100720008ED2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100720008ED2000) | 44b325524b98375b, 6cd0059343d5c11a, c1fcd151248425e7 |
+| 1423 | STRIKERS1999 for Nintendo Switch | [0100D8200D4E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D8200D4E2000) | 537bee1f2ffc7f7f, 7f555bcfac873e7a |
+| 1424 | SturmFront - The Mutant War: Übel Edition | [010029701420A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029701420A000) | c7cae59f4a307241 |
+| 1425 | STURMWIND EX | [0100C5500E7AE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5500E7AE000) | b529a461f3a7d61c |
+| 1426 | Subnautica | [0100429011144000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100429011144000) | 90bbaf36dd244c48 |
+| 1427 | Subnautica: Below Zero | [010014C011146000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010014C011146000) | 90bbaf36dd244c48 |
+| 1428 | Summer in Mara | [0100A130109B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A130109B2000) | 01ecf7c70a87804c, 497bf9528e83e64b |
+| 1429 | Summer Sweetheart | [01004E500DB9E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004E500DB9E000) | f203511733ae3449 |
+| 1430 | Sundered: Eldritch Edition | [01002D3007962000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002D3007962000) | a2dfd07e5eb5f743 |
+| 1431 | Super Bomberman R | [01007AD00013E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007AD00013E000) | 146eaadfe847c841, a0a745da9ae25946 |
+| 1432 | Super Daryl Deluxe | [010078800869A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010078800869A000) | 3b7455aaa75e1b27 |
+| 1433 | Super Dragonball Heroes World Mission | [0100CAF00C462000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CAF00C462000) | 390a4067482509c9, c7be7a7c6253b52d |
+| 1434 | Super Dragonfly Chronicles | [0100967012972000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100967012972000) | 54e6066bd8697d47 |
+| 1435 | Super Hydorah | [010099F00B374000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010099F00B374000) | 772010c59b988e26, 98d835a423bdbcfa |
+| 1436 | Super Kirby Clash™ | [01003FB00C5A8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003FB00C5A8000) | c9649e053bd7be27, dcdfa5a4ad9a175d |
+| 1437 | Super Mario 3D All-Stars [Rev 1.0.0] | [010049900F546000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049900F546000) | a638857e6df584ff, bdd6dc7da7a69290, ff44f58218c6a6b2 |
+| 1438 | Super Mario Maker 2 | [01009B90006DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009B90006DC000) | 3ebb1eb2fffb029a, 60b80d35e3db7606, e7101fe3bb2c4bac, e74294b43f76ef2a, edb8feede2bfa3ff |
+| 1439 | Super Mario Odyssey | [0100000000010000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100000000010000) | 3ca12dfaaf9c82da, b424be150a8e7d78, f5dccddb37e97724 |
+| 1440 | Super Mario Party | [010036B0034E4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010036B0034E4000) | 49a50a8bcfa6b036, 9f13b69757666412 |
+| 1441 | Super Mario™ 3D World + Bowser’s Fury | [010028600EBDA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010028600EBDA000) | 891687f016a18f17, 9f7efc2fb9653e5c |
+| 1442 | Super Meat Boy | [01004F8006A78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004F8006A78000) | 18bafde1b12b11be |
+| 1443 | Super Meat Boy Forever | [01009C200D60E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009C200D60E000) | ebb3ab15544f5df7 |
+| 1444 | Super Monkey Ball Banana Mania | [010001701248C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010001701248C000) | 0e563a7ff32784ec |
+| 1445 | Super Monkey Ball: Banana Blitz HD | [0100B2A00E1E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2A00E1E0000) | 0da43de40287b24a, 5814a3099a30b54a, 82bce946568dd041 |
+| 1446 | Super Nintendo Entertainment System™ - Nintendo Switch Online | [01008D300C50C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D300C50C000) | 5667fbc45986b522, edac20e98757406e |
+| 1447 | Super Phantom Cat: Remake | [0100C9A00D124000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C9A00D124000) | fdc133d5edcc9945 |
+| 1448 | Super Pixel Racers | [0100F5100E9DE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F5100E9DE000) | 9cdcb9b1dd852c49 |
+| 1449 | Super Punch Patrol | [01001F90122B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001F90122B2000) | 01001f90122b2000, 403e242118364bd6 |
+| 1450 | Super Putty Squad | [0100331005E8E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100331005E8E000) | a028e4f0c384a83c |
+| 1451 | SUPER ROBOT WARS T | [01006C900CC6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C900CC6000) | f78fbd6e48e6fce1 |
+| 1452 | Super Robot Wars T | [01006C900CC60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006C900CC60000) | 3a1a0309a1a756df, b49e93fb9664813b, fc92ab978eb6c815 |
+| 1453 | Super Robot Wars V | [0100CA400E300000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CA400E300000) | 736eb95aca241014, be5faeaf26b2bd48, eac0ac0033ce59e1 |
+| 1454 | Super Robot Wars X [Rev 1.0.0] | [010026800E304000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010026800E304000) | 4873aa2e8514685f, cefbf4f864b51f37 |
+| 1455 | Super Saurio Fly | [01004CF00A60E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004CF00A60E000) | 6c8970071ef11148 |
+| 1456 | Super Smash Bros. Ultimate | [01006A800016E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006A800016E000) | 06646fddd47a619f, 1b4270ced2653872, 2ef410f4d4d2d279, 343d891a4bcf0684, 4590c9bb2c530754, 4a3f8ed7dcce3ad4, 7a77e0d95e57814c, 875f34e0d735b604, 9825a8b3c3904a82, 9fe4e3c363968930, b0cb5479f051741a, d45361e905c9e3c1, fd471eb458c915e7 |
+| 1457 | Super Street Racer | [0100FB400F54E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FB400F54E000) | 72971ef198d7792b |
+| 1458 | Super Street: Racer | [010074200E910000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010074200E910000) | b9f66d47fc26defa |
+| 1459 | Super Toy Cars | [0100384009344000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100384009344000) | f8c08ad2cda26a46 |
+| 1460 | SuperEpic: The Entertainment War | [0100630010252000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100630010252000) | 583c5daa080f9f49 |
+| 1461 | Supraland | [0100A6E01201C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A6E01201C000) | 3e829f9d2a644e30 |
+| 1462 | Survive! MR.CUBE | [010029A00AEB0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010029A00AEB0000) | e982392825a0b048 |
+| 1463 | Sushi Striker: The Way of Sushido | [0100DDD0085A4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DDD0085A4000) | 06544787c615088e |
+| 1464 | SWORD ART ONLINE: FATAL BULLET Complete Edition | [01005DF00DC26000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005DF00DC26000) | 029c2837b0eee8a9, 0bc8e0955e19e9ed, 7d388942a921e50a |
+| 1465 | SWORD ART ONLINE: Hollow Realization Deluxe Edition | [0100EC400D54E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EC400D54E000) | 1fe34416e3f057ad |
+| 1466 | SWORD ART ONLINE: Hollow Realization Deluxe Edition | [01001B600D1D6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B600D1D6000) | 0c356a98bcf20184, be2722b00a4d6573 |
+| 1467 | Sword of the Guardian | [01001C900CAD0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C900CAD0000) | 21b490c1f7d43b4b |
+| 1468 | Sword of the Necromancer | [0100E4701355C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E4701355C000) | b4e61e315d54142f |
+| 1469 | Swords and Sandals: Spartacus | [0100241012432000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100241012432000) | 8729a8df5adf0646 |
+| 1470 | Syder Reloaded | [0100A2500E232000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A2500E232000) | 899a1b60b0b44747, fb9b6960f530944d |
+| 1471 | Sydney Hunter and the Curse of the Mayan | [010007300C482000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010007300C482000) | 1d9b0b8d64487d43, 70852b805bbf7b4a |
+| 1472 | Table Top Racing: World Tour - Nitro Edition | [010015B00BB00000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010015B00BB00000) | 2acb02a77b0dc448 |
+| 1473 | Tails Of Iron | [0100EF3013F60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EF3013F60000) | a164c9dab8988b11 |
+| 1474 | Takotan | [0100761012B0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100761012B0C000) | 89b21f067b29073a |
+| 1475 | Tales of Vesperia: Definitive Edition | [01002C0008E52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C0008E52000) | 9e812d3826d6e7ac, e16a71d239010576, f244b656b1cafe52 |
+| 1476 | Tales of Vesperia™: Definitive Edition | [01002C0008E5200](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C0008E5200) | 9e812d3826d6e7ac, f244b656b1cafe52 |
+| 1477 | Tamashii | [010012800EE3E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010012800EE3E000) | 196ac2bdeba69477 |
+| 1478 | Tamiku | [010008A0128C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010008A0128C4000) | a437e84f0f0158e1 |
+| 1479 | Tangledeep | [010048F007ADE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010048F007ADE000) | ab6322343406634a |
+| 1480 | Taxi Chaos | [0100B76011DAA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B76011DAA000) | ed6980128b99108a |
+| 1481 | Tcheco in the Castle of Lucio | [0100F43011E5A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F43011E5A000) | 505340019ca26040 |
+| 1482 | Team Sonic Racing | [010092B0091D0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010092B0091D0000) | 158af044f62a4aa2, 9ca62cc01a646921 |
+| 1483 | Tears of Avia | [010076E0150CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076E0150CC000) | 98b20f02ef446776 |
+| 1484 | TENGAI for Nintendo Switch | [0100B2600A398000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2600A398000) | f11440abc24deb09 |
+| 1485 | Tennis in the Face | [01002970080AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002970080AA000) | 6a819ad63d809d95 |
+| 1486 | Terraria | [0100E46006708000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E46006708000) | 0a22a4322335834d, 364dc52deb2a5c46, 877a4236c64b0e4e, a85426058506934f |
+| 1487 | Terraria [Rev 1.0] | [010024B00F9D0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010024B00F9D0000) | 1f53e00d05581144 |
+| 1488 | Teslagrad | [01005C8005F34000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005C8005F34000) | 6290d08ceb02ea4d |
+| 1489 | TETRIS 99 | [010040600C5CE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040600C5CE000) | 07b0a65f53280fc8, 3f63328f03aaf417 |
+| 1490 | Tetris® Effect: Connected | [0100DE501433A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DE501433A000) | 02e64f62153c1f00, 4aea702b9de72fd5 |
+| 1491 | THE ALLIANCE ALIVE HD REMASTERED | [01003CF00DCFA00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003CF00DCFA00) | 16139c5ae42d284e |
+| 1492 | The Alliance Alive HD Remastered [Awakening Edition] | [010083A00B2DA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010083A00B2DA000) | 89b3007e82ae104a |
+| 1493 | The Alliance Alive HD Remastered [Awakening Edition] | [01003CF00DCFA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003CF00DCFA000) | 4df9da0bd7a61546 |
+| 1494 | The Bard's Tale ARPG: Remastered and Resnarkled | [0100CD500DDAE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CD500DDAE000) | cd98cc2621a30f51 |
+| 1495 | The Binding of Isaac: Afterbirth Plus | [0100F8A004458000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8A004458000) | d6e5754880af8be3 |
+| 1496 | The Binding of Isaac: Afterbirth Plus | [010021C000B6A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010021C000B6A000) | 4fb46e8cdfad75ad, 9872b9e3508b9ffe, b33a680a4eeaeedf, cd4463054576d9be, d6e5754880af8be3 |
+| 1497 | The Binding of Isaac: Afterbirth+ | [01005B9002312000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005B9002312000) | 148657004cd52eaf |
+| 1498 | The Bug Butcher | [01008D700AB14000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D700AB14000) | 1763c8105148364a |
+| 1499 | The Bug Butcher (ザ・バグ・ブッチャー) | [0100CA900B6BA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CA900B6BA000) | f529fa78f576c24a |
+| 1500 | THE Card Battle: Eternal Destiny | [0100FBE0151DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FBE0151DC000) | a354be6dd8d06f46 |
+| 1501 | THE Card: Poker, Texas hold 'em, Blackjack and Page One | [0100EB600AB5E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB600AB5E000) | 42407ec9b931e646 |
+| 1502 | The Coma 2: Vicious Sisters | [0100B7C01169C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B7C01169C000) | 6b8c6bd1c4c4f145 |
+| 1503 | The Coma: Recut | [010033100691A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010033100691A000) | ac20f6432b5ca44b |
+| 1504 | The Coma: Recut | [0100451012918000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100451012918000) | 5136f141b1639f4e |
+| 1505 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000F20102AC000) | 2fbe522f4dbad51e |
+| 1506 | The Count Lucanor | [01000850037C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000850037C0000) | 2eaaf5f168f363d9 |
+| 1507 | The Dark Crystal: Age of Resistance Tactics | [010051800E922000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051800E922000) | 01744dbed078494c |
+| 1508 | The Elder Scrolls V: Skyrim | [01000A10041EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000A10041EA000) | f924779598832227 |
+| 1509 | The Explorer of Night | [0100308013768000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100308013768000) | aaae665afcc8794e |
+| 1510 | The Falconeer: Warrior Edition | [0100BA5013E52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BA5013E52000) | 450f1e06cb093f4e |
+| 1511 | The Final Station | [0100CDC00789E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CDC00789E000) | 56de44e38c9a4b44 |
+| 1512 | The Flame in the Flood | [0100C38004DCC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C38004DCC000) | 2ef0f322f3a40e7d |
+| 1513 | The Forbidden Arts | [010007700D4AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010007700D4AC000) | 47834dd89cc22747 |
+| 1514 | The friends of Ringo Ishikawa | [010030700CBBC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010030700CBBC000) | 3749bfea64dc98df |
+| 1515 | The Good Life | [0100B1B015ABA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1B015ABA000) | 4b7c5de5de1b9f5b |
+| 1516 | The Great Ace Attorney Chronicles | [010036E00FB20000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010036E00FB20000) | 1da748fc9499882f |
+| 1517 | The Incredible Adventures of Super Panda | [0100D1500F6DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D1500F6DC000) | 56d6a748dd5cc64c |
+| 1518 | The King's Bird | [010020500BD98000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010020500BD98000) | 881bac95c002184f |
+| 1519 | THE LAST BLADE: Beyond the Destiny | [0100A35012908000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A35012908000) | 9ddb09ed29cfd95f |
+| 1520 | The Last Dead End | [0100AAD011592000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AAD011592000) | e37415338f94905a |
+| 1521 | The Last Kids on Earth and the Staff of Doom | [0100C27011544000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C27011544000) | 562f197c579e7a45, 69ee3835aa82d64d |
+| 1522 | THE LAST REMNANT Remastered | [0100AC800D022000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AC800D022000) | 4bc3de4ea95c471d |
+| 1523 | The Legend of Dark Witch | [0100B1900F0B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1900F0B6000) | 688f083106e7467d, d469aa790876b5f6, f062735ce0525729 |
+| 1524 | The Legend of Heroes: Trails of Cold Steel III | [01005420101DA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005420101DA000) | 134ec3d8be75126f |
+| 1525 | The Legend Of Heroes: Trails Of Cold Steel IV [Rev 1.0.0] | [0100D3C010DE8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D3C010DE8000) | 4980e9e242678015 |
+| 1526 | The Legend of Ninja | [0100C5A01327E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5A01327E000) | 3bf0514d5fc82e4e |
+| 1527 | The Legend of Tianding | [0100AD90155FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AD90155FC000) | 0edbc12f53aeb997 |
+| 1528 | The Legend of Zelda: Breath of the Wild | [01007EF00011E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007EF00011E000) | 16a91992bba71201, 8e9978d50bdd20b4 |
+| 1529 | The Legend of Zelda: Links Awakening | [01006BB00C6F0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006BB00C6F0000) | 909e904af78ac1b8, ae16f71e002af8cb |
+| 1530 | The Legend of Zelda™: Skyward Sword HD | [01002DA013484000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002DA013484000) | 5441af3c89f97e1d, d824d4b1bbd45d03 |
+| 1531 | The LEGO Movie 2 Videogame | [0100A4400BE74000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A4400BE74000) | bac1309ddf75b14d |
+| 1532 | The LEGO NINJAGO Movie Videogame | [01000CE002072000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000CE002072000) | 2aa90ecc2a24da46 |
+| 1533 | The Lightbringer | [0100491014980000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100491014980000) | eb736d27f0bbf7cf |
+| 1534 | The Long Dark | [01007A700A87C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007A700A87C000) | 9b4979a234077441, ac7114153a1da944 |
+| 1535 | The Lost Child | [01008A000A404000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008A000A404000) | c7209aeda44b0447 |
+| 1536 | The Lost Cube | [01000F2013CF8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000F2013CF8000) | 7d646a32a37bf945 |
+| 1537 | The Messenger | [0100DC300AC78000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DC300AC78000) | 2a979c3fdf717642, d8e60563c302aa41, eabd92ad1cdc0e43, ede81745c5421d45, fb6206b43c698a4b |
+| 1538 | The Mummy Demastered | [0100496004194000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100496004194000) | fe343c581ba5b49f |
+| 1539 | The Ninja Saviors: Return of the Warriors | [01001FB00E386000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001FB00E386000) | 55f09d019671d740 |
+| 1540 | The Ninja Warriors Once Again (ザ・ニンジャウォーリアーズ ワンスアゲイン) | [010036200CF6A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010036200CF6A000) | 61d93ce7139cd44e, a19f68759121af43 |
+| 1541 | The Outer Worlds | [0100626011656000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100626011656000) | 4382212487d292d0, 4a64edcb99de833c, 761cd556ab357c87, 7d68e9e4670405a4, 9f310253603704d9 |
+| 1542 | The Persistence | [010050101127C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010050101127C000) | 4d1c7699d3fe0e32 |
+| 1543 | The Pinball Arcade | [0100CD300880E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CD300880E000) | fadc5bb443b6d715 |
+| 1544 | The Princess Guide | [0100E6A00B960000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E6A00B960000) | 1d20c4a989b37608 |
+| 1545 | The Pyraplex | [0100BBD00D9D6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BBD00D9D6000) | bf59a5d4241b924e |
+| 1546 | The Sinking City | [010028D00BA1A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010028D00BA1A000) | 85e49c169a8b988a |
+| 1547 | The Snack World: Trejarers Gold | [010072B007418000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072B007418000) | 26d8482bad9998b2 |
+| 1548 | The Story Goes On | [01007FA00DA22000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007FA00DA22000) | 829f522f9904634e |
+| 1549 | The Survivalists [Rev 1.0] | [0100EF200DA60000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EF200DA60000) | 9237d917928aeb4a |
+| 1550 | The Swords of Ditto: Mormo's Curse | [010037D00D568000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010037D00D568000) | 998578d430bc7d3f, fcb264311604ca8b |
+| 1551 | The TakeOver | [0100CAE01021A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CAE01021A000) | 8d298584cde83d4f |
+| 1552 | The Touryst | [0100C3300D8C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C3300D8C4000) | 0b66b82e9902a3c1, 7dcda84f355f527f |
+| 1553 | The Way Remastered | [0100F8900A5B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F8900A5B0000) | 45d613aebd45af46 |
+| 1554 | The Witcher 3: Wild Hunt | [0100E67012924000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E67012924000) | caf28ae07f8cf6c0, ef9887f9546bd28c |
+| 1555 | The Witcher 3: Wild Hunt [Complete Edition] | [010019C00E9CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010019C00E9CC000) | 7d0794dc20faf372, 986ce0bb97d63ce6 |
+| 1556 | The Witcher 3: Wild Hunt [Complete Edition] | [01003D100E9C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D100E9C6000) | 11f23ecbdfba7e24, 4ffb62f1cd9e17f8, 7d0794dc20faf372, 986ce0bb97d63ce6 |
+| 1557 | The Witcher 3: Wild Hunt — Complete Edition | [0100BFE00E9CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BFE00E9CA000) | 7d0794dc20faf372 |
+| 1558 | The Wonderful 101: Remastered | [0100B1300FF08000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1300FF08000) | 6f043b70de8f5893 |
+| 1559 | The World Ends With You: Final Remix | [0100C1500B82E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C1500B82E000) | 2a5408063198b646 |
+| 1560 | They Bleed Pixels | [01001C2010D08000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001C2010D08000) | 073a619a4a4c528d |
+| 1561 | Thief Simulator | [0100CE400E34E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CE400E34E000) | d01cbd41caa0d840 |
+| 1562 | This Strange Realm Of Mine | [0100C7C00F77C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C7C00F77C000) | 89ddb76dc0cca744 |
+| 1563 | Thunder Paw | [01009AF0110E4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009AF0110E4000) | d724828447669524 |
+| 1564 | Thy Sword [Rev 1.0.0] | [01000AC011588000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000AC011588000) | ae9902f06d93bfeb |
+| 1565 | Time Recoil | [0100F770045CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F770045CA000) | dddf84085a5a59af |
+| 1566 | Timespinner | [0100DD300CF3A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DD300CF3A000) | 95947700181f5c61 |
+| 1567 | Tin & Kuna | [0100F7C010AF6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F7C010AF6000) | 3764ce647410824a |
+| 1568 | Tiny Barbarian DX | [0100D940022F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D940022F6000) | 069b9a025b219e56 |
+| 1569 | Tiny Gladiators | [0100DF900FC52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DF900FC52000) | 90ebcb0fd4322e45 |
+| 1570 | TINY METAL: FULL METAL RUMBLE | [0100B1600DB3A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1600DB3A000) | 86892ef0abdaaaa3 |
+| 1571 | Tiny Troopers Joint Ops XL | [0100D3D008E6C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D3D008E6C000) | 1962dda88596d44a |
+| 1572 | Tiny Troopers Joint Ops XL | [0100B52006E8C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B52006E8C000) | 4eed78e274c5824b |
+| 1573 | Titan Quest | [0100605008268000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100605008268000) | 473269469145c1cf, 8f39d37c86ea460a |
+| 1574 | ToeJam & Earl: Back in the Groove! | [0100B5200BB7C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B5200BB7C000) | 8e06e89604736b46, 9386ab7fd676d747 |
+| 1575 | Toki | [0100F3400A432000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F3400A432000) | 1838099aae00b548, 9bf460fb87a78144 |
+| 1576 | Tokyo Mirage Sessions ♯FE Encore [Rev 1.0.0] | [0100A9400C9C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A9400C9C2000) | 33463e11899166bb |
+| 1577 | Tonight We Riot | [0100D400100F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D400100F8000) | 3567e82c6981424d |
+| 1578 | Tony Hawk's™ Pro Skater™ 1 + 2 | [0100CC00102B4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CC00102B4000) | 8afcbe6a930cd42e, 93a4bfb86bca2c3d |
+| 1579 | Toon Shooters 2: The Freelancers | [0100D31013F24000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D31013F24000) | 206c185e2f5a9a2e, c41d950ba5984bfc |
+| 1580 | Toon War | [01009EA00E2B8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009EA00E2B8000) | 13ef97853a0caa46 |
+| 1581 | Torchlight II | [010090400D366000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010090400D366000) | 3c58651f0107fbe1, 99a367d031056e1f, a0c6c2d22dea7933 |
+| 1582 | Torchlight III | [010075400DDB8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010075400DDB8000) | 9c4a5006b994e86e, b6e63986d4fee5fd, e500a363d43b1ccc |
+| 1583 | Touhou Genso Wanderer -Lotus Labyrinth R- | [0100A7A015E4C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A7A015E4C000) | 7546a496ebc6dcbc |
+| 1584 | Touhou Luna Nights | [0100D850131B0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D850131B0000) | fe5b26032bfc9289 |
+| 1585 | Towaga: Among Shadows | [010062900E610000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010062900E610000) | 777978c76acca348 |
+| 1586 | Towertale | [0100F6200F77E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F6200F77E000) | 867076902772414c |
+| 1587 | Toy Stunt Bike: Tiptops Trials | [01009FF00A160000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009FF00A160000) | 8e1f47e7060f7c80 |
+| 1588 | Traditional Tactics Ne+ | [010008C01010A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010008C01010A000) | 70fbec50f87b5a80 |
+| 1589 | Transformer: Battlegrounds [Rev 1] | [01005E500E528000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005E500E528000) | 28f6c06633f0534b |
+| 1590 | Transistor | [0100BE500BEA2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE500BEA2000) | 7ed6b28290c61cbe |
+| 1591 | Travis Strikes Again: No More Heroes | [010011600C946000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010011600C946000) | 2ff317a1828bc0fc, ef72a4b5bf1973f3 |
+| 1592 | Trials of Mana | [0100D7800E9E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D7800E9E0000) | 74a7b4b505977ca5, 92c25172d38dfedb, 9e66575bdc49ec40, e419da6f3bf16a1c |
+| 1593 | Trials of Mana (中文版) | [0100E2D00FE90000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E2D00FE90000) | a712ff9389602dcb |
+| 1594 | Trine 2: Complete Story | [010064E00A932000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010064E00A932000) | 525b902e6f916ea5 |
+| 1595 | Trine 3: The Artifacts of Power | [0100DEC00A934000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DEC00A934000) | 86d9ea9ca4680295 |
+| 1596 | Trine 4: The Nightmare Prince | [010055E00CA68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010055E00CA68000) | b70f06eac87fa2af |
+| 1597 | Trine Series 1-3 | [0100D9000A930000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D9000A930000) | 32b4bbe0d88214d3 |
+| 1598 | Trollhunters: Defenders Of Arcadia [Rev 0.1] | [0100145011008000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100145011008000) | f65c6060142fc64f |
+| 1599 | Tropico 6 - Nintendo Switch™ Edition | [0100FBE0113CC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FBE0113CC000) | 2e4d1158a395f558 |
+| 1600 | Trouserheart | [01001EF00BF3A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001EF00BF3A000) | 1dfd2b4fe2198e4a |
+| 1601 | Turrican Flashback [Rev 1.0.0] | [010004B0130C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010004B0130C8000) | 995e954e8606f40f, e3082dd62ef54f41 |
+| 1602 | Two Parsecs From Earth | [0100BCE012894000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BCE012894000) | 983e28b1198ae349, a59916f2a577b146 |
+| 1603 | Two Point Hospital [Rev 1.0.0] | [010031200E044000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010031200E044000) | 04b125635599f349, 13265e4eba0f0d41, 296658de5ef59049, 49bfad179af06e42, c3c6a6dc345fe046, db0700010fee8447 |
+| 1604 | TY the Tasmanian Tiger HD | [010038400C2FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038400C2FE000) | 965107e5a2ce0a3d, 985ea0225c2d2ae3, bae5c2e836df8e72 |
+| 1605 | TY the Tasmanian Tiger™ 2: Bush Rescue™ HD | [0100BC701417A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BC701417A000) | 3f7b53d09b3b4672 |
+| 1606 | Tyr : Chains of Valhalla | [01003B200C6CA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003B200C6CA000) | 8eb5b7c66fc82a42 |
+| 1607 | Ultra Age | [01008D4015904000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008D4015904000) | 7769608a9494e5db, 84b07884f70b3cd7, aac1a3684ea9cecf |
+| 1608 | Ultra Age [Rev 1.0.0] | [01006DD00FE16000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006DD00FE16000) | 7769608a9494e5db, aac1a3684ea9cecf |
+| 1609 | ULTRA STREET FIGHTER II: The Final Challengers | [01007330027EE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007330027EE000) | 2ae749ed04831745, 8726f5e816b001b2 |
+| 1610 | Ultracore | [0100E5C00DC46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5C00DC46000) | 13082aab64bdb509 |
+| 1611 | Umihara Kawase BaZooKa! [Rev 1.0.0] | [010093A01095E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010093A01095E000) | cc45e98bfbec91a8 |
+| 1612 | Umihara Kawase Fresh! | [01007D600B70A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007D600B70A000) | 6980f28d418a55b6 |
+| 1613 | Unbound: Worlds Apart | [0100C5A013B7A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5A013B7A000) | 719be27194d137df, 842053a9e717fdc2, bb5609f056926ac3 |
+| 1614 | UNDER NIGHT IN-BIRTH Exe:Late[cl-r] | [0100B2900DF06000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B2900DF06000) | 46e1b5c89a40d85e |
+| 1615 | Under Night In-Birth Exe:Late[cl-r] | [010038C00EC34000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010038C00EC34000) | 120f62bb506d4e36, 46e1b5c89a40d85e |
+| 1616 | Underhero | [01005CD00F85A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005CD00F85A000) | 4630fbc60041c444, 4c43a24535e79d47 |
+| 1617 | UnderMine | [01000B3012F3A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000B3012F3A000) | 72c59093e64eab49 |
+| 1618 | Undertale | [010080B00AD66000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010080B00AD66000) | 24db41fcd513d080 |
+| 1619 | Unepic | [01008F80049C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008F80049C6000) | e7c9870159c6877f |
+| 1620 | UnMetal | [01008F4014A74000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008F4014A74000) | b7ff059e225348df, ba30581e9c9e6c3b |
+| 1621 | Unravel Two | [0100E5D00CC0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5D00CC0C000) | f04d4fe8bf580369 |
+| 1622 | Unruly Heroes | [010001300CC4A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010001300CC4A000) | fd5c98d408eccd4c |
+| 1623 | Unto The End | [0100E49013190000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E49013190000) | b122a99e438c394c |
+| 1624 | Up Cliff Drive | [0100D86012928000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D86012928000) | 2d3c44ad39aafd46 |
+| 1625 | Urban Trial Playground | [01001B10068EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001B10068EC000) | 1caa05a4630e7769 |
+| 1626 | V-Rally 4 | [010064400B138000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010064400B138000) | c07b867928055e3d, eb8a679b5ddd0060 |
+| 1627 | V.O.I.D. | [010040000D08E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040000D08E000) | 3af9a4c3a016afeb |
+| 1628 | Vaccine | [01009E2003FE2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009E2003FE2000) | 34441e3e5ed09859 |
+| 1629 | Valentina | [0100A59012070000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A59012070000) | 56e1be633e5b9f44 |
+| 1630 | Valfaris | [010089700F30C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010089700F30C000) | 3f4477107ab9b84c, c0a75cfe9b9b814a |
+| 1631 | Valkyria Chronicles | [0100CAF00B744000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CAF00B744000) | fe77ffb8cbfb3a5c |
+| 1632 | Valkyria Chronicles 4 | [01005C600AC68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01005C600AC68000) | 3758602aa47add37 |
+| 1633 | Valthirian Arc: Hero School Story | [010042100BAA6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042100BAA6000) | 27214fd55a2c6c4b |
+| 1634 | Vambrace: Cold Soul | [01000E000DD40000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000E000DD40000) | 2b99be136d8c1f49, ce42204cb46ac947 |
+| 1635 | Vampire's Fall: Origins | [0100BD0012A68000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD0012A68000) | f0f1f7c836290c48 |
+| 1636 | VAMPYR | [01000BD00CE64000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000BD00CE64000) | 2e387d52731f6cf8, e417100ffeefd1de |
+| 1637 | Vaporum | [010030F00CA1E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010030F00CA1E000) | 363883e3b5306749, 5c813c18c1d7744a |
+| 1638 | Vaporum: Lockdown | [010088D013CE0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010088D013CE0000) | 480b952ad15d7b4b |
+| 1639 | Venture Kid | [010095B00DBC8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010095B00DBC8000) | c97dc98aa4a91c9f |
+| 1640 | Vigil: The Longest Night | [01002D100EF3A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002D100EF3A000) | 92e26d68dc4d1d40, b288c9ecb6bf4c4a |
+| 1641 | Void Bastards | [0100D010113A8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D010113A8000) | 27901a8fe21dff42, 2ae8719f2962c94e |
+| 1642 | Void Source | [010099E013430000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010099E013430000) | 6d59180e4c70f068 |
+| 1643 | Void tRrLM(); //Void Terrarium [Rev 1.0.0] | [0100FF7010E7E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF7010E7E000) | e0d8fb949ed755bb |
+| 1644 | Void tRrLM(); [Rev 1.0.0] | [010009900E170000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010009900E170000) | 4a40b29138017ee8 |
+| 1645 | Völgarr the Viking | [0100B1A0066DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1A0066DC000) | a2ad2e750b402fac |
+| 1646 | Vortex Attack EX | [010018400E4FC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010018400E4FC000) | 51661056e0e8b01c |
+| 1647 | Voxel Shot for Nintendo Switch（ボクセルショット） | [010022A009368000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010022A009368000) | 010022a009368000, c022f11a85e1aa4e |
+| 1648 | Wallachia: Reign of Dracula | [010017E012888000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010017E012888000) | 314e0bd3bc855594, 56e7b8f33024d194 |
+| 1649 | Wanba Warriors | [0100E29010A4A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E29010A4A000) | bc8df755d071cb48 |
+| 1650 | War Of Stealth - assassin | [01004FA01391A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004FA01391A000) | 4c328c448d094a41 |
+| 1651 | War-Torn Dreams | [0100563011B4A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100563011B4A000) | b05589f793720454 |
+| 1652 | WarGroove | [01000F0002BB6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000F0002BB6000) | 397bd5555e9a4c44, 64771f8d1e0d6ac4, 7dc603c454f6517e, a32afc17c02b0e80, b05c886de8291583 |
+| 1653 | WarioWare: Get It Together! [Rev 1.0.0] | [0100563010E0C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100563010E0C000) | e6784f640b1cdff9 |
+| 1654 | WarriOrb | [010032700EAC4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010032700EAC4000) | e8e018bf25229ee3 |
+| 1655 | WARRIORS OROCHI 4 | [010016A00AEC0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010016A00AEC0000) | 5c9ccd358be85fc9, c99da50e73027754 |
+| 1656 | Way of the Passive Fist | [0100BA200C378000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BA200C378000) | c2dac77c25bb7944 |
+| 1657 | WE ARE DOOMED | [01000F101286A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000F101286A000) | 7f069ce45b991cf1 |
+| 1658 | WeakWood Throne | [0100011012A70000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100011012A70000) | ce353ad90855ec51 |
+| 1659 | West of Dead | [0100C2C00D74E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C2C00D74E000) | 497bf9528e83e64b, d645b9f300d6b842 |
+| 1660 | Whipseey and the Lost Atlas | [010017500E7E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010017500E7E0000) | 25ce48f161ddf0cb |
+| 1661 | Who Wants to Be a Millionaire? | [010027F0128EA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010027F0128EA000) | 91e6239aca62174f |
+| 1662 | Wild Guns Reloaded | [0100CFC00A1D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CFC00A1D8000) | ce3e20fbad467949 |
+| 1663 | WILD GUNS Reloaded | [0100C39009EEE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C39009EEE000) | 3785b9800028344e, 56b03164a8800b49 |
+| 1664 | Willy Jetman: Astromonkey's Revenge | [010000100FB62000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010000100FB62000) | 55ee1a69145de04e |
+| 1665 | Windbound | [010044000F7F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010044000F7F2000) | 195d347b5fc2fd40, c66df87114d6a44b, fabe51450032974d |
+| 1666 | Witcheye | [0100BD4011FFE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BD4011FFE000) | c8627e913deb5943 |
+| 1667 | Wizard of Legend | [0100522007AAA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100522007AAA000) | 4dbce15edeb87a4c, 5b0505b54116e948, f0b56a498c439946 |
+| 1668 | Wizards of Brandel | [010081900F9E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010081900F9E2000) | 122ebf9e18e9db4b |
+| 1669 | Wolfenstein II: The New Colossus | [01009040091E0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01009040091E0000) | 94c6c3fc4d99c443, f2fe5ef877839f4f |
+| 1670 | Wolfenstein: Youngblood | [01003BD00CAAE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003BD00CAAE000) | 21a35d07d6e6c2f0, 88c0cd2f98b39f8b, c8fdf722e6bacffa |
+| 1671 | Wolflame | [01003380113A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003380113A2000) | 0d2088e1f2af8ddc |
+| 1672 | Wonder Blade | [010037A00F5E2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010037A00F5E2000) | d5e27670148ba14a |
+| 1673 | WONDER BOY RETURNS REMIX | [010069B00D9FE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010069B00D9FE000) | 6b1446944d519842, bb52a5b81f24e249 |
+| 1674 | Wonder Boy: Asha in Monster World [Rev 1.0] | [0100EB2012E36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EB2012E36000) | ff72d70018425549 |
+| 1675 | Wonder Boy: The Dragons Trap | [0100A6300150C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A6300150C000) | 13793f02e257147f, c5fed26bf457566d |
+| 1676 | Wonder Boy: The Dragons Trap | [010041200A40E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010041200A40E000) | d2b0d0b0a6045847 |
+| 1677 | Woodle Tree 2: Deluxe | [0100E0300EB04000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E0300EB04000) | 524ad3a220a14a47 |
+| 1678 | World of Final Fantasy Maxima | [010072000BD32000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072000BD32000) | 5767fd44c331b44b, ac72a1252ab09ec0 |
+| 1679 | World to the West | [0100CB60092A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CB60092A2000) | 5b759e7a3a3d6040 |
+| 1680 | WorldNeverland-ElneaKingdom- | [01008E9007064000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008E9007064000) | 28e19d6f448e5046, 6d89b45f36f95a4d |
+| 1681 | WRC 8 FIA World Rally Championship | [010087800DCEA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010087800DCEA000) | 64efd5d6ad8ea937 |
+| 1682 | WRC 9 The Official Game | [01001A0011798000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001A0011798000) | d07802e022207509 |
+| 1683 | Wulverblade | [010033700418A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010033700418A000) | c50b3ae5b8c2ee42, c68bc0a4f96db645 |
+| 1684 | WWE 2K Battlegrounds [Rev 1.0.0.1] | [010081700EDF4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010081700EDF4000) | 2fc6ff2ec90cebc3, 484f4aeaf4b9dba0, 4fd0f117e250f4f9, 5e0b2ab13f32af9a, eed1291d86692dd3 |
+| 1685 | WWE 2K18 | [010009800203E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010009800203E000) | deee18d307c81634 |
+| 1686 | X-Morph: Defense | [0100DF100B97C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DF100B97C000) | b0d911bc4c9a3760 |
+| 1687 | Xeno Crisis | [010013F009B88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010013F009B88000) | 2ad00f3d29d8674f |
+| 1688 | Xenoblade 2 | [0100F3400332C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F3400332C000) | e3938fa78579c1ca |
+| 1689 | Xenoblade Chronicles 2 | [0100E95004038000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E95004038000) | 6d34a75dbb68d4fb, d007651bc7c6a51e, e3938fa78579c1ca, f77f1559371c0ec6 |
+| 1690 | Xenoblade Chronicles 2: Torna - The Golden Country | [0100C9F009F7A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C9F009F7A000) | 56246a89466a791b, 72419a1325ae47de |
+| 1691 | Xenoblade Chronicles™: Definitive Edition | [0100FF500E34A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FF500E34A000) | 1ec9082cb52ecaf5, 2e071b4562d6656b, 92c78bb3dcbbc3f7 |
+| 1692 | XEODRIFTER(ゼオドリフター) | [0100CD500B2C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CD500B2C6000) | 27762205ff419c14 |
+| 1693 | Yaga | [01006FB00DB02000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006FB00DB02000) | 898cb70f55c96045 |
+| 1694 | Yes, Your Grace | [01006040110AE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006040110AE000) | 34595d4a89892b43, dd0b39252695d247 |
+| 1695 | YesterMorrow | [010076B0101A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076B0101A0000) | bd98f25704ec9447 |
+| 1696 | Yet Another Zombie Defense HD | [010085500B29A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010085500B29A000) | 8e0f8d1ab9a89843 |
+| 1697 | Yo-Kai Watch 1 for Nintendo Switch | [0100C0000CEEA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C0000CEEA000) | aa45748622cf57c8, b52dfbc326b26e60 |
+| 1698 | Yo-kai Watch 4: Bokura wa Onaji Sora o Miageteiru | [010086C00AF7C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010086C00AF7C000) | 042a9d9eebc14b3c, 0d5772548b8e6d08, 20fd1a80a9c3985d, 6d79fe2d5451b8c6, 91dd8da34fc975fd, 93706fd3b59f1513, 994c5fa1497445ff, c65b6c18d3de5189, c7dab27f22acd2ed, dcfccd795d18f3f9, f014c53d501d35cf |
+| 1699 | Yomawari: The Long Night Collection | [010012F00B6F2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010012F00B6F2000) | 345f918e2934551a |
+| 1700 | Yomi O Saku Hana [Rev 1.00] | [0100E640118C4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E640118C4000) | 9b2d93106cb1df4a |
+| 1701 | Yono and the Celestial Elephants | [0100BE50042F6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BE50042F6000) | 500019a77d76c142 |
+| 1702 | Yooka-Laylee | [0100F110029C8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F110029C8000) | 743c88f0f1c33dbb |
+| 1703 | Yooka-Laylee and the Impossible Lair | [010022F00DA66000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010022F00DA66000) | 8432cec51f882448, cb788aa9e4e02d49, ea84f555e2d0bc41 |
+| 1704 | Yoshi's Crafted World™ Demo | [0100AE800C9C6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AE800C9C6000) | 6e114d3262f05290, 7253a3bbe715d092 |
+| 1705 | Yoshis Crafted World | [01006000040C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006000040C2000) | 44ae9fd12897c702, 7253a3bbe715d092 |
+| 1706 | Youtubers Life 2 | [01004DE013EDE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004DE013EDE000) | 013dc955b6c145cd |
+| 1707 | Youtubers Life OMG Edition | [01002C9005F36000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002C9005F36000) | 3bd313a3e57dd24c |
+| 1708 | Ys IX: Monstrum Nox [Rev 1.0.0] | [0100E390124D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E390124D8000) | 2b2967745a4c4098 |
+| 1709 | Ys Origin | [0100F90010882000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F90010882000) | 11c2b5b0961cd855, 31fc374be830f17e |
+| 1710 | Ys VIII: Lacrimosa of DANA | [01007F200B0C0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007F200B0C0000) | 351694385b22760d |
+| 1711 | Yu-Gi-Oh! Legacy of The Duelist: Link Evolution | [010022400BE5A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010022400BE5A000) | cdc49702ee3df923, ef8ee6ded15ec7fa |
+| 1712 | Yu-Gi-Oh! RUSH DUEL: Dawn of the Battle Royale!! | [0100261015BE2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100261015BE2000) | 53a19549706ec741 |
+| 1713 | Yu-Gi-Oh! Rush Duel: Saikyou Battle Royale!! [Rev 1.0.0] | [01003C101454A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003C101454A000) | af7cf48b21607841 |
+| 1714 | YUMENIKKI -DREAM DIARY- | [0100D6B00CD88000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D6B00CD88000) | 75541916aab21c49 |
+| 1715 | Zelda Musou: Hyrule All Stars DX | [01002AB007FD2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002AB007FD2000) | 00c2155000000000, 3f8ffad9352a760a, 6da232f1929a838e |
+| 1716 | Zengeon [Rev 1.61] | [0100057011E50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100057011E50000) | 11ac5288ea1bb24e |
+| 1717 | Zenith | [0100AAC00E692000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AAC00E692000) | d7e8f09623a6e544 |
+| 1718 | Zero Strain | [01004B001058C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004B001058C000) | f3d71b69aae71376 |
+| 1719 | Zoids Wild: Blast Unleashed [Rev 1.0.0] | [010069C0123D8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010069C0123D8000) | f894caf55083a245 |
+| 1720 | Zoids Wild: King of Blast | [0100E43009320000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E43009320000) | bcc92811606bd64f |
+| 1721 | Zombie Army Trilogy | [010025B0106D4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010025B0106D4000) | 2af552cc09e0b42d |
+| 1722 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C7300EEE4000) | 54211726d36a8d9c |
+| 1723 | Zombie Blast Crew | [0100B610138F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B610138F8000) | 91999509bd032341 |
+| 1724 | Zombie's Cool | [01001740116EC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001740116EC000) | 4c7871760fa6a44c |
+| 1725 | Zombieland: Double Tap - Road Trip | [0100E5800D32C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E5800D32C000) | b55b6dbc68eca640, eca39ad294492a40 |
+| 1726 | ことばのパズル　もじぴったんアンコール | [01006B900F436000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01006B900F436000) | 32dcacd4d7dc1c48 |
+| 1727 | アイスクリームサーファー | [010014200BD02000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010014200BD02000) | 266ceb07b8a88f4b |
+| 1728 | ガンズゴア＆カノーリ２ | [010056200B46A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010056200B46A000) | e05627b3d675904e |
+| 1729 | クエストオブダンジョンズ | [0100CBA005160000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CBA005160000) | 4ab92853f8551341 |
+| 1730 | グノーシア | [0100E48010F52000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E48010F52000) | c22b26791e9066a9 |
+| 1731 | スチームワールドクエスト | [01000AA00E4DC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000AA00E4DC000) | d1e6ea9384c3674b |
+| 1732 | スチームワールドディグ２ | [01004120081AC000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004120081AC000) | a6a50d6081b0c317 |
+| 1733 | デーモンクリスタル | [0100A1400C9D6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A1400C9D6000) | 46efcae09e6c9747 |
+| 1734 | デーモンクリスタル２　ナイザー | [010090300D9F8000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010090300D9F8000) | 4f806f1a4ae09a4a |
+| 1735 | ドラゴンクエスト | [0100A5500E488000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A5500E488000) | f3845d78427cb893 |
+| 1736 | ドラゴンクエストⅡ　悪霊の神々 | [0100B1900E48E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B1900E48E000) | d84098833bf007c6 |
+| 1737 | ドラゴンクエストⅢ　そして伝説へ… | [01002A800E490000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002A800E490000) | dc72232650d79885 |
+| 1738 | ノーリロードヒーローズ | [0100D730105B6000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100D730105B6000) | f8697f92bf87db49 |
+| 1739 | バトル オブ エレメンタル BURST | [0100F9E00ED30000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100F9E00ED30000) | c5c3a5df6275b3cd |
+| 1740 | モンスターファーム | [0100E9900ED74000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9900ED74000) | b5e50e20dea65d80 |
+| 1741 | ロマンシング サガ2 | [01002A1004B34000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002A1004B34000) | 16d2c9fdc70e9d41 |
+| 1742 | 中華大仙 | [0100DDD00B684000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DDD00B684000) | 37bab4d99968f748 |
+| 1743 | 戦国キャノン for Nintendo Switch | [0100C0E008340000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C0E008340000) | 498f36f55a42e1bf |
+| 1744 | 東方スペルバブル | [0100E9D00D6C2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E9D00D6C2000) | 9a5b6a581dfe374c |
+| 1745 | 滅やばたにえん | [0100074010F1C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100074010F1C000) | 47b04792d093604e |
+| 1746 | 牧場物語 重聚礦石鎮 | [0100C2D00EBD4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C2D00EBD4000) | 1f27449539e34189, 3353df7acba29330, 74b04562d41e3c1e, 865096b06ff9b91a |
+| 1747 | 鷹の爪VSハエの羽団 | [01003D100EAF4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D100EAF4000) | 56b2e6241792d94e |
+| 1748 | ＮＡＲＵＴＯ－ナルト－ 疾風伝　ナルティメットストーム４ ROAD TO BORUTO | [01003F800CF5C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003F800CF5C000) | 6535310591f44da1, c6d310a3669a5742 |
+| 1749 | 01000698009c6e00 | [01000698009C6E00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01000698009C6E00) | 70c806f458d36843 |
+| 1750 | 0100195015ac6001 | [0100195015AC6001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100195015AC6001) | 98f71cdd354e7a63 |
+| 1751 | 01001f7012e66000 | [01001F7012E66000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001F7012E66000) | 16c46473eeab2746 |
+| 1752 | 01001fa01451c001 | [01001FA01451C001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001FA01451C001) | 9894331947eacc47 |
+| 1753 | 01001fa01451c002 | [01001FA01451C002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01001FA01451C002) | ca075eb0db8bbf91 |
+| 1754 | 01002130150a2000 | [01002130150A2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002130150A2000) | 27efbb8fa331c148 |
+| 1755 | 0100275011e54000 | [0100275011E54000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100275011E54000) | 360df0107795cb40 |
+| 1756 | 01002a0012a0a000 | [01002A0012A0A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01002A0012A0A000) | 53938bcea352ec42, a0b9997a5d7ca848 |
+| 1757 | 01003b90136da000 | [01003B90136DA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003B90136DA000) | 1f936e043fb8c349 |
+| 1758 | 01003d60131de000 | [01003D60131DE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01003D60131DE000) | 5d37985ffd683d9a, aa9f5136791936a7 |
+| 1759 | 010040f011de4001 | [010040F011DE4001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040F011DE4001) | 94f8f5db3d8e0a47 |
+| 1760 | 010040f011de4002 | [010040F011DE4002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010040F011DE4002) | fbb667b7d6bfa041 |
+| 1761 | 0100414d32524e00 | [0100414D32524E00](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100414D32524E00) | f5f97f2d8a78f237 |
+| 1762 | 010042501329e000 | [010042501329E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042501329E000) | 119c804970c52cd2 |
+| 1763 | 010042800A51600 | [010042800A51600](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010042800A51600) | 742f9d7917f6bb4c |
+| 1764 | 010047e010b3e550 | [010047E010B3E550](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010047E010B3E550) | 404c24b13d16da49 |
+| 1765 | 010049900f546001 | [010049900F546001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049900F546001) | 9d00360ea7ceac4e |
+| 1766 | 010049900f546002 | [010049900F546002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049900F546002) | 64000c752a890efb, b21e3733e11d6fcf, ed0d7ace84eec780 |
+| 1767 | 010049900f546003 | [010049900F546003](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010049900F546003) | 15fded0d90ef5d72, a638857e6df584ff, ff44f58218c6a6b2 |
+| 1768 | 01004bd012500000 | [01004BD012500000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01004BD012500000) | 52b74c9f694cc45f |
+| 1769 | 010051d010fc2000 | [010051D010FC2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010051D010FC2000) | 3ecc0a9fb0b72ca3, 640d046f7294bbe9, a7a7f29b0366d99c |
+| 1770 | 010062300e0d4000 | [010062300E0D4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010062300E0D4000) | a156cd049516bb48 |
+| 1771 | 0100696014f4a000 | [0100696014F4A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100696014F4A000) | dc27156b7ab58d31, eb526f5a41621d69 |
+| 1772 | 010072400e06a000 | [010072400E06A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010072400E06A000) | 7ac8cbfa0d59a04c |
+| 1773 | 01007550129b2000 | [01007550129B2000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007550129B2000) | 541ec1d423bc2d40 |
+| 1774 | 010076b01196c000 | [010076B01196C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010076B01196C000) | fa302ad3e2cca94b |
+| 1775 | 01007af011732000 | [01007AF011732000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01007AF011732000) | fcb101343c2e1845 |
+| 1776 | 0100877008162000 | [0100877008162000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100877008162000) | 351694385b22760d |
+| 1777 | 01008F000908000 | [01008F000908000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/01008F000908000) | 0508130c213d6d7e |
+| 1778 | 010093a01305c000 | [010093A01305C000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/010093A01305C000) | 2d10be721f63e813, d95baaadde3908ef |
+| 1779 | 0100a2c01320e000 | [0100A2C01320E000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A2C01320E000) | 3575af17fabcb399 |
+| 1780 | 0100a58012268000 | [0100A58012268000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A58012268000) | 95f978b38ed9b44d |
+| 1781 | 0100a8b014930000 | [0100A8B014930000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100A8B014930000) | e26a54f785a76ee7 |
+| 1782 | 0100aa00128ba001 | [0100AA00128BA001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AA00128BA001) | 1765890577923cd4 |
+| 1783 | 0100af400dfa4000 | [0100AF400DFA4000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100AF400DFA4000) | f47c51db0ee9f98a |
+| 1784 | 0100b28014132800 | [0100B28014132800](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100B28014132800) | 60b4e42155e07989, aea6b2652ea9e34b |
+| 1785 | 0100bef013050000 | [0100BEF013050000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100BEF013050000) | dede62934d90ed75 |
+| 1786 | 0100c1f0141aa000 | [0100C1F0141AA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C1F0141AA000) | 7ab40e8a9691c2c3 |
+| 1787 | 0100c5a013b7a800 | [0100C5A013B7A800](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100C5A013B7A800) | 719be27194d137df |
+| 1788 | 0100cbf0115f2001 | [0100CBF0115F2001](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CBF0115F2001) | f4dec1d076552e4b |
+| 1789 | 0100cbf0115f2002 | [0100CBF0115F2002](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CBF0115F2002) | c0a75cfe9b9b814a |
+| 1790 | 0100cee0140ce000 | [0100CEE0140CE000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100CEE0140CE000) | 17cef19e3899e814, 4b9f056d355024cc |
+| 1791 | 0100ddb015cda000 | [0100DDB015CDA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100DDB015CDA000) | de8dae262124a8b8 |
+| 1792 | 0100e2f014f46000 | [0100E2F014F46000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100E2F014F46000) | 73c01d12ec628195, 7aeabb797c931714 |
+| 1793 | 0100ef0015a9a000 | [0100EF0015A9A000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100EF0015A9A000) | 93a2a9a7c1be5aa3 |
+| 1794 | 0100fd70134fa000 | [0100FD70134FA000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0100FD70134FA000) | 155b66a148bfbfbb |
+| 1795 | 0535DC453AB50000 | [0535DC453AB50000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/0535DC453AB50000) | 0000000000000000 |
+| 1796 | 054507E0B7552000 | [054507E0B7552000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/054507E0B7552000) | 0000000000000000, 4a7114c9560237cb, 5c0cbfefda841930, b5e8bf1fe6465e7e, d326058041b7f4dc, def702cdac4994ef |
+| 1797 | 05BE1C0259DE0000 | [05BE1C0259DE0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/05BE1C0259DE0000) | 56e7b8f33024d194 |
+| 1798 | 05C992BE824A0000 | [05C992BE824A0000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/05C992BE824A0000) | 0000000000000000, 0000000000000001 |
+| 1799 | 1000B700EC22000 | [1000B700EC22000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/1000B700EC22000) | dcad50aef4e03c48 |
+| 1800 | 1005c9002b42000 | [1005C9002B42000](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/1005C9002B42000) | e7c1eca56d362ef6 |
+| 1801 | 207231A04B2F3744 | [207231A04B2F3744](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/207231A04B2F3744) | 250ce7c4a4de1940 |
+| 1802 | 360df0107795cb40 | [360DF0107795CB40](https://github.com/ibnux/switch-cheat/tree/master/sxos/titles/360DF0107795CB40) | 360df0107795cb40 |
 
 
 ## GAME DB Source
