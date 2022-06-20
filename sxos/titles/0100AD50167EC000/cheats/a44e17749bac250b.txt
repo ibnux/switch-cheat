@@ -1,0 +1,5 @@
+[Ball deduction off]
+04000000 01491654 D503201F
+
+[Ball deduction on]
+04000000 01491654 51000508
