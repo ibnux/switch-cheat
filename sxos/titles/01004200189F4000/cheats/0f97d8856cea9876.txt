@@ -1,0 +1,47 @@
+[Fuel no reduction]
+04000000 0035A340 D503201F
+
+[Generators do not consume steam]
+04000000 005A9128 D503201F
+
+[High-speed battery charging]
+04000000 00368638 94445F46
+
+[High-speed research]
+04000000 0007D034 94500CD5
+04000000 011F7168 940A248B
+
+[Minerals locking 5431]
+04000000 004EE034 943E48C4
+
+[No reduction in battery power]
+04000000 003680C8 944460A5
+
+[Processing facilities production capacity max]
+04000000 003EEF78 944244F0
+
+[Processing facilities speed max]
+04000000 003EEF4C 944244F8
+
+[Production facilities production capacity max]
+04000000 004A64D8 1E602800
+
+[Production facilities speed max]
+04000000 004A64E8 943F678E
+
+[R+Splitting Copy items]
+80000080
+04000000 00CA2A58 1100C908
+20000000
+
+[Radar high-speed scanning]
+08000000 004CBA00 943ED25C D503201F
+
+[Research does not consume bottles]
+04000000 00CC046C D503201F
+
+[Robots do not consume electricity]
+04000000 00457A1C 9440A253
+
+[Smelting speed max]
+04000000 003EF090 1E612801

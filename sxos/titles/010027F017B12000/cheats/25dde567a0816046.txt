@@ -1,0 +1,9 @@
+[Always have at least 1 life]
+04000000 014A2A94 52800028
+
+[off]
+04000000 016C6AF8 0B080128
+04000000 014A2A94 51000508
+
+[Won't loose when the scale tip against you]
+04000000 016C6AF8 D503201F

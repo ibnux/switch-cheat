@@ -1,0 +1,27 @@
+[Created By Gamerjin]
+20000000
+
+[Inf lives (off)]
+04000000 0080937C 51000529
+
+[inf lives method 1(subtraction cancellation)]
+04000000 0080937C 51000129
+
+[inf lives method 2(custom number load)]
+04000000 0080937C 18FFFE89
+04000000 0080934C 00000009
+
+[inf shielding M1]
+04000000 0083D854 52800028
+
+[inf shielding M2]
+04000000 0083E5AC 52800028
+
+[inf shielding Method 1(writing)]
+04000000 0083D854 51000508
+
+[inf shielding method 2(reading)]
+04000000 0083E5AC B9463268
+
+[Invinicble]
+04000000 0083FEBC 1E2E1000
