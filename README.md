@@ -4,9 +4,7 @@ SXOS Compiled database, you can use it for others Cheat Engine
 
 NO PULL REQUEST, THIS REPO AUTOMATICALLY CREATED BY SCRIPT
 
-For Atmosphere, just change folder name **sxos** to **atmosphere**
-
-32313 cheats in 1970 titles
+32887 cheats in 2002 titles
 
 ## GAMES INDEX
 
@@ -14,7 +12,7 @@ For Atmosphere, just change folder name **sxos** to **atmosphere**
 
 ## DOWNLOAD
 
-[Releases Page](https://github.com/ibnux/switch-cheat/releases)
+[Click Here](https://github.com/ibnux/switch-cheat/archive/refs/heads/master.zip)
 
 
 

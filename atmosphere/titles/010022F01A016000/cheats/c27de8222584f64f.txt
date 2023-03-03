@@ -1,0 +1,8 @@
+[Infinite Sprint]
+04000000 0158CBB8 51000108
+
+[Invincible]
+04000000 0157D608 1E204000
+
+[No reduction in energy]
+04000000 0158DF28 1E204001
