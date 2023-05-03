@@ -1,6 +1,6 @@
 # SWITCH CHEAT DATABASE
 
-SXOS Compiled database, you can use it for others Cheat Engine
+Compiled cheat database from many sources
 
 NO PULL REQUEST, THIS REPO AUTOMATICALLY CREATED BY SCRIPT
 
