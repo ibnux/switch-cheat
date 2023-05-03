@@ -1,0 +1,19 @@
+[extract 500 and deafeat 1000 enemies after battle]
+040B0000 0355B068 52807D08
+
+[extract 500 and deafeat 1000 enemies after battle off]
+040B0000 0355B068 8B130108
+
+[max kazemaru stamina]
+040B0000 0379A414 BD002661
+
+[max kazemaru stamina off]
+040B0000 0379A414 BD002660
+
+[max skill]
+040B0000 031FC360 1E27F001
+040B0000 031FC364 1E202820
+
+[max skill off]
+040B0000 031FC360 BD400920
+040B0000 031FC364 1E220800
