@@ -2,7 +2,7 @@
 
 SXOS Compiled database, you can use it for others Cheat Engine
 
-33292 cheats in 2035 titles
+33339 cheats in 2040 titles
 
 | No | NAME | TITLE ID | BUILD ID |
 | --- | --- | --- | --- |
@@ -52,8 +52,8 @@ SXOS Compiled database, you can use it for others Cheat Engine
 | 44 | ACA NEOGEO FATAL FURY | [0100EE6002B48000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EE6002B48000) | 0f9affb0ccbead2e |
 | 45 | ACA NEOGEO FATAL FURY 2 | [0100CAF001DBE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CAF001DBE000) | 84f8723c0b2edd8b |
 | 46 | ACA NEOGEO Fatal Fury 3 | [01000D1008714000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000D1008714000) | a331029fba7353b7 |
-| 47 | ACA NEOGEO Fatal Fury special  | [010019A0038FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010019A0038FA000) | bf06160b4d5e2fa6 |
-| 48 | ACA NEOGEO FATAL FURY SPECIAL | [010019A0038FA00](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010019A0038FA00) | bf06160b4d5e2fa6 |
+| 47 | ACA NEOGEO FATAL FURY SPECIAL | [010019A0038FA00](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010019A0038FA00) | bf06160b4d5e2fa6 |
+| 48 | ACA NEOGEO Fatal Fury special  | [010019A0038FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010019A0038FA000) | bf06160b4d5e2fa6 |
 | 49 | ACA NEOGEO GAROU: MARK OF THE WOLVES | [0100CB2001DB8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CB2001DB8000) | bc47ad4e7bed34e3 |
 | 50 | ACA NEOGEO GHOST PILOTS | [01005D700A2F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005D700A2F8000) | 1f6db096bf36fb72 |
 | 51 | ACA NEOGEO KARNOVS REVENGE | [010014E004FA8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014E004FA8000) | 0ba3875088a42f20, 28b02ef98363e329, 95d53d2920515450, e19317ee3daf4fea |
@@ -272,8 +272,8 @@ The guardian owls | [0100A75005E92000](https://github.com/ibnux/switch-cheat/tre
 | 263 | Battle Cats | [01003C300B274000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003C300B274000) | 83ed8627cb8a9801 |
 | 264 | Battle Chasers: Nightwar | [0100551001D88000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100551001D88000) | d0222f29ab9bb64c |
 | 265 | Battle Hunters | [0100A3B011EDE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A3B011EDE000) | 6a6737f9cf9eef0b |
-| 266 | Battle Princess Madelyn | [0100C4D0093EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C4D0093EA000) | 8c853c65d7ff824f |
-| 267 | Battle Princess Madelyn | [010094A00BEF8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010094A00BEF8000) | 18d0d1aba92c624d |
+| 266 | Battle Princess Madelyn | [010094A00BEF8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010094A00BEF8000) | 18d0d1aba92c624d |
+| 267 | Battle Princess Madelyn | [0100C4D0093EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C4D0093EA000) | 8c853c65d7ff824f |
 | 268 | Battle Princess Madelyn Royal Edition | [0100A7500DF64000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A7500DF64000) | 404c24b13d16da49 |
 | 269 | Battle Supremacy - Ground Assault | [0100F2100D8F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2100D8F2000) | f6452d5b121008a8 |
 | 270 | Bayonetta | [010076F0049A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076F0049A2000) | 7ae22ddabce854f5 |
@@ -313,8 +313,8 @@ The guardian owls | [0100A75005E92000](https://github.com/ibnux/switch-cheat/tre
 | 304 | Blast Brigade vs. the Evil Legion of Dr. Cread | [0100F76014D7C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F76014D7C000) | 92980bd0eee9a849 |
 | 305 | Blaster Master Zero | [0100225000FEE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100225000FEE000) | 2f3fca7b168909b9, a3bce5521b979943, cb248efc0e80b579 |
 | 306 | Blaster Master Zero 2 | [01005AA00D676000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005AA00D676000) | a4ea361912d1faac, a6508b49cb116267, b4c22c2a6b42cb3d, eacf4443d4078f41 |
-| 307 | BLAZBLUE CENTRALFICTION Special Edition | [0100EE800C93E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EE800C93E000) | 4c531136514b74b1 |
-| 308 | BLAZBLUE CENTRALFICTION Special Edition | [0100EE900AB58000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EE900AB58000) | 1c1f052d10a63eef |
+| 307 | BLAZBLUE CENTRALFICTION Special Edition | [0100EE900AB58000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EE900AB58000) | 1c1f052d10a63eef |
+| 308 | BLAZBLUE CENTRALFICTION Special Edition | [0100EE800C93E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EE800C93E000) | 4c531136514b74b1 |
 | 309 | BlazBlue: Cross Tag Battle | [0100B61008208000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B61008208000) | 1ae1f9f6e9756c30 |
 | 310 | Blazing Chrome | [0100C2700C252000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C2700C252000) | 318f9f225a532857, da4276df8ade4eec |
 | 311 | BLEED | [010042C006490000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042C006490000) | 29c3da45a9a9b062, c26b326ecee0aca1 |
@@ -423,1625 +423,1630 @@ The guardian owls | [0100A75005E92000](https://github.com/ibnux/switch-cheat/tre
 | 414 | Concept Destruction [Rev 1.0.0] | [0100971011224000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100971011224000) | 16f03a8a9ff95742 |
 | 415 | Conjurer Andy's Repeatable Dungeon | [0100C8500CBC4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C8500CBC4000) | 6e6053566cfbc210 |
 | 416 | Contra: Rogue Corps | [0100F2600D710000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2600D710000) | 8b5602a415099d59, cc28259144a178c0 |
-| 417 | Cooking Simulator | [01001E400FD58000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001E400FD58000) | 54d347dc37e12941 |
-| 418 | CopperBell | [0100C5A0115C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C5A0115C4000) | b35a2167f134094d |
-| 419 | Cosmic Star Heroine | [010067C00A776000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010067C00A776000) | 6b3808bcfea9be42 |
-| 420 | Cotton Reboot [Rev 1.0.0] | [01003DD00F94A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003DD00F94A000) | 6743a37fce1e9be4 |
-| 421 | Crash Bandicoot N. Sane Trilogy | [0100D1B006744000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D1B006744000) | 29e1a37d84227147 |
-| 422 | Crash Bandicoot™ 4: It’s About Time | [010073401175E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010073401175E000) | 8778d3227d806567, d3ca5602f3467451, e8db38f170b0149d |
-| 423 | Crash Dummy | [010046600BD0E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010046600BD0E000) | dc2e82a825e4b747 |
-| 424 | Crash Team Racing Nitro-Fueled | [0100F9F00C696000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F9F00C696000) | 1c68951840693051, 20e862bd6c39d8ae, 22df179b89611807, 47e60871471f1ce9, 64736428d344e78e, 67813b3f85782991, 6c34f9d999e908e8, 6d693314dac7b040, 9a5cf70301fbeb93, be5ee5a46fcde180, c25bb998c6d3c629, d614a20dde59e4d7, dfcfaff44673ef2b, ec79bf385ed287e8, ed5d2d9df7a61c7d |
-| 425 | Crawlco Block Knockers | [0100148012F7A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100148012F7A000) | 40bb457f738e3cbe |
-| 426 | Crayon Shin-chan "Ora to Hakase no Natsuyasumi": Owaranai Nanokakan no Tab [Rev 1.0.0] | [01005BA00F486000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005BA00F486000) | 581b2b50678f2941 |
-| 427 | Crimsonland | [01005640080B0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005640080B0000) | 89a17f4a3a24595f |
-| 428 | Crimzon Clover - World EXplosion | [01006B800DE26000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006B800DE26000) | 7f112d4c048e9eee |
-| 429 | Cris Tales | [0100B0400EBC4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B0400EBC4000) | 9d1c31c1e9270643 |
-| 430 | Crisis Core -Final Fantasy VII- Reunion [Rev 1.0.0] | [0100D09016C6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D09016C6A000) | 713113adc7b15df9, fbbc0547b10349d6 |
-| 431 | CRISIS CORE –FINAL FANTASY VII– REUNION | [01004BC0166CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004BC0166CC000) | 0f01d505966dabf6, 6601a8a72426a5cd |
-| 432 | Crisis Wing | [0100CAC015A8A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CAC015A8A000) | c0cfaea6a0bd3942 |
-| 433 | Croc's World | [01004F800C4DA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004F800C4DA000) | 777320c58883bd91 |
-| 434 | Croc's World 2 | [01009DB00DE12000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009DB00DE12000) | 934946857ae782c7 |
-| 435 | Croc's World 3 | [010025200FC54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010025200FC54000) | 98f36c45c6c78ab6 |
-| 436 | CrossCode | [01003D90058FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D90058FC000) | bccabe04aaa3bd58 |
-| 437 | Crown Trick | [0100059012BAE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100059012BAE000) | 3d7fcd24d5ee4042, d54a9e2cc4ba2947 |
-| 438 | Cruisn Blast [Rev 1.06] | [0100B41013C82000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B41013C82000) | 9346d69abd4cc24b |
-| 439 | Cryogear | [0100AC100CCF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AC100CCF6000) | 2ad1db30685b030e |
-| 440 | Crypt of the Necrodancer | [0100CEA007D08000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CEA007D08000) | b238fa943d2a300d |
-| 441 | Crysis 2 Remastered | [0100582010AE0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100582010AE0000) | 06a2a4a3d5ff4d7c, 1d2022d0d6edcd29 |
-| 442 | Crysis Remastered | [0100E66010ADE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E66010ADE000) | 5d28e2b25f564f43, 926553c68db4f96e, cdb9f2fc58064064, f8783cb2cb3bf79f |
-| 443 | Crystal Ortha | [01008FA012FC0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008FA012FC0000) | 9b192f49cdbc0746 |
-| 444 | Cube Life: Island Survival | [0100519007636000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100519007636000) | 711f2270ba94194e |
-| 445 | Cult of the Lamb | [01002E7016C46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002E7016C46000) | b5dc69ced031d447 |
-| 446 | Cuphead | [0100A5C00D162000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A5C00D162000) | 03fe981064a8e44f, 80537fb47433794b, d02cd50295124a48, e5f6265d8d486648, f381d8ede77ae347, ffe6641915cd2f4c |
-| 447 | Curse of the Sea Rats | [0100B970138FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B970138FA000) | 1e5a8acf2bc55652 |
-| 448 | Cursed Castilla ex | [0100ED700B376000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ED700B376000) | d8014da69caf4d6c |
-| 449 | Cyber Shadow | [01008D100DE46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D100DE46000) | 7ab40e8a9691c2c3 |
-| 450 | Daemon X Machina | [0100CB8005B26000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CB8005B26000) | 619d3570bf6b9b7b |
-| 451 | Daemon X Machina | [0100B6400CA56000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B6400CA56000) | 619d3570bf6b9b7b, ce8a42e1a1c73b26 |
-| 452 | Damsel | [0100BD2009A1C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD2009A1C000) | f6b9d27b867f2b4f |
-| 453 | Dandara | [0100BFC002B4E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BFC002B4E000) | f000171741236440 |
-| 454 | Dandy Ace | [0100608014708000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100608014708000) | 0100608014708000, 4f19956a6cdaca48 |
-| 455 | Dandy Dungeon - Legend of Brave Yamada - | [0100DFB00D808000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DFB00D808000) | 29410ca2711a4145 |
-| 456 | Danger Gazers | [0100B3901324A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B3901324A000) | eec8e7475d2b06c0 |
-| 457 | Danmaku Unlimited 3 | [0100417007F78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100417007F78000) | 35177d3968aca808, cf4207220d0ada5b |
-| 458 | Darius Cozmic Collection Console | [01000330105BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000330105BE000) | ded774f05f23a7e9 |
-| 459 | Darius Cozmic Revelation [2x Rev 1.0.0] | [010015800F93C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010015800F93C000) | e6af25ecbd97a207 |
-| 460 | Dariusburst: Another Chronicle EX+ | [010043F013044000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010043F013044000) | ff3b532334e35f08 |
-| 461 | DARK MINUTE: Kira's Adventure | [01006590187FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006590187FC000) | a869308e69cf3308 |
-| 462 | Dark Souls: Remastered | [01004AB00A260000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004AB00A260000) | 5a797a3a5da6c4f3, 9985b82cc518ffaf, df3766a2bb651a3e, f4b72c9ef704ca64 |
-| 463 | Dark Water: Slime Invader | [0100C88014614000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C88014614000) | 9b1e3922172a594b |
-| 464 | Dark Witch Music Episode: Rudymical | [01001FA0034E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001FA0034E2000) | 9f751801449b6d7a |
-| 465 | Darksiders Genesis [Rev 1.0.0] | [0100F2300D4BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2300D4BA000) | 0eb0818751685be8, 1dd738fe18fd9bbc, darksiders genes, db17131624d04a9c, dd7a7a508f483608 |
-| 466 | Darksiders II [Deathinitive Edition] | [010071800BA98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010071800BA98000) | 173e2edea9e5d940 |
-| 467 | Darksiders III [Rev 1.0.0] | [0100F8F014190000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F8F014190000) | af7114f019ce6e1d |
-| 468 | Darksiders Warmastered Edition | [0100E1400BA96000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E1400BA96000) | a4cc4c44c07aec14 |
-| 469 | Darksiders Warmastered Edition  | [0100E140BA96000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E140BA96000) | a4cc4c44c07aec14 |
-| 470 | Darkwood | [010033500B7B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010033500B7B6000) | 1cc75c05b5c0cb40, 207231a04b2f3744, 250ce7c4a4de1940, 39a33d59f1f2b841 |
-| 471 | DC Super Hero Girls™: Teen Power | [0100F8F00C4F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F8F00C4F2000) | bc714e2d7d32ab41 |
-| 472 | DC's Justice League: Cosmic Chaos | [0100157015DD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100157015DD8000) | 2bfc784e7e10dd89 |
-| 473 | Dead Cells | [0100FC000AEF0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FC000AEF0000) | 0ec417630f5c7a35, 62f7f1e54f9353f8 |
-| 474 | Dead Cells | [0100646009FBE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100646009FBE000) | 073e52946bd464a0, 07590851285f3479, 0b9a75586bc1a6c6, 113fe52d64570f0f, 193312261c565696, 1be215b198e66550, 254c9e4b338bfcd3, 324e785b5f3cee68, 376d8ef97fb8a97d, 423b3dd5f30b5abc, 4e539f27ff8b38eb, 5474c91b733d8621, 62cd40cee7d6e7b7, 62f7f1e54f9353f8, 880653d91ece0771, 8953fa5ba3b144ef, 985189e46f9cf34d, 9d5e589420074b67, b2fcf615ded71da7, ce6074604542acac, d54a4677ec796e15, d8bfb3dfd14773f8, da6049b1703bcb2c, dd93187b1b5e0cb5, e123f86e654ca1ef, efe3aca35e248bb6 |
-| 475 | dead cells 1.3 | [010064009FBE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010064009FBE000) | efe3aca35e248bb6 |
-| 476 | Dead Effect 2 | [01007860152EE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007860152EE000) | 630ab427cb952e4d |
-| 477 | Dead or Alive Xtreme 3: Scarlet | [01009CC00C97C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009CC00C97C000) | d81d2492b00f45d2 |
-| 478 | DEAD OR SCHOOL | [0100E7100C52C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E7100C52C000) | d29fa0c8b15e7842 |
-| 479 | DEADCRAFT | [010088F01599C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010088F01599C000) | dacd97a329b3c1ad |
-| 480 | Deadly Days | [010095A011A14000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095A011A14000) | 18591dd841cc6a44 |
-| 481 | Deadly Premonition 2: A Blessing In Disguise | [0100BAC011928000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BAC011928000) | 2481dafb3edc6b4e, 3c9b3ecfad8a9542, 47855f311db97849 |
-| 482 | Death Road to Canada | [0100423009358000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100423009358000) | 4cb1dc253d230b2c |
-| 483 | Death Tales | [0100A51013550000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A51013550000) | b4889e2facba7e5c |
-| 484 | Death's Door | [0100B31015AF8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B31015AF8000) | 469507dfa61af848 |
-| 485 | Death's Gambit: Afterlife | [01006A0015812000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006A0015812000) | 82bf132698a09a49, b47d0260608253ac, bc39a2ba6fd581d1, c7d5d3afb3b946b5 |
-| 486 | DEATHRUN TV | [010025B01585A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010025B01585A000) | b7115de9a751f050 |
-| 487 | Deep Sky Derelicts: Definitive Edition | [0100C3E00D68E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C3E00D68E000) | cb90194eced68b43 |
-| 488 | Deep Space Rush | [01000A700F956000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000A700F956000) | 3c1fb5bc36eb1f66 |
-| 489 | Defend Your Castle | [01006E600D9C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006E600D9C2000) | 71cead463a463746 |
-| 490 | Defense Grid 2 | [010061300BBF8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010061300BBF8000) | 3953274ef966b6b2, e674d6fdaeae5844 |
-| 491 | DELTARUNE Chapter 1 | [010023800D64A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010023800D64A000) | e450a5dd753d257f |
-| 492 | Demon Pit | [010084600F51C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010084600F51C000) | 92d5eac4cfd36242 |
-| 493 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles | [0100309016E7A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100309016E7A000) | 11253bfcf0934d84, 681f1664d737ec88, 8bb6740672f4beb2, 9ee37a5c500c8488, a97bb282d1be7e26, ce4d867de59d8358, e994c553ed22376c, eaa8856a22607065 |
-| 494 | Demon's Tier+ | [0100161011458000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100161011458000) | 7e2745f9a427a583 |
-| 495 | DEMON'S TILT | [0100BE800E6D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE800E6D8000) | b6a0defb7d316045 |
-| 496 | Demong Hunter | [010000401313A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010000401313A000) | f97054189a86de4f |
-| 497 | Densha de GO !! -Hashiro Yamanote Line- [Rev 1.0.0] | [0100BC501355A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BC501355A000) | 72556bdf87ff54ea |
-| 498 | Descenders | [0100D4600D0E4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D4600D0E4000) | da3378adc2ecb844 |
-| 499 | Descenders [Rev 1.0.0] | [0100C2F013084000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C2F013084000) | d0fcd671804c1b42 |
-| 500 | Destroy All Humans! | [01009E701356A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009E701356A000) | 7a4bd7bd8c9388fa |
-| 501 | Devil Engine | [010031B00CF66000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010031B00CF66000) | bb1817c904cd13fe |
-| 502 | Devil May Cry | [0100E8000D5B8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E8000D5B8000) | 883f54c67475abae |
-| 503 | Devil May Cry 2 | [01007CF00D5BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007CF00D5BA000) | f8c066a1e59d8cce |
-| 504 | Devil May Cry 3 Special Edition | [01007B600D5BC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007B600D5BC000) | 010bcee657eafedf, 258d8ba560cfa34c |
-| 505 | Devious Dungeon | [01009EA00A320000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009EA00A320000) | 2d57263d985efa40 |
-| 506 | Devious Dungeon 2 | [0100FD600DFDC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FD600DFDC000) | bf57b4d7ba5ef145 |
-| 507 | Dex | [01003F601025E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003F601025E000) | f0a4874a7fa53947 |
-| 508 | Diablo III: Eternal Collection | [01001B300B9BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B300B9BE000) | 1da2a1a648905450, 2ac6db9e14898083, 2d117920406c4b15, 46b754c506e2ee0a, 4cc6e18934fedee1, 8972613a7ca4e46d, a3e80174bf5ae455, ab8893b8563cb2fd, c0f4b9ffffa1f5dd, e5cd0078f196b4ed, eafc2cef9b161d20 |
-| 509 | Diablo® II: Resurrected™ | [0100726014352000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100726014352000) | 22511f5ef500cd14, 4de22400c997ed23 |
-| 510 | Diabolic | [0100F73011456000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F73011456000) | 7fe0a7323d2e968a |
-| 511 | Digimon Story: Cyber Sleuth [Complete Edition] | [010014E00DB56000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014E00DB56000) | 92a6c699e4bae7da, bedae701dd8565cd, ca86dbb44a335ead |
-| 512 | Digimon Survive | [010047500B7B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010047500B7B2000) | 91f1e17f8d8d0b4a, 91f1e17f8dbd0b4a |
-| 513 | Digimon Survive [Rev 1.0.0] | [010002400B770000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010002400B770000) | 794239ba67eead43 |
-| 514 | Digimon World: Next 0rder [Rev 1.0.0] | [0100F00014254000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F00014254000) | 018f3a9582c69140 |
-| 515 | Digimon World: Next Order | [01007EA015520000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007EA015520000) | 002190deca0e9a4b, 018f3a9582c69140 |
-| 516 | Dire Vengeance Deluxe | [0100BE8019834000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE8019834000) | 0c08584382c0d9c8 |
-| 517 | Disco Elysium - The Final Cut | [01006C5015E84000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C5015E84000) | 8cd5adbf3bbf1d5d |
-| 518 | Disease -Hidden Object- | [01005E600AB64000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005E600AB64000) | 4cee2e7a0a18e44b |
-| 519 | Disgaea 1 Complete | [01004B100AF18000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B100AF18000) | 18b01c2123631637 |
-| 520 | Disgaea 4 Complete+ | [0100A9800E9B4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A9800E9B4000) | 6a1bf67d25fc2ed0, 767dc7b2885026a8 |
-| 521 | Disgaea 5 Complete | [01005700031AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005700031AE000) | cc9abdfa887f316d |
-| 522 | Disgaea 6: Defiance of Destiny | [0100ABC013136000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ABC013136000) | 0b3ac195c9f27084 |
-| 523 | Disjunction | [01000B70122A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000B70122A2000) | 5cfdd9f0daf0308e |
-| 524 | Disney Classic Games: Aladdin and The Lion King | [0100A2F00EEFC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A2F00EEFC000) | 6dacef3fd1431455 |
-| 525 | Disney Dreamlight Valley | [0100D39012C1A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D39012C1A000) | 140186d6dda777cd |
-| 526 | Disney Tsum Tsum Festival | [010012800EBAE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010012800EBAE000) | 1f7d8734ceb66148, 62dc4bf18520b348 |
-| 527 | Divinity: Original Sin 2 - Definitive Edition | [010027400CDC6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027400CDC6000) | 1dd992e93e645a52, 3c4e2b234cb55b78, 7d3432c23010c1bd, dbd602f66e2de27d, eee583fdd942f6aa, f821dc8cc9a45414 |
-| 528 | Dongo Adventure | [010088B010DD2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010088B010DD2000) | 5015dea149a3c14f |
-| 529 | Donkey Kong Country: Tropical Freeze (rev001) | [0100C1F0051B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C1F0051B6000) | f48bd40d89b529c1 |
-| 530 | DOOM | [0100416004C00000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100416004C00000) | 01ace43e724259c3 |
-| 531 | DOOM (1993) | [010018900DD0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010018900DD0000) | c35190ad7468cb42 |
-| 532 | DOOM (1993) | [010018900DD00000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010018900DD00000) | 2816930e5331df42, 53b3e4a3b478bf4b, 9b97e6f23f01a044 |
-| 533 | DOOM 3 | [010029D00E740000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010029D00E740000) | 28b88c3bdf442ebb, 9408aaa62605d822 |
-| 534 | DOOM 64 | [01005D700E742000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005D700E742000) | 1f45f195fb7468c5 |
-| 535 | DOOM II (Classic) | [0100D4F00DD02000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D4F00DD02000) | 1f6c11f9ae3c2148, 5bf6780e838c1e47, 6a881b176cc04d49, b23620b7c664034b |
-| 536 | DOOM® Eternal | [0100B1A00D8CE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1A00D8CE000) | 01357918afdde9c0, 0367b729a8638f45, 1e85d7c778b7ab24, 279822905f62f50f, 2ae84e5124817b87, 5af6f31eac42dbc0, b2e03687892e59fb, c4e8abde598cbe54, doom eternal ver, ed6715cb8e011e31, f73bb6e8e8df350d |
-| 537 | Door Kickers: Action Squad | [01005ED00CD70000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005ED00CD70000) | 1d3380ee5cc8dc3a |
-| 538 | Doraemon: Story of Seasons | [010073700E412000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010073700E412000) | 1bbc6341e973e943, 59624bd909dfdd4b, d5285c0a02fdc14c, ee35389beb0ff248 |
-| 539 | DOTORI | [0100DBD013C92000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DBD013C92000) | b559cde7bc2ad148 |
-| 540 | Double Cross | [010038D00C1DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038D00C1DC000) | 7ef6091d867f8047 |
-| 541 | DOUBLE DRAGON | [010067C00E496000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010067C00E496000) | 7c9c04e77258fa47, a84d1538fbfcb546 |
-| 542 | Double Dragon & Kunio-kun: Retro Brawler Bundle | [0100C0E00F0AC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C0E00F0AC000) | 0d1c3b432523b045 |
-| 543 | DOUBLE DRAGON II The Revenge | [01009E3001DDE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009E3001DDE000) | 7bb496830fbaefb5 |
-| 544 | Double Dragon Neon | [01005B10132B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005B10132B2000) | f840d4127e63312d |
-| 545 | DOUBLE DRAGON Ⅱ: The Revenge | [0100DD900E498000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DD900E498000) | 6a71dc9407b10148 |
-| 546 | DOUBLE DRAGON Ⅲ: The Sacred Stones | [01001AD00E49A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001AD00E49A000) | c4994905d081354c |
-| 547 | DOUBLE DRAGON4 | [010001B005E5C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010001B005E5C000) | fe9ddb64d10bf747 |
-| 548 | Doug Hates His Job | [0100A14013B1E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A14013B1E000) | b99305304df99c41 |
-| 549 | Down to Hell | [0100B6600FE06000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B6600FE06000) | 62c8976e3dee9740 |
-| 550 | Drag Sim 2020 | [0100B59011A1C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B59011A1C000) | fe87beb149f96c45 |
-| 551 | DragoDino | [0100566009238000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100566009238000) | 114f5a2d5fe04446 |
-| 552 | DRAGON BALL FighterZ | [0100A250097F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A250097F0000) | 46c8ba904c2f37cb, 70df9fbff6e78f49, 7a06910a203e80b2, 810a82b5c6fb347f, 949f85fcf0608a26, 9b710d5867004cf8, cd53729b7ae2d794, ce094b2b58e4d0c8, e6c3fe55ad27891e, ef3a27c7a00fb584 |
-| 553 | Dragon Ball Heroes | [0100E5E00C464000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5E00C464000) | 35712a42cf7d37c9 |
-| 554 | Dragon Ball Xenoverse 2 | [010078D000F88000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010078D000F88000) | 0d0e5aab66ad6795, 0f4992d359c3b6dd, 15f6affe27bc79dc, 3549519a39128dbb, 54c53bf518bef0ed, 5691ded1329c2cf7, 5d6d051aea5d556d, 867b51c287259559, f89026442c938f06, ff91eeda841180d5, ffd194436f8d3d2d |
-| 555 | Dragon Ball Z KAKAROT + A New Power Awakening Set [Rev 1.00] | [0100EF00134F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EF00134F4000) | c652ec8d0928bac0 |
-| 556 | DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET | [010051C0134F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010051C0134F8000) | fbe93aaaa4c11567 |
-| 557 | Dragon Lapis | [010076F012CD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076F012CD8000) | 92ec5e5a7338b442 |
-| 558 | Dragon Marked For Death | [010089700150E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010089700150E000) | 185a67621d9b8d61, 4233b4516cb5b3d8, 66d0494fb531f45f, 6e1fcdb58ddea086, 70a2f7fc803e2d0e, 9b066abb5e29b8fe, e22ee1b82e5b8835, e4114eb197e80ca8, e671d5f4979f0cea, e6d27d568f3ea9c8 |
-| 559 | DRAGON QUEST | [0100EFC00EFB2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EFC00EFB2000) | 4c1e8f555e6b88da |
-| 560 | Dragon Quest 1, 2 & 3 Collection | [010015600EFB6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010015600EFB6000) | 43d16253cd0bdd2a |
-| 561 | Dragon Quest Builders | [010008900705C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010008900705C000) | 93a84d948c179001 |
-| 562 | Dragon Quest Builders - Alefgard o Fukkatsu Seyo | [01007B5002F56000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007B5002F56000) | 61fa6eeda9a63672 |
-| 563 | DRAGON QUEST BUILDERS 2 | [010042000A986000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042000A986000) | 1a0b233dc70b7f6e, 687753c332cfff53, a6b07ff854883072, ed620a2fd245ffe0, f311f4b1e6f32be0 |
-| 564 | Dragon Quest Builders 2 | [010050000705E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010050000705E000) | 3ebf22ed97873d1f, 43d3724d70a32464, 4e1a22c61868d4c0, 79a11fd138520490, a93ef5c9c956ac1f, abb2ac36c4d38805, d29dc85061688483, d58e985f267b9abd, f847df7905274ef5 |
-| 565 | Dragon Quest Builders 2 (JAP) | [ABB2AC36C4D3880](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/ABB2AC36C4D3880) | 010050000705e000 |
+| 417 | Contract Killer | [010014D017C38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014D017C38000) | 17c0a0e68dfd834f |
+| 418 | Cooking Simulator | [01001E400FD58000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001E400FD58000) | 54d347dc37e12941 |
+| 419 | CopperBell | [0100C5A0115C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C5A0115C4000) | b35a2167f134094d |
+| 420 | Cosmic Star Heroine | [010067C00A776000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010067C00A776000) | 6b3808bcfea9be42 |
+| 421 | Cotton Reboot [Rev 1.0.0] | [01003DD00F94A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003DD00F94A000) | 6743a37fce1e9be4 |
+| 422 | Crash Bandicoot N. Sane Trilogy | [0100D1B006744000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D1B006744000) | 29e1a37d84227147 |
+| 423 | Crash Bandicoot™ 4: It’s About Time | [010073401175E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010073401175E000) | 8778d3227d806567, d3ca5602f3467451, e8db38f170b0149d |
+| 424 | Crash Dummy | [010046600BD0E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010046600BD0E000) | dc2e82a825e4b747 |
+| 425 | Crash Team Racing Nitro-Fueled | [0100F9F00C696000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F9F00C696000) | 1c68951840693051, 20e862bd6c39d8ae, 22df179b89611807, 47e60871471f1ce9, 64736428d344e78e, 67813b3f85782991, 6c34f9d999e908e8, 6d693314dac7b040, 9a5cf70301fbeb93, be5ee5a46fcde180, c25bb998c6d3c629, d614a20dde59e4d7, dfcfaff44673ef2b, ec79bf385ed287e8, ed5d2d9df7a61c7d |
+| 426 | Crawlco Block Knockers | [0100148012F7A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100148012F7A000) | 40bb457f738e3cbe |
+| 427 | Crayon Shin-chan "Ora to Hakase no Natsuyasumi": Owaranai Nanokakan no Tab [Rev 1.0.0] | [01005BA00F486000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005BA00F486000) | 581b2b50678f2941 |
+| 428 | Crimsonland | [01005640080B0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005640080B0000) | 89a17f4a3a24595f |
+| 429 | Crimzon Clover - World EXplosion | [01006B800DE26000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006B800DE26000) | 7f112d4c048e9eee |
+| 430 | Cris Tales | [0100B0400EBC4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B0400EBC4000) | 9d1c31c1e9270643 |
+| 431 | Crisis Core -Final Fantasy VII- Reunion [Rev 1.0.0] | [0100D09016C6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D09016C6A000) | 713113adc7b15df9, fbbc0547b10349d6 |
+| 432 | CRISIS CORE –FINAL FANTASY VII– REUNION | [01004BC0166CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004BC0166CC000) | 0f01d505966dabf6, 6601a8a72426a5cd |
+| 433 | Crisis Wing | [0100CAC015A8A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CAC015A8A000) | c0cfaea6a0bd3942 |
+| 434 | Croc's World | [01004F800C4DA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004F800C4DA000) | 777320c58883bd91 |
+| 435 | Croc's World 2 | [01009DB00DE12000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009DB00DE12000) | 934946857ae782c7 |
+| 436 | Croc's World 3 | [010025200FC54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010025200FC54000) | 98f36c45c6c78ab6 |
+| 437 | CrossCode | [01003D90058FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D90058FC000) | bccabe04aaa3bd58 |
+| 438 | Crown Trick | [0100059012BAE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100059012BAE000) | 3d7fcd24d5ee4042, d54a9e2cc4ba2947 |
+| 439 | Cruisn Blast [Rev 1.06] | [0100B41013C82000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B41013C82000) | 9346d69abd4cc24b |
+| 440 | Cryogear | [0100AC100CCF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AC100CCF6000) | 2ad1db30685b030e |
+| 441 | Crypt of the Necrodancer | [0100CEA007D08000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CEA007D08000) | b238fa943d2a300d |
+| 442 | Crysis 2 Remastered | [0100582010AE0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100582010AE0000) | 06a2a4a3d5ff4d7c, 1d2022d0d6edcd29 |
+| 443 | Crysis Remastered | [0100E66010ADE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E66010ADE000) | 5d28e2b25f564f43, 926553c68db4f96e, cdb9f2fc58064064, f8783cb2cb3bf79f |
+| 444 | Crystal Ortha | [01008FA012FC0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008FA012FC0000) | 9b192f49cdbc0746 |
+| 445 | Cube Life: Island Survival | [0100519007636000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100519007636000) | 711f2270ba94194e |
+| 446 | Cult of the Lamb | [01002E7016C46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002E7016C46000) | b5dc69ced031d447 |
+| 447 | Cuphead | [0100A5C00D162000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A5C00D162000) | 03fe981064a8e44f, 80537fb47433794b, d02cd50295124a48, e5f6265d8d486648, f381d8ede77ae347, ffe6641915cd2f4c |
+| 448 | Curse of the Sea Rats | [0100B970138FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B970138FA000) | 1e5a8acf2bc55652 |
+| 449 | Cursed Castilla ex | [0100ED700B376000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ED700B376000) | d8014da69caf4d6c |
+| 450 | Cyber Shadow | [01008D100DE46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D100DE46000) | 7ab40e8a9691c2c3 |
+| 451 | Daemon X Machina | [0100CB8005B26000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CB8005B26000) | 619d3570bf6b9b7b |
+| 452 | Daemon X Machina | [0100B6400CA56000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B6400CA56000) | 619d3570bf6b9b7b, ce8a42e1a1c73b26 |
+| 453 | Damsel | [0100BD2009A1C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD2009A1C000) | f6b9d27b867f2b4f |
+| 454 | Dandara | [0100BFC002B4E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BFC002B4E000) | f000171741236440 |
+| 455 | Dandy Ace | [0100608014708000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100608014708000) | 0100608014708000, 4f19956a6cdaca48 |
+| 456 | Dandy Dungeon - Legend of Brave Yamada - | [0100DFB00D808000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DFB00D808000) | 29410ca2711a4145 |
+| 457 | Danger Gazers | [0100B3901324A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B3901324A000) | eec8e7475d2b06c0 |
+| 458 | Danmaku Unlimited 3 | [0100417007F78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100417007F78000) | 35177d3968aca808, cf4207220d0ada5b |
+| 459 | Darius Cozmic Collection Console | [01000330105BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000330105BE000) | ded774f05f23a7e9 |
+| 460 | Darius Cozmic Revelation [2x Rev 1.0.0] | [010015800F93C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010015800F93C000) | e6af25ecbd97a207 |
+| 461 | Dariusburst: Another Chronicle EX+ | [010043F013044000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010043F013044000) | ff3b532334e35f08 |
+| 462 | DARK MINUTE: Kira's Adventure | [01006590187FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006590187FC000) | a869308e69cf3308 |
+| 463 | Dark Souls: Remastered | [01004AB00A260000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004AB00A260000) | 5a797a3a5da6c4f3, 9985b82cc518ffaf, df3766a2bb651a3e, f4b72c9ef704ca64 |
+| 464 | Dark Water: Slime Invader | [0100C88014614000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C88014614000) | 9b1e3922172a594b |
+| 465 | Dark Witch Music Episode: Rudymical | [01001FA0034E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001FA0034E2000) | 9f751801449b6d7a |
+| 466 | Darksiders Genesis [Rev 1.0.0] | [0100F2300D4BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2300D4BA000) | 0eb0818751685be8, 1dd738fe18fd9bbc, darksiders genes, db17131624d04a9c, dd7a7a508f483608 |
+| 467 | Darksiders II [Deathinitive Edition] | [010071800BA98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010071800BA98000) | 173e2edea9e5d940 |
+| 468 | Darksiders III [Rev 1.0.0] | [0100F8F014190000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F8F014190000) | af7114f019ce6e1d |
+| 469 | Darksiders Warmastered Edition | [0100E1400BA96000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E1400BA96000) | a4cc4c44c07aec14 |
+| 470 | Darksiders Warmastered Edition  | [0100E140BA96000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E140BA96000) | a4cc4c44c07aec14 |
+| 471 | Darkwood | [010033500B7B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010033500B7B6000) | 1cc75c05b5c0cb40, 207231a04b2f3744, 250ce7c4a4de1940, 39a33d59f1f2b841 |
+| 472 | DC Super Hero Girls™: Teen Power | [0100F8F00C4F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F8F00C4F2000) | bc714e2d7d32ab41 |
+| 473 | DC's Justice League: Cosmic Chaos | [0100157015DD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100157015DD8000) | 2bfc784e7e10dd89 |
+| 474 | Dead Cells | [0100FC000AEF0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FC000AEF0000) | 0ec417630f5c7a35, 62f7f1e54f9353f8 |
+| 475 | Dead Cells | [0100646009FBE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100646009FBE000) | 073e52946bd464a0, 07590851285f3479, 0b9a75586bc1a6c6, 113fe52d64570f0f, 193312261c565696, 1be215b198e66550, 254c9e4b338bfcd3, 324e785b5f3cee68, 376d8ef97fb8a97d, 423b3dd5f30b5abc, 4e539f27ff8b38eb, 5474c91b733d8621, 62cd40cee7d6e7b7, 62f7f1e54f9353f8, 880653d91ece0771, 8953fa5ba3b144ef, 985189e46f9cf34d, 9d5e589420074b67, b2fcf615ded71da7, ce6074604542acac, d54a4677ec796e15, d8bfb3dfd14773f8, da6049b1703bcb2c, dd93187b1b5e0cb5, e123f86e654ca1ef, efe3aca35e248bb6 |
+| 476 | dead cells 1.3 | [010064009FBE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010064009FBE000) | efe3aca35e248bb6 |
+| 477 | Dead Effect 2 | [01007860152EE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007860152EE000) | 630ab427cb952e4d |
+| 478 | Dead or Alive Xtreme 3: Scarlet | [01009CC00C97C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009CC00C97C000) | d81d2492b00f45d2 |
+| 479 | DEAD OR SCHOOL | [0100E7100C52C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E7100C52C000) | d29fa0c8b15e7842 |
+| 480 | DEADCRAFT | [010088F01599C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010088F01599C000) | dacd97a329b3c1ad |
+| 481 | Deadly Days | [010095A011A14000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095A011A14000) | 18591dd841cc6a44 |
+| 482 | Deadly Premonition 2: A Blessing In Disguise | [0100BAC011928000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BAC011928000) | 2481dafb3edc6b4e, 3c9b3ecfad8a9542, 47855f311db97849 |
+| 483 | Death Road to Canada | [0100423009358000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100423009358000) | 4cb1dc253d230b2c |
+| 484 | Death Tales | [0100A51013550000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A51013550000) | b4889e2facba7e5c |
+| 485 | Death's Door | [0100B31015AF8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B31015AF8000) | 469507dfa61af848 |
+| 486 | Death's Gambit: Afterlife | [01006A0015812000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006A0015812000) | 82bf132698a09a49, b47d0260608253ac, bc39a2ba6fd581d1, c7d5d3afb3b946b5 |
+| 487 | DEATHRUN TV | [010025B01585A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010025B01585A000) | b7115de9a751f050 |
+| 488 | Deep Sky Derelicts: Definitive Edition | [0100C3E00D68E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C3E00D68E000) | cb90194eced68b43 |
+| 489 | Deep Space Rush | [01000A700F956000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000A700F956000) | 3c1fb5bc36eb1f66 |
+| 490 | Defend Your Castle | [01006E600D9C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006E600D9C2000) | 71cead463a463746 |
+| 491 | Defense Grid 2 | [010061300BBF8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010061300BBF8000) | 3953274ef966b6b2, e674d6fdaeae5844 |
+| 492 | DELTARUNE Chapter 1 | [010023800D64A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010023800D64A000) | e450a5dd753d257f |
+| 493 | Demon Pit | [010084600F51C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010084600F51C000) | 92d5eac4cfd36242 |
+| 494 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles | [0100309016E7A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100309016E7A000) | 11253bfcf0934d84, 681f1664d737ec88, 8bb6740672f4beb2, 9ee37a5c500c8488, a97bb282d1be7e26, ce4d867de59d8358, e994c553ed22376c, eaa8856a22607065 |
+| 495 | Demon's Tier+ | [0100161011458000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100161011458000) | 7e2745f9a427a583 |
+| 496 | DEMON'S TILT | [0100BE800E6D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE800E6D8000) | b6a0defb7d316045 |
+| 497 | Demong Hunter | [010000401313A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010000401313A000) | f97054189a86de4f |
+| 498 | Densha de GO !! -Hashiro Yamanote Line- [Rev 1.0.0] | [0100BC501355A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BC501355A000) | 72556bdf87ff54ea |
+| 499 | Descenders | [0100D4600D0E4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D4600D0E4000) | da3378adc2ecb844 |
+| 500 | Descenders [Rev 1.0.0] | [0100C2F013084000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C2F013084000) | d0fcd671804c1b42 |
+| 501 | Destroy All Humans! | [01009E701356A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009E701356A000) | 7a4bd7bd8c9388fa |
+| 502 | Devil Engine | [010031B00CF66000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010031B00CF66000) | bb1817c904cd13fe |
+| 503 | Devil May Cry | [0100E8000D5B8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E8000D5B8000) | 883f54c67475abae |
+| 504 | Devil May Cry 2 | [01007CF00D5BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007CF00D5BA000) | f8c066a1e59d8cce |
+| 505 | Devil May Cry 3 Special Edition | [01007B600D5BC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007B600D5BC000) | 010bcee657eafedf, 258d8ba560cfa34c |
+| 506 | Devious Dungeon | [01009EA00A320000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009EA00A320000) | 2d57263d985efa40 |
+| 507 | Devious Dungeon 2 | [0100FD600DFDC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FD600DFDC000) | bf57b4d7ba5ef145 |
+| 508 | Dex | [01003F601025E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003F601025E000) | f0a4874a7fa53947 |
+| 509 | Diablo III: Eternal Collection | [01001B300B9BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B300B9BE000) | 1da2a1a648905450, 2ac6db9e14898083, 2d117920406c4b15, 46b754c506e2ee0a, 4cc6e18934fedee1, 8972613a7ca4e46d, a3e80174bf5ae455, ab8893b8563cb2fd, c0f4b9ffffa1f5dd, e5cd0078f196b4ed, eafc2cef9b161d20 |
+| 510 | Diablo® II: Resurrected™ | [0100726014352000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100726014352000) | 22511f5ef500cd14, 4de22400c997ed23 |
+| 511 | Diabolic | [0100F73011456000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F73011456000) | 7fe0a7323d2e968a |
+| 512 | Digimon Story: Cyber Sleuth [Complete Edition] | [010014E00DB56000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014E00DB56000) | 92a6c699e4bae7da, bedae701dd8565cd, ca86dbb44a335ead |
+| 513 | Digimon Survive | [010047500B7B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010047500B7B2000) | 91f1e17f8d8d0b4a, 91f1e17f8dbd0b4a |
+| 514 | Digimon Survive [Rev 1.0.0] | [010002400B770000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010002400B770000) | 794239ba67eead43 |
+| 515 | Digimon World: Next 0rder [Rev 1.0.0] | [0100F00014254000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F00014254000) | 018f3a9582c69140 |
+| 516 | Digimon World: Next Order | [01007EA015520000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007EA015520000) | 002190deca0e9a4b, 018f3a9582c69140 |
+| 517 | Dire Vengeance Deluxe | [0100BE8019834000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE8019834000) | 0c08584382c0d9c8 |
+| 518 | Disco Elysium - The Final Cut | [01006C5015E84000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C5015E84000) | 8cd5adbf3bbf1d5d |
+| 519 | Disease -Hidden Object- | [01005E600AB64000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005E600AB64000) | 4cee2e7a0a18e44b |
+| 520 | Disgaea 1 Complete | [01004B100AF18000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B100AF18000) | 18b01c2123631637 |
+| 521 | Disgaea 4 Complete+ | [0100A9800E9B4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A9800E9B4000) | 6a1bf67d25fc2ed0, 767dc7b2885026a8 |
+| 522 | Disgaea 5 Complete | [01005700031AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005700031AE000) | cc9abdfa887f316d |
+| 523 | Disgaea 6: Defiance of Destiny | [0100ABC013136000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ABC013136000) | 0b3ac195c9f27084 |
+| 524 | Disjunction | [01000B70122A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000B70122A2000) | 5cfdd9f0daf0308e |
+| 525 | Disney Classic Games: Aladdin and The Lion King | [0100A2F00EEFC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A2F00EEFC000) | 6dacef3fd1431455 |
+| 526 | Disney Dreamlight Valley | [0100D39012C1A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D39012C1A000) | 140186d6dda777cd |
+| 527 | Disney Tsum Tsum Festival | [010012800EBAE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010012800EBAE000) | 1f7d8734ceb66148, 62dc4bf18520b348 |
+| 528 | Divinity: Original Sin 2 - Definitive Edition | [010027400CDC6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027400CDC6000) | 1dd992e93e645a52, 3c4e2b234cb55b78, 7d3432c23010c1bd, dbd602f66e2de27d, eee583fdd942f6aa, f821dc8cc9a45414 |
+| 529 | Dongo Adventure | [010088B010DD2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010088B010DD2000) | 5015dea149a3c14f |
+| 530 | Donkey Kong Country: Tropical Freeze (rev001) | [0100C1F0051B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C1F0051B6000) | f48bd40d89b529c1 |
+| 531 | DOOM | [0100416004C00000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100416004C00000) | 01ace43e724259c3 |
+| 532 | DOOM (1993) | [010018900DD0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010018900DD0000) | c35190ad7468cb42 |
+| 533 | DOOM (1993) | [010018900DD00000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010018900DD00000) | 2816930e5331df42, 53b3e4a3b478bf4b, 9b97e6f23f01a044 |
+| 534 | DOOM 3 | [010029D00E740000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010029D00E740000) | 28b88c3bdf442ebb, 9408aaa62605d822 |
+| 535 | DOOM 64 | [01005D700E742000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005D700E742000) | 1f45f195fb7468c5 |
+| 536 | DOOM II (Classic) | [0100D4F00DD02000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D4F00DD02000) | 1f6c11f9ae3c2148, 5bf6780e838c1e47, 6a881b176cc04d49, b23620b7c664034b |
+| 537 | DOOM® Eternal | [0100B1A00D8CE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1A00D8CE000) | 01357918afdde9c0, 0367b729a8638f45, 1e85d7c778b7ab24, 279822905f62f50f, 2ae84e5124817b87, 5af6f31eac42dbc0, b2e03687892e59fb, c4e8abde598cbe54, doom eternal ver, ed6715cb8e011e31, f73bb6e8e8df350d |
+| 538 | Door Kickers: Action Squad | [01005ED00CD70000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005ED00CD70000) | 1d3380ee5cc8dc3a |
+| 539 | Doraemon: Story of Seasons | [010073700E412000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010073700E412000) | 1bbc6341e973e943, 59624bd909dfdd4b, d5285c0a02fdc14c, ee35389beb0ff248 |
+| 540 | DOTORI | [0100DBD013C92000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DBD013C92000) | b559cde7bc2ad148 |
+| 541 | Double Cross | [010038D00C1DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038D00C1DC000) | 7ef6091d867f8047 |
+| 542 | DOUBLE DRAGON | [010067C00E496000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010067C00E496000) | 7c9c04e77258fa47, a84d1538fbfcb546 |
+| 543 | Double Dragon & Kunio-kun: Retro Brawler Bundle | [0100C0E00F0AC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C0E00F0AC000) | 0d1c3b432523b045 |
+| 544 | DOUBLE DRAGON II The Revenge | [01009E3001DDE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009E3001DDE000) | 7bb496830fbaefb5 |
+| 545 | Double Dragon Neon | [01005B10132B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005B10132B2000) | f840d4127e63312d |
+| 546 | DOUBLE DRAGON Ⅱ: The Revenge | [0100DD900E498000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DD900E498000) | 6a71dc9407b10148 |
+| 547 | DOUBLE DRAGON Ⅲ: The Sacred Stones | [01001AD00E49A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001AD00E49A000) | c4994905d081354c |
+| 548 | DOUBLE DRAGON4 | [010001B005E5C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010001B005E5C000) | fe9ddb64d10bf747 |
+| 549 | Doug Hates His Job | [0100A14013B1E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A14013B1E000) | b99305304df99c41 |
+| 550 | Down to Hell | [0100B6600FE06000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B6600FE06000) | 62c8976e3dee9740 |
+| 551 | Drag Sim 2020 | [0100B59011A1C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B59011A1C000) | fe87beb149f96c45 |
+| 552 | DragoDino | [0100566009238000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100566009238000) | 114f5a2d5fe04446 |
+| 553 | DRAGON BALL FighterZ | [0100A250097F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A250097F0000) | 46c8ba904c2f37cb, 70df9fbff6e78f49, 7a06910a203e80b2, 810a82b5c6fb347f, 949f85fcf0608a26, 9b710d5867004cf8, cd53729b7ae2d794, ce094b2b58e4d0c8, e6c3fe55ad27891e, ef3a27c7a00fb584 |
+| 554 | Dragon Ball Heroes | [0100E5E00C464000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5E00C464000) | 35712a42cf7d37c9 |
+| 555 | Dragon Ball Xenoverse 2 | [010078D000F88000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010078D000F88000) | 0d0e5aab66ad6795, 0f4992d359c3b6dd, 15f6affe27bc79dc, 3549519a39128dbb, 54c53bf518bef0ed, 5691ded1329c2cf7, 5d6d051aea5d556d, 867b51c287259559, f89026442c938f06, ff91eeda841180d5, ffd194436f8d3d2d |
+| 556 | Dragon Ball Z KAKAROT + A New Power Awakening Set [Rev 1.00] | [0100EF00134F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EF00134F4000) | c652ec8d0928bac0 |
+| 557 | DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET | [010051C0134F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010051C0134F8000) | fbe93aaaa4c11567 |
+| 558 | Dragon Lapis | [010076F012CD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076F012CD8000) | 92ec5e5a7338b442 |
+| 559 | Dragon Marked For Death | [010089700150E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010089700150E000) | 185a67621d9b8d61, 4233b4516cb5b3d8, 66d0494fb531f45f, 6e1fcdb58ddea086, 70a2f7fc803e2d0e, 9b066abb5e29b8fe, e22ee1b82e5b8835, e4114eb197e80ca8, e671d5f4979f0cea, e6d27d568f3ea9c8 |
+| 560 | DRAGON QUEST | [0100EFC00EFB2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EFC00EFB2000) | 4c1e8f555e6b88da |
+| 561 | Dragon Quest 1, 2 & 3 Collection | [010015600EFB6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010015600EFB6000) | 43d16253cd0bdd2a |
+| 562 | Dragon Quest Builders | [010008900705C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010008900705C000) | 93a84d948c179001 |
+| 563 | Dragon Quest Builders - Alefgard o Fukkatsu Seyo | [01007B5002F56000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007B5002F56000) | 61fa6eeda9a63672 |
+| 564 | DRAGON QUEST BUILDERS 2 | [010042000A986000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042000A986000) | 1a0b233dc70b7f6e, 687753c332cfff53, a6b07ff854883072, ed620a2fd245ffe0, f311f4b1e6f32be0 |
+| 565 | Dragon Quest Builders 2 | [010050000705E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010050000705E000) | 3ebf22ed97873d1f, 43d3724d70a32464, 4e1a22c61868d4c0, 79a11fd138520490, a93ef5c9c956ac1f, abb2ac36c4d38805, d29dc85061688483, d58e985f267b9abd, f847df7905274ef5 |
 | 566 | Dragon Quest Builders 2 (JAP) | [010050000705E00](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010050000705E00) | 010050000705e000 |
-| 567 | Dragon Quest Heroes I・II for Nintendo Switch | [0100CD3000BDC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CD3000BDC000) | 5c598e5025bf97bc, bf91b9e86ff34541 |
-| 568 | DRAGON QUEST II: Luminaries of the Legendary Line | [010062200EFB4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010062200EFB4000) | 10423bbc86d3bfde |
-| 569 | Dragon Quest Treasures [Rev 1.0.0] | [0100217014266000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100217014266000) | 6464cf665abc9842 |
-| 570 | Dragon Quest XI S: Echoes of an Elusive Age [Definitive Edition] | [01006C300E9F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C300E9F0000) | 0237abe1ee27da42, 1719aabfa5eae42b, 191270f5ed4db907, 6b54b4be4b1771f4 |
-| 571 | Dragon Quest XI S: Sugisarishi Toki o Motomete | [010054A0085CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010054A0085CA000) | 325e49e94a030b7e, 744e00542ff45574 |
-| 572 | DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition | [010026800EA0A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026800EA0A000) | a7578001b492c202 |
-| 573 | Dragon Sinker | [0100356009860000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100356009860000) | 0a9c8c76d0b32948 |
-| 574 | Dragon Star Varnir | [01001C60148CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C60148CC000) | 5fe3da408d621385 |
-| 575 | Dragon's Lair Trilogy | [010027100C544000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027100C544000) | 63d62c0424d49543 |
-| 576 | DragonBlaze for Nintendo Switch | [010099B00A2DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010099B00A2DC000) | 9ec9964ffd6e3f73 |
-| 577 | DragonFangZ | [0100DA0006F50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA0006F50000) | 0090cbff9230c84f |
-| 578 | Dragons Dogma: Dark Arisen | [010032C00AC58000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010032C00AC58000) | 2cdb9b9d70010e88, deb6b520bb1e0352, ed2c2056af00b1c7 |
-| 579 | DRAINUS | [01004F701966E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004F701966E000) | d0e15ec304c98b76 |
-| 580 | Drawn to Life: Two Realms | [0100FF1012C1C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF1012C1C000) | af2af618c7cf574d |
-| 581 | Dreaming Sarah | [010048F012C24000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010048F012C24000) | fdaa28be827d1b9c |
-| 582 | Dreamscaper | [010066C00FA94000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010066C00FA94000) | 949f9cdc8746f98d |
-| 583 | DreamWorks Dragons Dawn of New Riders | [0100ED200B6FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ED200B6FC000) | 41e7d227f248534e |
-| 584 | Drift Racing Madness | [0100850011FDA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100850011FDA000) | da2839fce6e16a4e |
-| 585 | Drunken Fist | [0100BDB012F78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BDB012F78000) | d8e7a91f33e3728f |
-| 586 | Duck Game | [0100750001C70000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100750001C70000) | d5446193e5bc2e4c |
-| 587 | Duke Nukem 3D: 20th Anniversary World Tour | [01007EF00CB88000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007EF00CB88000) | 49a4a5cff8450314, 68ea5bfa8daa9371 |
-| 588 | Dungeon Core | [0100A3101A4E6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A3101A4E6000) | d020a51e502b056f |
-| 589 | Dungeon Limbus | [0100CAB012FCC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CAB012FCC000) | 73e570746ed6aa41 |
-| 590 | Dungeon ni Deai o Motomeru nowa Machigatteiru Daroka: Infinite Combate | [0100AFC00CEE6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AFC00CEE6000) | 84d19a943300e243, 9725ccaa784be34c |
-| 591 | Dungeonoid | [01002130136C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002130136C0000) | f780a21406f4aa4e |
-| 592 | DungeonTop | [01004A0013790000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A0013790000) | 05fe9024b0ac5146 |
-| 593 | Dungreed | [0100FAD00C2AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FAD00C2AA000) | ce5a908f1736cb49 |
-| 594 | Dungreed [Rev 1.0.0] | [010045B00C496000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045B00C496000) | 5db69691ddc47b45, cfd9ab668979ea45 |
-| 595 | Dusk Diver | [010011C00E636000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010011C00E636000) | 2d05e2fc4bed8cf5 |
+| 567 | Dragon Quest Builders 2 (JAP) | [ABB2AC36C4D3880](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/ABB2AC36C4D3880) | 010050000705e000 |
+| 568 | Dragon Quest Heroes I・II for Nintendo Switch | [0100CD3000BDC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CD3000BDC000) | 5c598e5025bf97bc, bf91b9e86ff34541 |
+| 569 | DRAGON QUEST II: Luminaries of the Legendary Line | [010062200EFB4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010062200EFB4000) | 10423bbc86d3bfde |
+| 570 | Dragon Quest Treasures [Rev 1.0.0] | [0100217014266000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100217014266000) | 6464cf665abc9842 |
+| 571 | Dragon Quest XI S: Echoes of an Elusive Age [Definitive Edition] | [01006C300E9F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C300E9F0000) | 0237abe1ee27da42, 1719aabfa5eae42b, 191270f5ed4db907, 6b54b4be4b1771f4 |
+| 572 | Dragon Quest XI S: Sugisarishi Toki o Motomete | [010054A0085CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010054A0085CA000) | 325e49e94a030b7e, 744e00542ff45574 |
+| 573 | DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition | [010026800EA0A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026800EA0A000) | a7578001b492c202 |
+| 574 | Dragon Sinker | [0100356009860000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100356009860000) | 0a9c8c76d0b32948 |
+| 575 | Dragon Star Varnir | [01001C60148CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C60148CC000) | 5fe3da408d621385 |
+| 576 | Dragon's Lair Trilogy | [010027100C544000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027100C544000) | 63d62c0424d49543 |
+| 577 | DragonBlaze for Nintendo Switch | [010099B00A2DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010099B00A2DC000) | 9ec9964ffd6e3f73 |
+| 578 | DragonFangZ | [0100DA0006F50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA0006F50000) | 0090cbff9230c84f |
+| 579 | Dragons Dogma: Dark Arisen | [010032C00AC58000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010032C00AC58000) | 2cdb9b9d70010e88, deb6b520bb1e0352, ed2c2056af00b1c7 |
+| 580 | DRAINUS | [01004F701966E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004F701966E000) | d0e15ec304c98b76 |
+| 581 | Drawn to Life: Two Realms | [0100FF1012C1C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF1012C1C000) | af2af618c7cf574d |
+| 582 | Dreaming Sarah | [010048F012C24000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010048F012C24000) | fdaa28be827d1b9c |
+| 583 | Dreamscaper | [010066C00FA94000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010066C00FA94000) | 949f9cdc8746f98d |
+| 584 | DreamWorks Dragons Dawn of New Riders | [0100ED200B6FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ED200B6FC000) | 41e7d227f248534e |
+| 585 | Drift Racing Madness | [0100850011FDA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100850011FDA000) | da2839fce6e16a4e |
+| 586 | Drunken Fist | [0100BDB012F78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BDB012F78000) | d8e7a91f33e3728f |
+| 587 | Duck Game | [0100750001C70000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100750001C70000) | d5446193e5bc2e4c |
+| 588 | Duke Nukem 3D: 20th Anniversary World Tour | [01007EF00CB88000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007EF00CB88000) | 49a4a5cff8450314, 68ea5bfa8daa9371 |
+| 589 | Dungeon Core | [0100A3101A4E6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A3101A4E6000) | d020a51e502b056f |
+| 590 | Dungeon Limbus | [0100CAB012FCC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CAB012FCC000) | 73e570746ed6aa41 |
+| 591 | Dungeon ni Deai o Motomeru nowa Machigatteiru Daroka: Infinite Combate | [0100AFC00CEE6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AFC00CEE6000) | 84d19a943300e243, 9725ccaa784be34c |
+| 592 | Dungeonoid | [01002130136C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002130136C0000) | f780a21406f4aa4e |
+| 593 | DungeonTop | [01004A0013790000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A0013790000) | 05fe9024b0ac5146 |
+| 594 | Dungreed | [0100FAD00C2AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FAD00C2AA000) | ce5a908f1736cb49 |
+| 595 | Dungreed [Rev 1.0.0] | [010045B00C496000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045B00C496000) | 5db69691ddc47b45, cfd9ab668979ea45 |
 | 596 | Dusk Diver | [0100B2B00E7AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B2B00E7AA000) | 2d31515a27c3ecec |
-| 597 | Dust & Neon | [01007A5018178000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007A5018178000) | 8072abff51fa1156 |
-| 598 | Dust: An Elysian Tail | [0100B6E00A420000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B6E00A420000) | d273f6d43b6f1af6, e962be62e05dde43 |
-| 599 | Dusty Raging Fist | [010097D00402C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010097D00402C000) | 3663a5c4e19b5840 |
-| 600 | Dwarf Journey | [01009E8013FCE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009E8013FCE000) | 53b9d027023e4d44 |
-| 601 | DYNASTY WARRIORS 8: Xtreme Legends Definitive Edition | [0100E9A00CB30000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E9A00CB30000) | 0d63b368b4161cac |
-| 602 | DYSMANTLE | [010008900BC5A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010008900BC5A000) | 0d14b227a47f9de1 |
-| 603 | Eagle Island | [010037400C7DA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010037400C7DA000) | 092e5781403f9625, 64d3b49f38c60f55, f0e3bd5e823c6145 |
-| 604 | Earth Atlantis | [0100E07006C84000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E07006C84000) | 5ab9630ecf782342 |
-| 605 | Earth Defense Force 4.1 for Nintendo Switch [Rev 1.0.0] | [0100C7B013D18000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C7B013D18000) | 558de7475453a1c9 |
-| 606 | EARTH DEFENSE FORCE: WORLD BROTHERS | [01006D5014796000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006D5014796000) | c19c80633bee4bd1 |
-| 607 | Earthlock | [01006E50042EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006E50042EA000) | d75dbe0c21357141 |
-| 608 | EarthNight | [0100A2E00BB0C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A2E00BB0C000) | 0c2192b8ddc2dd48 |
-| 609 | Eastward | [010071B00F63A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010071B00F63A000) | a15314ac18eef7c5 |
-| 610 | eBASEBALL: Powerful Pro Yakyu 2020 [Rev 1.0.0] | [010073000FE18000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010073000FE18000) | 5cb8f3e19852f4c1, 5d82d7f60d6ded46, cb946f6ae634f5f9 |
-| 611 | Eight Dragons | [01003AD013BD2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003AD013BD2000) | 587aede0433e5d41 |
-| 612 | Eiyuu Densetsu: Sen no Kiseki III [Rev 1.0.0] | [0100E57010542000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E57010542000) | 3fb33205c25d3436 |
-| 613 | El Hijo - A Wild West Tale | [010020A01209C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010020A01209C000) | 9139c20dd37e1944 |
-| 614 | Elden: Path of the Forgotten | [0100B5B00EF38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B5B00EF38000) | 5187063dc7cb7c43 |
-| 615 | Elderand | [0100239015C0E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100239015C0E000) | a0a74652bc501318, dfc4b34bd6c1ba24, ed45613f75a24671 |
-| 616 | Eldest Souls | [010093C00F30A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010093C00F30A000) | 2f726d926695a220 |
-| 617 | Elliot | [0100D85013754000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D85013754000) | 428980f461ab5b44 |
-| 618 | Elliot Quest | [0100128003A24000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100128003A24000) | 75b6f3935221af6d, f35372f6362e4e05 |
-| 619 | Empire Of Sin [Rev 1.0.0] | [010058600E530000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010058600E530000) | 8eb54ae3e9cd284d |
-| 620 | ENDER LILIES: Quietus of the Knights | [0100CCF012E9A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CCF012E9A000) | 3048549aef6b02d1, c9fb83b55873d1a6, e46ce3fff909b1d6, eba346eff38c931a |
-| 621 | Endurance - space action | [010045C011DF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045C011DF6000) | 768520e5eb082918 |
-| 622 | Enter the Gungeon | [01009D60076F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009D60076F6000) | 0988ba5931f79147, 41353ef03c96cf44, 86b75b735e8ce94b, b3116bd471906840, e1ccdccc11e3d04b |
-| 623 | Escape from Chernobyl | [0100FEF00F0AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FEF00F0AA000) | 7725c643b39658f4 |
-| 624 | Escape From Tethys | [010092901203A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010092901203A000) | f65f17ea16c29146 |
-| 625 | Evan's Remains | [01003F900E74E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003F900E74E000) | 51416f403efaa3b9 |
-| 626 | Everdark Tower | [010029500DFBA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010029500DFBA000) | 94e79e909cd7d64b |
-| 627 | Evergate | [01009C4012284000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009C4012284000) | 4d330e2011155a4a |
-| 628 | Everhood | [0100E20014028000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E20014028000) | 5ed66ab27852d64b |
-| 629 | Everspace™ - Stellar Edition | [0100DCF0093EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DCF0093EC000) | 71873feb4648fa39 |
-| 630 | Evil Defenders | [010080600B53E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010080600B53E000) | f82f507fb0c82b4d |
-| 631 | Evil Tonight | [01001B2013D72000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B2013D72000) | 10a4a3005c5a0534, 370637265acb6a70, 5bedb46d354e6cf2, 6094d142d4d7c99d, a719b112b688c739 |
-| 632 | Evoland Legendary Edition | [0100ED100B160000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ED100B160000) | 9f334187b57ba085, b853770c72416f65 |
-| 633 | Exit the Gungeon | [0100DD30110CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DD30110CC000) | 0988ba5931f79147, 378a61255ca26c4e |
-| 634 | Explosionade DX | [0100410012112000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100410012112000) | 48c172d0e2f4be42 |
-| 635 | F.I.S.T.: Forged In Shadow Torch [Rev 1.0.0] | [01008EB017F3E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008EB017F3E000) | 599334ad9e47c19d |
-| 636 | Fable of Fairy Stones:妖精石物語 | [0100E3D0103CE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E3D0103CE000) | 4278baf87482ec4b |
-| 637 | Factorio | [01004200189F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004200189F4000) | 0f97d8856cea9876 |
-| 638 | Fairune Collection | [01008A6009758000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008A6009758000) | ea5c70af7f4d8a4f |
-| 639 | Fairy Fencer F™: Advent Dark Force | [010002300C632000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010002300C632000) | 810604cb1d5b9de9 |
-| 640 | Fairy Tale [Rev 1.0.0] | [0100CF900FA3E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CF900FA3E000) | 20ee036f0f679257, 29a5e596c24badde, 5f894a204984a1f7, 6df7c8e12b9b8d24, 9202714ae1ff3520, b52fc65a9bb66580 |
-| 641 | Fairy Tale [Rev 1.0.0] | [0100F3100EFCC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F3100EFCC000) | 6fdc6ffe937e5d78 |
-| 642 | Fall Of Light - Darkest Edition | [01005A600BE60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005A600BE60000) | 4fe377f89a528a42 |
-| 643 | Family Feud [Rev 1.0] | [010060200FC44000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010060200FC44000) | d3e9fbc256313540 |
-| 644 | FANTASY HERO～unsigned legacy～ | [0100767008502000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100767008502000) | 48625e6d08b74557 |
-| 645 | Fantasy Strike | [0100944003820000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100944003820000) | 9000cc23f2376946, e226101567d1be44 |
-| 646 | Farm Together | [010086B00BB50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010086B00BB50000) | 3af310c7483c404e |
-| 647 | FATAL FRAME: Maiden of Black Water | [0100BEB015604000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BEB015604000) | 1527e76f9f184833 |
-| 648 | FATAL FRAME: Mask of the Lunar Eclipse | [0100DAE019110000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DAE019110000) | a113bff8d52f6ce9 |
-| 649 | Fatal Frame: Mask of the Lunar Eclipse [Rev 1.0.0] | [010091B01A438000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010091B01A438000) | 30a61812075b2ad6 |
-| 650 | Fate/Extella: The Umbral Star | [010053E002EA2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010053E002EA2000) | 76ec789b99a25ba5 |
-| 651 | Fear Effect Sedna | [01005AC0068F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005AC0068F6000) | 89647e6361e7cd48 |
-| 652 | Feathery Ears | [01006C3011C56000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C3011C56000) | 1c7c2b75926d0947, 3ee273ceb6829739 |
-| 653 | Feral Fury | [010097E00ADC2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010097E00ADC2000) | e3d0ba009ed53707 |
-| 654 | Fernz Gate | [01006E800B7F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006E800B7F2000) | 192a2ca0ebeb9845 |
-| 655 | Feudal Alloy | [0100AA3009738000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AA3009738000) | c317caf34f49a74b |
-| 656 | Fifa 19 | [0100FFA0093E8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FFA0093E8000) | 907a0c5bb38c865f |
-| 657 | FIFA 20 [Legacy Edition] | [01005DE00D05C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005DE00D05C000) | f2d740184944d73c |
-| 658 | FIFA 21: Legacy Edition [Rev 1.0.0] | [01000A001171A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000A001171A000) | 283e6dbf59b544ef, 33e7809b7250cf17, 480820c613eeea50, e567f4c52bc3fd4a |
-| 659 | Fight | [0100995013404000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100995013404000) | 4fcdb74dfd8ba740 |
-| 660 | Fight Crab (rev001) [Rev 1.1.1] | [01006980127F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006980127F0000) | 89996c4eed1f7a45 |
-| 661 | Fight of Animals | [010047E010B3E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010047E010B3E000) | 2ba5dabaf794914d |
-| 662 | Fight of Animals: Arena | [0100AC6015996000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AC6015996000) | 9c444c4eac73544e |
-| 663 | Fight of Gods | [01002F600C684000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002F600C684000) | 35ceb2cb0d33364b |
-| 664 | Fight of Steel: Infinity Warrior | [010021901966C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010021901966C000) | 3b2968ef6b4c4741, 91ed99d669a4a24c |
-| 665 | Fight'N Rage | [0100C7D00E730000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C7D00E730000) | 1a9f7090d7fffabc, 1f8c627626069b69, 591ca4b00e5d84dd |
-| 666 | FIGHTING EX LAYER ANOTHER DASH | [0100D02014048000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D02014048000) | 7a4c24dd63b1d96f |
-| 667 | Figment | [0100118009C68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100118009C68000) | 5a9dc352aaf1f548 |
-| 668 | Fin and the Ancient Mystery | [0100C8200E942000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C8200E942000) | dc8170c81cb4f142, eb87bf4d8c40564a |
-| 669 | FINAL FANTASY IX | [01007EF00B094000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007EF00B094000) | a49a739c07989244, eada9f7ad4d3ba41 |
-| 670 | FINAL FANTASY VII | [0100A5B00BDC6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A5B00BDC6000) | 4d630af93ac272dc, 99b42a70ec0234b5, ca4ed0693797f529 |
-| 671 | FINAL FANTASY VIII Remastered | [01008B900DC0A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008B900DC0A000) | b899412d980f0b44 |
-| 672 | Final Fantasy X X-2 HD Remaster | [0100FE500D0CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FE500D0CA000) | c581c65cd5743adf |
-| 673 | FINAL FANTASY X/X-2 HD Remaster | [0100BC300CB48000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BC300CB48000) | 1ce9f39ddb8a1a93, 1ec9f39dddb8a1a9 |
-| 674 | Final Fantasy XII The Zodiac Age | [0100EB100AB42000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB100AB42000) | 598723c7a3d43935, c2932c4d1c84ed7d |
-| 675 | FINAL FANTASY XV POCKET EDITION HD | [010068F00AA78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010068F00AA78000) | ceed69743f258249 |
-| 676 | FINAL FANTASY® CRYSTAL CHRONICLES™ Remastered Edition | [0100CE4010AAC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CE4010AAC000) | 687ab956c7a3914b, e1d8b399b787ae41 |
-| 677 | Final Light, The Prison | [01001BA00AE4E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001BA00AE4E000) | 352d01c0d629b74f, 45e162b5385dc449 |
-| 678 | FINALSWORD DefinitiveEdition | [0100F62013DAE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F62013DAE000) | 265b7ee5bb75864a |
-| 679 | Finding Teddy 2 : Definitive Edition | [0100FF100FB68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF100FB68000) | 0a90f4970abf3ede |
-| 680 | Fire Emblem Musou | [0100EAE003A5A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EAE003A5A000) | 316baf584d815ab7, 466e46e9aef48d9f |
-| 681 | Fire Emblem Warriors | [0100F15003E64000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F15003E64000) | 1953770037acc52a, 43fc559a975dd485 |
-| 682 | Fire Emblem: Engage [Rev 1.0.0] | [0100A6301214E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A6301214E000) | e7e1382d5eb931b0 |
-| 683 | Fire Emblem: Three Houses | [010055D009F78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010055D009F78000) | 19ba39bd3ee8131d, 47ca26d2aa77d0ba, 89048449ba238c8c, 9454f2c47f827602, cecf500cea4c214c, f0142d706fd2323b |
-| 684 | Firework | [0100BA9012B36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BA9012B36000) | 3885a17f2d28b1e7 |
-| 685 | Flame Keeper | [0100034019A9A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100034019A9A000) | 4b4a72d51461e41a |
-| 686 | Flashback | [01000A0004C50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000A0004C50000) | 4427c1b4902c4449 |
-| 687 | Flinthook | [0100307004B4C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100307004B4C000) | 6cb9aa4d4e880356 |
-| 688 | Floppy Knights | [01006A30171A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006A30171A0000) | 54dc897a78aa4375 |
-| 689 | Fly Punch Boom! | [0100FC300F4A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FC300F4A4000) | de9f681aed612147 |
-| 690 | FLYING GIRL STRIKER | [0100CCA00EDCE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CCA00EDCE000) | b1891931c1eba942 |
-| 691 | Flynn: Son of Crimson | [01005F2014B80000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005F2014B80000) | 0570324e7dc2d797, 4b2db08f6277d771, 5730dcf4c2dd8eba |
-| 692 | Fobia | [010056000BA1C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010056000BA1C000) | c1e79c256bdf6e41 |
-| 693 | For The King | [010069400B6BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010069400B6BE000) | 45bc618b7067a346, 5105f83d319c8143, 7e00252e0cdc2e4c |
-| 694 | Forager | [01001D200BCC4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001D200BCC4000) | b3f0e741dbe41bf5 |
-| 695 | Foregone | [010044B00E70A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010044B00E70A000) | 1812915cf5b12646, 1bed7508ca97e540, fbaf2dbe9f2f6546 |
-| 696 | Forgotton Anne | [010059E00B93C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010059E00B93C000) | 60798eaf949e504c |
-| 697 | FOX n FORESTS | [01008A100A028000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008A100A028000) | 280589b597abe848 |
-| 698 | FoxyLand | [0100D2501001A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D2501001A000) | 4e2b065027e78663 |
-| 699 | Frane: Dragons' Odyssey | [0100C0C00DD0E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C0C00DD0E000) | 09b846aebe22fe44 |
-| 700 | Freedom Finger | [010082B00EE50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082B00EE50000) | 8e500d494507154c |
-| 701 | Freedom Planet | [0100EB800B614000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB800B614000) | 6fe8e047d88be449 |
-| 702 | Frido | [01003FA0196D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003FA0196D8000) | f19667c729442d42 |
-| 703 | FRONT MISSION 1st: Remake | [0100F200178F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F200178F4000) | 194e08ae28646efa, 3f80b00963c3b024 |
-| 704 | Fuga: Melodies of Steel | [01000130120EE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000130120EE000) | 915a86b4d6a5eacd |
-| 705 | Full Metal Furies | [010079300AD54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010079300AD54000) | 0b76ec521212fd1c |
-| 706 | FullBlast | [010036A00B290000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010036A00B290000) | c2d7a3622913c742 |
-| 707 | Furi | [01009D3008D20000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009D3008D20000) | 4feeee035bd05141 |
-| 708 | Furi - Definitive Edition | [01000EC00AF98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000EC00AF98000) | 83fb796d7b625e42 |
-| 709 | Fury Unleashed | [0100ECE00C0C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ECE00C0C4000) | 069084599b9fe640, 265d097cce8d8a49, 33c2f7fb7b9cdc48 |
-| 710 | FUSER™ | [0100E1F013674000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E1F013674000) | 13d5bb6d03dc2601 |
-| 711 | Fushigi no Gensokyo: Lotus Labyrinth | [0100D7800C56A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D7800C56A000) | 76afb6a1db0a65d9 |
-| 712 | Fushigi no Gensoukyou TOD -RELOADED- | [010033500944A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010033500944A000) | cd0578ffc3b7c72e |
-| 713 | G-DARIUS HD | [0100BCE013042000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BCE013042000) | e54049229ab01648 |
-| 714 | G.I. Joe: Operation Blackout | [0100EB10108EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB10108EA000) | 99c3b03aa94f9ed7, e4e950730783f283 |
-| 715 | Galaxy Champions TV | [010023500EF76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010023500EF76000) | 7c392af48783654c |
-| 716 | Galaxy Warfighter | [0100EDB01005C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EDB01005C000) | ca634037ff84ad42 |
-| 717 | Game Boy™ Advance – Nintendo Switch Online | [010012F017576000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010012F017576000) | 7a055f2da6752e99, f742686c2bbecb08 |
-| 718 | Game Boy™ – Nintendo Switch Online | [0100C62011050000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C62011050000) | 940c0091ffcd09c2 |
-| 719 | Game Dev Story | [0100AF700BCD2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AF700BCD2000) | b783994a7721864b, eaf9c6474584ae4a |
-| 720 | Game Doraemon: Nobita no Shin Kyoryu [Rev 1.0.0] | [01006BD00F8C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006BD00F8C0000) | 06b9d4461dc8a442, d13dee59be762ab5 |
-| 721 | Gangsta Paradise | [01001A50145E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001A50145E0000) | 811fb7885b2d7247 |
-| 722 | Ganryu 2 - Hakuma Kojiro | [01008AA017970000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008AA017970000) | 50f3222202328d4d, 735dd6f91756fc48 |
-| 723 | Garage | [01000FA00A4E4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000FA00A4E4000) | b887d7ff382cd64f |
-| 724 | Garden Story | [0100B4D012490000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B4D012490000) | 0100b4d012490000, 722adbb54278776d, deed081549eb305b |
-| 725 | Gas Station: Highway Services | [010032D012602000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010032D012602000) | ee18a97637d15740 |
-| 726 | Gates of Hell | [0100EA001069E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EA001069E000) | b662a47bdea4dc4c |
-| 727 | Gato Roboto | [010025500C098000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010025500C098000) | 261fa67f1c963a1c, 41c02541bc629910 |
-| 728 | Gear Club Unlimited 2 | [010072900AFF0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072900AFF0000) | 0a547e79e76c8849 |
-| 729 | Gear.Club Unlimited | [010065E003FD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010065E003FD8000) | cd94fcb8cc23b24a |
-| 730 | Gekido Kintaros Revenge | [010052A00942A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010052A00942A000) | 100289938ec87946 |
-| 731 | Genetic Disaster | [010014901144C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014901144C000) | d941bd608240c448 |
-| 732 | GensokyoDefenders | [010000300C79C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010000300C79C000) | 64a8da29d4719019 |
-| 733 | GetsuFumaDen: Undying Moon | [010042A013DB8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042A013DB8000) | dc43f416a9b08d2a |
-| 734 | Ghost 1.0 | [0100EEB005ACC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EEB005ACC000) | 5441813a911b7b45 |
-| 735 | Ghost 1.0 + UnEpic Collection | [0100E0D00DFEE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0D00DFEE000) | a7dc83325c7b69a9 |
-| 736 | Ghost 1.0 plus Unepic Collection | [010036400DFF0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010036400DFF0000) | a680bcfccdab360d |
-| 737 | Ghost Blade HD [Rev 1.0.2] | [010063200C588000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010063200C588000) | 76584d2eaa42c27f |
-| 738 | Ghost of a Tale | [0100D140112BC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D140112BC000) | 8ac511f87d786b46 |
-| 739 | Ghost Song | [010096801809A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010096801809A000) | 230439b784cd7724 |
-| 740 | Ghost Sweeper | [01004B301108C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B301108C000) | 50221310d086a129 |
-| 741 | Ghostbusters: The Video Game Remastered | [0100EAE00D9EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EAE00D9EC000) | 0fe6747d03eba4e3, 5aaa63bef45a8c0a |
-| 742 | Ghostrunner | [010090F012916000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010090F012916000) | e883dffd31c64950 |
-| 743 | Ghosts 'n Goblins Resurrection | [0100D6200F2BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D6200F2BA000) | 6726a5080b7fbac7, a89b6b019e1f02ef |
-| 744 | Ghoulboy | [0100A9500C606000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A9500C606000) | 703e05c8fa44594e, 91a6639441289b4c |
-| 745 | GhoulBoy | [0100C9D00C8E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C9D00C8E2000) | 4f30069d2ede974a |
-| 746 | Giana Sisters: Twisted Dreams - Owltimate Edition | [01003830092B8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003830092B8000) | bea2cb7d4b453556 |
-| 747 | GIGA WRECKER ALT. | [010045F00BFC2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045F00BFC2000) | 8704d866d10eb543 |
+| 597 | Dusk Diver | [010011C00E636000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010011C00E636000) | 2d05e2fc4bed8cf5 |
+| 598 | Dust & Neon | [01007A5018178000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007A5018178000) | 8072abff51fa1156 |
+| 599 | Dust: An Elysian Tail | [0100B6E00A420000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B6E00A420000) | d273f6d43b6f1af6, e962be62e05dde43 |
+| 600 | Dusty Raging Fist | [010097D00402C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010097D00402C000) | 3663a5c4e19b5840 |
+| 601 | Dwarf Journey | [01009E8013FCE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009E8013FCE000) | 53b9d027023e4d44 |
+| 602 | DYNASTY WARRIORS 8: Xtreme Legends Definitive Edition | [0100E9A00CB30000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E9A00CB30000) | 0d63b368b4161cac |
+| 603 | DYSMANTLE | [010008900BC5A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010008900BC5A000) | 0d14b227a47f9de1 |
+| 604 | Eagle Island | [010037400C7DA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010037400C7DA000) | 092e5781403f9625, 64d3b49f38c60f55, f0e3bd5e823c6145 |
+| 605 | Earth Atlantis | [0100E07006C84000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E07006C84000) | 5ab9630ecf782342 |
+| 606 | Earth Defense Force 4.1 for Nintendo Switch [Rev 1.0.0] | [0100C7B013D18000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C7B013D18000) | 558de7475453a1c9 |
+| 607 | EARTH DEFENSE FORCE: WORLD BROTHERS | [01006D5014796000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006D5014796000) | c19c80633bee4bd1 |
+| 608 | Earthlock | [01006E50042EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006E50042EA000) | d75dbe0c21357141 |
+| 609 | EarthNight | [0100A2E00BB0C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A2E00BB0C000) | 0c2192b8ddc2dd48 |
+| 610 | Eastward | [010071B00F63A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010071B00F63A000) | a15314ac18eef7c5 |
+| 611 | eBASEBALL: Powerful Pro Yakyu 2020 [Rev 1.0.0] | [010073000FE18000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010073000FE18000) | 5cb8f3e19852f4c1, 5d82d7f60d6ded46, cb946f6ae634f5f9 |
+| 612 | Eight Dragons | [01003AD013BD2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003AD013BD2000) | 587aede0433e5d41 |
+| 613 | Eiyuu Densetsu: Sen no Kiseki III [Rev 1.0.0] | [0100E57010542000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E57010542000) | 3fb33205c25d3436 |
+| 614 | El Hijo - A Wild West Tale | [010020A01209C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010020A01209C000) | 9139c20dd37e1944 |
+| 615 | Elden: Path of the Forgotten | [0100B5B00EF38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B5B00EF38000) | 5187063dc7cb7c43 |
+| 616 | Elderand | [0100239015C0E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100239015C0E000) | a0a74652bc501318, dfc4b34bd6c1ba24, ed45613f75a24671 |
+| 617 | Eldest Souls | [010093C00F30A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010093C00F30A000) | 2f726d926695a220 |
+| 618 | Elliot | [0100D85013754000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D85013754000) | 428980f461ab5b44 |
+| 619 | Elliot Quest | [0100128003A24000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100128003A24000) | 75b6f3935221af6d, f35372f6362e4e05 |
+| 620 | Empire Of Sin [Rev 1.0.0] | [010058600E530000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010058600E530000) | 8eb54ae3e9cd284d |
+| 621 | ENDER LILIES: Quietus of the Knights | [0100CCF012E9A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CCF012E9A000) | 3048549aef6b02d1, c9fb83b55873d1a6, e46ce3fff909b1d6, eba346eff38c931a |
+| 622 | Endurance - space action | [010045C011DF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045C011DF6000) | 768520e5eb082918 |
+| 623 | Enter the Gungeon | [01009D60076F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009D60076F6000) | 0988ba5931f79147, 41353ef03c96cf44, 86b75b735e8ce94b, b3116bd471906840, e1ccdccc11e3d04b |
+| 624 | Escape from Chernobyl | [0100FEF00F0AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FEF00F0AA000) | 7725c643b39658f4 |
+| 625 | Escape From Tethys | [010092901203A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010092901203A000) | f65f17ea16c29146 |
+| 626 | Evan's Remains | [01003F900E74E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003F900E74E000) | 51416f403efaa3b9 |
+| 627 | Everdark Tower | [010029500DFBA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010029500DFBA000) | 94e79e909cd7d64b |
+| 628 | Evergate | [01009C4012284000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009C4012284000) | 4d330e2011155a4a |
+| 629 | Everhood | [0100E20014028000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E20014028000) | 5ed66ab27852d64b |
+| 630 | Everspace™ - Stellar Edition | [0100DCF0093EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DCF0093EC000) | 71873feb4648fa39 |
+| 631 | Evil Defenders | [010080600B53E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010080600B53E000) | f82f507fb0c82b4d |
+| 632 | Evil Tonight | [01001B2013D72000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B2013D72000) | 10a4a3005c5a0534, 370637265acb6a70, 5bedb46d354e6cf2, 6094d142d4d7c99d, a719b112b688c739 |
+| 633 | Evoland Legendary Edition | [0100ED100B160000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ED100B160000) | 9f334187b57ba085, b853770c72416f65 |
+| 634 | Exit the Gungeon | [0100DD30110CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DD30110CC000) | 0988ba5931f79147, 378a61255ca26c4e |
+| 635 | Explosionade DX | [0100410012112000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100410012112000) | 48c172d0e2f4be42 |
+| 636 | F.I.S.T.: Forged In Shadow Torch [Rev 1.0.0] | [01008EB017F3E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008EB017F3E000) | 599334ad9e47c19d |
+| 637 | Fable of Fairy Stones:妖精石物語 | [0100E3D0103CE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E3D0103CE000) | 4278baf87482ec4b |
+| 638 | Factorio | [01004200189F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004200189F4000) | 0f97d8856cea9876 |
+| 639 | Fairune Collection | [01008A6009758000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008A6009758000) | ea5c70af7f4d8a4f |
+| 640 | Fairy Fencer F™: Advent Dark Force | [010002300C632000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010002300C632000) | 810604cb1d5b9de9 |
+| 641 | Fairy Tale [Rev 1.0.0] | [0100CF900FA3E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CF900FA3E000) | 20ee036f0f679257, 29a5e596c24badde, 5f894a204984a1f7, 6df7c8e12b9b8d24, 9202714ae1ff3520, b52fc65a9bb66580 |
+| 642 | Fairy Tale [Rev 1.0.0] | [0100F3100EFCC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F3100EFCC000) | 6fdc6ffe937e5d78 |
+| 643 | Fall Of Light - Darkest Edition | [01005A600BE60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005A600BE60000) | 4fe377f89a528a42 |
+| 644 | Family Feud [Rev 1.0] | [010060200FC44000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010060200FC44000) | d3e9fbc256313540 |
+| 645 | FANTASY HERO～unsigned legacy～ | [0100767008502000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100767008502000) | 48625e6d08b74557 |
+| 646 | Fantasy Strike | [0100944003820000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100944003820000) | 9000cc23f2376946, e226101567d1be44 |
+| 647 | Farm Together | [010086B00BB50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010086B00BB50000) | 3af310c7483c404e |
+| 648 | FATAL FRAME: Maiden of Black Water | [0100BEB015604000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BEB015604000) | 1527e76f9f184833 |
+| 649 | FATAL FRAME: Mask of the Lunar Eclipse | [0100DAE019110000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DAE019110000) | a113bff8d52f6ce9 |
+| 650 | Fatal Frame: Mask of the Lunar Eclipse [Rev 1.0.0] | [010091B01A438000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010091B01A438000) | 30a61812075b2ad6 |
+| 651 | Fate/Extella: The Umbral Star | [010053E002EA2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010053E002EA2000) | 76ec789b99a25ba5 |
+| 652 | Fear Effect Sedna | [01005AC0068F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005AC0068F6000) | 89647e6361e7cd48 |
+| 653 | Feathery Ears | [01006C3011C56000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C3011C56000) | 1c7c2b75926d0947, 3ee273ceb6829739 |
+| 654 | Feral Fury | [010097E00ADC2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010097E00ADC2000) | e3d0ba009ed53707 |
+| 655 | Fernz Gate | [01006E800B7F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006E800B7F2000) | 192a2ca0ebeb9845 |
+| 656 | Feudal Alloy | [0100AA3009738000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AA3009738000) | c317caf34f49a74b |
+| 657 | Fifa 19 | [0100FFA0093E8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FFA0093E8000) | 907a0c5bb38c865f |
+| 658 | FIFA 20 [Legacy Edition] | [01005DE00D05C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005DE00D05C000) | f2d740184944d73c |
+| 659 | FIFA 21: Legacy Edition [Rev 1.0.0] | [01000A001171A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000A001171A000) | 283e6dbf59b544ef, 33e7809b7250cf17, 480820c613eeea50, e567f4c52bc3fd4a |
+| 660 | Fight | [0100995013404000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100995013404000) | 4fcdb74dfd8ba740 |
+| 661 | Fight Crab (rev001) [Rev 1.1.1] | [01006980127F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006980127F0000) | 89996c4eed1f7a45 |
+| 662 | Fight of Animals | [010047E010B3E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010047E010B3E000) | 2ba5dabaf794914d |
+| 663 | Fight of Animals: Arena | [0100AC6015996000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AC6015996000) | 9c444c4eac73544e |
+| 664 | Fight of Gods | [01002F600C684000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002F600C684000) | 35ceb2cb0d33364b |
+| 665 | Fight of Steel: Infinity Warrior | [010021901966C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010021901966C000) | 3b2968ef6b4c4741, 91ed99d669a4a24c |
+| 666 | Fight'N Rage | [0100C7D00E730000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C7D00E730000) | 1a9f7090d7fffabc, 1f8c627626069b69, 591ca4b00e5d84dd |
+| 667 | FIGHTING EX LAYER ANOTHER DASH | [0100D02014048000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D02014048000) | 7a4c24dd63b1d96f |
+| 668 | Figment | [0100118009C68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100118009C68000) | 5a9dc352aaf1f548 |
+| 669 | Fin and the Ancient Mystery | [0100C8200E942000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C8200E942000) | dc8170c81cb4f142, eb87bf4d8c40564a |
+| 670 | FINAL FANTASY IX | [01007EF00B094000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007EF00B094000) | a49a739c07989244, eada9f7ad4d3ba41 |
+| 671 | FINAL FANTASY VII | [0100A5B00BDC6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A5B00BDC6000) | 4d630af93ac272dc, 99b42a70ec0234b5, ca4ed0693797f529 |
+| 672 | FINAL FANTASY VIII Remastered | [01008B900DC0A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008B900DC0A000) | b899412d980f0b44 |
+| 673 | Final Fantasy X X-2 HD Remaster | [0100FE500D0CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FE500D0CA000) | c581c65cd5743adf |
+| 674 | FINAL FANTASY X/X-2 HD Remaster | [0100BC300CB48000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BC300CB48000) | 1ce9f39ddb8a1a93, 1ec9f39dddb8a1a9 |
+| 675 | Final Fantasy XII The Zodiac Age | [0100EB100AB42000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB100AB42000) | 598723c7a3d43935, c2932c4d1c84ed7d |
+| 676 | FINAL FANTASY XV POCKET EDITION HD | [010068F00AA78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010068F00AA78000) | ceed69743f258249 |
+| 677 | FINAL FANTASY® CRYSTAL CHRONICLES™ Remastered Edition | [0100CE4010AAC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CE4010AAC000) | 687ab956c7a3914b, e1d8b399b787ae41 |
+| 678 | Final Light, The Prison | [01001BA00AE4E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001BA00AE4E000) | 352d01c0d629b74f, 45e162b5385dc449 |
+| 679 | FINALSWORD DefinitiveEdition | [0100F62013DAE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F62013DAE000) | 265b7ee5bb75864a |
+| 680 | Finding Teddy 2 : Definitive Edition | [0100FF100FB68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF100FB68000) | 0a90f4970abf3ede |
+| 681 | Fire Emblem Musou | [0100EAE003A5A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EAE003A5A000) | 316baf584d815ab7, 466e46e9aef48d9f |
+| 682 | Fire Emblem Warriors | [0100F15003E64000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F15003E64000) | 1953770037acc52a, 43fc559a975dd485 |
+| 683 | Fire Emblem: Engage [Rev 1.0.0] | [0100A6301214E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A6301214E000) | e7e1382d5eb931b0 |
+| 684 | Fire Emblem: Three Houses | [010055D009F78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010055D009F78000) | 19ba39bd3ee8131d, 47ca26d2aa77d0ba, 89048449ba238c8c, 9454f2c47f827602, cecf500cea4c214c, f0142d706fd2323b |
+| 685 | Firework | [0100BA9012B36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BA9012B36000) | 3885a17f2d28b1e7 |
+| 686 | Flame Keeper | [0100034019A9A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100034019A9A000) | 4b4a72d51461e41a |
+| 687 | Flashback | [01000A0004C50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000A0004C50000) | 4427c1b4902c4449 |
+| 688 | Flinthook | [0100307004B4C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100307004B4C000) | 6cb9aa4d4e880356 |
+| 689 | Floppy Knights | [01006A30171A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006A30171A0000) | 54dc897a78aa4375 |
+| 690 | Fly Punch Boom! | [0100FC300F4A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FC300F4A4000) | de9f681aed612147 |
+| 691 | FLYING GIRL STRIKER | [0100CCA00EDCE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CCA00EDCE000) | b1891931c1eba942 |
+| 692 | Flynn: Son of Crimson | [01005F2014B80000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005F2014B80000) | 0570324e7dc2d797, 4b2db08f6277d771, 5730dcf4c2dd8eba |
+| 693 | Fobia | [010056000BA1C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010056000BA1C000) | c1e79c256bdf6e41 |
+| 694 | For The King | [010069400B6BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010069400B6BE000) | 45bc618b7067a346, 5105f83d319c8143, 7e00252e0cdc2e4c |
+| 695 | Forager | [01001D200BCC4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001D200BCC4000) | b3f0e741dbe41bf5 |
+| 696 | Foregone | [010044B00E70A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010044B00E70A000) | 1812915cf5b12646, 1bed7508ca97e540, fbaf2dbe9f2f6546 |
+| 697 | Forgotton Anne | [010059E00B93C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010059E00B93C000) | 60798eaf949e504c |
+| 698 | FOX n FORESTS | [01008A100A028000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008A100A028000) | 280589b597abe848 |
+| 699 | FoxyLand | [0100D2501001A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D2501001A000) | 4e2b065027e78663 |
+| 700 | Frane: Dragons' Odyssey | [0100C0C00DD0E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C0C00DD0E000) | 09b846aebe22fe44 |
+| 701 | Freedom Finger | [010082B00EE50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082B00EE50000) | 8e500d494507154c |
+| 702 | Freedom Planet | [0100EB800B614000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB800B614000) | 6fe8e047d88be449 |
+| 703 | Frido | [01003FA0196D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003FA0196D8000) | f19667c729442d42 |
+| 704 | FRONT MISSION 1st: Remake | [0100F200178F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F200178F4000) | 194e08ae28646efa, 3f80b00963c3b024 |
+| 705 | Fuga: Melodies of Steel | [01000130120EE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000130120EE000) | 915a86b4d6a5eacd |
+| 706 | Full Metal Furies | [010079300AD54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010079300AD54000) | 0b76ec521212fd1c |
+| 707 | FullBlast | [010036A00B290000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010036A00B290000) | c2d7a3622913c742 |
+| 708 | Furi | [01009D3008D20000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009D3008D20000) | 4feeee035bd05141 |
+| 709 | Furi - Definitive Edition | [01000EC00AF98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000EC00AF98000) | 83fb796d7b625e42 |
+| 710 | Fury Unleashed | [0100ECE00C0C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ECE00C0C4000) | 069084599b9fe640, 265d097cce8d8a49, 33c2f7fb7b9cdc48 |
+| 711 | FUSER™ | [0100E1F013674000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E1F013674000) | 13d5bb6d03dc2601 |
+| 712 | Fushigi no Gensokyo: Lotus Labyrinth | [0100D7800C56A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D7800C56A000) | 76afb6a1db0a65d9 |
+| 713 | Fushigi no Gensoukyou TOD -RELOADED- | [010033500944A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010033500944A000) | cd0578ffc3b7c72e |
+| 714 | G-DARIUS HD | [0100BCE013042000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BCE013042000) | e54049229ab01648 |
+| 715 | G.I. Joe: Operation Blackout | [0100EB10108EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB10108EA000) | 99c3b03aa94f9ed7, e4e950730783f283 |
+| 716 | Galaxy Champions TV | [010023500EF76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010023500EF76000) | 7c392af48783654c |
+| 717 | Galaxy Warfighter | [0100EDB01005C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EDB01005C000) | ca634037ff84ad42 |
+| 718 | Game Boy™ Advance – Nintendo Switch Online | [010012F017576000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010012F017576000) | 7a055f2da6752e99, f742686c2bbecb08 |
+| 719 | Game Boy™ – Nintendo Switch Online | [0100C62011050000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C62011050000) | 940c0091ffcd09c2 |
+| 720 | Game Dev Story | [0100AF700BCD2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AF700BCD2000) | b783994a7721864b, eaf9c6474584ae4a |
+| 721 | Game Doraemon: Nobita no Shin Kyoryu [Rev 1.0.0] | [01006BD00F8C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006BD00F8C0000) | 06b9d4461dc8a442, d13dee59be762ab5 |
+| 722 | Gangsta Paradise | [01001A50145E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001A50145E0000) | 811fb7885b2d7247 |
+| 723 | Ganryu 2 - Hakuma Kojiro | [01008AA017970000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008AA017970000) | 50f3222202328d4d, 735dd6f91756fc48 |
+| 724 | Garage | [01000FA00A4E4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000FA00A4E4000) | b887d7ff382cd64f |
+| 725 | Garden Story | [0100B4D012490000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B4D012490000) | 0100b4d012490000, 722adbb54278776d, deed081549eb305b |
+| 726 | Gas Station: Highway Services | [010032D012602000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010032D012602000) | ee18a97637d15740 |
+| 727 | Gates of Hell | [0100EA001069E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EA001069E000) | b662a47bdea4dc4c |
+| 728 | Gato Roboto | [010025500C098000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010025500C098000) | 261fa67f1c963a1c, 41c02541bc629910 |
+| 729 | Gear Club Unlimited 2 | [010072900AFF0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072900AFF0000) | 0a547e79e76c8849 |
+| 730 | Gear.Club Unlimited | [010065E003FD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010065E003FD8000) | cd94fcb8cc23b24a |
+| 731 | Gekido Kintaros Revenge | [010052A00942A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010052A00942A000) | 100289938ec87946 |
+| 732 | Genetic Disaster | [010014901144C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014901144C000) | d941bd608240c448 |
+| 733 | GensokyoDefenders | [010000300C79C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010000300C79C000) | 64a8da29d4719019 |
+| 734 | GetsuFumaDen: Undying Moon | [010042A013DB8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042A013DB8000) | dc43f416a9b08d2a |
+| 735 | Ghost 1.0 | [0100EEB005ACC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EEB005ACC000) | 5441813a911b7b45 |
+| 736 | Ghost 1.0 + UnEpic Collection | [0100E0D00DFEE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0D00DFEE000) | a7dc83325c7b69a9 |
+| 737 | Ghost 1.0 plus Unepic Collection | [010036400DFF0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010036400DFF0000) | a680bcfccdab360d |
+| 738 | Ghost Blade HD [Rev 1.0.2] | [010063200C588000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010063200C588000) | 76584d2eaa42c27f |
+| 739 | Ghost of a Tale | [0100D140112BC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D140112BC000) | 8ac511f87d786b46 |
+| 740 | Ghost Song | [010096801809A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010096801809A000) | 230439b784cd7724 |
+| 741 | Ghost Sweeper | [01004B301108C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B301108C000) | 50221310d086a129 |
+| 742 | Ghostbusters: The Video Game Remastered | [0100EAE00D9EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EAE00D9EC000) | 0fe6747d03eba4e3, 5aaa63bef45a8c0a |
+| 743 | Ghostrunner | [010090F012916000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010090F012916000) | e883dffd31c64950 |
+| 744 | Ghosts 'n Goblins Resurrection | [0100D6200F2BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D6200F2BA000) | 6726a5080b7fbac7, a89b6b019e1f02ef |
+| 745 | Ghoulboy | [0100A9500C606000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A9500C606000) | 703e05c8fa44594e, 91a6639441289b4c |
+| 746 | GhoulBoy | [0100C9D00C8E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C9D00C8E2000) | 4f30069d2ede974a |
+| 747 | Giana Sisters: Twisted Dreams - Owltimate Edition | [01003830092B8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003830092B8000) | bea2cb7d4b453556 |
 | 748 | GIGA WRECKER ALT. | [0100A4900EDDE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A4900EDDE000) | 00828465529fee46 |
-| 749 | GIGANTIC ARMY | [010067A00D35E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010067A00D35E000) | c32b8a1fdd88dcbe |
-| 750 | Gigantosaurus The Game | [01002C400E526000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C400E526000) | ef7b49570430043e |
-| 751 | Ginger: Beyond the Crystal | [0100C50007070000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C50007070000) | 59024102424ac443 |
-| 752 | Gleamlight | [0100ED2010292000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ED2010292000) | 73f509ebf8307343 |
-| 753 | Glitch's Trip | [0100B6F01227C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B6F01227C000) | 6d69e98be519ca47 |
-| 754 | Glittering Sword | [0100230013D0C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100230013D0C000) | e8f1613fa8389cf0 |
-| 755 | Gnosia | [01008EF013A7C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008EF013A7C000) | 389c6c494eec527c |
-| 756 | Goblin Sword | [010067C010F88000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010067C010F88000) | 3eb41ec2fcad4d68, 95b083bd9d0dc15c, e717df86ce42cd4d |
-| 757 | GOD EATER 3 | [01001C700873E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C700873E000) | 1250e446d020c4ca, 368cdf823b83a54b, 769ce69fd09f7ec6, 9ed444678b20813a, c0f144f5139f542e, f43bdc91fc97e529 |
-| 758 | GODS Remastered | [0100BAA00AE16000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BAA00AE16000) | 8b36f764eb350c41 |
-| 759 | Gods Will Fall | [0100CFA0111C8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CFA0111C8000) | 1bf7be722958394b |
-| 760 | Godstrike | [0100FA50138A6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FA50138A6000) | 6b1a71c6e7329803 |
-| 761 | Going Under | [01004D501113C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004D501113C000) | 6c295313079c434d |
-| 762 | GOKEN | [0100126006EF0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100126006EF0000) | cf79603efd9e774d |
-| 763 | Golf Story | [0100779004172000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100779004172000) | 300060790d4c2c4a, fcedea4c677dd643 |
-| 764 | GoNNER | [01007C2002B3C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007C2002B3C000) | 9f04dff0e1149440 |
-| 765 | GONNER2 | [0100EA70127F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EA70127F2000) | 7a13a0e5d4cb8e47 |
-| 766 | Good Job!™ | [0100B0500FE4E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B0500FE4E000) | 951d09eece122a47 |
-| 767 | Good Night, Knight | [01003AD0123A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003AD0123A2000) | afe32bedbd98f691 |
-| 768 | Grand Brix Shooter | [010038D00EC88000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038D00EC88000) | 233ef0208adfef4f |
-| 769 | Grand Prix Story | [0100BE600D07A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE600D07A000) | 5dc3c46ef8c9ee48 |
-| 770 | Grand Theft Auto San Andreas Version 1.0.2 | [010065A014024000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010065A014024000) | 6fb56071ccb321b6, 7061706ef4d97b84 |
-| 771 | GRANDIA HD Collection | [0100E0600BB8001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0600BB8001) | 812a9ad7ab2000b0 |
-| 772 | GRANDIA HD Collection | [0100E0600BBC8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0600BBC8000) | cb4964f21cd34f6d |
-| 773 | GRANDIA HD Collection | [0100E0600BBC8001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0600BBC8001) | 8b679e3f55bd9de5, cb4964f21cd34f6d |
-| 774 | GRANDIA HD Collection | [0100E0600BBC8002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0600BBC8002) | 034886422b6f840b |
-| 775 | Grave Danger | [010074E0099FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010074E0099FA000) | 00a4a69c29c73b42 |
-| 776 | Graveyard Keeper | [0100B6800B5C8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B6800B5C8000) | 10be30fead5ad443, 35577fd32a942e48, 9356531edd2ec448 |
-| 777 | Greak: Memories of Azur | [010045E012ECE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045E012ECE000) | be65af4dfe4a9941 |
-| 778 | Greedroid | [0100BD800DFA6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD800DFA6000) | 9889452e84c5394c |
-| 779 | Green Hell | [0100453012FEA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100453012FEA000) | 0b0ed086a895204c, 87ab66d783094e44, d3a8f87e96c94045 |
-| 780 | GREEN The Life Algorithm | [0100DFE00F002000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DFE00F002000) | 52b45ab71e411b4d |
-| 781 | Grey Skies: A War of the Worlds Story | [0100DA7013792000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA7013792000) | 6867b68d25d91f55 |
-| 782 | Gridd: Retroenhanced | [0100197008B52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100197008B52000) | 50ecdb66433e1d4b |
-| 783 | Grimvalor | [01001C700F518000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C700F518000) | 12a99f6002fd464e |
-| 784 | Grindstone | [0100538012496000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100538012496000) | 55f3e1211440fa49 |
-| 785 | Grood | [01005240121F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005240121F2000) | 4ecbce12e16d3048 |
-| 786 | GROOVE COASTER WAI WAI PARTY!!!! | [0100EB500D92E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB500D92E000) | 5e462a2e7fa7136c |
-| 787 | Gryphon Knight Epic: Definitive Edition | [0100A16011872000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A16011872000) | df8ddc222b04c24d |
-| 788 | GTA Vice City Version 1.0.3 | [0100182014022000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100182014022000) | 3ec230850491826d, 56eefa704373bdb3, a60e8ca86c6fd704 |
-| 789 | GTA3 The Definitive Edition v1.0.2 | [0100C3C012718000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C3C012718000) | 2cf52c8da4468946, 7263a54a1e58dd45 |
-| 790 | Guacamelee! One-Two Punch Collection | [01007E100456C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007E100456C000) | 09b0d1846cc99974, 536e86a461401f9f, fbe5462b68407e75 |
-| 791 | Guacamelee! Super Turbo Championship Edition | [0100BAE00B470000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BAE00B470000) | 184fc082f199328e |
-| 792 | Gun Crazy | [01009630106A6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009630106A6000) | 1da05d6dfed0b4c1 |
-| 793 | Gun Gun Pixies | [01009EB00DC76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009EB00DC76000) | 1953770037acc52a, 35b2bf0c429a1ec0 |
-| 794 | GUNBIRD for Nintendo Switch | [01003C6008940000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003C6008940000) | 5783a91c341b29e4, c6a4443809d9fa0a |
-| 795 | GUNBIRD2 for Nintendo Switch | [0100BCB00AE98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BCB00AE98000) | 266c41c9585e9a14, abac5a08624f0306 |
-| 796 | Gunbrick: Reloaded | [01008DF00B78E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008DF00B78E000) | 5d956d4949715a4e |
-| 797 | Gunlord X | [0100EC200BFF8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC200BFF8000) | 2bc3f1356efa8560 |
-| 798 | Guns Gore and Cannoli | [0100934003BCC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100934003BCC000) | 408fde3f0287ac43 |
-| 799 | Guns, Gore and Cannoli 2 | [01006D4003BCE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006D4003BCE000) | bbf599d8f665ff4a |
-| 800 | Gunslugs | [01008050130EE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008050130EE000) | 3b14bbcee9dde7cb |
-| 801 | Gunvolt Chronicles: Luminous Avenger iX | [01008C800E654000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008C800E654000) | 9e70f504efe74a5b, 9e885a66c9ca0de1, e90d985d706df59f |
-| 802 | HAAK | [0100822012D76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100822012D76000) | 758c4fc2ed63cd43 |
-| 803 | Habroxia | [01007E100EFA8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007E100EFA8000) | 6bc96ab409d90d32 |
-| 804 | Hades | [0100535012974000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100535012974000) | 981ed32c0e1ef006, a16cb7e952a7e911, a23f80213077971a, a9c78517999a1b5a, d41357a3da356b09, fbbae054d5d0dc1e |
-| 805 | Hakoniwa Explorer Plus | [0100618010D76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100618010D76000) | 066442551a10fea7 |
-| 806 | Hammerwatch | [01003B9007E86000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003B9007E86000) | 6ee12e07e6151a74 |
-| 807 | Hardcore Maze Cube | [0100D55011D60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D55011D60000) | 622dd70e54d2084a |
-| 808 | HARDCORE MECHA: Fighter Edition [Rev 1.0.0] | [01002F0011DD4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002F0011DD4000) | 6100fc7c12fd8e47, b0a374ec18548849 |
-| 809 | Harukanaru Toki no Naka de 7 [Rev 1.0.0] | [0100CF400F7CE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CF400F7CE000) | cbb6127b4f896ec5 |
-| 810 | Harvestella [Rev 1.0.0] | [0100EDD018032000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EDD018032000) | 898404c26e7ea75b |
-| 811 | Has Been Heroes | [0100E29001298000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E29001298000) | 14a906483411b74e |
-| 812 | Hatchwell | [0100F29018F9C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F29018F9C000) | 8e5e5bd4a33bc647 |
-| 813 | Hatsune Miku: Project DIVA Mega Mix | [01001CC00FA1A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001CC00FA1A000) | 2ff03fc088cba7a7, 8cf5d24227c5dd98, e0c41878f636ad4f |
-| 814 | Hatsune Miku: Project Diva Mega39s [Rev 1.0.0] | [0100F3100DA46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F3100DA46000) | cadfcd07e6596093 |
-| 815 | Haunted Dawn: The Zombie Apocalypse | [01009E6014F18000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009E6014F18000) | 62ddb75afc960446 |
-| 816 | HAUNTED: Halloween '86 | [010085500F6B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010085500F6B6000) | 021e57fe033a4343 |
-| 817 | Have A Nice Death | [0100125019A14000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100125019A14000) | 0f265d4e6059c1ea |
-| 818 | Haven | [0100E2600DBAA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E2600DBAA000) | 18a00efbfc61974f |
-| 819 | Heaven Dust | [010059100D928000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010059100D928000) | 188cf8540b981749 |
-| 820 | Hell is Other Demons | [0100E4300C278000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4300C278000) | 32821b95b7b08a42 |
-| 821 | Hellblade: Senua's Sacrifice | [010044500CF8E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010044500CF8E000) | 052fcb358955ed48 |
-| 822 | Hellmut: The Badass from Hell | [0100A0300D1A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A0300D1A0000) | 63b9577d6f33e149 |
-| 823 | Helvetii | [010089701934C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010089701934C000) | 5aea32c501e4c03b |
-| 824 | Hero must die. again | [010049500F996000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049500F996000) | 010049500f996000, ed2c2056af00b1c7 |
-| 825 | Heroes of Loot | [010091E01330C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010091E01330C000) | 567cb20694b517f3 |
-| 826 | HEROINE ANTHEM ZERO episode 1 | [01001B70080F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B70080F0000) | 45b257c493eeb045 |
-| 827 | Heroland | [0100E1E00EF30000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E1E00EF30000) | d37c29f215a33a45 |
-| 828 | Hill Climbing Mania | [0100147011F4E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100147011F4E000) | b2a838fe966cb54e |
-| 829 | Hob: The Definitive Edition | [01004B100A5CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B100A5CC000) | 2144e3740a714489, 4e7978e35f9d7490 |
-| 830 | Hollow Knight | [0100633007D48000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100633007D48000) | 155c8506c654fb4d, fb968cfb649a5842 |
-| 831 | Horace | [010086D011EB8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010086D011EB8000) | edf9c3851a2ec4a0 |
-| 832 | Horizon Chase Turbo | [01009EA00B714000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009EA00B714000) | 0fd4cffbe940d846, 819e5faed7cb2e4c, c4155f1414558e45, dc0392fb78995746, e807e56db799da40, fc03e9c290b99944, fd04fc9f3849184d |
-| 833 | Hot Wheels Unleashed [Rev 1.0.0] | [01003D001597A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D001597A000) | 7084bda5918c68c4 |
-| 834 | HOT WHEELS UNLEASHED™ | [0100AA60136D2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AA60136D2000) | e8eded95565f2f99 |
-| 835 | Hotshot Racing | [0100BDE008218000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BDE008218000) | 67d4d404c8e0dd12 |
-| 836 | Hungry Shark World | [0100E1A00AF40000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E1A00AF40000) | 84f3ebf079d0c34d |
-| 837 | Huntdown | [0100EBA004726000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EBA004726000) | 0e4cd9323816d642, 20be97be1162e647 |
-| 838 | Hunter's Legacy: Purrfect Edition | [010068000CAC0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010068000CAC0000) | 4d514c14e9fa804a |
-| 839 | Hunting Simulator | [0100C460040EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C460040EA000) | 38d978866da4e740 |
-| 840 | Hyper Echelon | [0100B57011488000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B57011488000) | c920e632a1b1160f |
-| 841 | Hyper Light Drifter - Special Edition | [01003B200B372000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003B200B372000) | 7375e3124c4762c8 |
-| 842 | Hyperspace Delivery Service | [010049000F6B0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049000F6B0000) | dbe0ab47c73d874a |
-| 843 | Hyrule Warriors: Age Of Calamity [Rev 1.0.0] | [01002B00111A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002B00111A2000) | 0496d4b4c6ae1cf4, 3a2d1227979971e5, 5a982fa25220e4df, 908cd685037018e9, 935ebe83c4a06583, c3cf52bf2b05d731 |
-| 844 | Hyrule Warriors: Definitive Edition | [0100AE00096EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AE00096EA000) | 0c869f41b8b9175e, 815a2c19d1767896 |
-| 845 | I Am Setsuna | [0100849000BDA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100849000BDA000) | 0bba2167aed893be |
-| 846 | Ice Age: Scrats Nutty Adventure | [01004E5007E92000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004E5007E92000) | 3295d9b0da169a4f, 799d52eeaaf76b47 |
-| 847 | Ice Station Z | [0100954014718000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100954014718000) | 14f0c4ab904a3f47 |
-| 848 | ICEY | [0100BE9007E7E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE9007E7E000) | 684a8d1aebeb7845 |
-| 849 | Iconoclasts | [0100BC60099FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BC60099FE000) | 4e1c499387103542 |
-| 850 | Ikaruga | [01009F20086A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009F20086A0000) | 360954416f3ae3bf, 6cb42a082864095c |
-| 851 | Ikenfell | [010040900AF46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040900AF46000) | 82e28ce7709d9c15 |
-| 852 | Illusion of L'Phalcia | [01000B700EC22000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000B700EC22000) | dcad50aef4e03c48 |
-| 853 | Immortals Fenyx Rising [Rev 1.0.0] | [01004A600EC0A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A600EC0A000) | 0011956ab1854781, 305a12dd6b139a0a, 46b9082762ac86de, 70f3f6751d73c644, 7667839b25e6b6eb, 89b1333eac986eda, b20264c1f11968bc, cade195fe9f14b2a, fdbd4273618f7207 |
+| 749 | GIGA WRECKER ALT. | [010045F00BFC2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045F00BFC2000) | 8704d866d10eb543 |
+| 750 | GIGANTIC ARMY | [010067A00D35E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010067A00D35E000) | c32b8a1fdd88dcbe |
+| 751 | Gigantosaurus The Game | [01002C400E526000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C400E526000) | ef7b49570430043e |
+| 752 | Ginger: Beyond the Crystal | [0100C50007070000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C50007070000) | 59024102424ac443 |
+| 753 | Gleamlight | [0100ED2010292000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ED2010292000) | 73f509ebf8307343 |
+| 754 | Glitch's Trip | [0100B6F01227C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B6F01227C000) | 6d69e98be519ca47 |
+| 755 | Glittering Sword | [0100230013D0C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100230013D0C000) | e8f1613fa8389cf0 |
+| 756 | Gnosia | [01008EF013A7C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008EF013A7C000) | 389c6c494eec527c |
+| 757 | Goblin Sword | [010067C010F88000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010067C010F88000) | 3eb41ec2fcad4d68, 95b083bd9d0dc15c, e717df86ce42cd4d |
+| 758 | GOD EATER 3 | [01001C700873E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C700873E000) | 1250e446d020c4ca, 368cdf823b83a54b, 769ce69fd09f7ec6, 9ed444678b20813a, c0f144f5139f542e, f43bdc91fc97e529 |
+| 759 | GODS Remastered | [0100BAA00AE16000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BAA00AE16000) | 8b36f764eb350c41 |
+| 760 | Gods Will Fall | [0100CFA0111C8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CFA0111C8000) | 1bf7be722958394b |
+| 761 | Godstrike | [0100FA50138A6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FA50138A6000) | 6b1a71c6e7329803 |
+| 762 | Going Under | [01004D501113C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004D501113C000) | 6c295313079c434d |
+| 763 | GOKEN | [0100126006EF0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100126006EF0000) | cf79603efd9e774d |
+| 764 | Golf Story | [0100779004172000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100779004172000) | 300060790d4c2c4a, fcedea4c677dd643 |
+| 765 | GoNNER | [01007C2002B3C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007C2002B3C000) | 9f04dff0e1149440 |
+| 766 | GONNER2 | [0100EA70127F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EA70127F2000) | 7a13a0e5d4cb8e47 |
+| 767 | Good Job!™ | [0100B0500FE4E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B0500FE4E000) | 951d09eece122a47 |
+| 768 | Good Night, Knight | [01003AD0123A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003AD0123A2000) | afe32bedbd98f691 |
+| 769 | Grand Brix Shooter | [010038D00EC88000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038D00EC88000) | 233ef0208adfef4f |
+| 770 | Grand Prix Story | [0100BE600D07A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE600D07A000) | 5dc3c46ef8c9ee48 |
+| 771 | Grand Theft Auto San Andreas Version 1.0.2 | [010065A014024000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010065A014024000) | 6fb56071ccb321b6, 7061706ef4d97b84 |
+| 772 | GRANDIA HD Collection | [0100E0600BBC8001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0600BBC8001) | 8b679e3f55bd9de5, cb4964f21cd34f6d |
+| 773 | GRANDIA HD Collection | [0100E0600BBC8002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0600BBC8002) | 034886422b6f840b |
+| 774 | GRANDIA HD Collection | [0100E0600BB8001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0600BB8001) | 812a9ad7ab2000b0 |
+| 775 | GRANDIA HD Collection | [0100E0600BBC8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0600BBC8000) | cb4964f21cd34f6d |
+| 776 | Grave Danger | [010074E0099FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010074E0099FA000) | 00a4a69c29c73b42 |
+| 777 | Graveyard Keeper | [0100B6800B5C8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B6800B5C8000) | 10be30fead5ad443, 35577fd32a942e48, 9356531edd2ec448 |
+| 778 | Greak: Memories of Azur | [010045E012ECE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045E012ECE000) | be65af4dfe4a9941 |
+| 779 | Greedroid | [0100BD800DFA6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD800DFA6000) | 9889452e84c5394c |
+| 780 | Green Hell | [0100453012FEA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100453012FEA000) | 0b0ed086a895204c, 87ab66d783094e44, d3a8f87e96c94045 |
+| 781 | GREEN The Life Algorithm | [0100DFE00F002000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DFE00F002000) | 52b45ab71e411b4d |
+| 782 | Grey Skies: A War of the Worlds Story | [0100DA7013792000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA7013792000) | 6867b68d25d91f55 |
+| 783 | Gridd: Retroenhanced | [0100197008B52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100197008B52000) | 50ecdb66433e1d4b |
+| 784 | Grimvalor | [01001C700F518000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C700F518000) | 12a99f6002fd464e |
+| 785 | Grindstone | [0100538012496000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100538012496000) | 55f3e1211440fa49 |
+| 786 | Grood | [01005240121F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005240121F2000) | 4ecbce12e16d3048 |
+| 787 | GROOVE COASTER WAI WAI PARTY!!!! | [0100EB500D92E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB500D92E000) | 5e462a2e7fa7136c |
+| 788 | Gryphon Knight Epic: Definitive Edition | [0100A16011872000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A16011872000) | df8ddc222b04c24d |
+| 789 | GTA Vice City Version 1.0.3 | [0100182014022000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100182014022000) | 3ec230850491826d, 56eefa704373bdb3, a60e8ca86c6fd704 |
+| 790 | GTA3 The Definitive Edition v1.0.2 | [0100C3C012718000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C3C012718000) | 2cf52c8da4468946, 7263a54a1e58dd45 |
+| 791 | Guacamelee! One-Two Punch Collection | [01007E100456C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007E100456C000) | 09b0d1846cc99974, 536e86a461401f9f, fbe5462b68407e75 |
+| 792 | Guacamelee! Super Turbo Championship Edition | [0100BAE00B470000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BAE00B470000) | 184fc082f199328e |
+| 793 | Gun Crazy | [01009630106A6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009630106A6000) | 1da05d6dfed0b4c1 |
+| 794 | Gun Gun Pixies | [01009EB00DC76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009EB00DC76000) | 1953770037acc52a, 35b2bf0c429a1ec0 |
+| 795 | GUNBIRD for Nintendo Switch | [01003C6008940000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003C6008940000) | 5783a91c341b29e4, c6a4443809d9fa0a |
+| 796 | GUNBIRD2 for Nintendo Switch | [0100BCB00AE98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BCB00AE98000) | 266c41c9585e9a14, abac5a08624f0306 |
+| 797 | Gunbrick: Reloaded | [01008DF00B78E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008DF00B78E000) | 5d956d4949715a4e |
+| 798 | Gunlord X | [0100EC200BFF8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC200BFF8000) | 2bc3f1356efa8560 |
+| 799 | Guns Gore and Cannoli | [0100934003BCC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100934003BCC000) | 408fde3f0287ac43 |
+| 800 | Guns, Gore and Cannoli 2 | [01006D4003BCE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006D4003BCE000) | bbf599d8f665ff4a |
+| 801 | Gunslugs | [01008050130EE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008050130EE000) | 3b14bbcee9dde7cb |
+| 802 | Gunvolt Chronicles: Luminous Avenger iX | [01008C800E654000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008C800E654000) | 9e70f504efe74a5b, 9e885a66c9ca0de1, e90d985d706df59f |
+| 803 | HAAK | [0100822012D76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100822012D76000) | 758c4fc2ed63cd43 |
+| 804 | Habroxia | [01007E100EFA8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007E100EFA8000) | 6bc96ab409d90d32 |
+| 805 | Hades | [0100535012974000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100535012974000) | 981ed32c0e1ef006, a16cb7e952a7e911, a23f80213077971a, a9c78517999a1b5a, d41357a3da356b09, fbbae054d5d0dc1e |
+| 806 | Hakoniwa Explorer Plus | [0100618010D76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100618010D76000) | 066442551a10fea7 |
+| 807 | Hammerwatch | [01003B9007E86000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003B9007E86000) | 6ee12e07e6151a74 |
+| 808 | Hardcore Maze Cube | [0100D55011D60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D55011D60000) | 622dd70e54d2084a |
+| 809 | HARDCORE MECHA: Fighter Edition [Rev 1.0.0] | [01002F0011DD4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002F0011DD4000) | 6100fc7c12fd8e47, b0a374ec18548849 |
+| 810 | Harukanaru Toki no Naka de 7 [Rev 1.0.0] | [0100CF400F7CE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CF400F7CE000) | cbb6127b4f896ec5 |
+| 811 | Harvestella [Rev 1.0.0] | [0100EDD018032000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EDD018032000) | 898404c26e7ea75b |
+| 812 | Has Been Heroes | [0100E29001298000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E29001298000) | 14a906483411b74e |
+| 813 | Hatchwell | [0100F29018F9C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F29018F9C000) | 8e5e5bd4a33bc647 |
+| 814 | Hatsune Miku: Project DIVA Mega Mix | [01001CC00FA1A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001CC00FA1A000) | 2ff03fc088cba7a7, 8cf5d24227c5dd98, e0c41878f636ad4f |
+| 815 | Hatsune Miku: Project Diva Mega39s [Rev 1.0.0] | [0100F3100DA46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F3100DA46000) | cadfcd07e6596093 |
+| 816 | Haunted Dawn: The Zombie Apocalypse | [01009E6014F18000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009E6014F18000) | 62ddb75afc960446 |
+| 817 | HAUNTED: Halloween '86 | [010085500F6B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010085500F6B6000) | 021e57fe033a4343 |
+| 818 | Have A Nice Death | [0100125019A14000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100125019A14000) | 0f265d4e6059c1ea |
+| 819 | Haven | [0100E2600DBAA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E2600DBAA000) | 18a00efbfc61974f |
+| 820 | Heaven Dust | [010059100D928000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010059100D928000) | 188cf8540b981749 |
+| 821 | Hell is Other Demons | [0100E4300C278000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4300C278000) | 32821b95b7b08a42 |
+| 822 | Hellblade: Senua's Sacrifice | [010044500CF8E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010044500CF8E000) | 052fcb358955ed48 |
+| 823 | Hellmut: The Badass from Hell | [0100A0300D1A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A0300D1A0000) | 63b9577d6f33e149 |
+| 824 | Helvetii | [010089701934C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010089701934C000) | 5aea32c501e4c03b |
+| 825 | Hero must die. again | [010049500F996000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049500F996000) | 010049500f996000, ed2c2056af00b1c7 |
+| 826 | Heroes of Loot | [010091E01330C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010091E01330C000) | 567cb20694b517f3 |
+| 827 | HEROINE ANTHEM ZERO episode 1 | [01001B70080F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B70080F0000) | 45b257c493eeb045 |
+| 828 | Heroland | [0100E1E00EF30000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E1E00EF30000) | d37c29f215a33a45 |
+| 829 | Hill Climbing Mania | [0100147011F4E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100147011F4E000) | b2a838fe966cb54e |
+| 830 | Hob: The Definitive Edition | [01004B100A5CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B100A5CC000) | 2144e3740a714489, 4e7978e35f9d7490 |
+| 831 | Hollow Knight | [0100633007D48000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100633007D48000) | 155c8506c654fb4d, fb968cfb649a5842 |
+| 832 | Horace | [010086D011EB8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010086D011EB8000) | edf9c3851a2ec4a0 |
+| 833 | Horizon Chase Turbo | [01009EA00B714000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009EA00B714000) | 0fd4cffbe940d846, 819e5faed7cb2e4c, c4155f1414558e45, dc0392fb78995746, e807e56db799da40, fc03e9c290b99944, fd04fc9f3849184d |
+| 834 | Hot Wheels Unleashed [Rev 1.0.0] | [01003D001597A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D001597A000) | 7084bda5918c68c4 |
+| 835 | HOT WHEELS UNLEASHED™ | [0100AA60136D2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AA60136D2000) | e8eded95565f2f99 |
+| 836 | Hotshot Racing | [0100BDE008218000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BDE008218000) | 67d4d404c8e0dd12 |
+| 837 | Hungry Shark World | [0100E1A00AF40000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E1A00AF40000) | 84f3ebf079d0c34d |
+| 838 | Huntdown | [0100EBA004726000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EBA004726000) | 0e4cd9323816d642, 20be97be1162e647 |
+| 839 | Hunter's Legacy: Purrfect Edition | [010068000CAC0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010068000CAC0000) | 4d514c14e9fa804a |
+| 840 | Hunting Simulator | [0100C460040EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C460040EA000) | 38d978866da4e740 |
+| 841 | Hyper Echelon | [0100B57011488000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B57011488000) | c920e632a1b1160f |
+| 842 | Hyper Light Drifter - Special Edition | [01003B200B372000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003B200B372000) | 7375e3124c4762c8 |
+| 843 | Hyperspace Delivery Service | [010049000F6B0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049000F6B0000) | dbe0ab47c73d874a |
+| 844 | Hyrule Warriors: Age Of Calamity [Rev 1.0.0] | [01002B00111A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002B00111A2000) | 0496d4b4c6ae1cf4, 3a2d1227979971e5, 5a982fa25220e4df, 908cd685037018e9, 935ebe83c4a06583, c3cf52bf2b05d731 |
+| 845 | Hyrule Warriors: Definitive Edition | [0100AE00096EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AE00096EA000) | 0c869f41b8b9175e, 815a2c19d1767896 |
+| 846 | I Am Setsuna | [0100849000BDA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100849000BDA000) | 0bba2167aed893be |
+| 847 | Ice Age: Scrats Nutty Adventure | [01004E5007E92000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004E5007E92000) | 3295d9b0da169a4f, 799d52eeaaf76b47 |
+| 848 | Ice Station Z | [0100954014718000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100954014718000) | 14f0c4ab904a3f47 |
+| 849 | ICEY | [0100BE9007E7E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE9007E7E000) | 684a8d1aebeb7845 |
+| 850 | Iconoclasts | [0100BC60099FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BC60099FE000) | 4e1c499387103542 |
+| 851 | Ikaruga | [01009F20086A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009F20086A0000) | 360954416f3ae3bf, 6cb42a082864095c |
+| 852 | Ikenfell | [010040900AF46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040900AF46000) | 82e28ce7709d9c15 |
+| 853 | Illusion of L'Phalcia | [01000B700EC22000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000B700EC22000) | dcad50aef4e03c48 |
 | 854 | Immortals Fenyx Rising [Rev 1.0.0] | [01006E60131B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006E60131B6000) | 305a12dd6b139a0a, 89b1333eac986eda, cade195fe9f14b2a |
-| 855 | Imp of the Sun | [01003C4016B12000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003C4016B12000) | 01a402f1f5e95ae1 |
-| 856 | IMPLOSION | [0100737003190000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100737003190000) | 1967a586ca3f9594 |
-| 857 | In Sound Mind [Rev 1.0] | [01006DF014682000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006DF014682000) | 437d1636aa93d390 |
-| 858 | Indivisible | [01001D3003FDE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001D3003FDE000) | 76891617fe876b5f |
-| 859 | Inexistence Rebirth | [010001D014348000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010001D014348000) | 8e1251e46a5bcaaa |
-| 860 | Infinite - Beyond the Mind | [010085D0101A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010085D0101A4000) | e2962af45de03f8c |
-| 861 | Infinite Tanks WWII | [010057101473A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010057101473A000) | fed199fe706ff17d |
-| 862 | INMOST | [0100F1401161E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F1401161E000) | 749be2421442084d |
-| 863 | Inscryption | [010027F017B12000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027F017B12000) | 25dde567a0816046 |
-| 864 | Inside Grass: A little adventure | [0100EC7012D34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC7012D34000) | 82621f7ea403de49 |
-| 865 | Into the Dead 2 | [01000F700DECE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000F700DECE000) | 5da7219e9c868b40, 6c2e85a41eb3fb4a |
-| 866 | Intrepid Izzy | [0100897019402000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100897019402000) | 4a242ed7f31db4f6 |
-| 867 | Inukari - Chase of Deception | [010082301754C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082301754C000) | e19678e5f9e6d466 |
-| 868 | Ion Fury | [010041C00D086000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010041C00D086000) | 2774b972a2adff45, 9d2efcf198f2247f, ab507fa827afff86, e3f099c642642dd2 |
-| 869 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth Infinite Combate | [010063E0104BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010063E0104BE000) | bf4a86cc45871342 |
-| 870 | Is It Wrong to Try to Pick Up Girls in a Dungeon?: Infinite Combate [Rev 1.0.0] | [010082200EE6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082200EE6A000) | 204512ddc12f5247 |
-| 871 | Island Saver | [0100A2600FCA0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A2600FCA0000) | 5deb62b4085e8b45 |
-| 872 | Isolation Story | [0100924013162000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100924013162000) | ac81f731198bba41 |
-| 873 | It came from space and ate our brains | [01002E501015A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002E501015A000) | 01002e501015a000, b3946e23d25c5b4c |
-| 874 | Ittle Dew | [01005070088E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005070088E0000) | 3040b326c1e01843 |
-| 875 | Ittle Dew 2+ | [01004070022F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004070022F0000) | b375f9c4583e074b, fbb317949968ac41 |
-| 876 | Jack 'n' Hat | [0100CF001426A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CF001426A000) | bfbca454bdc81c38 |
-| 877 | Jack Axe | [0100EF500EF42000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EF500EF42000) | baa6db7690e723bc |
-| 878 | JackQuest: The Tale of the Sword | [0100C80009ABE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C80009ABE000) | 3749bfea64dc98df |
-| 879 | Jay and Silent Bob: Mall Brawl | [0100CD1010740000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CD1010740000) | 9fa43604f9ee9343, f79075633c5b7b40 |
-| 880 | Jet Kave Adventure | [0100E4900D266000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4900D266000) | 55ee3667931f2a4e |
-| 881 | Jet Set Knights | [01005C1012C22000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005C1012C22000) | 166ccc3f97efe368, 699fab245432f155 |
-| 882 | Jets'n'Guns | [010026200FF36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026200FF36000) | 49b81bb7a4a30917 |
-| 883 | Jets'n'Guns 2 | [01000BF012920000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000BF012920000) | ff756020d95b3ec5 |
-| 884 | Jikkyo Powerful Pro Yakyu | [0100E9C00BF28000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E9C00BF28000) | 859a3a3d296d44e8 |
-| 885 | Joe Devers Lone Wolf | [0100D49008748000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D49008748000) | 838e2d7bb425994d |
-| 886 | John Wick Hex | [01007090104EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007090104EC000) | 925f0e0d520e8a4e |
-| 887 | Johnny Turbo's Arcade: Fighter's History | [0100B3F00B9F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B3F00B9F2000) | 64b19fa91081374f |
-| 888 | Johnny Turbo's Arcade: Night Slashers | [0100F7300C90E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F7300C90E000) | 64b19fa91081374f |
-| 889 | Johnny Turbos Arcade Caveman Ninja | [0100355002CBE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100355002CBE000) | 980fb826274c0947 |
-| 890 | Johnny Turbos Arcade Two Crude | [010080D002CC6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010080D002CC6000) | a08736d63a033846 |
-| 891 | Jotun: Valhalla Edition | [0100340009736000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100340009736000) | 6593d6d07b08024b |
-| 892 | Journey of the Broken Circle | [0100251012E38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100251012E38000) | a83041c29cc30a41 |
-| 893 | Juiced! | [0100F7C012D68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F7C012D68000) | 7af131133cec43fb |
-| 894 | Juicy Realm | [0100C7600F654000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C7600F654000) | 1cc0f472aaa0cb44, 5eb90226e5a2aa45, 9040949bee1a224b, c72372c4bd3f9e47, cd13d3722e4ea24a |
-| 895 | Jumanji: The Video Game | [0100B4D00C76E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B4D00C76E000) | 54e9c7460334eeb4 |
-| 896 | JUMP FORCE: Deluxe Edition [Rev 1.00] | [01008CD01187E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008CD01187E000) | abba41088700b6de, e33e6767e0d727fa |
-| 897 | JUMP FORCE: Deluxe Edition [Rev 1.00] | [0100183010F12000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100183010F12000) | d637d1dcff836cb2, f5ae4f045dda9e45 |
-| 898 | Junk Jack | [010043901005A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010043901005A000) | d06812e9f4d77318 |
-| 899 | Jurassic World Evolution: Complete Edition | [010050A011344000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010050A011344000) | b0708a7be9d178d9, b4508f122c4e512e |
-| 900 | Just Dance 2018 | [0100A0500348A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A0500348A000) | 448e0f0e1c1cbade |
-| 901 | Just Dance 2019 | [010075600AE96000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075600AE96000) | 48bcb6087dca2090 |
-| 902 | Just Dance 2021 [Rev 317118.553751] | [0100BF9011B52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BF9011B52000) | 7b64dba6fff3b5dd |
-| 903 | Just Dance® 2020 | [0100DDB00DB38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DDB00DB38000) | 6674d85b7a37a96f |
-| 904 | JYDGE | [010035A0044E8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010035A0044E8000) | 8728efbc0732aa2f |
-| 905 | Kairobotica | [0100D5F00EC52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D5F00EC52000) | f9284cc26fc6564f |
-| 906 | KAMEN RIDER CLIMAX SCRAMBLE | [0100BDC00A664000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BDC00A664000) | b807bdb67dca9648 |
-| 907 | Kamen Rider: Memory Of Heroez (Premium Sound Edition) [Rev 1.0.0] | [0100A9801180E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A9801180E000) | 3ddc1e43a0c36d40, 912318946167dc48 |
-| 908 | Kamen Rider: Memory Of Heroez [Rev 1.0.0] | [010060F00EE92000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010060F00EE92000) | 87e3f1492d37734d |
-| 909 | KAMIKO | [010085300314E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010085300314E000) | 20c625ac27190391 |
-| 910 | Kangokuto Mary Skelter 2 for Nintendo Switch | [0100C3500D956000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C3500D956000) | b1fc6fb94ece1df1, b2c87992da9ce1e8 |
-| 911 | Kangokuto Mary Skelter Finale [Rev 1.0.0] | [010042C011736000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042C011736000) | 9b44e06034d7bba0 |
-| 912 | Karma Knight | [01005300128E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005300128E2000) | 6fc0bc9f5e5fe749 |
-| 913 | Katana Kami: A Way Of The Samurai Story [Rev 1.0.0] | [0100F6A00E31E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F6A00E31E000) | 8b562b57837a3d48 |
-| 914 | Katana ZERO | [010029600D56A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010029600D56A000) | 158a7f586431982e |
-| 915 | KAUIL’S TREASURE | [010028F013358000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010028F013358000) | e055f38d30be4f42 |
-| 916 | Kaze and the Wild Masks | [010038B00F142000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038B00F142000) | 3f1e5c8189629f4f, 7a1598fa5877f246 |
-| 917 | Keen: One Girl Army | [0100D7C01115E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D7C01115E000) | 5a95eb5631c22043 |
-| 918 | KEMCO RPG Select Vol. 1 [Rev 1.0.1] | [010042800A516000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042800A516000) | 742f9d7917f6bb4c |
-| 919 | Kemono Heroes | [0100B61010272000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B61010272000) | 903196324d35db4e |
-| 920 | KeroBlaster | [0100DA200A09A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA200A09A000) | 9a9b1a4513a3576b |
-| 921 | KILL la KILL -IF | [0100FB400D832000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FB400D832000) | 1131b24a070766c3 |
-| 922 | King Lucas | [0100E6B00FFBA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E6B00FFBA000) | ea5ba579f77a014a |
-| 923 | King of Seas | [01008D80148C8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D80148C8000) | 2c9aa9a24c5e389c |
-| 924 | King's Bounty II | [010026F013B3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026F013B3A000) | 36d4dfb5da75b787, ebc2fa4a226e0774 |
-| 925 | Kingdom Hearts: Melody of Memories [Rev 1.01] | [01005D2011EA8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005D2011EA8000) | 0f878e7cfccbe14c, 5c549b9bf83f254f, c7cf8f4fd4f19648 |
-| 926 | Kingdom Hearts: Melody of Memories [Rev 1.01] | [0100B42011EF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B42011EF6000) | cc7695a3d8342841 |
-| 927 | Kingdom Hearts: Melody of Memories [Rev 1.01] | [0100C6000E71E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C6000E71E000) | 62488500f7894744 |
-| 928 | Kingdom of Arcadia | [0100B4E012CAC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B4E012CAC000) | bebdf967daeefc6a |
-| 929 | Kingdom Rush Frontiers | [010046200FC62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010046200FC62000) | b1c0e2f9dbf2adfb |
-| 930 | Kingdom Two Crowns | [01005EF003FF2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005EF003FF2000) | f2da1e131cd72241 |
-| 931 | Kingdom: New Lands | [0100BD9004AB6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD9004AB6000) | 871a5f971b929d4e |
-| 932 | Kingdoms of Amalur: Re-Reckoning [Rev 1.0.0] | [0100EF50132BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EF50132BE000) | 5b3112fd2c83e1ac, 816bfb8a2f5b5916 |
-| 933 | Kirby Fighters™ 2 | [0100227010460000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100227010460000) | 738ae024b3aecb69 |
-| 934 | Kirby Star Allies | [01007E3006DDA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007E3006DDA000) | d55608916fa56c18 |
-| 935 | Kitaria Fables [Rev 1.0.0] | [0100F30013BFC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F30013BFC000) | 2b7c360d075f7544 |
-| 936 | Knight Terrors | [0100D51006AAC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D51006AAC000) | 48e19a79bd94264c |
-| 937 | Knightin'+ | [01005F8010D98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005F8010D98000) | e1f19426d584d567 |
-| 938 | Kono Subarashii Sekai ni Shukufuku o Kibo no Meikyu to Tsudoishi Bokensha-tachi Plus [Rev 1.0.0] | [01004920105FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004920105FC000) | d1cbd97f27390104 |
-| 939 | Kotodama: The 7 Mysteries of Fujisawa | [010046600CCA4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010046600CCA4000) | 1ac1dd4498520448 |
-| 940 | Koumajou Remilia: Scarlet Symphony | [0100532015746000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100532015746000) | 887ec8c9a74c314f |
-| 941 | Krut: The Mythic Wings | [0100E4F016262000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4F016262000) | 93fba1f3beb581cd |
-| 942 | Kukoos: Lost Pets | [01000AF019464000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000AF019464000) | f6e93f2192062a44 |
-| 943 | KUNAI | [010035A00DF62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010035A00DF62000) | d0be93d85d02c64e |
-| 944 | Kwaidan ～Azuma manor story～ | [0100894011F62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100894011F62000) | 8a6ee4f53fca3c44 |
-| 945 | L.O.L. Surprise! Remix: We Rule The World [Rev 1.0.2] | [0100F2B0123AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2B0123AE000) | 821623d5241ab14b |
-| 946 | LA MULANA 1 | [0100E5D00F4AE001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5D00F4AE001) | 546537ede7d31355 |
-| 947 | LA MULANA 2 | [0100E5D00F4AE002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5D00F4AE002) | a73e8bf6d692314a |
-| 948 | LA-MULANA | [010026000F662000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026000F662000) | 5160d10088bb2289 |
-| 949 | LA-MULANA 2 | [010038000F644000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038000F644000) | 582b12ea6fc34845 |
-| 950 | LA-MULANA 2 | [01005E000D3D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005E000D3D8000) | c22c6b213d9f9c40 |
-| 951 | Labyrinth of Galleria: The Moon Society | [0100001017216000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100001017216000) | 5b8a84d880998114 |
-| 952 | Labyrinth of Refrain: Coven of Dusk | [010058500B3E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010058500B3E0000) | a70b9eb509780b4a |
-| 953 | Labyrinth of the Witch | [010022D0089AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022D0089AE000) | 5fc92359462fad47 |
-| 954 | Lair of the Clockwork God | [01008280119B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008280119B2000) | a438aaa96812fe44 |
-| 955 | Landflix Odyssey | [0100BE3013A38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE3013A38000) | c55df60aebbb4eae |
-| 956 | Langrisser I and II [Rev 1.0.0] | [0100BAB00E8C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BAB00E8C0000) | 06b9d4461dc8a442 |
-| 957 | Lapis x Labyrinth | [010059500D070000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010059500D070000) | 7aa99f168bbe05de |
-| 958 | Last Command | [010022F01A016000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022F01A016000) | c27de8222584f64f |
-| 959 | Last Fight [Rev 1.0.1] | [01009E100BDD6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009E100BDD6000) | 184cd27602cef34d |
-| 960 | Laytons Mystery Journey: Katrielle and the Millionaires Conspiracy [Deluxe Edition] | [0100CE500D226000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CE500D226000) | 6e3697980fb82e82 |
-| 961 | Legend of Kay Anniversary | [01002DB007A96000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002DB007A96000) | 45396fcb2433872f |
-| 962 | Legend of Keepers: Career of a Dungeon Manager | [0100C67015076000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C67015076000) | 29cca88a99029547 |
-| 963 | Legend of Mana | [01003570130E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003570130E2000) | 8af5434b6dbb81cc |
-| 964 | Legend of the Skyfish | [0100ECC00EF3C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ECC00EF3C000) | eb415b6b0545b744 |
-| 965 | Legend of the Tetrarchs | [01007E900DFB6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007E900DFB6000) | 4c1d271b7b598d41 |
-| 966 | Legends of Ethernal | [01008EE012CD4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008EE012CD4000) | 6426eb51f081aa45 |
-| 967 | LEGO City: Undercover | [010085500130A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010085500130A000) | 2aa90ecc2a24da46, 7b021c62485d604c |
-| 968 | LEGO City: Undercover | [01003A30012C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003A30012C0000) | 669f6e70c268f748 |
-| 969 | LEGO Harry Potter Collection | [010052A00B5D2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010052A00B5D2000) | 01c46c3e39c5370f |
-| 970 | LEGO Jurassic World | [01001C100E772000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C100E772000) | 1b80403be8882745 |
-| 971 | LEGO Marvel Super Heroes | [01006F600FFC8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006F600FFC8000) | 5d769abcad9f2743 |
-| 972 | LEGO Marvel Super Heroes 2 | [0100D3A00409E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D3A00409E000) | 20cd49f2ba64744d |
-| 973 | LEGO Marvel Super Heroes 2 | [01007690040A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007690040A0000) | e21eae8cb8581043 |
-| 974 | Lego Star Wars: The Skywalker Saga [Rev 1.0.0] | [010042D00D900000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042D00D900000) | fd65326219ec426c |
-| 975 | LEGO The Incredibles | [0100F19006E04000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F19006E04000) | 414d247f3fd8084e |
-| 976 | LEGO The Incredibles | [0100A01006E00000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A01006E00000) | 2103782a9ae5384e |
-| 977 | LEGO® DC Super-Villains | [010070D009EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010070D009EC000) | 711c52fc37606d45 |
-| 978 | LEGRAND LEGACY: Tale of the Fatebounds | [0100E7500BF84000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E7500BF84000) | ec34fb71507c2b42 |
-| 979 | Lethal League Blaze | [01003AB00983C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003AB00983C000) | 6cbb3b19c992634f |
-| 980 | Letter Quest Remastered | [01008C300648E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008C300648E000) | f94d4262f0311e4d |
-| 981 | Liege Dragon | [010041F0128AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010041F0128AE000) | 68485fb688541b47 |
-| 982 | Life is Strange 2 | [0100FD101186C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FD101186C000) | bf0088c59d7e97c0 |
-| 983 | Light Fairytale Episode 1 | [0100558017FD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100558017FD8000) | fbd60e9240c3f26d |
-| 984 | Light Fall | [010030A006F6E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010030A006F6E000) | d4801982fd785f42 |
-| 985 | Lila's Sky Ark | [01006C3017146000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C3017146000) | ddd922368815845e |
-| 986 | Little Big Workshop | [0100F6B01188E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F6B01188E000) | 9b7a1e12c165644e |
-| 987 | Little Inferno | [0100B18001D8E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B18001D8E000) | 4e1af3b11a41f81c |
-| 988 | Little Nightmares II | [010097100EDD6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010097100EDD6000) | 73ace23d9e196304 |
-| 989 | Little Noah: Scion of Paradise | [0100535014D76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100535014D76000) | 289f756d51ea8a9e, 99b1cd48c88835f6 |
-| 990 | Little Triangle | [01000690085BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000690085BE000) | 992d2df3ec0d134a |
-| 991 | Little Witch Nobeta [Rev 1.0.4] | [01005FA019DC8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005FA019DC8000) | aa429d4dc7181c96 |
-| 992 | Lone Ruin | [0100B6D016EE6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B6D016EE6000) | 5166d09c4fd1825d |
-| 993 | Lonely Mountains: Downhill | [0100A0C00E0DE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A0C00E0DE000) | 2ec4d1b667108246 |
-| 994 | Loot Hero DX | [010077E013D60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010077E013D60000) | fefe79a36161f553 |
-| 995 | Lost Castle | [0100581007068000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100581007068000) | 83f63a18c3490647 |
-| 996 | Lost in Random™ | [01005FE01291A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005FE01291A000) | 416914c121775277 |
-| 997 | Lost Sea | [010071B00964A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010071B00964A000) | 53a7c333f5a5164e |
-| 998 | Lost Sphear | [010077B0038B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010077B0038B2000) | 641a9243ba35c638 |
-| 999 | Love Esquire | [0100D600129A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D600129A4000) | 18974dfcc74e58fc |
-| 1000 | Lovecraft´s Untold Stories | [010041100CE7E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010041100CE7E000) | 06a06f7f844b3048, 39e84e8ca98f7445, 603713f56498a749 |
-| 1001 | LoveR Kiss [Rev 1.0.0] | [01007250089F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007250089F8000) | 6a508fae5ee5a625, 8529f6bd4d1ac688, eb388107c2c7630a |
-| 1002 | Lucah: Born of a Dream | [0100AAA00DD4C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AAA00DD4C000) | 03dffe48b573ca48, 504d86d833937a40 |
-| 1003 | Luigis Mansion 3 | [0100DCA0064A6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DCA0064A6000) | 075ad583a1603f84, 486f6a3b2d6bcf5c, 788dd38ad97f1d12, 79e5950ffa85acf6, a27c9ba72927796a |
-| 1004 | M.A.C.E. Space Shooter | [0100F02005D1E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F02005D1E000) | 21cc83cf5a6c67ae |
-| 1005 | M.A.C.E. Tower Defense | [010032800F038000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010032800F038000) | 9eaa0a8818ea8546 |
-| 1006 | MachiKnights -Blood bagos- | [0100F2400D434000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2400D434000) | 8eb9f6fb15b3428b |
-| 1007 | Mad Bullets | [01008F000E908000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008F000E908000) | 07cdecb2cfdb33db |
-| 1008 | Mad Tower Tycoon | [0100C5F012A3C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C5F012A3C000) | e80d3cc1c0bac34c |
-| 1009 | Magazine Mogul | [01004A200E722000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A200E722000) | 1f3961008c458b42 |
-| 1010 | Mages of Mystralia | [0100549008C9C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100549008C9C000) | 876049d0d3d7ca4a, de32b7731b63fe48 |
-| 1011 | Magic Scroll Tactics | [010013800BE2C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010013800BE2C000) | e4473ceedcc3cc4f |
-| 1012 | MagiCat | [01008E500BF62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008E500BF62000) | 833d81cc2e69914c |
-| 1013 | Maid of Sker | [01002E900CF38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002E900CF38000) | d7ef1ae60aada34a |
-| 1014 | Makai Senki Disgaea 6 [Rev 1.0.0] | [0100307011D80000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100307011D80000) | 0061513a543e48db, b766e8ad3284ab9c |
-| 1015 | Makai Senki Disgaea 7 [Rev 1.0.0] | [0100A78017BD6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A78017BD6000) | 76e70b01e849d3b5 |
-| 1016 | Makai Senki Disgaea Refine | [01000E600B05C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000E600B05C000) | 489626ae0cfbfd15 |
-| 1017 | Mana Spark | [01005A700CC3C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005A700CC3C000) | 527a6996351df24f |
-| 1018 | Maneater | [010093D00CB22000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010093D00CB22000) | 153ee73742bff405 |
-| 1019 | March to a Million | [010097500E552000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010097500E552000) | ba6922f2e506d442 |
-| 1020 | Märchen Forest [Rev 1.0.0] | [01001B2012D5E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B2012D5E000) | b07176ceb2483f4c |
-| 1021 | Mario + Rabbids Kingdom Battle | [010067300059A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010067300059A000) | 3b39e0c06b8841f1 |
-| 1022 | Mario + Rabbids: Sparks of Hope [Rev 1.0.2011220] | [0100317013770000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100317013770000) | 262444e011e629ab, 29c71f06d781eff1, e0d6e12107f2c660 |
-| 1023 | Mario Golf™: Super Rush | [0100C9C00E25C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C9C00E25C000) | 70617e8dac74382a, a7f339f38ee6b26c |
-| 1024 | Mario Kart 8 Deluxe | [0100152000022000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100152000022000) | 1cd9216a21737fb4, 381f6bf6894f3c33, 4792aba465f04534, 60c8343afba2588f, 937e57ff64d21ecd, 96dfd1769e560c27, bda8f5e6a0f87f36, fe1b230800d4933c |
-| 1025 | Mario Tennis Aces | [0100BDE00862A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BDE00862A000) | 32487e7e3d94954e, 4b9a64ded26c6e46, 88ef9ecb522d12db, 9fda2c32e8de3ebf, a85c59aedf83e5c9, a9b238505a969318, f5942324c223cd16 |
-| 1026 | Marvel Ultimate Alliance 3: The Black Order | [010060700AC50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010060700AC50000) | 066e47b7e18919a7, 5ed21fb245de6fd6, 667b85fe3416042d, bb1b99313a37497b, e853c44fdf18b88f, f5b177df07a33d38, f6a5b20e04316d19, f92c9527298b5cce |
-| 1027 | Mary Skelter 2 | [01003DE00C95E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003DE00C95E000) | 1caa05a4630e7769, b1fc6fb94ece1df1, c16e154e683d7eb8 |
-| 1028 | Masters of Anima | [0100CC7009196000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CC7009196000) | 221c5199de0ad409, b1c8b55e8d400e57 |
-| 1029 | Mato Anomalies | [01006320174AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006320174AE000) | 81d1a2e2c2bb7bf8 |
-| 1030 | Max and the book of chaos | [0100A8C011F26000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A8C011F26000) | 7a0d43680365424e |
-| 1031 | Maximus 2 | [01000FE0164AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000FE0164AA000) | 9d8382d802511043 |
-| 1032 | Mayhem Brawler | [01002C70149B4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C70149B4000) | 833b93270803234e, 9f158d0cdd74440b |
-| 1033 | Mech Rage | [0100EC000CE24000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC000CE24000) | b117cba20eb26a4f |
-| 1034 | Mechstermination Force | [0100E4600D31A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4600D31A000) | 59d3aec4b3c1f9c6 |
-| 1035 | Mega Man 11 | [0100B0C0086B0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B0C0086B0000) | 047fdd0c5af5f1c5, 3469a1b2e0fea93c |
-| 1036 | Mega Man Legacy Collection | [01002D4007AE0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002D4007AE0000) | 381ebb12fb9a8c78 |
-| 1037 | Mega Man Legacy Collection 2 | [0100842008EC4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100842008EC4000) | cde43aac8c49c618 |
-| 1038 | Mega Man X Legacy Collection | [01005C60086BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005C60086BE000) | ead37d36abd7c4c8 |
-| 1039 | Mega Man X Legacy Collection 2 | [01005250086C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005250086C4000) | ece85107b8dc81db |
-| 1040 | Mega Man Zero/ZX Legacy Collection [Rev 1.0.0] | [010025C00D410000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010025C00D410000) | 2a38895c5e732182 |
-| 1041 | Megabyte Punch | [0100FC700F942000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FC700F942000) | 74e0c0485919c342 |
-| 1042 | Meganoid | [010028101227A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010028101227A000) | 10318952dad3d9e1 |
-| 1043 | MELTY BLOOD: TYPE LUMINA | [01001E30126A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001E30126A0000) | 030e8ed4b6ecd104, 46ffd77d1647f1ae, b8030081e944e100 |
-| 1044 | Mercenaries Blaze: Dawn of the Twin Dragons | [0100A790133FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A790133FC000) | acdb9f8fa16b0f4f |
-| 1045 | Mercenaries Wings: The False Phoenix | [010094500C216000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010094500C216000) | fea1e2af77833e40 |
-| 1046 | Mercenary Kings | [0100F900046C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F900046C4000) | e19317ee3daf4fea |
-| 1047 | Metal Dogs [Rev 1.0] | [0100A6E01681C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A6E01681C000) | c08be8de6e40e54f |
-| 1048 | METAL MAX Xeno:  Reborn [Rev 0.1] | [0100E8F00F6BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E8F00F6BE000) | b6f1f3441fddbf47 |
-| 1049 | Metaloid: Origin | [01002DE00E5D0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002DE00E5D0000) | d76d38b9e285e4cc |
-| 1050 | Metaverse Keeper | [0100AFF00F938000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AFF00F938000) | 52e597efe89c6348 |
-| 1051 | Metro Redux [Rev 1.0.0] | [0100D4900E82C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D4900E82C000) | 85c362cc9790f0ed |
-| 1052 | Metro: Last Light Redux | [0100F0400E850000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F0400E850000) | 85c362cc9790f0ed |
-| 1053 | Metroid Prime™ Remastered | [010012101468C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010012101468C000) | 67c9ca1428222752 |
-| 1054 | Metroid™ Dread | [010093801237C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010093801237C000) | 49161d9ccbc15df9, 64b4b34a5490b80f, 6c1c79196ed2af54, e8e8ec3fd0159d65 |
-| 1055 | Micro Pico Racers | [0100E5E012744000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5E012744000) | 9889bea1eaa23c42 |
-| 1056 | Miden Tower | [01001EB011D38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001EB011D38000) | 0d5d07181f8be84c |
-| 1057 | Midnight Deluxe | [01000FB008900000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000FB008900000) | ab085264ca5a9442 |
-| 1058 | Mighty Goose | [0100AD701344C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AD701344C000) | 230115d50145b816 |
-| 1059 | MIGHTY GUNVOLT BURST | [01000E2003FA0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000E2003FA0000) | e621cc4f5ac77b1c |
-| 1060 | Miitopia™ | [01003DA010E8A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003DA010E8A000) | 3378b75a3dd2ada9, 38a937bb6d6c8f3d |
-| 1061 | Miles and Kilo | [01004B7009F00000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B7009F00000) | 900c13947dee53ff |
-| 1062 | MindSeize | [0100B05012FB2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B05012FB2000) | 53ee95838a26cc41 |
-| 1063 | Minecraft (rev001) | [0100D71004694000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D71004694000) | 390a94ddff4e98a2, 460de4e3e9b83e39 |
-| 1064 | Minecraft Dungeons | [01006C100EC08000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C100EC08000) | 4e87c5792a7c8290, 5ee3f44479a972ea, 6e4f953fd94fa7bc, 919717f094b9c8cd, b0efb225275ba084, fd6b97411349ddb3 |
-| 1065 | Mini Motor Racing X | [01003560119A6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003560119A6000) | 489a7372c2fd7948 |
-| 1066 | Minoria | [0100FAE010864000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FAE010864000) | 22f902ea52fb9449 |
-| 1067 | Missile Dancer | [0100CFA0138C8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CFA0138C8000) | bd89832dce35bd0b |
-| 1068 | Mist Hunter | [010059200CC40000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010059200CC40000) | 5a12f43732856844 |
-| 1069 | MISTOVER | [010034E00EFD0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010034E00EFD0000) | 72353029e0dd9843, 9b3b5f6d3d95ae4c, a845c02558e6e447 |
-| 1070 | MO:Astray | [010011300F74C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010011300F74C000) | 6c3210e6db52484a, d0621765de125240 |
-| 1071 | Moero Chronicle™ Hyper | [0100B8500D570000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B8500D570000) | d6db4c4b00699a19 |
-| 1072 | Moero Crystal H | [01004EB0119AC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004EB0119AC000) | f386b1aed15c029c |
-| 1073 | Momodora: Reverie Under the Moonlight | [01004A400C320000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A400C320000) | 1fa6ede0487edafd, d9c5d440ea56b37b |
-| 1074 | MONARK | [0100E4A01548C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4A01548C000) | 85eb6295023dd394 |
-| 1075 | MONKEY BARRELS | [0100FBD00ED24000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FBD00ED24000) | 611f06c0ec29b743, fe50c0f9760f4343 |
-| 1076 | Monkey King: Master of the Clouds | [01004C500B8E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004C500B8E0000) | 40961c0a47988049 |
-| 1077 | Monochrome Order | [010075200F1CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075200F1CA000) | 5d1bc3e14c488c47 |
-| 1078 | Mononoke Slashdown | [0100F3A00FB78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F3A00FB78000) | 6911a0b8b685e532 |
-| 1079 | Monopoly | [01007430037F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007430037F6000) | 78440bac00d01742, b3efc64152be0d27 |
-| 1080 | Monster Boy and the Cursed Kingdom | [01006F7001D10000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006F7001D10000) | 107a4d01b1bf5d44, 7dd8afc6a77afbb3, bef7bd1a79121305, ee7693162065f488, ff7be16d88b0c439 |
-| 1081 | Monster Harvest | [01004E001256A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004E001256A000) | 84a900975bbc204b |
-| 1082 | MONSTER HUNTER GENERATIONS ULTIMATE | [0100770008DD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100770008DD8000) | 91a0f7e64876346e, 936abc6624fc8d8a, fb08f1d20fd1204f |
-| 1083 | MONSTER HUNTER GENERATIONS ULTIMATE™ Demo | [0100E6400B1EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E6400B1EA000) | d95baaadde3908ef |
-| 1084 | Monster Hunter Rise [Rev 1.0.0] | [0100B04011742000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B04011742000) | 1318dd201757a788, 23a75866baa8b4d9, 46205b7bd869e2e4, 5cac0323ccbc04bf, 6cdec176ea1d12c5, b09f83b9ef28c00d, f7a7784e77202be7 |
-| 1085 | Monster Hunter Stories 2: Wings of Ruin | [0100E21011446000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E21011446000) | 4b8e91070d920211, bcd9fddeba070270, ee762e3c16403a53 |
-| 1086 | Monster Hunter XX Nintendo Switch Ver. | [0100C3800049C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C3800049C000) | 9d4c86e6ef74504a |
-| 1087 | Monster Jam: Steel Titans [Rev 1.0.1] | [010095C00F354000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095C00F354000) | 92d64159071e039f |
-| 1088 | Monster Sanctuary | [0100A0F00DA68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A0F00DA68000) | 4526a286a8dcad43, 6353afd4731b1144, 65eea5a401b6f042, 919f748a49edcc4d, eee2b36b6080d949, fd058635cd4e2b43 |
-| 1089 | Monster Slayers | [0100D1700C732000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D1700C732000) | 341cd937b9a177a5 |
-| 1090 | Monster Train First Class | [01006D9013894000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006D9013894000) | f0afc43d4e9e6540 |
-| 1091 | Monster Viator | [01001620105FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001620105FE000) | 555c31c0b8c8d540 |
-| 1092 | moon | [0100E1800EFCE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E1800EFCE000) | 089898e9f7812443 |
-| 1093 | Moon Hunters | [01004FD00382A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004FD00382A000) | 5e4bc2f68fd39749 |
-| 1094 | Moon Raider | [01000C301457C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000C301457C000) | 2206455c8debc1fd |
-| 1095 | Moonlighter | [0100F4700B2E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F4700B2E0000) | 962cafe79900af46, bbf3f7535ed52140, cd63653c77e52d44 |
-| 1096 | Moorhuhn Jump and Run 'Traps and Treasures 2' | [01002AB017786000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002AB017786000) | eb0019a05e18403d |
-| 1097 | Morbid: The Seven Acolytes | [010040E00F642000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040E00F642000) | 44d8102a3a314307, c2743da0740c6a26 |
-| 1098 | Morphite | [0100776003F0C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100776003F0C000) | a757cc723f059240 |
-| 1099 | Mortal Kombat 11 | [0100F2200C984000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2200C984000) | 053c0def634d577b, 0a62ba391b96f85a, 122e262da74e5148, 2102a7476c861be3, 253ce7ff39ea6dd8, 42f093afb5ed34e2, 452a442f3d18086d, 4db479bdec804fca, 4f7ab1a3eefc7eb2, 5cc95226dbaaae04, 600436311afc7f24, 618a891e4a49d835, 69cfb1478185a732, 6ee15d1e9bc5ce90, 71f12f744212cbe8, 7dd420a59ee310dd, a18f8879b9a93f3b, b87694bcc4e7c77e, c8c44bca0e8fa163, db4da7bf6af18d4a, dbf3cf1a67412d92, dfe3c7c2880ce91d, e5efef0cabb585cc |
-| 1100 | Mortal Shell: Complete Edition | [0100154019A7C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100154019A7C000) | 3b441c98064c672f |
-| 1101 | Mother Russia Bleeds | [0100D9C00AA52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D9C00AA52000) | 3b1f3c4e8d93b74a |
-| 1102 | Moto Rush GT | [01003F200D0F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003F200D0F2000) | d9417a4323518e47 |
-| 1103 | Moving Out | [0100C4C00E73E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C4C00E73E000) | d613dc6c33ccaa41 |
-| 1104 | Mr. DRILLER DrillLand | [0100DCA011262000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DCA011262000) | 8ae3fac28ffdba0e |
-| 1105 | Muse Dash | [01008E200C5C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008E200C5C2000) | 0a0e633cd3526a41, 61a564531b665643, ee67e4ace805674c |
-| 1106 | Mushihimesama | [010045800FBD0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045800FBD0000) | 87d5d35af6571d94, bba1d0305b1083eb |
-| 1107 | Mushroom Heroes | [01005BD0112B8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005BD0112B8000) | 2010fabdb517f74e |
-| 1108 | Musou Orochi 3 | [0100E8500AD58000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E8500AD58000) | 07650fd5e5e2b82c, 1d18291b37a88ab1 |
-| 1109 | Mutant Mudds Collection | [01004BE004A86000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004BE004A86000) | dc7ebf2d74ae270d |
-| 1110 | Mutant Year Zero: Road to Eden [Deluxe Edition] | [0100E6B00DEA4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E6B00DEA4000) | eb33b25f08668b19 |
-| 1111 | My Friend Pedro | [010031200B94C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010031200B94C000) | 11428e3e3bec214e, cc7797e4ef90c248, myfriendpedro1v0 |
-| 1112 | My Hero Ones Justice 2 [Rev 1.0.0] | [01007E700DBF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007E700DBF6000) | 445a7e604fa1a98b, 6b8a78ea6780099a |
-| 1113 | My Time at Portia | [0100E25008E68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E25008E68000) | 0f91da8517ff2c47, 5a8d16ace656d54b, 5fc2c9ce6c79d64a, 7a11fee67d77df44, 981a2d07e0947446, dd16f4688ab7004b |
-| 1114 | Myastere -Ruins of Deazniff- | [01003E3013BE4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003E3013BE4000) | ca594d5fa57f6c2c |
-| 1115 | MyFarm 2018 | [010021F00AD76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010021F00AD76000) | a18d105404da2c47 |
-| 1116 | Mystery Mine | [01002800117EE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002800117EE000) | cbf01f0658eade4e |
-| 1117 | Mystik Belle Enchanted Edition | [0100FFB015C6E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FFB015C6E000) | 93eb061008cd762b |
-| 1118 | NAMCO MUSEUM® ARCHIVES Vol 1 | [010084E010E18000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010084E010E18000) | d8f700a70f7df4f2 |
-| 1119 | Narcos: Rise of the Cartels | [010072B00BDDE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072B00BDDE000) | 188f1ed1673facbd, 2e6fa6fae12d8085 |
-| 1120 | Narita Boy | [010062200E912000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010062200E912000) | 976d33b11368ef49 |
-| 1121 | NARUTO SHIPPUDEN: Ultimate Ninja STORM TRILOGY | [0100EC800800C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC800800C000) | 577efdfdbb7545cf |
-| 1122 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO | [010084D00CF5E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010084D00CF5E000) | 71cdeb75b75fa30e |
-| 1123 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO | [01006CF00CF60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006CF00CF60000) | fc2d8e44186e60c3 |
-| 1124 | NBA 2K Playgrounds 2 | [01001AE00C1B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001AE00C1B2000) | 0cf694c10af10fa8, 689ca7b6ce68bf90, a9fb2947a86384aa, bd81fef7e65a788b, c38678c1d242d6f5, ebe7b75a6c67814a |
-| 1125 | Need for Speed™ Hot Pursuit Remastered | [010029B0118E8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010029B0118E8000) | 3515e683e1d5e5a1 |
-| 1126 | Nefarious | [010023500B0BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010023500B0BA000) | 4a30e3f987fb714a |
-| 1127 | Negative: The Way of Shinobi | [01008390136FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008390136FC000) | 81c77252a08b20aa |
-| 1128 | Neko Navy Daydream Edition | [0100E5500B020800](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5500B020800) | fbd5d6c83ed9a340, ff16116308df4e4b |
-| 1129 | Nelke & the Legendary Alchemists ~Ateliers of the New World | [01006ED00BC76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006ED00BC76000) | 61cdd17992865cf4 |
-| 1130 | NEO: The World Ends with You | [010043B013C5C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010043B013C5C000) | 6a3e02d91948ec42, f48fbf0922d5424a |
-| 1131 | Neon Abyss | [0100BAB01113A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BAB01113A000) | 48feaf16afb29340, a78d968009a9374c |
-| 1132 | Neon Drive | [010032000EAC6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010032000EAC6000) | 2b5c0f5f97fe9a4d |
-| 1133 | Neon White | [0100B9201406A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B9201406A000) | d5c4846605153085 |
-| 1134 | Neoverse Trinity Edition | [01001A201331E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001A201331E000) | 320bcb5ae7a26f17 |
-| 1135 | Neptunia X SENRAN KAGURA: Ninja Wars | [01008D0016AF4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D0016AF4000) | fb827bf029e0778a |
-| 1136 | Nevaeh | [0100C20012A54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C20012A54000) | 1e6ee43811536d1e |
-| 1137 | Never Awake [Rev 1.0.1] | [0100DA30189CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA30189CA000) | e3dc4fd0a35d25d8 |
-| 1138 | Never Give Up | [01005AD00B91A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005AD00B91A000) | 3990733a2735114c |
-| 1139 | Neversong & Pinstripe [Rev 2.0.0,0.0.0] | [01000C1011960000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000C1011960000) | 802040931b870548 |
-| 1140 | NEW Joe & Mac - Caveman Ninja | [01003A9013DEE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003A9013DEE000) | 274132861eaa8465 |
-| 1141 | New Pokémon Snap [Rev 1.0.0] | [0100F4300BF2C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F4300BF2C000) | b8301424493b656b |
-| 1142 | New Star Manager | [010082900C5FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082900C5FA000) | 878c20b66512e926, c308d2d0051be481 |
-| 1143 | New Super Lucky's Tale | [010017700B6C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010017700B6C2000) | 14872049185c584c, 9acb46936749f543 |
-| 1144 | New Super Mario Bros. U Deluxe | [0100EA80032EA00](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EA80032EA00) | aee6dccc06d9c05b |
-| 1145 | New Super Mario Bros. U Deluxe | [0100EA80032EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EA80032EA000) | aee6dccc06d9c05b |
-| 1146 | Nexomon | [01000BE0156B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000BE0156B2000) | 5afef0a8bcb47841 |
-| 1147 | Nexomon Extinction | [01005A5011A44000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005A5011A44000) | 1718cb7c2f015246, 30bb08c96945af42, 4bbca0443db50447, 681dfb4b169e3548, 96d466ab34670744, eda96e07f0b5074a |
-| 1148 | Ni no Kuni II: Revenant Kingdom (All in One Edition) [Rev 1.0.0] | [0100C4E013E5E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C4E013E5E000) | 5b67ef657677fd66 |
-| 1149 | Ni no Kuni: Shiroki Seihai no Joo for Nintendo Switch | [010032400E700000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010032400E700000) | b0ce5ccdff637507, eb75a3490903f50d |
-| 1150 | Ni No Kuni: Wrath of the White Witch | [0100E5600D446000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5600D446000) | 45f10c499223a9e4, c32b29cb5fba96d9 |
-| 1151 | Ni no Kuni™ II: Revenant Kingdom PRINCE'S EDITION | [0100BE7013E06000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE7013E06000) | 14c7986beb94a1a1, 2c931e8a8748eccf |
-| 1152 | Niche - a genetics survival game | [01000EC010BF4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000EC010BF4000) | 34a500aa3fafff47 |
-| 1153 | Nickelodeon All-Star Brawl | [0100DCF013740000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DCF013740000) | 96637d97114249ae |
-| 1154 | nickelodeon Kart Racers | [0100D6200933C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D6200933C000) | f7de0ebc3764568a |
-| 1155 | Nickelodeon Kart Racers 2: Grand Prix [Rev 1.0.0] | [0100EBC00FE14000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EBC00FE14000) | 567f6b4a4d3fea08 |
-| 1156 | NieR:Automata The End of YoRHa Edition | [010056B015FE8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010056B015FE8000) | e43525f22282a477 |
-| 1157 | Nightmare Boy | [01005F4009112000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005F4009112000) | 023d9ce57d7ff64b, be7051cb9022834a |
-| 1158 | Nights of Azure 2: Bride of the New Moon | [0100628004BCE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100628004BCE000) | 81da4f9e1e961ca6 |
-| 1159 | Nihilumbra | [0100AA0008736000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AA0008736000) | bbf8eb91e352e244 |
-| 1160 | Nine Parchments | [0100D03003F0E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D03003F0E000) | f7893e37fc10c803 |
-| 1161 | Ninja Box | [0100272009E32000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100272009E32000) | cbbab0dad19d4c42 |
-| 1162 | NINJA GAIDEN: Master Collection | [01002AF014F4C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002AF014F4C000) | f20fdc280af01cbe |
-| 1163 | Ninja Striker! | [010081D00A480000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010081D00A480000) | ef1e15af5ef000e1 |
-| 1164 | Ninja Village | [010090600CB98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010090600CB98000) | 4b77a64e9fb22347 |
-| 1165 | Ninjala | [0100CCD0073EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CCD0073EA000) | d4911813945ba5cc |
-| 1166 | Nintendo 64™ – Nintendo Switch Online | [0100C9A00ECE6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C9A00ECE6000) | eb79ef243458597c |
-| 1167 | No Mans Sky [Rev 1.0.0] | [0100853015E86000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100853015E86000) | 60a84a7c1db7a265 |
-| 1168 | No More Heroes | [0100F0400F202000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F0400F202000) | 7541670de3a49d9f |
-| 1169 | No More Heroes 2: Desperate Struggle | [010071400F204000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010071400F204000) | 29aca13a1dcbecbb |
-| 1170 | No More Heroes 3 | [01007C600EB42000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007C600EB42000) | c3af706f3f7844ea |
-| 1171 | No Straight Roads | [01009F3011004000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009F3011004000) | 56de406668fa3ce1, ef9d1821b0a08a90 |
-| 1172 | Nongunz: Doppelganger Edition | [0100542012884000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100542012884000) | d8443a6bca4a0143 |
-| 1173 | NoReload Heroes | [0100E9A00B0BC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E9A00B0BC000) | f8697f92bf87db49 |
-| 1174 | Northgard | [0100A9E00D97A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A9E00D97A000) | 64656a05f26586e4, f3777cd802f343fc |
-| 1175 | Nosferatu Lilinor | [0100373010D26000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100373010D26000) | 397660b098ccf7d4 |
-| 1176 | Nubarron: The adventure of an unlucky gnome | [0100343013248000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100343013248000) | b2b4207363638e49 |
-| 1177 | Nuclear Throne | [0100CFE00CE6E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CFE00CE6E000) | 920c5e25051824ec |
-| 1178 | OBAKEIDORO! [Rev 1.0.6] | [010074600CC7A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010074600CC7A000) | 4d4fcfd3be47484a, 5236854392c05e4d, 710b99c18aa32240 |
-| 1179 | Oceanhorn - Monster of Uncharted Seas | [01007D7001D0E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007D7001D0E000) | 3ad80bd8cfcb3423 |
-| 1180 | Oceanhorn 2: Knights of the Lost Realm | [01006CB010840000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006CB010840000) | 53ce4dc2fb6423a2, e5e739813c69b5a6 |
-| 1181 | Octogeddon | [0100E6E00AF44000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E6E00AF44000) | 51ae5df244c2f1ee |
-| 1182 | OCTOPATH TRAVELER | [010057D006492000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010057D006492000) | 0d8a6a8804a6654c, 72fd3930fac64f21, b88a8d8e5516dde9, d2d9a400f18d3749 |
-| 1183 | Octopath Traveler | [0100E66006406000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E66006406000) | 07a71ace45b7d6ae |
-| 1184 | OCTOPATH TRAVELER II | [0100A3501946E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A3501946E000) | 65619a04b8a04b10, bb891294da55675e |
-| 1185 | Oddmar | [01001F100FA04000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001F100FA04000) | 97118b66caae2840 |
-| 1186 | Oddworld: Munch's Oddysee | [0100BB500EE3C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BB500EE3C000) | 7fd2abdd308a998e |
-| 1187 | Oddworld: Stranger's Wrath | [01002EA00ABBA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002EA00ABBA000) | 01002ea00abba000, 159108e2e30c21ff, 542b1d1d14978b82 |
-| 1188 | OF MICE AND SAND -REVISED- | [01002310064B4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002310064B4000) | ed461dd4749922ff |
-| 1189 | Oh!Edo Towns | [01009A700DA8E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009A700DA8E000) | 38430ac28c4ecd4c |
-| 1190 | Okami HD | [0100F10009870000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F10009870000) | a4fddc7fd35b30cb |
-| 1191 | Okami HD(EUR US) | [0100276009872000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100276009872000) | a4fddc7fd35b30cb |
-| 1192 | OkunoKA Madness | [0100907011392000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100907011392000) | b9843922affefb4c |
-| 1193 | Olija | [01004D501230A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004D501230A000) | 976cb106d479d045 |
-| 1194 | Oliver's Adventures in the Fairyland | [0100E4600F188000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4600F188000) | e85777df5c90fa22 |
-| 1195 | Omega Labyrinth Life | [010079200E85C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010079200E85C000) | 4cd08d3edaef044c, e50048278d47174f |
-| 1196 | Omega Strike | [0100F8C00C21C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F8C00C21C000) | 199aee8cfffd5e73 |
-| 1197 | OMG Zombies! | [01006DB00D970000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006DB00D970000) | 4291f2ae3b78c2de |
-| 1198 | Once Upon a Coma | [0100E940044F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E940044F2000) | 15b87fdc1d89954c, 2745fd4aff073f4e |
-| 1199 | One Dog Story | [01009C301061A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009C301061A000) | 17d0ca29336dd042 |
-| 1200 | One More Dungeon | [0100BD3006A02000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD3006A02000) | d6427ccf92af29e2 |
-| 1201 | One Piece Pirate Warriors 3 - Deluxe Edition | [0100774009CF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100774009CF6000) | 3865de04c2f35feb |
-| 1202 | One Piece Unlimited World Red - Deluxe Edition | [0100574002AF4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100574002AF4000) | f1546b842fcf9d6c |
-| 1203 | One Piece: Kaizoku Musou 3 - Deluxe Edition | [0100553006F36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100553006F36000) | 38c57174e8cb6a34 |
-| 1204 | One Piece: Kaizoku Musou 4 [Rev 1.0.0] | [010089C00DA6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010089C00DA6A000) | 43df498afedee217, f9d1ecebb1f2d952 |
-| 1205 | ONE PIECE: PIRATE WARRIORS 4 | [01008FE00E2F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008FE00E2F6000) | 7ad7ff7329152b07, f55ef3484a73aee8 |
-| 1206 | One Way Heroics Plus | [0100AD9011056000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AD9011056000) | 419ceea03ccb6e43 |
-| 1207 | ONI : Road to be the Mightiest Oni | [0100E26019422000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E26019422000) | fb152fb431677e62 |
-| 1208 | Onimusha: Warlords | [0100416008A1200](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100416008A1200) | bdb65bae30a95abe |
-| 1209 | Onimusha: Warlords | [0100416008A12000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100416008A12000) | bdb65bae30a95abe |
-| 1210 | ONINAKI | [01001AF00CE54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001AF00CE54000) | c8f7a25e31377144, c949e2576f532c43, da78949bb4161f40 |
-| 1211 | Ooblets | [0100BA101712A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BA101712A000) | b379e2545c068b65 |
-| 1212 | Operation Hardcore | [010039C00A45C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010039C00A45C000) | 35c56d941eb3d44a |
-| 1213 | Operencia: The Stolen Sun | [01006CF00CFA4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006CF00CFA4000) | 1ed621dd90bcd575 |
-| 1214 | Ori and the Blind Forest: Definitive Edition | [010061D00DB74000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010061D00DB74000) | 9c4f2a47916b6a54 |
-| 1215 | Ori and the Will of the Wisps | [01008DD013200000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008DD013200000) | 11c33c7c2dbd3c54, 4cc9824a6383cf51, 5fe46b8ce469468e |
-| 1216 | Orn: The Tiny Forest Sprite | [01006C70102EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C70102EA000) | 5540db46dbe1c7a6 |
-| 1217 | Othercide | [0100E5900F49A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5900F49A000) | 1e6bd2f99d2e0547 |
-| 1218 | Outbreak | [010047F013104000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010047F013104000) | 319115d455581d4d |
-| 1219 | Outbreak Lost Hope | [0100D9F013102000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D9F013102000) | 45e7b3d332786b45 |
-| 1220 | Outbreak The Nightmare Chronicles | [01006EE013100000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006EE013100000) | e710a0e5ed885042 |
-| 1221 | Outbreak: Endless Nightmares | [0100A0D013464000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A0D013464000) | d4a2e6ce65603944 |
-| 1222 | Outbreak: Epidemic | [0100C850130FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C850130FE000) | 15639f4bc0eb994e |
-| 1223 | Outbreak: The New Nightmare | [0100B450130FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B450130FC000) | bc36feab084d9b4a |
-| 1224 | Outbuddies DX | [0100B8900EFA6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B8900EFA6000) | d30c78263bff3ca9 |
-| 1225 | Outlast | [01008D4007A1E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D4007A1E000) | c3d46bb3c7059db1 |
-| 1226 | Outpost Delta | [0100CCF00F5BC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CCF00F5BC000) | 923a91015f81b947, e339c1e93e63c242 |
-| 1227 | Overcooked 2 | [01006FD0080B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006FD0080B2000) | 150f46f0966d1544 |
-| 1228 | OVERLORD: ESCAPE FROM NAZARICK | [0100F970140EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F970140EA000) | 6956c0caaf39a04f |
-| 1229 | OVERWHELM | [01005F000CC18000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005F000CC18000) | 528f3262a75e4ea8 |
-| 1230 | Owlboy | [0100E570094E8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E570094E8000) | 24487b6e21e48eec |
-| 1231 | Pac-Man World: Re-Pac [Rev 1.0.0] | [010081A01565A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010081A01565A000) | 98e3ddb2b92f4b61 |
-| 1232 | Pac-Man World: Re-Pac [Rev 1.0.0] | [0100D4401565E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D4401565E000) | a6742c9fd2d34157 |
-| 1233 | Pacific Wings | [010006900EF5E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010006900EF5E000) | 2a74deb620163dbc |
-| 1234 | Paint the Town Red | [010026E013EFC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026E013EFC000) | a9af6300aadef1d1 |
-| 1235 | Pang Adventures | [010087300B730000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010087300B730000) | 20d6a4241790f0b8, 9b2eef81ce8723e7 |
-| 1236 | Pankapu | [0100635006C32000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100635006C32000) | ca2ac536c1304c40 |
-| 1237 | Panty Party (rev001) | [0100BED00E350000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BED00E350000) | 828197c1da25ea47 |
-| 1238 | Panzer Dragoon: Remake | [0100C6A00E94A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C6A00E94A000) | 5bb8164df0b16049 |
-| 1239 | Panzer Paladin | [01004AE0108E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004AE0108E0000) | 180c3b0f6b98f4f6 |
-| 1240 | Paper Mario™: The Origami King | [0100A3900C3E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A3900C3E2000) | bdd6dc7da7a69290, e74395f066fd8ccb |
-| 1241 | Part Time UFO™ | [01006B5012B32000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006B5012B32000) | 3e13ee84f3a5f642 |
-| 1242 | Pathway | [0100114014724000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100114014724000) | 4620f3bb04d55348 |
-| 1243 | Paw Paw Paw | [01008E2013144000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008E2013144000) | b0db8a9e370b6a48 |
-| 1244 | Pawarumi | [0100A56006CEE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A56006CEE000) | 93301ee57e1e4a4e |
-| 1245 | PC Building Simulator | [010072800CBE8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072800CBE8000) | 2e8b2eec47779448, 564956551b65dd44, dd95d1a6ec0adf42 |
-| 1246 | Peach Ball Senran Kagura | [010082500350E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082500350E000) | a0bd46b324abdb68 |
-| 1247 | Penny-Punching Princess | [0100C510049E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C510049E0000) | 534fbdb4492325c2, 84d19a943300e243 |
-| 1248 | Persona 3 Portable | [0100DCD01525A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DCD01525A000) | 663052c2c7e8c357 |
-| 1249 | Persona 5 Royal | [01005CA01580E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005CA01580E000) | 708bcaca873ea32b |
-| 1250 | Persona 5 Scramble: The Phantom Strikers  | [0100E4F010D92000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4F010D92000) | ca98347015beaa59 |
-| 1251 | Persona 5 Scramble: The Phantom Strikers [Rev 1.0.0] | [01005BD010872000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005BD010872000) | 496a2f5a9ce4fbeb |
-| 1252 | Persona 5 Scramble: The Phantom Strikers [Rev 1.0.0] | [01001C400E9D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C400E9D8000) | 3f57f096b84c7cfb, 740094a857a59066 |
-| 1253 | Persona 5: Royal [Rev 1.0.0] | [01004B10157F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B10157F2000) | 708bcaca873ea32b |
-| 1254 | Persona 5: Royal [Rev 1.0.0] | [0100B880154FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B880154FC000) | 708bcaca873ea32b |
-| 1255 | Persona® 5 Strikers | [0100801011C3E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100801011C3E000) | c4df04f647bdc727 |
-| 1256 | Pew Paw | [010045A01221E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045A01221E000) | 8e52b43604cabae7 |
-| 1257 | PHANTOM BREAKER:BATTLE GROUNDS OVER DRIVE | [0100063005C86000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100063005C86000) | 9e37b240fab20ab0 |
-| 1258 | Phantom Trigger | [0100C31005A50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C31005A50000) | 5f3b7618cfa088ff |
-| 1259 | Phoenix Wright: Ace Attorney Trilogy | [0100CB000A142000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CB000A142000) | 12b57556658e4f44 |
-| 1260 | Phoenotopia : Awakening | [01005E100A4F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005E100A4F0000) | 270bbaaa0cc10a49, 49fd30a3b6b16544, 6d45a44e37d5bb4c |
-| 1261 | Pikachin-Kit Game de Pirameki Daisakusen | [01009C100A8AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009C100A8AA000) | 21bb89de67757849 |
-| 1262 | Pikmin 3 Deluxe [Rev 1.0.0] | [0100F4C009322000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F4C009322000) | cd23d5cfb75d7e94, d467f5ad367bbee8 |
-| 1263 | Pillars of Eternity: Complete Edition | [0100D6200E130000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D6200E130000) | a40da7c8de72fa41 |
-| 1264 | Pinball Jam | [0100AD50167EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AD50167EC000) | a44e17749bac250b |
-| 1265 | Pine | [01002BA00D662000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002BA00D662000) | 324eb3403dd14441, 5363156258dd6c42, a38595d6dd8f6f4f, aca5799b4a322e4c |
-| 1266 | Pinstripe | [010041100B148000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010041100B148000) | 802040931b870548, 99576dd9532d5d47 |
-| 1267 | Pixel Devil and the Broken Cartridge | [010011300D52A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010011300D52A000) | 2ca718653e59a64b |
-| 1268 | Pixel Game Maker Series The Witch and The 66 Mushrooms | [01002C90133CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C90133CA000) | 6186cfec5352cb54 |
-| 1269 | PixelJunk Monsters 2 | [0100E4D00A690000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4D00A690000) | 4b171b8f549b7948 |
-| 1270 | Plants vs. Zombies: Battle for Neighborville (Complete Edition) [Rev 1.0.0] | [0100C56010FD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C56010FD8000) | c8ce497181fbd794 |
-| 1271 | PLOID | [010081B013B58000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010081B013B58000) | e72872287906f568 |
-| 1272 | Pocket Arcade Story | [010011B00E6B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010011B00E6B2000) | 759961046d584045 |
-| 1273 | Pocket Harvest | [010058C00E25A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010058C00E25A000) | 4afc691c3d3c9542 |
-| 1274 | Pocket Stables | [01008D400E1BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D400E1BA000) | adc7c1f4eeee104a, f626906b9861154c |
-| 1275 | Pocky & Rocky Reshrined (rev001) [Rev 1.0.1] | [01004A40167C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A40167C2000) | 905749621eaf1b75, 9bed1358d3166d88 |
-| 1276 | Pode | [01009440095FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009440095FE000) | 1022c3cea1e0f546 |
-| 1277 | Pokémon Café Mix | [010072400E04A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072400E04A000) | 2b242d6bb478f127 |
-| 1278 | Pokémon Mystery Dungeon: Rescue Team DX [Rev 1.0.1] | [01003D200BAA2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D200BAA2000) | 3ab632dee82d5944, 9dda1efeef70de46 |
-| 1279 | Pokémon Shield | [01008DB008C2C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008DB008C2C000) | 3518bf2ead557fe6, a16802625e7826bf, b44abd65a6a2fe82, b56ca071216570e8, bdd027f80fab4ef4, dbddd13845acd2bd, e38a27bc77702548 |
-| 1280 | Pokémon Sword | [0100ABF008968000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ABF008968000) | 4628a512b1d93d37, 479bd2b581f4bc6a, 490648316cc1ccdc, 5a7eebf172343616, 8dafedbb5be81c2c, 9d2db721a9894075, a3b75bcd3311385a |
-| 1281 | Pokémon: Lets Go, Eevee | [0100187003A36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100187003A36000) | 0a3f0d21e67dad80, 5831ec64d6b696fd, dcd187e409188ab1 |
-| 1282 | Pokémon: Lets Go, Pikachu! | [010003F003A34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010003F003A34000) | 1c375692de4f4b87, c208db6a4ef4361f, d5d5567049fa0d15 |
-| 1283 | Pokémon™ Brilliant Diamond | [0100000011D90000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100000011D90000) | ea058a067cbd6943, f87fc6075104ec4d |
-| 1284 | Pokken Tournament DX | [0100B3F000BE2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B3F000BE2000) | 49690ba2efdcd7a7 |
-| 1285 | Polandball: Can Into Space | [0100A3500B4EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A3500B4EC000) | dd522c070476294a |
-| 1286 | Ponpu | [010096B01179A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010096B01179A000) | 5d6f2751999d884b |
-| 1287 | Pool Pro GOLD | [010070B01260C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010070B01260C000) | 8505a0a7d6727449 |
-| 1288 | Poopdie - Erstes Kapitel | [010051A011AD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010051A011AD8000) | a260850758df224c |
-| 1289 | Portal Knights | [0100437004170000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100437004170000) | 4f3d7062d176246d, d59d81c06f923846 |
-| 1290 | Potata: Fairy Flower | [01005FC010EB2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005FC010EB2000) | 42f4f5085262684b |
-| 1291 | Power Rangers: Battle for the Grid | [0100E1E00CF1A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E1E00CF1A000) | cf6726cdec67c44f |
-| 1292 | PowerSlave Exhumed | [01008E100E416000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008E100E416000) | b5f1f98b1822fe7f |
-| 1293 | Prehistoric Dude [Rev 1.0.0] | [010054F01266C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010054F01266C000) | afeea14ff3229a77 |
-| 1294 | Prinny 1 & 2:  Exploded and Reloaded [2 x Rev 1.0.1] | [01007A0011878000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007A0011878000) | e2611f3937023235 |
-| 1295 | Prinny® 2: Dawn of Operation Panties, Dood! | [01008FA01187A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008FA01187A000) | d638f8cad17cca99 |
-| 1296 | Pro Yakyuu Famista Evolution | [01008EA0080F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008EA0080F6000) | 8fab041b6bd95a26 |
-| 1297 | Project Highrise: Architects Edition | [0100BBD00976C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BBD00976C000) | 7c94babbddf3d243 |
-| 1298 | Project Warlock | [0100BDB01150E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BDB01150E000) | a826ad7b5cb6c048, c5821d9ce5c36e4f, d597de8544d8ed4f |
-| 1299 | Projection: First Light | [010063901024A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010063901024A000) | fa012b0e290e8e44 |
-| 1300 | Pronty | [0100CEC019446000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CEC019446000) | 5a8d0ff7a3021645 |
-| 1301 | Psyvariar Delta | [0100EC100A790000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC100A790000) | f89cc6c0ae94744c |
-| 1302 | Pumpkin Jack | [01006C10131F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C10131F6000) | 0f73f1d52820f90b, ee24cc35be30e682 |
-| 1303 | Punch Club | [0100A6000ACEA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A6000ACEA000) | 149284506f1bcc48 |
-| 1304 | QUAKE | [0100BA5012E54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BA5012E54000) | 24a0b446b6c8dad2, 3a5dcbc7074c1b84, 563b6f98641922ce, 7b35be4dbef66a76, 822293637951b6af |
-| 1305 | Quest Hunter | [010095500D9F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095500D9F4000) | 672682d615771c45 |
-| 1306 | Quest of Dungeons | [01001DE005012000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001DE005012000) | b01d8ea969dc1ccc |
-| 1307 | R-Type Dimensions EX | [0100E5400BE64000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5400BE64000) | 9987904475ea8346, a9bab930855ced47, d13345de88c6f94f |
-| 1308 | R-Type Final 2 [Rev 1.0.0] | [0100F930136B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F930136B6000) | 225ea8c428ef4c9d, 41b6418e96424d37, 489dce236cc2ca95, 5d3eee4c03b390a7, 5eefe50943fc63f3, d964f65fcb9d9982, ea26613ea5a1479a |
-| 1309 | Rabi-Ribi | [01005BF00E4DE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005BF00E4DE000) | 539e6bdf2b110885, ca86dbb44a335ead |
-| 1310 | Rack N Ruin | [0100B8100C54A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B8100C54A000) | 4e587fe27a463d4c |
-| 1311 | RAD | [010024400C516000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010024400C516000) | 0bb3b1a39b34ac1b |
-| 1312 | Rad Rodgers Radical Edition | [010000600CD54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010000600CD54000) | 78885a1ca987c04c |
-| 1313 | Radiation City | [0100DA400E07E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA400E07E000) | 8ac5ab12589a13be |
-| 1314 | Radical Rabbit Stew | [0100C8B00D2BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C8B00D2BE000) | 3d23184747f25b4d |
-| 1315 | Radio Squid | [0100655012064000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100655012064000) | 4a52e0e29438c94a |
-| 1316 | Raging Justice | [01003D00099EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D00099EC000) | 32c72b0d3fdf012f |
-| 1317 | Raiden III x MIKADO MANIAX [Rev 1.0.0] | [010089F015FC4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010089F015FC4000) | 30ba6f1a40c48257 |
-| 1318 | Raiden IV x MIKADO Remix [Rev 1.0.0] | [01005CD013116000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005CD013116000) | 429485e8c171aa7e |
-| 1319 | Raiden V: Directors Cut | [01002B000D97E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002B000D97E000) | 941057a850e286df |
-| 1320 | Railway Empire - Nintendo Switch™ Edition | [01002EE00DC02000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002EE00DC02000) | 01002ee00dc02000, 126d0de908b959fe, 25f8fb4f9d1fac9d, c501187900ebf465 |
-| 1321 | Raji: An Ancient Epic | [010010B00DDA2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010010B00DDA2000) | ab09e78cdfec6e08, ff114a09d935be7a |
-| 1322 | Rayman Legends: Definitive Edition | [01005FF002E2A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005FF002E2A000) | 01005ff002e2a000, f466da1d713533c2 |
-| 1323 | Reaper: Tale of a Pale Swordsman | [01000F300F082000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000F300F082000) | 1780f95f2107a40c |
-| 1324 | Record of Lodoss War - Deedlit in Wonder Labyrinth [Rev 1.0.0] | [0100EF0015A9A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EF0015A9A000) | 667484a8f759b6fd, 93a2a9a7c1be5aa3 |
-| 1325 | Red Colony [Rev 1.0] | [0100351013A06000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100351013A06000) | 668d86248cb21165 |
-| 1326 | Red Death | [0100069010592000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100069010592000) | af1c53e6a85198f7 |
-| 1327 | Red Faction Guerrilla Re-Mars-tered | [010075000C608000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075000C608000) | f1d71307616ab7e4 |
-| 1328 | Red Wings: American Aces | [01002DC0156A8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002DC0156A8000) | 2c27f0527a890a4a |
-| 1329 | Redeemer: Enhanced Edition | [01000D100DCF8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000D100DCF8000) | 86aa48e1585f2ee7 |
-| 1330 | Redemption Reapers | [010073F0197DA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010073F0197DA000) | abb7bfbfd88e76cd |
-| 1331 | Redout: Space Assault | [0100326010B98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100326010B98000) | 606f37176b3dd269 |
-| 1332 | Reed 2 [Rev 1.0.0] | [01003EF0118D2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003EF0118D2000) | d93fa66964036f0e |
-| 1333 | Reflex Unit 2 | [010014901201E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014901201E000) | 139abe52f6fa0748, fdea726242b49448 |
-| 1334 | Reknum | [0100A1D00FE54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A1D00FE54000) | bdcac16e3d2977b2 |
-| 1335 | RemiLore | [010095900B436000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095900B436000) | 39fbfc95e715944a, 48e6db6a91b59943, b27a372645a23e48 |
-| 1336 | Remnant: From the Ashes | [010010F01418E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010010F01418E000) | 49cf6b0b0a62f9e2 |
-| 1337 | REMOTE LIFE | [010026E017F54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026E017F54000) | eaa59f1693011055 |
-| 1338 | Remothered: Broken Porcelain | [0100FBD00F5F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FBD00F5F6000) | b999bd4c357f1be3 |
-| 1339 | Remothered: Tormented Fathers | [01008F600F2D0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008F600F2D0000) | c817fa3b253c70b5, eb57cf3434044523 |
-| 1340 | Remothered: Tormented Fathers | [0100FF300C902000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF300C902000) | eb57cf3434044523 |
-| 1341 | Resident Evil  | [010050F00BC1A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010050F00BC1A000) | 010050f00bc1a000, 6bec9b23b09df46c, fb4239aa962b429b |
-| 1342 | Resident Evil 0 | [010097000BC10000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010097000BC10000) | fb4239aa962b429b |
-| 1343 | Resident Evil 4 | [010099A00BC1E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010099A00BC1E000) | 82c2a04a21d3e0b8, 8ceaf0d2ae48a935 |
-| 1344 | Resident Evil 5 | [010018100CD46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010018100CD46000) | 010018100cd46000, c517ecbb79de9733, ebffdb223149a725 |
-| 1345 | Resident Evil 6 | [01002A000CD48000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002A000CD48000) | 061d2a06cd700785, 2a797a895c35383b |
-| 1346 | RESIDENT EVIL REVELATIONS 2 | [010095300212A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095300212A000) | aef8885ae0603c44 |
-| 1347 | Resident Evil: Revelations | [0100643002136000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100643002136000) | 7b0e2611e8c9cae5 |
-| 1348 | Rest in Pieces | [01004A600EB3E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A600EB3E000) | 56c0212550aee846 |
-| 1349 | Retro City Rampage DX | [0100F17004156000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F17004156000) | 34c173b15a2a9d09, f954b6268cb0c31d |
-| 1350 | Retro Machina | [01000ED014A2C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000ED014A2C000) | 0854ba405cd1554f |
-| 1351 | Return of the Heir | [01009AA014736000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009AA014736000) | 9dfcef719fc2c633 |
-| 1352 | Revenant Saga | [0100AA2006510000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AA2006510000) | 6462206160d88744 |
-| 1353 | Revenge Of Justice [Rev 1.0.0] | [010027400F708000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027400F708000) | 4f83d8adbbf69d48 |
-| 1354 | Reverie: Sweet As Edition | [01008FF00B8FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008FF00B8FA000) | 6945855dd2799048 |
-| 1355 | REZ PLZ | [010071D00F156000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010071D00F156000) | fc82339dcaa50b42 |
-| 1356 | Rhythm of the Gods | [010081D0100F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010081D0100F0000) | 6290d08ceb02ea4d, cff50afda441cc05 |
-| 1357 | Riddled Corpses EX | [01002C700C326000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C700C326000) | 4e87acad6e878c33 |
-| 1358 | Rift Adventure | [0100F5501483C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F5501483C000) | 05e742a660d46b42 |
-| 1359 | Rift Keeper | [0100AC600D898000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AC600D898000) | bde75d1f4547014c |
-| 1360 | Rigid Force Redux | [0100763010D5A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100763010D5A000) | b1285fb749d8fa45 |
-| 1361 | RiMS Racing [Rev 1.0.0] | [01003CD01299E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003CD01299E000) | 74c54f3670579c7a |
-| 1362 | Ring Fit Adventure | [01002FF008C24000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002FF008C24000) | b0a94a27a8ea158c |
-| 1363 | Ring of Pain | [0100F090122D2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F090122D2000) | 3c9cf3fc790de947 |
-| 1364 | Rise and Shine | [010065B00B0EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010065B00B0EC000) | c212c43cbce55e4d |
-| 1365 | Rise of the Third Power | [0100F05015052000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F05015052000) | 9941ff76a54112f0, d25000fa1bd13d9b |
-| 1366 | Rise: Race The Future | [01006BA00E652000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006BA00E652000) | 25e86d4af2490d40, ec792ee441368f4b |
-| 1367 | Risen [Rev 1.0.0] | [0100B140178B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B140178B6000) | 94ea2a7c7ee32eef |
-| 1368 | Rising Hell | [010020C012F48000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010020C012F48000) | 062e5ab0b5bda14f, b667f988dab60947 |
-| 1369 | Risk of Rain 2 | [010076D00E4BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076D00E4BA000) | e6a93d88f05ca346, eefe1f0f04f5c348 |
-| 1370 | Ritual: Crown of Horns | [010042500FABA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042500FABA000) | 3de5d42478b9e64a, b2536fd5d496664f |
-| 1371 | Rival Megagun | [0100A7D008392000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A7D008392000) | b5cd63f318862a41 |
-| 1372 | Rivals of Aether | [0100D2700DE7C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D2700DE7C000) | 8865505ebb80a0ac |
-| 1373 | RIVE: Ultimate Edition | [010069C00401A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010069C00401A000) | 87b9b2e7c8997fdb |
-| 1374 | River City Girls | [01004E700DFE6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004E700DFE6000) | 55670fa38f492343, 73e0765bf7b07047 |
-| 1375 | River City Girls 2 (rev001) [Rev 1.0.0.0] | [01002E80168F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002E80168F4000) | 7597240b0e03dc43 |
-| 1376 | River City Melee Mach!! | [0100B2100767C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B2100767C000) | 9c3bb6699dc39c4e |
-| 1377 | River City Saga: Three Kingdoms | [01005E101705C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005E101705C000) | cbb1a5cceb75c544 |
-| 1378 | Road Redemption | [010053000B986000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010053000B986000) | 2e690a37be3bb244, 314920e043074742 |
-| 1379 | Roah | [01000440123A6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000440123A6000) | 5971feaa4ee83249 |
-| 1380 | Robonauts ロボノーツ | [010042900A8CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042900A8CC000) | 894d7deb7c212365 |
-| 1381 | Robotech: The Macross Saga HD Edition | [010060B0129CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010060B0129CC000) | 6a57ec49b5438344 |
-| 1382 | Rockman X Anniversary Collection | [010012B0086C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010012B0086C0000) | bbae8b50000e47af |
-| 1383 | Rogue Explorer | [010090C014D3C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010090C014D3C000) | 7c7aad88b10a5d4d |
-| 1384 | Rogue Heroes: Ruins of Tasos | [01009FA010848000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009FA010848000) | a066c2c4ca84afa4 |
-| 1385 | Rogue Legacy [Rev 1.0.1] | [010056500AD50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010056500AD50000) | c4b40301fb00e359 |
-| 1386 | Rogue Singularity | [010068400ABB6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010068400ABB6000) | 180b54bcba560d43 |
-| 1387 | Rogue Trooper Redux | [01001CC00416C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001CC00416C000) | 01001cc00416c000, e14ba06266b126aa |
-| 1388 | RollerCoaster Tycoon 3 Complete Edition | [01004900113F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004900113F8000) | d44dc01dff9fa2f2 |
-| 1389 | Rolling Gunner | [010076200CA16000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076200CA16000) | 3e85b413d006e7f4 |
-| 1390 | Romancing SaGa -Minstrel Song- Remastered | [01004A6017E8A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A6017E8A000) | 07a2419de0a62d94 |
-| 1391 | Romancing SaGa 2 | [01001F600829A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001F600829A000) | ba25511843ac1948 |
-| 1392 | Romancing SaGa 2 [Rev 1.0.1] | [0100BEF015C34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BEF015C34000) | a83bddab8194ff40 |
-| 1393 | Romancing SaGa 3 | [0100D0400D27A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D0400D27A000) | 65c66922bb286344 |
-| 1394 | Roulette at Aces Casino | [01005D3012322000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005D3012322000) | c9fe7052aa82234c |
-| 1395 | Rune Factory 3 Special [Rev 1.0.0] | [01001EF017BE6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001EF017BE6000) | d446b00cfa1eed5b |
-| 1396 | Rune Factory 4 Special | [010027100C79A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027100C79A000) | 78680e8a35f31d50 |
-| 1397 | Rune Factory 4 Special [Rev 1.0.0] | [010009400DD38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010009400DD38000) | 2cec14b73753cf62 |
-| 1398 | Rune Factory 4 Special [Rev 1.0.0] | [010051D00E3A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010051D00E3A4000) | c03c9f6a862543f9 |
-| 1399 | Rune Factory 5 | [01002F7013224000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002F7013224000) | b07bb37077d3a54c |
-| 1400 | Rune Factory 5 [Rev 1.00.6] | [010014D01216E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014D01216E000) | 552d910b62926e40 |
-| 1401 | Rustler [Rev 1.0.0] | [010071E0145F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010071E0145F8000) | cf6371f1a91bcb4d |
-| 1402 | Ruvato : Original Complex | [01007690147D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007690147D8000) | b37f668e6958ba44 |
-| 1403 | RWBY: Arrowfell | [0100AF00185F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AF00185F2000) | 96217f63be208ae3 |
-| 1404 | S.N.I.P.E.R. - Hunter Scope | [0100B8B012ECA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B8B012ECA000) | 95c6f28b19df2d4f |
-| 1405 | Sacred Stones | [01005CE00F970000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005CE00F970000) | edad5c13e9f926f3 |
-| 1406 | SaGa Frontier Remastered | [0100A51013530000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A51013530000) | 38532d3efa8c1542, b895f6f2c665554b |
-| 1407 | Saints Row IV®: Re-Elected™ | [01008D100D43E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D100D43E000) | 3ffe0e20ec5360da, 5aee4a11a2391d4d, e601d29108935cba |
-| 1408 | Saints Row: The Third - The Full Package | [0100DE600BEEE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DE600BEEE000) | a8631edcc0013045, c619cc7fe091c312, ffedeb38f462558e |
-| 1409 | SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE | [010DE600BEEE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010DE600BEEE000) | ffedeb38f462558e |
-| 1410 | Sakuna: Of Rice And Ruin [Rev 1.0.0] | [0100B1400E8FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1400E8FE000) | 2523cb8b455abc1d, fc24c93ab8fc630b |
-| 1411 | Salt And Sanctuary | [0100D250083B4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D250083B4000) | 51156cac4dd69c27, 56e611cac30aed49, ecf47ade11877035 |
-| 1412 | Samurai Bringer | [01007E30176E6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007E30176E6000) | 5d62fcfdf3a3b5d0 |
-| 1413 | Samurai Defender: Ninja Warfare | [01002B400873C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002B400873C000) | c1ffa39d6bedce46, e33e4cd60710ac4d |
-| 1414 | Samurai Jack: Battle Through Time | [01006C600E46E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C600E46E000) | 6d5db3434ccf63f2 |
-| 1415 | SAMURAI MAIDEN | [01003CE018AF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003CE018AF6000) | 14da85ff27635c4c, 31a3a2e3e92f647b, 5658ca0402d38eb7, d10a6c1119b1063c |
-| 1416 | SAMURAI SHODOWN | [010066501069C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010066501069C000) | 81cd4e0887e05420 |
-| 1417 | SAMURAI SHODOWN | [01002DF00F76C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002DF00F76C000) | 881d373adf68a62e |
-| 1418 | Samurai Showdown | [01008FC00D964000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008FC00D964000) | 0670ffe5088a2139, ad27e9b20590843a, ec6d3fe35366bfee |
-| 1419 | SAMURAI WARRIORS 5 | [0100B28014132000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B28014132000) | 60b4e42155e07989, 810cba3d7db83ec0, aea6b2652ea9e34b |
-| 1420 | SamuraiAces for Nintendo Switch | [0100ADF0096F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ADF0096F2000) | 49cf469a110921e7 |
-| 1421 | Satazius NEXT | [01009580113A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009580113A4000) | 12be223e21ff518f |
-| 1422 | Savage Halloween | [01007130135E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007130135E2000) | 70a49340a64d574b |
-| 1423 | Scarlet Hood and the Wicked Wood | [01009BC016866000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009BC016866000) | eaf244798cb7a240 |
-| 1424 | Scott Pilgrim vs. The World™: The Game – Complete Edition | [0100394011C30000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100394011C30000) | 064f1988133c54db |
-| 1425 | ScourgeBringer | [01005F7011950000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005F7011950000) | 5a5e278a9102d445, bf34bbc69ab7c936, edef023ba60c527f |
-| 1426 | Scrap Riders | [0100EEA018BAC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EEA018BAC000) | 37592c90377408db, e3969df69ee5da5a |
-| 1427 | SD Gundam G Generation: Cross Rays [Premium G Sound Edition] | [010022900D3EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022900D3EC000) | 239145d13200977b, 2a8617716d59c2dd, 3871a99feb20ce86, 56e89cc6d60359e8, 79cd7c99f9189705, a2241f15842996d7 |
-| 1428 | SD Gundam: Battle Alliance [Rev 1.0.0] | [010080001783A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010080001783A000) | 34ae27060a0de1d5, 44eb9091b80ae639 |
-| 1429 | SD Gundam: Battle Alliance [Rev 1.0.0] | [01002BE016054000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002BE016054000) | 0b9f1b331a7d6e73 |
-| 1430 | Sea Of Solitude: The Directors Cut [Rev 1.0.0] | [0100AFE012BA2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AFE012BA2000) | 1d327b699c913a47 |
-| 1431 | Secrets of Magic 2 - Witches & Wizards | [01000C100CFD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000C100CFD8000) | 8cdb26f131cae447 |
-| 1432 | Seek Hearts | [010075D0101FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075D0101FA000) | dc21619c9456324c |
-| 1433 | SEGA AGES Out Run | [0100D4D00AC62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D4D00AC62000) | 4449ceb401f9d642 |
-| 1434 | SEGA AGES Sonic The Hedgehog | [010051F00AC5E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010051F00AC5E000) | 9f107a9b28296d41 |
-| 1435 | SEGA AGES Sonic The Hedgehog 2 | [01000D200C614000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000D200C614000) | fcc0665401ede611 |
-| 1436 | SEGA AGES Thunder Force AC | [0100D0800C612000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D0800C612000) | 22a13e2c7fb7f796 |
-| 1437 | SEGA AGES Thunder Force IV | [0100D6800AC5C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D6800AC5C000) | 437743a9a4e50b44 |
-| 1438 | SEGA AGES Wonder Boy: Monster Land | [01001E700AC60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001E700AC60000) | 28071ec935dbb7a3 |
-| 1439 | SEGA Genesis Classics | [0100A6300B250000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A6300B250000) | 7980ad54fef93945 |
-| 1440 | Sega Mega Drive Classics | [0100F7300B24E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F7300B24E000) | 60b7597943d57b4b |
-| 1441 | SELFY COLLECTION　夢のスタイリスト | [010044700FB46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010044700FB46000) | 613da8ddcd6c1242 |
-| 1442 | Senjou no Valkyria 4 | [0100C11009378000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C11009378000) | 13197ccf3745e1c5 |
-| 1443 | Sephirothic Stories | [010059700D4A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010059700D4A0000) | 274d62f691fa5a40 |
-| 1444 | Serious Sam Collection | [010007D00D43A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007D00D43A000) | 5c5282206ebc804e |
-| 1445 | Seven Knights -Time Wanderer- | [010018400C24E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010018400C24E000) | 4b50363368364a94, f6667ba0d144374f |
-| 1446 | Shadow Blade: Reload | [0100D5500DA94000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D5500DA94000) | e03782d850353f40 |
-| 1447 | Shadow Gangs | [0100BE501382A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE501382A000) | a12ef68286ee36a1 |
-| 1448 | Shadows of Adam | [0100AD700CBBE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AD700CBBE000) | b90544ef4061b848 |
-| 1449 | Shadowverse: Champion's Battle | [01005880134C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005880134C2000) | 01003b90136da000, 1f936e043fb8c349 |
-| 1450 | Shady Part of Me | [0100820013612000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100820013612000) | 553900942d6cf36d |
-| 1451 | Shakedown: Hawaii | [0100B10002904000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B10002904000) | 82092df70410f821 |
-| 1452 | Shalnor Legends: Sacred Lands | [0100B4900E008000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B4900E008000) | 87d0fcd94b1e1b3d |
-| 1453 | Shantae and the Pirates Curse | [0100EFD00A4FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EFD00A4FA000) | 1ae49f909f236ef2 |
-| 1454 | Shantae and the Seven Sirens | [0100EB901040A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB901040A000) | 54db023d61d80c4e |
-| 1455 | Shantae: Half- Genie Hero Ultimate Edition | [01002AF009470000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002AF009470000) | 6559c96f6a92504d |
-| 1456 | Shantae: Half- Genie Hero Ultimate Edition! | [01006A200936C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006A200936C000) | 01006a200936c000, 27a4723579d81133 |
-| 1457 | Shantae: Half-Genie Hero | [0100AE0003424000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AE0003424000) | e0551154ab7ab947 |
-| 1458 | Shantae: Risky's Revenge - Director's Cut | [0100ADA012370000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ADA012370000) | f139ec48132e8b34 |
-| 1459 | Shaolin vs Wutang | [01003AB01062C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003AB01062C000) | 494799a88d1cd64d |
-| 1460 | Shaq Fu: A Legend Reborn | [0100769004584000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100769004584000) | be4eeedc9c1c054a |
-| 1461 | Shattered: Tale of the Forgotten King | [0100A0F0180D6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A0F0180D6000) | 4d42a2ca8232e8eb |
-| 1462 | Shieldmaiden: Remix Edition | [01005C0016188000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005C0016188000) | 81bc80747439c04c |
-| 1463 | Shieldwall Chronicles: Swords of the North | [0100C7E01442C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C7E01442C000) | f822b545f3b71a4e |
-| 1464 | Shikhondo - Soul Eater | [010061400A990000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010061400A990000) | 414e5441f75b234f |
-| 1465 | Shin Megami Tensei III Nocturne HD Remaster | [01003B0012DC2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003B0012DC2000) | 0b3b0f3a81c13c41, 69323306e9f5447f, ebd3efb2950f5140 |
-| 1466 | Shin Megami Tensei III: Nocturne HD Remaster [Rev 1.0.0] | [010045800ED1E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045800ED1E000) | d809429f56d1ca44 |
-| 1467 | Shin Megami Tensei V | [010063B012DC6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010063B012DC6000) | 68fed4970010acf3, a6a06f3baefe4d75 |
-| 1468 | Shin Megami Tensei V [Rev 1.0.0] | [010038D0133C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038D0133C2000) | a7643f3b7d8ee906 |
-| 1469 | Shing [Rev 1.0] | [01009050133B4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009050133B4000) | 432bca17c1eef64e |
-| 1470 | Shinobi Blade | [0100006013A4A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100006013A4A000) | 020c7008b8751c4d |
-| 1471 | Shinobi Spirits S: Legend of Heroes | [0100B0300E8B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B0300E8B6000) | 3e251d14861e7b4d |
-| 1472 | Shinsekai Into the Depths™ | [01004EE0104F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004EE0104F6000) | a94795507e338446 |
-| 1473 | Shio | [0100C2F00A568000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C2F00A568000) | 98ffc4d49752c04a |
-| 1474 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | [01007430122D0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007430122D0000) | 9b3de98f500ba4ff, e1783a922ca90e2f |
-| 1475 | Shovel Knight: King of Cards | [01008B20022AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008B20022AA000) | 1dccdb6fe282748d |
-| 1476 | Shovel Knight: Shovel of Hope | [01002D2011850000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002D2011850000) | 6da1d223e4557e3d |
-| 1477 | Shovel Knight: Specter of Torment | [01001180021FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001180021FA000) | 5eabc1e307d28486 |
-| 1478 | Shovel Knight: Treasure Trove | [010057D0021E8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010057D0021E8000) | 1fe2563d9b1ff9b4, b9c8987a2f5ee46e |
-| 1479 | Shu | [01001DE0076A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001DE0076A4000) | 28cb1224495ddc4e, 92733fbf49aeae41 |
-| 1480 | Sid Meiers Civilization VI | [010044500C182000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010044500C182000) | 199e91fc40cb4f7d |
-| 1481 | Sigi - A Fart for Melusina | [01007FC00B674000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007FC00B674000) | 3112ad812b0a0c45, 8d2316a709875547 |
-| 1482 | Silent World | [0100A32010618000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A32010618000) | 3b2c913acdc2d24c |
-| 1483 | Silver Nornir | [0100D1E018F26000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D1E018F26000) | 40b99a5b8d3c5c48 |
-| 1484 | Sine Mora EX | [01002820036A8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002820036A8000) | a30ff4807facdd60 |
-| 1485 | SINNER: Sacrifice for Redemption | [0100B16009C10000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B16009C10000) | 2ad8ff948353fdfd |
-| 1486 | Sir Lovelot | [0100E9201410E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E9201410E000) | 23b711b95e9f4c78 |
-| 1487 | Skatemasta Tcheco | [01001F101289A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001F101289A000) | f84540a3289faf62 |
-| 1488 | Skelattack | [01001A900F862000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001A900F862000) | 1b419efede09e88b |
-| 1489 | Skellboy | [01008CA00CF34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008CA00CF34000) | 8ca43e408d847247, fce8993d4423a144 |
-| 1490 | Skul: The Hero Slayer | [0100ACF013E9A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ACF013E9A000) | 9cd50457d78ed3bb |
-| 1491 | Skullgirls 2nd Encore | [010046B00DE62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010046B00DE62000) | ac3b5f9d54899ec6 |
-| 1492 | Skully [Rev 1.0.0] | [0100D7B011654000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D7B011654000) | 1265f75ec9d5c2f9, cf28f8b7f5472223 |
-| 1493 | Sky Force Anniversary | [010083100B5CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010083100B5CA000) | 5af4ddbec5670d4a, 883f60906915d348 |
-| 1494 | Sky Force Reloaded | [01006FE005B6E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006FE005B6E000) | 01006fe005b6e000, 7ef14f11ea37d414, 98abc1afa513404a, f35d3df7cc780649 |
-| 1495 | Sky Jaguar 2 | [0100E0C010AB8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0C010AB8000) | 2f7f83f5fc76d702 |
-| 1496 | Skybolt Zack | [010041C01014E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010041C01014E000) | d51712a8cede1542 |
-| 1497 | Slain | [0100224004004000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100224004004000) | 9c150c477f6f7344 |
-| 1498 | Slay the Spire | [010026300BA4A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026300BA4A000) | 0f3b375b8e9518c9, 21d02e7d96188cf4, 334ab8bb31621c07, 678a5068b1db8450, a38237a9bfef6131, f1496a8d2effc1d2 |
-| 1499 | Slayaway Camp: Butchers Cut | [0100501006494000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100501006494000) | 1fb8f9e571155f4e |
-| 1500 | Slayin 2 | [01004E900EDDA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004E900EDDA000) | e67d4f728f112046 |
-| 1501 | Slots of Poker at Aces Casino | [0100023012640000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100023012640000) | f7148b7a4e88974a |
-| 1502 | SMASHING THE BATTLE | [01002AA00C974000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002AA00C974000) | b1662bb6d8542f4a |
-| 1503 | Smelter | [0100B45010E9C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B45010E9C000) | 1f9f743632739d4d, 7515c5c9ddce5f44 |
-| 1504 | Snack World: The Dungeon Crawl - Gold [Rev 1.0.0] | [0100F2800D46E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2800D46E000) | 929c0bea2bf097f7 |
-| 1505 | SNACK WORLD: THE DUNGEON CRAWL — GOLD | [010010400D46A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010010400D46A000) | 929c0bea2bf097f7, d3fa3aa21a0eb48c |
-| 1506 | Sniper | [0100839010DD6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100839010DD6000) | 197659f4ad54ea4b |
-| 1507 | Sniper Elite 3 [Ultimate Edition] | [010075A00BA14000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075A00BA14000) | 8a49c2d4180b9477 |
-| 1508 | Sniper Elite 3 [Ultimate Edition] [Rev 1.0.0] | [010009E00F49C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010009E00F49C000) | 8a49c2d4180b9477 |
-| 1509 | Sniper Elite 4 | [010007B010FCC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007B010FCC000) | bbfd41df5ba37d79 |
-| 1510 | Sniper Elite V2 Remastered | [0100BB000A3AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BB000A3AA000) | 4e6b0fe98465c36b, b61f280560a937d2, e8b40682041dafdd, f744cb9e08568aa9 |
-| 1511 | SNK GALS' FIGHTERS | [01007EE011116000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007EE011116000) | 3e4f4d748b244c82 |
-| 1512 | SNK HEROINES Tag Team Frenzy | [010027F00AD6C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027F00AD6C000) | 241e280992c82e65 |
-| 1513 | SNK Heroines: Tag Team Frenzy | [010007C00B508000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007C00B508000) | 27eeb113fd1fc102 |
-| 1514 | Snow Battle Princess Sayuki | [0100ADF00CB64000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ADF00CB64000) | 24620f1b3f64d649 |
-| 1515 | SNOW BROS. SPECIAL | [0100BFA01787C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BFA01787C000) | 0f969536450cf482 |
-| 1516 | Soccer Story | [010089D017A0A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010089D017A0A000) | cc2cbfacf38b006d |
-| 1517 | Son of a Witch | [01006AE00C6D6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006AE00C6D6000) | 777a6a89b56a68ef |
-| 1518 | Songbringer | [010031D00A604000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010031D00A604000) | 6d863b684db5bd73 |
-| 1519 | Songs for a Hero: Definitive Edition | [0100802012890000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100802012890000) | dd1d3e2eeb0ea969, f20687cc1eacd0e2 |
-| 1520 | Sonic Colors: Ultimate | [010040E0116B8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040E0116B8000) | 0fa6c17db4fad19c, 1cb3c3d728ec4bc0, 9e9b03d1fa193eda |
-| 1521 | Sonic Forces | [01001270012B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001270012B6000) | 6d9ea94f8aac00a8 |
-| 1522 | Sonic Forces | [0100111004460000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100111004460000) | 6d9ea94f8aac00a8 |
-| 1523 | Sonic Mania Plus [Rev1.04] | [01009AA000FAA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009AA000FAA000) | 03fd1524e17a841c |
-| 1524 | Souldiers | [0100439016FF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100439016FF6000) | 73c6eae859fa7e4e |
-| 1525 | South Park: The Fractured But Whole [Rev 1.0] | [01008F2005154000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008F2005154000) | df15edaaf603e00c |
-| 1526 | South Park™: The Stick of Truth™ | [010095300B6A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095300B6A4000) | 3728e6eb07b4e9ef |
-| 1527 | Space Blaze [Rev 1.0.0] | [0100B9F00C162000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B9F00C162000) | 5e127d37c8317a47 |
-| 1528 | Space Elite Force | [0100707011722000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100707011722000) | 5a5a9e3220a34b47 |
-| 1529 | Space Elite Force 2 | [010084F0123AC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010084F0123AC000) | bdfc6f3ea589874d |
-| 1530 | Space Grunts | [0100AE701287E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AE701287E000) | 0eb2cdc7cf560b04 |
-| 1531 | Space Invaders Forever | [0100F0C012C10000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F0C012C10000) | 2e9d4a761ab93843 |
-| 1532 | Space Invaders Forever [2x Rev 1.0.0] | [0100C56012C96000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C56012C96000) | 713e445c7e80134b |
-| 1533 | Space Revenge | [0100E0D014C4C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0D014C4C000) | 4033e17aa065677a |
-| 1534 | Space Robinson | [0100795011D68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100795011D68000) | 2bdbdeed272bb826 |
-| 1535 | Space Tail: Every Journey Leads Home | [0100C37019BC2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C37019BC2000) | c5e18ad101c1b6de |
-| 1536 | Sparklite | [01007ED00C032000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007ED00C032000) | bfafbb54899f1441, d0e79c23f66c2c42 |
-| 1537 | Spectacular Sparky | [010009F011FB2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010009F011FB2000) | 5ce9f689b77c794b, a22fe7b6ee7add57 |
-| 1538 | Speedway Bundle Stock & Truck | [01000D6013D36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000D6013D36000) | 3d46f1c57c982e45 |
-| 1539 | Spellspire | [0100E74007EAC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E74007EAC000) | 13c5b59ea899762f |
-| 1540 | Spelunker Party! | [010021F004270000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010021F004270000) | 65457968dae86a45 |
-| 1541 | Spelunky | [0100710013ABA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100710013ABA000) | 5197521a3eed9a81 |
-| 1542 | Spelunky 2 | [01007EC013ABC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007EC013ABC000) | a5a0bea13ad893fe, bbb29f6d5b5a7c05 |
-| 1543 | Sphinx and the Cursed Mummy | [0100BD500BA94000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD500BA94000) | 2d135b3b59a8949f, b73bf75feb33abc5 |
-| 1544 | Spinch | [010076D0122A8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076D0122A8000) | cef69569fefe245e |
-| 1545 | Spinny's Journey | [01001E40136FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001E40136FE000) | 67fcf2133c80e746 |
-| 1546 | Spirit Arena | [010001B01398C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010001B01398C000) | 4ff93be275dce443 |
-| 1547 | Spiritfarer | [0100BD400DC52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD400DC52000) | 0100bd400dc52000, 173156d7823bf145, 241262da79eb9e4e, 5c59f135645f9846, 899ac6d046e76345, d368bc1e9495514a |
-| 1548 | Splasher | [0100FF9003F10000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF9003F10000) | 84052a5d8a59604c |
-| 1549 | Splatoon 2 | [0100F8F0000A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F8F0000A2000) | 25e4de94c55dc7a3, 8a7f4570b0d5d94c |
-| 1550 | Splatoon 3 [Rev 1.0.0] | [0100C2500FC20000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C2500FC20000) | 19fe149d2955756c, 834c489e5ab3106c |
-| 1551 | SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | [010062800D39C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010062800D39C000) | 00114d2ec3f08a53, 28240ee1884416ae |
-| 1552 | SpongeBob SquarePants: The Cosmic Shake [Rev 1.0.0] | [01009FB0172F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009FB0172F4000) | f61911b562195493 |
-| 1553 | SpongeBob: Krusty Cook-Off | [01000D3013E8C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000D3013E8C000) | 6ec1a152ad773a4b |
-| 1554 | Sports Story | [010025B0100D0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010025B0100D0000) | 54274c14e7a05fae |
-| 1555 | Spyro: Reignited Trilogy | [010077B00E046000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010077B00E046000) | d2775fafcf4835cb |
-| 1556 | Squad 51 vs. the Flying Saucers | [0100BB2015FCA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BB2015FCA000) | dd4f8858bb96ea80 |
-| 1557 | Star Horizon | [0100EC2011B9C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC2011B9C000) | 52374a85f1ec7a44 |
-| 1558 | STAR OCEAN First Departure R | [0100EBF00E702000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EBF00E702000) | 5ec132f471291b7e |
-| 1559 | Star Renegades [Rev 1.0.0] | [0100D050135B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D050135B6000) | 19c0219a57c5e241 |
-| 1560 | Star Story: The Horizon Escape | [0100D7000AE6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D7000AE6A000) | 101279c95bf61b40 |
-| 1561 | STAR WARS™ Episode I Racer | [0100BD100FFBE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD100FFBE000) | 425007690f14dcb7, 4e91e35363a552d2, 6b81a9a7d4d34552, c695bb70759d44c6 |
-| 1562 | STAR WARS™ Jedi Knight II: Jedi Outcast™ | [0100BB500EACA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BB500EACA000) | fa0405385b531fcf |
-| 1563 | STAR WARS™ Republic Commando™ | [0100FA10115F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FA10115F8000) | 99cac56a0829ef37 |
-| 1564 | STAR WARS™: The Force Unleashed™ | [0100153014544000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100153014544000) | 017384c7c95f5ba7, 7164581c4a7e5739 |
-| 1565 | Stardew Valley | [0100E65002BB8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E65002BB8000) | 44ba37318c492264, 54d5695b9f5d8248, c45898e4542eccda, f24cc94cb6289ed2 |
-| 1566 | Stardust Galaxy Warriors: Stellar Climax | [01001B600BC32000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B600BC32000) | 69aa157d881de641 |
-| 1567 | Starlink: Battle for Atlas [Rev 1.0.0] | [01002CC003FE6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002CC003FE6000) | 630dc5de0776e6e8 |
-| 1568 | STAY COOL, KOBAYASHI-SAN!: A RIVER CITY RANSOM STORY | [0100B61009C60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B61009C60000) | 9b3795d79e82816f |
-| 1569 | SteamWorld Dig | [01009320084A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009320084A4000) | 9b8a73daf4b90ea9 |
-| 1570 | SteamWorld Heist: Ultimate Edition | [0100A21007FFA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A21007FFA000) | 8aebd36f3700963b |
-| 1571 | SteamWorld Quest: Hand of Gilgamech | [0100F6D00D83E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F6D00D83E000) | a3179fef84570923 |
-| 1572 | Steel Assault | [01001C6014772000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C6014772000) | 077e6c9060518627, 0ce7ee14a2cbb718 |
-| 1573 | Stela | [01002DE01043E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002DE01043E000) | 7aca9116672a7795 |
-| 1574 | Stitchy in Tooki Trouble | [010077B014518000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010077B014518000) | 511c939d3ea8a74a |
-| 1575 | Stoned for Fitness Boxing | [0100E7300AAD4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E7300AAD4000) | a44f64ba820eaa46 |
-| 1576 | Story of a Gladiator | [0100D5D00DAF2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D5D00DAF2000) | 8e66d62ef6a31e46 |
-| 1577 | Story Of Season: Friends of Mineral Town [Rev 1.0.0] | [0100ED400EEC2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ED400EEC2000) | 5ce05588b1d56ec0, 7f00ec72055a9dca, 9587aa1da8220111, b781309cf5399c6a, e963f5692eb8aedd |
-| 1578 | STORY OF SEASONS: Friends of Mineral Town | [0100AA000EEB2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AA000EEB2000) | 5ce05588b1d56ec0 |
-| 1579 | STORY OF SEASONS: Pioneers of Olive Town | [010082E012A84000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082E012A84000) | 4410c92b04087143, a4095add59310847, ab82dad4706e0747, ebd208b4b2bf0b42 |
-| 1580 | Straimium Immortaly | [0100DA000D71A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA000D71A000) | 1cc83aea9778d972 |
-| 1581 | Stranded Deep | [01004F4014C62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004F4014C62000) | 61975b301708e44b |
-| 1582 | Stranded Sails - Explorers of the Cursed Islands | [010078D00E8F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010078D00E8F4000) | be0c58a3ae69eb4f |
-| 1583 | Strange Brigade | [01001DC012E7E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001DC012E7E000) | af134532a4e50784 |
-| 1584 | Stranger Things 3: The Game | [0100DD600DD48000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DD600DD48000) | 5dddf2ec1683c444 |
-| 1585 | Street Fighter 30th Anniversary Collection | [0100024008310000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100024008310000) | a65e31f83f2cbb54 |
-| 1586 | Street Racing: Tokyo Rush | [01001E901482A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001E901482A000) | ad575e1c5d3e414b |
-| 1587 | Streets of Rage 4 | [0100EC9010258000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC9010258000) | 20cc1e2d6502624a, 94e241a6ce450751, a69706619587f523, c4725c8a6bcc1b29, cccdc48539e8cc1f, ff092115439d1f8a |
-| 1588 | Streets of Red : Devils Dare Deluxe | [0100C1700A9F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C1700A9F0000) | c7e03551b705ba49 |
-| 1589 | Strike Force 2 - Terrorist Hunt | [01004B500F07C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B500F07C000) | e8785f78d8d42b74 |
-| 1590 | STRIKERS1945 for Nintendo Switch | [0100FF5005B76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF5005B76000) | 13a66415dfd9fc45, 349e43d4f0e71aaa, fe906f0365d9dcfe |
-| 1591 | STRIKERS1945Ⅱ for Nintendo Switch | [0100720008ED2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100720008ED2000) | 44b325524b98375b, 6cd0059343d5c11a, c1fcd151248425e7 |
-| 1592 | STRIKERS1999 for Nintendo Switch | [0100D8200D4E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D8200D4E2000) | 537bee1f2ffc7f7f, 7f555bcfac873e7a |
-| 1593 | SturmFront - The Mutant War: Übel Edition | [010029701420A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010029701420A000) | c7cae59f4a307241 |
-| 1594 | STURMWIND EX | [0100C5500E7AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C5500E7AE000) | b529a461f3a7d61c |
-| 1595 | Subnautica | [0100429011144000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100429011144000) | 90bbaf36dd244c48 |
-| 1596 | Subnautica: Below Zero | [010014C011146000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014C011146000) | 90bbaf36dd244c48 |
-| 1597 | Summer in Mara | [0100A130109B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A130109B2000) | 01ecf7c70a87804c, 497bf9528e83e64b |
-| 1598 | Summer Sweetheart | [01004E500DB9E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004E500DB9E000) | f203511733ae3449 |
-| 1599 | Sundered: Eldritch Edition | [01002D3007962000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002D3007962000) | a2dfd07e5eb5f743 |
-| 1600 | Sunwards | [010039A019B20000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010039A019B20000) | 3672353f008decd7 |
-| 1601 | Super Bomberman R | [01007AD00013E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007AD00013E000) | 146eaadfe847c841, a0a745da9ae25946 |
-| 1602 | Super Daryl Deluxe | [010078800869A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010078800869A000) | 3b7455aaa75e1b27 |
-| 1603 | Super Dragonball Heroes World Mission | [0100CAF00C462000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CAF00C462000) | 390a4067482509c9, c7be7a7c6253b52d |
-| 1604 | Super Dragonfly Chronicles | [0100967012972000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100967012972000) | 54e6066bd8697d47 |
-| 1605 | Super Hydorah | [010099F00B374000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010099F00B374000) | 772010c59b988e26, 98d835a423bdbcfa |
-| 1606 | Super Kirby Clash™ | [01003FB00C5A8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003FB00C5A8000) | c9649e053bd7be27, dcdfa5a4ad9a175d |
-| 1607 | Super Mario 3D All-Stars [Rev 1.0.0] | [010049900F546000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049900F546000) | a638857e6df584ff, bdd6dc7da7a69290, ff44f58218c6a6b2 |
-| 1608 | Super Mario Maker 2 | [01009B90006DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009B90006DC000) | 3ebb1eb2fffb029a, 60b80d35e3db7606, e7101fe3bb2c4bac, e74294b43f76ef2a, edb8feede2bfa3ff |
-| 1609 | Super Mario Odyssey | [0100000000010000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100000000010000) | 3ca12dfaaf9c82da, b424be150a8e7d78, f5dccddb37e97724 |
-| 1610 | Super Mario Party | [010036B0034E4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010036B0034E4000) | 49a50a8bcfa6b036, 9f13b69757666412 |
-| 1611 | Super Mario™ 3D World + Bowser’s Fury | [010028600EBDA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010028600EBDA000) | 891687f016a18f17, 9f7efc2fb9653e5c |
-| 1612 | Super Meat Boy | [01004F8006A78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004F8006A78000) | 18bafde1b12b11be |
-| 1613 | Super Meat Boy Forever | [01009C200D60E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009C200D60E000) | ebb3ab15544f5df7 |
-| 1614 | Super Monkey Ball Banana Mania | [010001701248C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010001701248C000) | 0e563a7ff32784ec |
-| 1615 | Super Monkey Ball: Banana Blitz HD | [0100B2A00E1E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B2A00E1E0000) | 0da43de40287b24a, 5814a3099a30b54a, 82bce946568dd041 |
-| 1616 | Super Nintendo Entertainment System™ - Nintendo Switch Online | [01008D300C50C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D300C50C000) | 46cffeefe486d553, 5667fbc45986b522, edac20e98757406e |
-| 1617 | Super Phantom Cat: Remake | [0100C9A00D124000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C9A00D124000) | fdc133d5edcc9945 |
-| 1618 | Super Pixel Racers | [0100F5100E9DE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F5100E9DE000) | 9cdcb9b1dd852c49 |
-| 1619 | Super Punch Patrol | [01001F90122B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001F90122B2000) | 01001f90122b2000, 403e242118364bd6 |
-| 1620 | Super Putty Squad | [0100331005E8E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100331005E8E000) | a028e4f0c384a83c |
-| 1621 | Super Robot Wars 30 [Rev 1.0.0] | [010022201229A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022201229A000) | 2277b2804ed2c1c6, e1a7baf96c0b02f6 |
-| 1622 | SUPER ROBOT WARS T | [01006C900CC6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C900CC6000) | f78fbd6e48e6fce1 |
-| 1623 | Super Robot Wars T | [01006C900CC60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C900CC60000) | 3a1a0309a1a756df, b49e93fb9664813b, fc92ab978eb6c815 |
-| 1624 | Super Robot Wars V | [0100CA400E300000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CA400E300000) | 736eb95aca241014, be5faeaf26b2bd48, eac0ac0033ce59e1 |
-| 1625 | Super Robot Wars X [Rev 1.0.0] | [010026800E304000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026800E304000) | 4873aa2e8514685f, cefbf4f864b51f37 |
-| 1626 | Super Saurio Fly | [01004CF00A60E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004CF00A60E000) | 6c8970071ef11148 |
-| 1627 | Super Smash Bros. Ultimate | [01006A800016E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006A800016E000) | 06646fddd47a619f, 1b4270ced2653872, 2ef410f4d4d2d279, 343d891a4bcf0684, 4590c9bb2c530754, 4a3f8ed7dcce3ad4, 7a77e0d95e57814c, 875f34e0d735b604, 9825a8b3c3904a82, 9fe4e3c363968930, b0cb5479f051741a, d45361e905c9e3c1, fd471eb458c915e7 |
-| 1628 | Super Street Racer | [0100FB400F54E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FB400F54E000) | 72971ef198d7792b |
-| 1629 | Super Street: Racer | [010074200E910000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010074200E910000) | b9f66d47fc26defa |
-| 1630 | Super Toy Cars | [0100384009344000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100384009344000) | f8c08ad2cda26a46 |
-| 1631 | Super Toy Cars Offroad | [0100B65013636000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B65013636000) | 664244c1cbabe8b7 |
-| 1632 | SuperEpic: The Entertainment War | [0100630010252000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100630010252000) | 583c5daa080f9f49 |
-| 1633 | Superpanda 2 | [0100B75018A6E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B75018A6E000) | 6beb59a0abbd15ad |
-| 1634 | Supraland | [0100A6E01201C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A6E01201C000) | 3e829f9d2a644e30 |
-| 1635 | Survive! MR.CUBE | [010029A00AEB0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010029A00AEB0000) | e982392825a0b048 |
-| 1636 | Sushi Striker: The Way of Sushido | [0100DDD0085A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DDD0085A4000) | 06544787c615088e |
-| 1637 | SWORD ART ONLINE: FATAL BULLET Complete Edition | [01005DF00DC26000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005DF00DC26000) | 029c2837b0eee8a9, 0bc8e0955e19e9ed, 7d388942a921e50a |
-| 1638 | SWORD ART ONLINE: Hollow Realization Deluxe Edition | [01001B600D1D6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B600D1D6000) | 0c356a98bcf20184, be2722b00a4d6573 |
-| 1639 | SWORD ART ONLINE: Hollow Realization Deluxe Edition | [0100EC400D54E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC400D54E000) | 1fe34416e3f057ad |
-| 1640 | Sword of the Guardian | [01001C900CAD0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C900CAD0000) | 21b490c1f7d43b4b |
-| 1641 | Sword of the Necromancer | [0100E4701355C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4701355C000) | b4e61e315d54142f |
-| 1642 | Sword of the Vagrant | [0100BD000CB2C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD000CB2C000) | 1f1363ec8cc83c73 |
-| 1643 | Swords and Sandals: Spartacus | [0100241012432000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100241012432000) | 8729a8df5adf0646 |
-| 1644 | Syder Reloaded | [0100A2500E232000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A2500E232000) | 899a1b60b0b44747, fb9b6960f530944d |
-| 1645 | Sydney Hunter and the Curse of the Mayan | [010007300C482000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007300C482000) | 1d9b0b8d64487d43, 70852b805bbf7b4a |
-| 1646 | Table Top Racing: World Tour - Nitro Edition | [010015B00BB00000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010015B00BB00000) | 2acb02a77b0dc448 |
-| 1647 | Tails Of Iron | [0100EF3013F60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EF3013F60000) | a164c9dab8988b11 |
-| 1648 | Takotan | [0100761012B0C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100761012B0C000) | 89b21f067b29073a |
-| 1649 | Tales of Vesperia: Definitive Edition | [01002C0008E52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C0008E52000) | 9e812d3826d6e7ac, e16a71d239010576, f244b656b1cafe52 |
-| 1650 | Tales of Vesperia™: Definitive Edition | [01002C0008E5200](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C0008E5200) | 9e812d3826d6e7ac, f244b656b1cafe52 |
-| 1651 | Tamashii | [010012800EE3E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010012800EE3E000) | 196ac2bdeba69477 |
-| 1652 | Tamiku | [010008A0128C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010008A0128C4000) | a437e84f0f0158e1 |
-| 1653 | Tangledeep | [010048F007ADE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010048F007ADE000) | ab6322343406634a |
-| 1654 | Taxi Chaos | [0100B76011DAA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B76011DAA000) | ed6980128b99108a |
-| 1655 | Tcheco in the Castle of Lucio | [0100F43011E5A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F43011E5A000) | 505340019ca26040 |
-| 1656 | Team Sonic Racing | [010092B0091D0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010092B0091D0000) | 158af044f62a4aa2, 9ca62cc01a646921 |
-| 1657 | Tears of Avia | [010076E0150CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076E0150CC000) | 98b20f02ef446776 |
-| 1658 | Teenage Mutant Ninja Turtles: Shredder's Revenge | [0100FE701475A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FE701475A000) | 18c437d0f8d74cc1, 1ffb60c2c26d3dab, 3602ea0cb9bb3183, 3cb1b07abe602860, ced3a84e211f4b33, f3280d919e4a625b |
-| 1659 | TENGAI for Nintendo Switch | [0100B2600A398000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B2600A398000) | f11440abc24deb09 |
-| 1660 | Tennis in the Face | [01002970080AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002970080AA000) | 6a819ad63d809d95 |
-| 1661 | Terraria | [0100E46006708000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E46006708000) | 0a22a4322335834d, 364dc52deb2a5c46, 877a4236c64b0e4e, a85426058506934f |
-| 1662 | Terraria [Rev 1.0] | [010024B00F9D0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010024B00F9D0000) | 1f53e00d05581144 |
-| 1663 | Teslagrad | [01005C8005F34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005C8005F34000) | 6290d08ceb02ea4d |
-| 1664 | TETRIS 99 | [010040600C5CE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040600C5CE000) | 07b0a65f53280fc8, 3f63328f03aaf417 |
-| 1665 | Tetris® Effect: Connected | [0100DE501433A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DE501433A000) | 02e64f62153c1f00, 4aea702b9de72fd5 |
-| 1666 | THE ALLIANCE ALIVE HD REMASTERED | [01003CF00DCFA00](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003CF00DCFA00) | 16139c5ae42d284e |
-| 1667 | The Alliance Alive HD Remastered [Awakening Edition] | [010083A00B2DA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010083A00B2DA000) | 89b3007e82ae104a |
-| 1668 | The Alliance Alive HD Remastered [Awakening Edition] | [01003CF00DCFA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003CF00DCFA000) | 4df9da0bd7a61546 |
-| 1669 | The Bard's Tale ARPG: Remastered and Resnarkled | [0100CD500DDAE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CD500DDAE000) | cd98cc2621a30f51 |
-| 1670 | The Battle Cats Unite! [Rev 1.0.0] | [01001E50141BC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001E50141BC000) | 1776649361747405 |
-| 1671 | The Binding of Isaac: Afterbirth Plus | [0100F8A004458000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F8A004458000) | d6e5754880af8be3 |
-| 1672 | The Binding of Isaac: Afterbirth Plus | [010021C000B6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010021C000B6A000) | 4fb46e8cdfad75ad, 9872b9e3508b9ffe, b33a680a4eeaeedf, cd4463054576d9be, d6e5754880af8be3 |
-| 1673 | The Binding of Isaac: Afterbirth+ | [01005B9002312000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005B9002312000) | 148657004cd52eaf |
-| 1674 | The Bounty Huntress | [010059C0192EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010059C0192EA000) | 279c0ddf17efec4f |
-| 1675 | The Bug Butcher | [01008D700AB14000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D700AB14000) | 1763c8105148364a |
-| 1676 | The Bug Butcher (ザ・バグ・ブッチャー) | [0100CA900B6BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CA900B6BA000) | f529fa78f576c24a |
-| 1677 | The Captain | [0100562018716000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100562018716000) | 6a907254eae4594d |
-| 1678 | THE Card Battle: Eternal Destiny | [0100FBE0151DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FBE0151DC000) | a354be6dd8d06f46 |
-| 1679 | THE Card: Poker, Texas hold 'em, Blackjack and Page One | [0100EB600AB5E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB600AB5E000) | 42407ec9b931e646 |
-| 1680 | The Colonists [Rev 1.0.1.7] | [0100506016586000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100506016586000) | 83092fbdf5f6ad4c |
-| 1681 | The Coma 2: Vicious Sisters | [0100B7C01169C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B7C01169C000) | 6b8c6bd1c4c4f145 |
-| 1682 | The Coma: Recut | [010033100691A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010033100691A000) | ac20f6432b5ca44b |
-| 1683 | The Coma: Recut | [0100451012918000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100451012918000) | 5136f141b1639f4e |
-| 1684 | The Company Man | [010060E015FF2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010060E015FF2000) | b6e5d1e72ca8ab7a |
-| 1685 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000F20102AC000) | 2fbe522f4dbad51e |
-| 1686 | The Count Lucanor | [01000850037C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000850037C0000) | 2eaaf5f168f363d9 |
-| 1687 | The Dark Crystal: Age of Resistance Tactics | [010051800E922000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010051800E922000) | 01744dbed078494c |
-| 1688 | The Elder Scrolls V: Skyrim | [01000A10041EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000A10041EA000) | f924779598832227 |
-| 1689 | The Explorer of Night | [0100308013768000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100308013768000) | aaae665afcc8794e |
-| 1690 | The Falconeer: Warrior Edition | [0100BA5013E52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BA5013E52000) | 450f1e06cb093f4e |
-| 1691 | The Final Station | [0100CDC00789E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CDC00789E000) | 56de44e38c9a4b44 |
-| 1692 | The Flame in the Flood | [0100C38004DCC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C38004DCC000) | 2ef0f322f3a40e7d |
-| 1693 | The Forbidden Arts | [010007700D4AC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007700D4AC000) | 47834dd89cc22747 |
-| 1694 | The friends of Ringo Ishikawa | [010030700CBBC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010030700CBBC000) | 3749bfea64dc98df |
-| 1695 | The Good Life | [0100B1B015ABA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1B015ABA000) | 4b7c5de5de1b9f5b |
-| 1696 | The Great Ace Attorney Chronicles | [010036E00FB20000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010036E00FB20000) | 1da748fc9499882f |
-| 1697 | THE HOUSE OF THE DEAD: Remake | [010088401495E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010088401495E000) | cf5a2add49121042 |
-| 1698 | The Incredible Adventures of Super Panda | [0100D1500F6DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D1500F6DC000) | 56d6a748dd5cc64c |
-| 1699 | The King's Bird | [010020500BD98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010020500BD98000) | 881bac95c002184f |
-| 1700 | The Knight Witch | [0100E8501816E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E8501816E000) | ffb321c2f27c8984 |
-| 1701 | THE LAST BLADE: Beyond the Destiny | [0100A35012908000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A35012908000) | 9ddb09ed29cfd95f |
-| 1702 | The Last Dead End | [0100AAD011592000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AAD011592000) | e37415338f94905a |
-| 1703 | The Last Friend | [010007901467A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007901467A000) | 9f15fcd4717ada85 |
-| 1704 | The Last Kids on Earth and the Staff of Doom | [0100C27011544000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C27011544000) | 562f197c579e7a45, 69ee3835aa82d64d |
-| 1705 | THE LAST REMNANT Remastered | [0100AC800D022000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AC800D022000) | 4bc3de4ea95c471d |
-| 1706 | The Legend of Dark Witch | [0100B1900F0B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1900F0B6000) | 688f083106e7467d, d469aa790876b5f6, f062735ce0525729 |
-| 1707 | The Legend of Heroes: Trails of Cold Steel III | [01005420101DA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005420101DA000) | 134ec3d8be75126f |
-| 1708 | The Legend Of Heroes: Trails Of Cold Steel IV [Rev 1.0.0] | [0100D3C010DE8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D3C010DE8000) | 4980e9e242678015 |
-| 1709 | The Legend of Ninja | [0100C5A01327E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C5A01327E000) | 3bf0514d5fc82e4e |
-| 1710 | The Legend of Tianding | [0100AD90155FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AD90155FC000) | 0edbc12f53aeb997 |
-| 1711 | The Legend of Zelda: Breath of the Wild | [01007EF00011E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007EF00011E000) | 16a91992bba71201, 8e9978d50bdd20b4 |
-| 1712 | The Legend of Zelda: Links Awakening | [01006BB00C6F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006BB00C6F0000) | 909e904af78ac1b8, ae16f71e002af8cb |
-| 1713 | The Legend of Zelda™: Skyward Sword HD | [01002DA013484000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002DA013484000) | 5441af3c89f97e1d, d824d4b1bbd45d03 |
-| 1714 | The Legend of Zelda™: Tears of the Kingdom | [0100F2C0115B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2C0115B6000) | 082ce09b06e33a12 |
-| 1715 | The LEGO Movie 2 Videogame | [0100A4400BE74000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A4400BE74000) | bac1309ddf75b14d |
-| 1716 | The LEGO NINJAGO Movie Videogame | [01000CE002072000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000CE002072000) | 2aa90ecc2a24da46 |
-| 1717 | The Lightbringer | [0100491014980000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100491014980000) | eb736d27f0bbf7cf |
-| 1718 | The Long Dark | [01007A700A87C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007A700A87C000) | 9b4979a234077441, ac7114153a1da944 |
-| 1719 | The Lost Child | [01008A000A404000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008A000A404000) | c7209aeda44b0447 |
-| 1720 | The Lost Cube | [01000F2013CF8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000F2013CF8000) | 7d646a32a37bf945 |
-| 1721 | The Messenger | [0100DC300AC78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DC300AC78000) | 2a979c3fdf717642, d8e60563c302aa41, eabd92ad1cdc0e43, ede81745c5421d45, fb6206b43c698a4b |
-| 1722 | The Mummy Demastered | [0100496004194000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100496004194000) | fe343c581ba5b49f |
-| 1723 | The Ninja Saviors: Return of the Warriors | [01001FB00E386000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001FB00E386000) | 55f09d019671d740 |
-| 1724 | The Ninja Warriors Once Again (ザ・ニンジャウォーリアーズ ワンスアゲイン) | [010036200CF6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010036200CF6A000) | 61d93ce7139cd44e, a19f68759121af43 |
-| 1725 | The Outer Worlds | [0100626011656000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100626011656000) | 4382212487d292d0, 4a64edcb99de833c, 761cd556ab357c87, 7d68e9e4670405a4, 9f310253603704d9 |
-| 1726 | The Pathless | [0100D5501522C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D5501522C000) | 54e89af3414e549a |
-| 1727 | The Persistence | [010050101127C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010050101127C000) | 4d1c7699d3fe0e32 |
-| 1728 | The Pinball Arcade | [0100CD300880E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CD300880E000) | fadc5bb443b6d715 |
-| 1729 | The Princess Guide | [0100E6A00B960000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E6A00B960000) | 1d20c4a989b37608 |
-| 1730 | The Pyraplex | [0100BBD00D9D6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BBD00D9D6000) | bf59a5d4241b924e |
-| 1731 | The Rumble Fish 2 | [0100EB6018686000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB6018686000) | 6db781a57ab0dcf6 |
-| 1732 | The Serpent Rogue | [01000CB016F3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000CB016F3A000) | 1a8ee1af3edcafae |
-| 1733 | The Sinking City | [010028D00BA1A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010028D00BA1A000) | 85e49c169a8b988a |
-| 1734 | The Snack World: Trejarers Gold | [010072B007418000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072B007418000) | 26d8482bad9998b2 |
-| 1735 | The Story Goes On | [01007FA00DA22000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007FA00DA22000) | 829f522f9904634e |
-| 1736 | The Survivalists [Rev 1.0] | [0100EF200DA60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EF200DA60000) | 9237d917928aeb4a |
-| 1737 | The Swords of Ditto: Mormo's Curse | [010037D00D568000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010037D00D568000) | 998578d430bc7d3f, fcb264311604ca8b |
-| 1738 | The TakeOver | [0100CAE01021A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CAE01021A000) | 8d298584cde83d4f |
-| 1739 | The Touryst | [0100C3300D8C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C3300D8C4000) | 0b66b82e9902a3c1, 7dcda84f355f527f |
-| 1740 | The Way Remastered | [0100F8900A5B0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F8900A5B0000) | 45d613aebd45af46 |
-| 1741 | The Witcher 3: Wild Hunt | [0100E67012924000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E67012924000) | caf28ae07f8cf6c0, ef9887f9546bd28c |
-| 1742 | The Witcher 3: Wild Hunt [Complete Edition] | [010019C00E9CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010019C00E9CC000) | 7d0794dc20faf372, 986ce0bb97d63ce6 |
-| 1743 | The Witcher 3: Wild Hunt [Complete Edition] | [01003D100E9C6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D100E9C6000) | 11f23ecbdfba7e24, 4ffb62f1cd9e17f8, 7d0794dc20faf372, 986ce0bb97d63ce6 |
-| 1744 | The Witcher 3: Wild Hunt — Complete Edition | [0100BFE00E9CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BFE00E9CA000) | 7d0794dc20faf372 |
-| 1745 | The Wonderful 101: Remastered | [0100B1300FF08000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1300FF08000) | 6f043b70de8f5893 |
-| 1746 | The World Ends With You: Final Remix | [0100C1500B82E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C1500B82E000) | 2a5408063198b646 |
-| 1747 | Theatrhythm: Final Bar Line [Rev 1.0.0] | [010024201834A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010024201834A000) | db05af6e93537cd6 |
-| 1748 | They Bleed Pixels | [01001C2010D08000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C2010D08000) | 073a619a4a4c528d |
-| 1749 | Thief Simulator | [0100CE400E34E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CE400E34E000) | d01cbd41caa0d840 |
-| 1750 | This Strange Realm Of Mine | [0100C7C00F77C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C7C00F77C000) | 89ddb76dc0cca744 |
-| 1751 | Thunder Paw | [01009AF0110E4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009AF0110E4000) | d724828447669524 |
-| 1752 | Thy Sword [Rev 1.0.0] | [01000AC011588000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000AC011588000) | ae9902f06d93bfeb |
-| 1753 | Time Recoil | [0100F770045CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F770045CA000) | dddf84085a5a59af |
-| 1754 | Timespinner | [0100DD300CF3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DD300CF3A000) | 95947700181f5c61 |
-| 1755 | Tin & Kuna | [0100F7C010AF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F7C010AF6000) | 3764ce647410824a |
-| 1756 | Tiny Barbarian DX | [0100D940022F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D940022F6000) | 069b9a025b219e56 |
-| 1757 | Tiny Gladiators | [0100DF900FC52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DF900FC52000) | 90ebcb0fd4322e45 |
-| 1758 | TINY METAL: FULL METAL RUMBLE | [0100B1600DB3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1600DB3A000) | 86892ef0abdaaaa3 |
-| 1759 | Tiny Troopers Joint Ops XL | [0100B52006E8C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B52006E8C000) | 4eed78e274c5824b |
-| 1760 | Tiny Troopers Joint Ops XL | [0100D3D008E6C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D3D008E6C000) | 1962dda88596d44a |
-| 1761 | Titan Quest | [0100605008268000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100605008268000) | 473269469145c1cf, 8f39d37c86ea460a |
-| 1762 | ToeJam & Earl: Back in the Groove! | [0100B5200BB7C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B5200BB7C000) | 8e06e89604736b46, 9386ab7fd676d747 |
-| 1763 | Toki | [0100F3400A432000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F3400A432000) | 1838099aae00b548, 9bf460fb87a78144 |
-| 1764 | TOKOYO: Tower of Perpetuity | [01001F7014F14000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001F7014F14000) | b046759d3bc18047 |
-| 1765 | Tokyo Mirage Sessions ♯FE Encore [Rev 1.0.0] | [0100A9400C9C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A9400C9C2000) | 33463e11899166bb |
-| 1766 | Tonight We Riot | [0100D400100F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D400100F8000) | 3567e82c6981424d |
-| 1767 | Tony Hawk's™ Pro Skater™ 1 + 2 | [0100CC00102B4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CC00102B4000) | 8afcbe6a930cd42e, 93a4bfb86bca2c3d |
-| 1768 | Toon Shooters 2: The Freelancers | [0100D31013F24000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D31013F24000) | 206c185e2f5a9a2e, c41d950ba5984bfc |
-| 1769 | Toon War | [01009EA00E2B8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009EA00E2B8000) | 13ef97853a0caa46 |
-| 1770 | Torchlight II | [010090400D366000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010090400D366000) | 3c58651f0107fbe1, 99a367d031056e1f, a0c6c2d22dea7933 |
-| 1771 | Torchlight III | [010075400DDB8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075400DDB8000) | 9c4a5006b994e86e, b6e63986d4fee5fd, e500a363d43b1ccc |
-| 1772 | Tormented Souls | [010046401399C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010046401399C000) | e65f2d1c5f239154 |
-| 1773 | Touhou Genso Wanderer -Lotus Labyrinth R- | [0100A7A015E4C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A7A015E4C000) | 7546a496ebc6dcbc |
-| 1774 | Touhou Luna Nights | [0100D850131B0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D850131B0000) | fe5b26032bfc9289 |
-| 1775 | Touken Ranbu Warriors | [0100DC9016C7C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DC9016C7C000) | db92fb1a713c6b45 |
-| 1776 | Towaga: Among Shadows | [010062900E610000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010062900E610000) | 777978c76acca348 |
-| 1777 | Tower Princess | [0100DA1014B78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA1014B78000) | 095b0d3f9b1fbd3e |
-| 1778 | Towertale | [0100F6200F77E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F6200F77E000) | 867076902772414c |
-| 1779 | Toy Stunt Bike: Tiptops Trials | [01009FF00A160000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009FF00A160000) | 8e1f47e7060f7c80 |
-| 1780 | Traditional Tactics Ne+ | [010008C01010A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010008C01010A000) | 70fbec50f87b5a80 |
-| 1781 | Transformer: Battlegrounds [Rev 1] | [01005E500E528000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005E500E528000) | 28f6c06633f0534b |
-| 1782 | Transiruby | [0100A86014332000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A86014332000) | 0adf2cfa6ca22a81, 9e0b8de6c9132ef8 |
-| 1783 | Transistor | [0100BE500BEA2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE500BEA2000) | 7ed6b28290c61cbe |
-| 1784 | Travis Strikes Again: No More Heroes | [010011600C946000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010011600C946000) | 2ff317a1828bc0fc, ef72a4b5bf1973f3 |
-| 1785 | Trek to Yomi | [0100D77019324000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D77019324000) | f93fe010a1fc10bd |
-| 1786 | Trials of Mana | [0100D7800E9E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D7800E9E0000) | 74a7b4b505977ca5, 92c25172d38dfedb, 9e66575bdc49ec40, e419da6f3bf16a1c |
-| 1787 | Trials of Mana (中文版) | [0100E2D00FE90000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E2D00FE90000) | a712ff9389602dcb |
-| 1788 | Trine 2: Complete Story | [010064E00A932000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010064E00A932000) | 525b902e6f916ea5 |
-| 1789 | Trine 3: The Artifacts of Power | [0100DEC00A934000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DEC00A934000) | 86d9ea9ca4680295 |
-| 1790 | Trine 4: The Nightmare Prince | [010055E00CA68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010055E00CA68000) | b70f06eac87fa2af |
-| 1791 | Trine Series 1-3 | [0100D9000A930000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D9000A930000) | 32b4bbe0d88214d3 |
-| 1792 | Trollhunters: Defenders Of Arcadia [Rev 0.1] | [0100145011008000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100145011008000) | f65c6060142fc64f |
-| 1793 | TRON: Identity | [010007501A588000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007501A588000) | 0da3f0f5c3c04a6c |
-| 1794 | Tropico 6 - Nintendo Switch™ Edition | [0100FBE0113CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FBE0113CC000) | 2e4d1158a395f558 |
-| 1795 | Trouserheart | [01001EF00BF3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001EF00BF3A000) | 1dfd2b4fe2198e4a |
-| 1796 | Turrican Flashback [Rev 1.0.0] | [010004B0130C8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010004B0130C8000) | 995e954e8606f40f, e3082dd62ef54f41 |
-| 1797 | Twin Blades of the Three Kingdoms | [0100F5A017FE8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F5A017FE8000) | 315ba17fd941c553 |
-| 1798 | Two Parsecs From Earth | [0100BCE012894000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BCE012894000) | 983e28b1198ae349, a59916f2a577b146 |
-| 1799 | Two Point Hospital [Rev 1.0.0] | [010031200E044000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010031200E044000) | 04b125635599f349, 13265e4eba0f0d41, 296658de5ef59049, 49bfad179af06e42, c3c6a6dc345fe046, db0700010fee8447 |
-| 1800 | TY the Tasmanian Tiger HD | [010038400C2FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038400C2FE000) | 965107e5a2ce0a3d, 985ea0225c2d2ae3, bae5c2e836df8e72 |
-| 1801 | TY the Tasmanian Tiger™ 2: Bush Rescue™ HD | [0100BC701417A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BC701417A000) | 3f7b53d09b3b4672 |
-| 1802 | Tyr : Chains of Valhalla | [01003B200C6CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003B200C6CA000) | 8eb5b7c66fc82a42 |
-| 1803 | Ultra Age | [01008D4015904000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D4015904000) | 7769608a9494e5db, 84b07884f70b3cd7, aac1a3684ea9cecf |
-| 1804 | Ultra Age [Rev 1.0.0] | [01006DD00FE16000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006DD00FE16000) | 7769608a9494e5db, aac1a3684ea9cecf |
-| 1805 | ULTRA STREET FIGHTER II: The Final Challengers | [01007330027EE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007330027EE000) | 2ae749ed04831745, 8726f5e816b001b2 |
-| 1806 | Ultracore | [0100E5C00DC46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5C00DC46000) | 13082aab64bdb509 |
-| 1807 | Umihara Kawase BaZooKa! [Rev 1.0.0] | [010093A01095E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010093A01095E000) | cc45e98bfbec91a8 |
-| 1808 | Umihara Kawase Fresh! | [01007D600B70A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007D600B70A000) | 6980f28d418a55b6 |
-| 1809 | Unbound: Worlds Apart | [0100C5A013B7A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C5A013B7A000) | 719be27194d137df, 842053a9e717fdc2, bb5609f056926ac3 |
-| 1810 | UNDER NIGHT IN-BIRTH Exe:Late[cl-r] | [0100B2900DF06000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B2900DF06000) | 46e1b5c89a40d85e |
-| 1811 | Under Night In-Birth Exe:Late[cl-r] | [010038C00EC34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038C00EC34000) | 120f62bb506d4e36, 46e1b5c89a40d85e |
-| 1812 | UnderDungeon | [0100A71018440000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A71018440000) | 21ca4bbd997fe82f |
-| 1813 | Underhero | [01005CD00F85A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005CD00F85A000) | 4630fbc60041c444, 4c43a24535e79d47 |
-| 1814 | UnderMine | [01000B3012F3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000B3012F3A000) | 72c59093e64eab49 |
-| 1815 | Undertale | [010080B00AD66000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010080B00AD66000) | 24db41fcd513d080 |
-| 1816 | Unepic | [01008F80049C6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008F80049C6000) | e7c9870159c6877f |
-| 1817 | UnMetal | [01008F4014A74000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008F4014A74000) | b7ff059e225348df, ba30581e9c9e6c3b |
-| 1818 | Unravel Two | [0100E5D00CC0C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5D00CC0C000) | f04d4fe8bf580369 |
-| 1819 | Unruly Heroes | [010001300CC4A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010001300CC4A000) | fd5c98d408eccd4c |
-| 1820 | Unsouled | [0100B06017686000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B06017686000) | 80a6528448378aab |
-| 1821 | Unto The End | [0100E49013190000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E49013190000) | b122a99e438c394c |
-| 1822 | Up Cliff Drive | [0100D86012928000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D86012928000) | 2d3c44ad39aafd46 |
-| 1823 | Urban Trial Playground | [01001B10068EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B10068EC000) | 1caa05a4630e7769 |
-| 1824 | V-Rally 4 | [010064400B138000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010064400B138000) | c07b867928055e3d, eb8a679b5ddd0060 |
-| 1825 | V.O.I.D. | [010040000D08E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040000D08E000) | 3af9a4c3a016afeb |
-| 1826 | Vaccine | [01009E2003FE2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009E2003FE2000) | 34441e3e5ed09859 |
-| 1827 | Valentina | [0100A59012070000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A59012070000) | 56e1be633e5b9f44 |
-| 1828 | Valfaris | [010089700F30C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010089700F30C000) | 3f4477107ab9b84c, c0a75cfe9b9b814a |
-| 1829 | Valis: The Fantasm Soldier Collection | [0100A3D016ACC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A3D016ACC000) | f0e71bf7eb56937b |
-| 1830 | Valkyria Chronicles | [0100CAF00B744000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CAF00B744000) | fe77ffb8cbfb3a5c |
-| 1831 | Valkyria Chronicles 4 | [01005C600AC68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005C600AC68000) | 3758602aa47add37 |
-| 1832 | Valthirian Arc: Hero School Story | [010042100BAA6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042100BAA6000) | 27214fd55a2c6c4b |
-| 1833 | Vambrace: Cold Soul | [01000E000DD40000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000E000DD40000) | 2b99be136d8c1f49, ce42204cb46ac947 |
-| 1834 | Vampire's Fall: Origins | [0100BD0012A68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD0012A68000) | f0f1f7c836290c48 |
-| 1835 | VAMPYR | [01000BD00CE64000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000BD00CE64000) | 2e387d52731f6cf8, e417100ffeefd1de |
-| 1836 | Vanaris Tactics | [0100345017A70000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100345017A70000) | 389c432391cb7ae9 |
-| 1837 | Vaporum | [010030F00CA1E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010030F00CA1E000) | 363883e3b5306749, 5c813c18c1d7744a |
-| 1838 | Vaporum: Lockdown | [010088D013CE0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010088D013CE0000) | 480b952ad15d7b4b |
-| 1839 | Venture Kid | [010095B00DBC8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095B00DBC8000) | c97dc98aa4a91c9f |
-| 1840 | Vernal Edge | [0100D10018340000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D10018340000) | 4de55c9786289279 |
-| 1841 | Vigil: The Longest Night | [01002D100EF3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002D100EF3A000) | 92e26d68dc4d1d40, b288c9ecb6bf4c4a |
-| 1842 | Void Bastards | [0100D010113A8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D010113A8000) | 27901a8fe21dff42, 2ae8719f2962c94e |
-| 1843 | Void Source | [010099E013430000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010099E013430000) | 6d59180e4c70f068 |
-| 1844 | Void tRrLM(); //Void Terrarium [Rev 1.0.0] | [0100FF7010E7E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF7010E7E000) | e0d8fb949ed755bb |
-| 1845 | Void tRrLM(); [Rev 1.0.0] | [010009900E170000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010009900E170000) | 4a40b29138017ee8 |
-| 1846 | Völgarr the Viking | [0100B1A0066DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1A0066DC000) | a2ad2e750b402fac |
-| 1847 | Vortex Attack EX | [010018400E4FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010018400E4FC000) | 51661056e0e8b01c |
-| 1848 | Voxel Shot for Nintendo Switch（ボクセルショット） | [010022A009368000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022A009368000) | 010022a009368000, c022f11a85e1aa4e |
-| 1849 | Wallachia: Reign of Dracula | [010017E012888000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010017E012888000) | 314e0bd3bc855594, 56e7b8f33024d194 |
-| 1850 | Wanba Warriors | [0100E29010A4A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E29010A4A000) | bc8df755d071cb48 |
-| 1851 | War Of Stealth - assassin | [01004FA01391A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004FA01391A000) | 4c328c448d094a41 |
-| 1852 | War-Torn Dreams | [0100563011B4A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100563011B4A000) | b05589f793720454 |
-| 1853 | WarGroove | [01000F0002BB6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000F0002BB6000) | 397bd5555e9a4c44, 64771f8d1e0d6ac4, 7dc603c454f6517e, a32afc17c02b0e80, b05c886de8291583 |
-| 1854 | WarioWare: Get It Together! [Rev 1.0.0] | [0100563010E0C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100563010E0C000) | e6784f640b1cdff9 |
-| 1855 | Warp Drive | [0100EED010722000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EED010722000) | 613a885e8f37a1c7 |
-| 1856 | WarriOrb | [010032700EAC4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010032700EAC4000) | e8e018bf25229ee3 |
-| 1857 | WARRIORS OROCHI 4 | [010016A00AEC0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010016A00AEC0000) | 5c9ccd358be85fc9, c99da50e73027754 |
-| 1858 | Wavetale | [01001FB017B36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001FB017B36000) | b2aa768e3a7b894d |
-| 1859 | Way of the Passive Fist | [0100BA200C378000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BA200C378000) | c2dac77c25bb7944 |
-| 1860 | WE ARE DOOMED | [01000F101286A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000F101286A000) | 7f069ce45b991cf1 |
-| 1861 | WeakWood Throne | [0100011012A70000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100011012A70000) | ce353ad90855ec51 |
-| 1862 | West of Dead | [0100C2C00D74E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C2C00D74E000) | 497bf9528e83e64b, d645b9f300d6b842 |
-| 1863 | Whipseey and the Lost Atlas | [010017500E7E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010017500E7E0000) | 25ce48f161ddf0cb |
-| 1864 | Who Wants to Be a Millionaire? | [010027F0128EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027F0128EA000) | 91e6239aca62174f |
-| 1865 | Wife Quest | [010082D014B98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082D014B98000) | 9b33414bf1f4504c |
-| 1866 | WILD GUNS Reloaded | [0100C39009EEE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C39009EEE000) | 3785b9800028344e, 56b03164a8800b49 |
-| 1867 | Wild Guns Reloaded | [0100CFC00A1D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CFC00A1D8000) | ce3e20fbad467949 |
-| 1868 | Wildcat Gun Machine | [0100428015C6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100428015C6A000) | ecca4788a949fa49 |
-| 1869 | Wildfrost | [0100DE2016376000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DE2016376000) | 799fab8a21f21818, d60ae1680e254177 |
-| 1870 | Willy Jetman: Astromonkey's Revenge | [010000100FB62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010000100FB62000) | 55ee1a69145de04e |
-| 1871 | Windbound | [010044000F7F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010044000F7F2000) | 195d347b5fc2fd40, c66df87114d6a44b, fabe51450032974d |
-| 1872 | Witcheye | [0100BD4011FFE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD4011FFE000) | c8627e913deb5943 |
-| 1873 | Wizard of Legend | [0100522007AAA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100522007AAA000) | 4dbce15edeb87a4c, 5b0505b54116e948, f0b56a498c439946 |
-| 1874 | Wizards of Brandel | [010081900F9E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010081900F9E2000) | 122ebf9e18e9db4b |
-| 1875 | Wolfenstein II: The New Colossus | [01009040091E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009040091E0000) | 94c6c3fc4d99c443, f2fe5ef877839f4f |
-| 1876 | Wolfenstein: Youngblood | [01003BD00CAAE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003BD00CAAE000) | 21a35d07d6e6c2f0, 88c0cd2f98b39f8b, c8fdf722e6bacffa |
-| 1877 | Wolflame | [01003380113A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003380113A2000) | 0d2088e1f2af8ddc |
-| 1878 | Wonder Blade | [010037A00F5E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010037A00F5E2000) | d5e27670148ba14a |
-| 1879 | WONDER BOY RETURNS REMIX | [010069B00D9FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010069B00D9FE000) | 6b1446944d519842, bb52a5b81f24e249 |
-| 1880 | Wonder Boy: Asha in Monster World [Rev 1.0] | [0100EB2012E36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB2012E36000) | ff72d70018425549 |
-| 1881 | Wonder Boy: The Dragons Trap | [0100A6300150C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A6300150C000) | 13793f02e257147f, c5fed26bf457566d |
-| 1882 | Wonder Boy: The Dragons Trap | [010041200A40E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010041200A40E000) | d2b0d0b0a6045847 |
-| 1883 | Woodle Tree 2: Deluxe | [0100E0300EB04000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0300EB04000) | 524ad3a220a14a47 |
-| 1884 | World of Final Fantasy Maxima | [010072000BD32000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072000BD32000) | 5767fd44c331b44b, ac72a1252ab09ec0 |
-| 1885 | World of One | [0100EBA0144C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EBA0144C0000) | 884a6ce95b263ea3 |
-| 1886 | World to the West | [0100CB60092A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CB60092A2000) | 5b759e7a3a3d6040 |
-| 1887 | WorldNeverland-ElneaKingdom- | [01008E9007064000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008E9007064000) | 28e19d6f448e5046, 6d89b45f36f95a4d |
-| 1888 | WRC 8 FIA World Rally Championship | [010087800DCEA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010087800DCEA000) | 64efd5d6ad8ea937 |
-| 1889 | WRC 9 The Official Game | [01001A0011798000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001A0011798000) | d07802e022207509 |
-| 1890 | Wulverblade | [010033700418A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010033700418A000) | c50b3ae5b8c2ee42, c68bc0a4f96db645 |
-| 1891 | WWE 2K Battlegrounds [Rev 1.0.0.1] | [010081700EDF4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010081700EDF4000) | 2fc6ff2ec90cebc3, 484f4aeaf4b9dba0, 4fd0f117e250f4f9, 5e0b2ab13f32af9a, eed1291d86692dd3 |
-| 1892 | WWE 2K18 | [010009800203E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010009800203E000) | deee18d307c81634 |
-| 1893 | X-Morph: Defense | [0100DF100B97C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DF100B97C000) | b0d911bc4c9a3760 |
-| 1894 | Xeno Crisis | [010013F009B88000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010013F009B88000) | 2ad00f3d29d8674f |
-| 1895 | Xenoblade 2 | [0100F3400332C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F3400332C000) | e3938fa78579c1ca |
-| 1896 | Xenoblade Chronicles 2 | [0100E95004038000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E95004038000) | 6d34a75dbb68d4fb, d007651bc7c6a51e, e3938fa78579c1ca, f77f1559371c0ec6 |
-| 1897 | Xenoblade Chronicles 2: Torna - The Golden Country | [0100C9F009F7A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C9F009F7A000) | 56246a89466a791b, 72419a1325ae47de |
-| 1898 | Xenoblade Chronicles 3 [Rev 1.0.0] | [010074F013262000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010074F013262000) | 03ee3dbac10cacb8, 16f4915df864674d, 60887a25b6652991 |
-| 1899 | Xenoblade Chronicles™: Definitive Edition | [0100FF500E34A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF500E34A000) | 1ec9082cb52ecaf5, 2e071b4562d6656b, 92c78bb3dcbbc3f7 |
-| 1900 | Xeodrifter | [01005B5009364000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005B5009364000) | 77fa306cc9cc4ebc |
-| 1901 | XEODRIFTER(ゼオドリフター) | [0100CD500B2C6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CD500B2C6000) | 27762205ff419c14 |
-| 1902 | XIII | [01006CA00E9FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006CA00E9FA000) | 643e6d877544b598 |
-| 1903 | XPOSED SWITCHED | [01001D5019BFA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001D5019BFA000) | b3d9968a24489c72 |
-| 1904 | Yaga | [01006FB00DB02000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006FB00DB02000) | 898cb70f55c96045 |
-| 1905 | Yes, Your Grace | [01006040110AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006040110AE000) | 34595d4a89892b43, dd0b39252695d247 |
-| 1906 | YesterMorrow | [010076B0101A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076B0101A0000) | bd98f25704ec9447 |
-| 1907 | Yet Another Zombie Defense HD | [010085500B29A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010085500B29A000) | 8e0f8d1ab9a89843 |
-| 1908 | Yo-Kai Watch 1 for Nintendo Switch | [0100C0000CEEA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C0000CEEA000) | aa45748622cf57c8, b52dfbc326b26e60 |
-| 1909 | Yo-kai Watch 4: Bokura wa Onaji Sora o Miageteiru | [010086C00AF7C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010086C00AF7C000) | 042a9d9eebc14b3c, 0d5772548b8e6d08, 20fd1a80a9c3985d, 6d79fe2d5451b8c6, 91dd8da34fc975fd, 93706fd3b59f1513, 994c5fa1497445ff, c65b6c18d3de5189, c7dab27f22acd2ed, dcfccd795d18f3f9, f014c53d501d35cf |
-| 1910 | Yomawari: The Long Night Collection | [010012F00B6F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010012F00B6F2000) | 345f918e2934551a |
-| 1911 | Yomi O Saku Hana [Rev 1.00] | [0100E640118C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E640118C4000) | 9b2d93106cb1df4a |
-| 1912 | Yono and the Celestial Elephants | [0100BE50042F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE50042F6000) | 500019a77d76c142 |
-| 1913 | Yooka-Laylee | [0100F110029C8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F110029C8000) | 743c88f0f1c33dbb |
-| 1914 | Yooka-Laylee and the Impossible Lair | [010022F00DA66000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022F00DA66000) | 8432cec51f882448, cb788aa9e4e02d49, ea84f555e2d0bc41 |
-| 1915 | Yoshi's Crafted World™ Demo | [0100AE800C9C6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AE800C9C6000) | 6e114d3262f05290, 7253a3bbe715d092 |
-| 1916 | Yoshis Crafted World | [01006000040C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006000040C2000) | 44ae9fd12897c702, 7253a3bbe715d092 |
-| 1917 | Youtubers Life 2 | [01004DE013EDE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004DE013EDE000) | 013dc955b6c145cd |
-| 1918 | Youtubers Life OMG Edition | [01002C9005F36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C9005F36000) | 3bd313a3e57dd24c |
-| 1919 | Ys IX: Monstrum Nox [Rev 1.0.0] | [0100E390124D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E390124D8000) | 2b2967745a4c4098 |
-| 1920 | Ys Origin | [0100F90010882000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F90010882000) | 11c2b5b0961cd855, 31fc374be830f17e |
-| 1921 | Ys VIII: Lacrimosa of DANA | [01007F200B0C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007F200B0C0000) | 351694385b22760d |
-| 1922 | Yu-Gi-Oh! Legacy of The Duelist: Link Evolution | [010022400BE5A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022400BE5A000) | cdc49702ee3df923, ef8ee6ded15ec7fa |
-| 1923 | Yu-Gi-Oh! RUSH DUEL: Dawn of the Battle Royale!! | [0100261015BE2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100261015BE2000) | 196af69487acb540, 53a19549706ec741 |
-| 1924 | Yu-Gi-Oh! Rush Duel: Saikyou Battle Royale!! [Rev 1.0.0] | [01003C101454A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003C101454A000) | af7cf48b21607841 |
-| 1925 | YUMENIKKI -DREAM DIARY- | [0100D6B00CD88000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D6B00CD88000) | 75541916aab21c49 |
-| 1926 | Zelda Musou: Hyrule All Stars DX | [01002AB007FD2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002AB007FD2000) | 00c2155000000000, 3f8ffad9352a760a, 6da232f1929a838e |
-| 1927 | Zengeon [Rev 1.61] | [0100057011E50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100057011E50000) | 11ac5288ea1bb24e |
-| 1928 | Zenith | [0100AAC00E692000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AAC00E692000) | d7e8f09623a6e544 |
-| 1929 | Zero Strain | [01004B001058C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B001058C000) | f3d71b69aae71376 |
-| 1930 | Zero: Tsukihami no Kamen [Rev 1.0.0] | [010064C0190F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010064C0190F8000) | 20c4515f374fd10d |
-| 1931 | ZIC: Zombies in City | [010049E017598000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049E017598000) | ae9b62ebe7664970 |
-| 1932 | Zoids Wild: Blast Unleashed [Rev 1.0.0] | [010069C0123D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010069C0123D8000) | f894caf55083a245 |
-| 1933 | Zoids Wild: King of Blast | [0100E43009320000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E43009320000) | bcc92811606bd64f |
-| 1934 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C7300EEE4000) | 54211726d36a8d9c |
-| 1935 | Zombie Army Trilogy | [010025B0106D4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010025B0106D4000) | 2af552cc09e0b42d |
-| 1936 | Zombie Blast Crew | [0100B610138F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B610138F8000) | 91999509bd032341 |
-| 1937 | Zombie's Cool | [01001740116EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001740116EC000) | 4c7871760fa6a44c |
-| 1938 | Zombieland: Double Tap - Road Trip | [0100E5800D32C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5800D32C000) | b55b6dbc68eca640, eca39ad294492a40 |
-| 1939 | Zombo Buster Advance | [0100BC5014D68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BC5014D68000) | 6ec8acb10d0ca14f |
-| 1940 | ことばのパズル　もじぴったんアンコール | [01006B900F436000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006B900F436000) | 32dcacd4d7dc1c48 |
-| 1941 | アイスクリームサーファー | [010014200BD02000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014200BD02000) | 266ceb07b8a88f4b |
-| 1942 | ガンズゴア＆カノーリ２ | [010056200B46A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010056200B46A000) | e05627b3d675904e |
-| 1943 | クエストオブダンジョンズ | [0100CBA005160000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CBA005160000) | 4ab92853f8551341 |
-| 1944 | グノーシア | [0100E48010F52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E48010F52000) | c22b26791e9066a9 |
-| 1945 | スチームワールドクエスト | [01000AA00E4DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000AA00E4DC000) | d1e6ea9384c3674b |
-| 1946 | スチームワールドディグ２ | [01004120081AC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004120081AC000) | a6a50d6081b0c317 |
-| 1947 | デーモンクリスタル | [0100A1400C9D6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A1400C9D6000) | 46efcae09e6c9747 |
-| 1948 | デーモンクリスタル２　ナイザー | [010090300D9F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010090300D9F8000) | 4f806f1a4ae09a4a |
-| 1949 | ドラゴンクエスト | [0100A5500E488000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A5500E488000) | f3845d78427cb893 |
-| 1950 | ドラゴンクエストⅡ　悪霊の神々 | [0100B1900E48E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1900E48E000) | d84098833bf007c6 |
-| 1951 | ドラゴンクエストⅢ　そして伝説へ… | [01002A800E490000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002A800E490000) | dc72232650d79885 |
-| 1952 | ノーリロードヒーローズ | [0100D730105B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D730105B6000) | f8697f92bf87db49 |
-| 1953 | バトル オブ エレメンタル BURST | [0100F9E00ED30000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F9E00ED30000) | c5c3a5df6275b3cd |
-| 1954 | モンスターファーム | [0100E9900ED74000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E9900ED74000) | b5e50e20dea65d80 |
-| 1955 | ロマンシング サガ2 | [01002A1004B34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002A1004B34000) | 16d2c9fdc70e9d41 |
-| 1956 | 中華大仙 | [0100DDD00B684000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DDD00B684000) | 37bab4d99968f748 |
-| 1957 | 戦国キャノン for Nintendo Switch | [0100C0E008340000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C0E008340000) | 498f36f55a42e1bf |
-| 1958 | 東方スペルバブル | [0100E9D00D6C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E9D00D6C2000) | 9a5b6a581dfe374c |
-| 1959 | 滅やばたにえん | [0100074010F1C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100074010F1C000) | 47b04792d093604e |
-| 1960 | 牧場物語 重聚礦石鎮 | [0100C2D00EBD4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C2D00EBD4000) | 1f27449539e34189, 3353df7acba29330, 74b04562d41e3c1e, 865096b06ff9b91a |
-| 1961 | 马力欧卡丁车8 豪华版 | [010075100E8EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075100E8EC000) | c2fd606ddedaaa8b |
-| 1962 | 鷹の爪VSハエの羽団 | [01003D100EAF4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D100EAF4000) | 56b2e6241792d94e |
-| 1963 | ＮＡＲＵＴＯ－ナルト－ 疾風伝　ナルティメットストーム４ ROAD TO BORUTO | [01003F800CF5C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003F800CF5C000) | 6535310591f44da1, c6d310a3669a5742 |
-| 1964 | 01000698009c6e00 | [01000698009C6E00](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000698009C6E00) | 70c806f458d36843 |
-| 1965 | 0100195015ac6001 | [0100195015AC6001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100195015AC6001) | 98f71cdd354e7a63 |
-| 1966 | 01001f7012e66000 | [01001F7012E66000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001F7012E66000) | 16c46473eeab2746 |
-| 1967 | 01001fa01451c001 | [01001FA01451C001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001FA01451C001) | 9894331947eacc47 |
-| 1968 | 01001fa01451c002 | [01001FA01451C002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001FA01451C002) | ca075eb0db8bbf91 |
-| 1969 | 01001fd01856a000 | [01001FD01856A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001FD01856A000) | 532be034445e2020 |
-| 1970 | 01002130150a2000 | [01002130150A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002130150A2000) | 27efbb8fa331c148 |
-| 1971 | 01002390154c6000 | [01002390154C6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002390154C6000) | 690f8cc19cfc6d25 |
-| 1972 | 0100275011e54000 | [0100275011E54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100275011E54000) | 360df0107795cb40 |
-| 1973 | 01002a0012a0a000 | [01002A0012A0A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002A0012A0A000) | 53938bcea352ec42, a0b9997a5d7ca848 |
-| 1974 | 01003b90136da000 | [01003B90136DA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003B90136DA000) | 1f936e043fb8c349 |
-| 1975 | 01003d60131de000 | [01003D60131DE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D60131DE000) | 5d37985ffd683d9a, aa9f5136791936a7 |
-| 1976 | 010040f011de4001 | [010040F011DE4001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040F011DE4001) | 94f8f5db3d8e0a47 |
-| 1977 | 010040f011de4002 | [010040F011DE4002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040F011DE4002) | fbb667b7d6bfa041 |
-| 1978 | 0100414d32524e00 | [0100414D32524E00](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100414D32524E00) | f5f97f2d8a78f237 |
-| 1979 | 010042501329e000 | [010042501329E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042501329E000) | 119c804970c52cd2 |
-| 1980 | 010042800A51600 | [010042800A51600](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042800A51600) | 742f9d7917f6bb4c |
-| 1981 | 010047e010b3e550 | [010047E010B3E550](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010047E010B3E550) | 404c24b13d16da49 |
-| 1982 | 010049900f546001 | [010049900F546001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049900F546001) | 9d00360ea7ceac4e |
-| 1983 | 010049900f546002 | [010049900F546002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049900F546002) | 64000c752a890efb, b21e3733e11d6fcf, ed0d7ace84eec780 |
-| 1984 | 010049900f546003 | [010049900F546003](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049900F546003) | 15fded0d90ef5d72, a638857e6df584ff, ff44f58218c6a6b2 |
-| 1985 | 01004bd012500000 | [01004BD012500000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004BD012500000) | 52b74c9f694cc45f |
-| 1986 | 01004c5018bc4000 | [01004C5018BC4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004C5018BC4000) | c0bfb0cc5aa5ea3b |
-| 1987 | 010051d010fc2000 | [010051D010FC2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010051D010FC2000) | 3ecc0a9fb0b72ca3, 640d046f7294bbe9, a7a7f29b0366d99c |
-| 1988 | 0100571018a70000 | [0100571018A70000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100571018A70000) | 336cbe521ebb4a4a |
-| 1989 | 01005ab015994000 | [01005AB015994000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005AB015994000) | 6f1bee519cdf2b7c |
-| 1990 | 010062300e0d4000 | [010062300E0D4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010062300E0D4000) | a156cd049516bb48 |
-| 1991 | 010068d0191b6000 | [010068D0191B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010068D0191B6000) | 864a25ad21856649 |
-| 1992 | 0100696014f4a000 | [0100696014F4A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100696014F4A000) | dc27156b7ab58d31, eb526f5a41621d69 |
-| 1993 | 0100718017572000 | [0100718017572000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100718017572000) | e1c15d1cf76064a6 |
-| 1994 | 010072400e06a000 | [010072400E06A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072400E06A000) | 7ac8cbfa0d59a04c |
-| 1995 | 01007550129b2000 | [01007550129B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007550129B2000) | 541ec1d423bc2d40 |
-| 1996 | 010076b01196c000 | [010076B01196C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076B01196C000) | fa302ad3e2cca94b |
-| 1997 | 01007af011732000 | [01007AF011732000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007AF011732000) | fcb101343c2e1845 |
-| 1998 | 0100829018568000 | [0100829018568000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100829018568000) | e906334b0ec8fb3f |
-| 1999 | 0100877008162000 | [0100877008162000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100877008162000) | 351694385b22760d |
-| 2000 | 01008F000908000 | [01008F000908000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008F000908000) | 0508130c213d6d7e |
-| 2001 | 01009120119b4001 | [01009120119B4001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009120119B4001) | 7f8e71143a9b0813 |
-| 2002 | 01009120119b4002 | [01009120119B4002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009120119B4002) | a662532e2d1410dd |
-| 2003 | 010091201605a000 | [010091201605A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010091201605A000) | 3c5f1e198a79fba2, d9ba7db72ffafecd |
-| 2004 | 0100938010df0000 | [0100938010DF0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100938010DF0000) | 95c0fe19e496ba23 |
-| 2005 | 010093a01305c000 | [010093A01305C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010093A01305C000) | 2d10be721f63e813, d95baaadde3908ef |
-| 2006 | 0100956016464000 | [0100956016464000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100956016464000) | 8fb0c2d2a6730d26 |
-| 2007 | 0100a2c01320e000 | [0100A2C01320E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A2C01320E000) | 3575af17fabcb399 |
-| 2008 | 0100a58012268000 | [0100A58012268000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A58012268000) | 95f978b38ed9b44d |
-| 2009 | 0100a8b014930000 | [0100A8B014930000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A8B014930000) | e26a54f785a76ee7 |
-| 2010 | 0100aa00128ba001 | [0100AA00128BA001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AA00128BA001) | 1765890577923cd4 |
-| 2011 | 0100af400dfa4000 | [0100AF400DFA4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AF400DFA4000) | f47c51db0ee9f98a |
-| 2012 | 0100b28014132800 | [0100B28014132800](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B28014132800) | 60b4e42155e07989, aea6b2652ea9e34b |
-| 2013 | 0100b3a017864000 | [0100B3A017864000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B3A017864000) | 28663c90b7402063 |
-| 2014 | 0100b8e016f76000 | [0100B8E016F76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B8E016F76000) | 992787e2b5425994 |
-| 2015 | 0100bba015e8e001 | [0100BBA015E8E001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BBA015E8E001) | 37e3e08157f6df03, 552fc82b89f7fc98 |
-| 2016 | 0100bef013050000 | [0100BEF013050000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BEF013050000) | dede62934d90ed75 |
-| 2017 | 0100c1f0141aa000 | [0100C1F0141AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C1F0141AA000) | 7ab40e8a9691c2c3, 8c4ec67060489192 |
-| 2018 | 0100c5a013b7a800 | [0100C5A013B7A800](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C5A013B7A800) | 719be27194d137df |
-| 2019 | 0100cbf0115f2001 | [0100CBF0115F2001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CBF0115F2001) | f4dec1d076552e4b |
-| 2020 | 0100cbf0115f2002 | [0100CBF0115F2002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CBF0115F2002) | c0a75cfe9b9b814a |
-| 2021 | 0100cee0140ce000 | [0100CEE0140CE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CEE0140CE000) | 17cef19e3899e814, 4b9f056d355024cc |
-| 2022 | 0100d16019902000 | [0100D16019902000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D16019902000) | fdfa9a52dfa8d915 |
-| 2023 | 0100d3a0181ca000 | [0100D3A0181CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D3A0181CA000) | 8e5855070d8ed018 |
-| 2024 | 0100ddb015cda000 | [0100DDB015CDA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DDB015CDA000) | de8dae262124a8b8 |
-| 2025 | 0100e2e0152e4000 | [0100E2E0152E4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E2E0152E4000) | 5ae4d13f04ca6ab3 |
-| 2026 | 0100e2f014f46000 | [0100E2F014F46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E2F014F46000) | 73c01d12ec628195, 7aeabb797c931714 |
-| 2027 | 0100fd70134fa000 | [0100FD70134FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FD70134FA000) | 155b66a148bfbfbb |
-| 2028 | 0535DC453AB50000 | [0535DC453AB50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0535DC453AB50000) | 0000000000000000 |
-| 2029 | 054507E0B7552000 | [054507E0B7552000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/054507E0B7552000) | 0000000000000000, 4a7114c9560237cb, 5c0cbfefda841930, b5e8bf1fe6465e7e, d326058041b7f4dc, def702cdac4994ef |
-| 2030 | 05BE1C0259DE0000 | [05BE1C0259DE0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/05BE1C0259DE0000) | 56e7b8f33024d194 |
-| 2031 | 05C992BE824A0000 | [05C992BE824A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/05C992BE824A0000) | 0000000000000000, 0000000000000001 |
-| 2032 | 1000B700EC22000 | [1000B700EC22000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/1000B700EC22000) | dcad50aef4e03c48 |
-| 2033 | 1005c9002b42000 | [1005C9002B42000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/1005C9002B42000) | e7c1eca56d362ef6 |
-| 2034 | 207231A04B2F3744 | [207231A04B2F3744](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/207231A04B2F3744) | 250ce7c4a4de1940 |
-| 2035 | 360df0107795cb40 | [360DF0107795CB40](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/360DF0107795CB40) | 360df0107795cb40 |
+| 855 | Immortals Fenyx Rising [Rev 1.0.0] | [01004A600EC0A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A600EC0A000) | 0011956ab1854781, 305a12dd6b139a0a, 46b9082762ac86de, 70f3f6751d73c644, 7667839b25e6b6eb, 89b1333eac986eda, b20264c1f11968bc, cade195fe9f14b2a, fdbd4273618f7207 |
+| 856 | Imp of the Sun | [01003C4016B12000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003C4016B12000) | 01a402f1f5e95ae1 |
+| 857 | IMPLOSION | [0100737003190000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100737003190000) | 1967a586ca3f9594 |
+| 858 | In Sound Mind [Rev 1.0] | [01006DF014682000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006DF014682000) | 437d1636aa93d390 |
+| 859 | Indivisible | [01001D3003FDE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001D3003FDE000) | 76891617fe876b5f |
+| 860 | Inexistence Rebirth | [010001D014348000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010001D014348000) | 8e1251e46a5bcaaa |
+| 861 | Infinite - Beyond the Mind | [010085D0101A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010085D0101A4000) | e2962af45de03f8c |
+| 862 | Infinite Tanks WWII | [010057101473A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010057101473A000) | fed199fe706ff17d |
+| 863 | INMOST | [0100F1401161E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F1401161E000) | 749be2421442084d |
+| 864 | Inscryption | [010027F017B12000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027F017B12000) | 25dde567a0816046 |
+| 865 | Inside Grass: A little adventure | [0100EC7012D34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC7012D34000) | 82621f7ea403de49 |
+| 866 | Into the Dead 2 | [01000F700DECE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000F700DECE000) | 5da7219e9c868b40, 6c2e85a41eb3fb4a |
+| 867 | Intrepid Izzy | [0100897019402000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100897019402000) | 4a242ed7f31db4f6 |
+| 868 | Inukari - Chase of Deception | [010082301754C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082301754C000) | e19678e5f9e6d466 |
+| 869 | Ion Fury | [010041C00D086000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010041C00D086000) | 2774b972a2adff45, 9d2efcf198f2247f, ab507fa827afff86, e3f099c642642dd2 |
+| 870 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth Infinite Combate | [010063E0104BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010063E0104BE000) | bf4a86cc45871342 |
+| 871 | Is It Wrong to Try to Pick Up Girls in a Dungeon?: Infinite Combate [Rev 1.0.0] | [010082200EE6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082200EE6A000) | 204512ddc12f5247 |
+| 872 | Island Saver | [0100A2600FCA0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A2600FCA0000) | 5deb62b4085e8b45 |
+| 873 | Isolation Story | [0100924013162000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100924013162000) | ac81f731198bba41 |
+| 874 | It came from space and ate our brains | [01002E501015A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002E501015A000) | 01002e501015a000, b3946e23d25c5b4c |
+| 875 | Itorah | [01003B7018446000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003B7018446000) | 9e13cd2da8cfcf47 |
+| 876 | Ittle Dew | [01005070088E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005070088E0000) | 3040b326c1e01843 |
+| 877 | Ittle Dew 2+ | [01004070022F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004070022F0000) | b375f9c4583e074b, fbb317949968ac41 |
+| 878 | Jack 'n' Hat | [0100CF001426A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CF001426A000) | bfbca454bdc81c38 |
+| 879 | Jack Axe | [0100EF500EF42000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EF500EF42000) | baa6db7690e723bc |
+| 880 | JackQuest: The Tale of the Sword | [0100C80009ABE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C80009ABE000) | 3749bfea64dc98df |
+| 881 | Jay and Silent Bob: Mall Brawl | [0100CD1010740000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CD1010740000) | 9fa43604f9ee9343, f79075633c5b7b40 |
+| 882 | Jet Kave Adventure | [0100E4900D266000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4900D266000) | 55ee3667931f2a4e |
+| 883 | Jet Set Knights | [01005C1012C22000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005C1012C22000) | 166ccc3f97efe368, 699fab245432f155 |
+| 884 | Jets'n'Guns | [010026200FF36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026200FF36000) | 49b81bb7a4a30917 |
+| 885 | Jets'n'Guns 2 | [01000BF012920000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000BF012920000) | ff756020d95b3ec5 |
+| 886 | Jikkyo Powerful Pro Yakyu | [0100E9C00BF28000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E9C00BF28000) | 859a3a3d296d44e8 |
+| 887 | Joe Devers Lone Wolf | [0100D49008748000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D49008748000) | 838e2d7bb425994d |
+| 888 | John Wick Hex | [01007090104EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007090104EC000) | 925f0e0d520e8a4e |
+| 889 | Johnny Turbo's Arcade: Fighter's History | [0100B3F00B9F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B3F00B9F2000) | 64b19fa91081374f |
+| 890 | Johnny Turbo's Arcade: Night Slashers | [0100F7300C90E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F7300C90E000) | 64b19fa91081374f |
+| 891 | Johnny Turbos Arcade Caveman Ninja | [0100355002CBE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100355002CBE000) | 980fb826274c0947 |
+| 892 | Johnny Turbos Arcade Two Crude | [010080D002CC6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010080D002CC6000) | a08736d63a033846 |
+| 893 | Jotun: Valhalla Edition | [0100340009736000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100340009736000) | 6593d6d07b08024b |
+| 894 | Journey of the Broken Circle | [0100251012E38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100251012E38000) | a83041c29cc30a41 |
+| 895 | Juiced! | [0100F7C012D68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F7C012D68000) | 7af131133cec43fb |
+| 896 | Juicy Realm | [0100C7600F654000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C7600F654000) | 1cc0f472aaa0cb44, 5eb90226e5a2aa45, 9040949bee1a224b, c72372c4bd3f9e47, cd13d3722e4ea24a |
+| 897 | Jumanji: The Video Game | [0100B4D00C76E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B4D00C76E000) | 54e9c7460334eeb4 |
+| 898 | JUMP FORCE: Deluxe Edition [Rev 1.00] | [01008CD01187E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008CD01187E000) | abba41088700b6de, e33e6767e0d727fa |
+| 899 | JUMP FORCE: Deluxe Edition [Rev 1.00] | [0100183010F12000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100183010F12000) | d637d1dcff836cb2, f5ae4f045dda9e45 |
+| 900 | Junk Jack | [010043901005A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010043901005A000) | d06812e9f4d77318 |
+| 901 | Jurassic World Evolution: Complete Edition | [010050A011344000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010050A011344000) | b0708a7be9d178d9, b4508f122c4e512e |
+| 902 | Just Dance 2018 | [0100A0500348A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A0500348A000) | 448e0f0e1c1cbade |
+| 903 | Just Dance 2019 | [010075600AE96000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075600AE96000) | 48bcb6087dca2090 |
+| 904 | Just Dance 2021 [Rev 317118.553751] | [0100BF9011B52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BF9011B52000) | 7b64dba6fff3b5dd |
+| 905 | Just Dance® 2020 | [0100DDB00DB38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DDB00DB38000) | 6674d85b7a37a96f |
+| 906 | JYDGE | [010035A0044E8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010035A0044E8000) | 8728efbc0732aa2f |
+| 907 | Kairobotica | [0100D5F00EC52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D5F00EC52000) | f9284cc26fc6564f |
+| 908 | KAMEN RIDER CLIMAX SCRAMBLE | [0100BDC00A664000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BDC00A664000) | b807bdb67dca9648 |
+| 909 | Kamen Rider: Memory Of Heroez (Premium Sound Edition) [Rev 1.0.0] | [0100A9801180E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A9801180E000) | 3ddc1e43a0c36d40, 912318946167dc48 |
+| 910 | Kamen Rider: Memory Of Heroez [Rev 1.0.0] | [010060F00EE92000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010060F00EE92000) | 87e3f1492d37734d |
+| 911 | KAMIKO | [010085300314E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010085300314E000) | 20c625ac27190391 |
+| 912 | Kangokuto Mary Skelter 2 for Nintendo Switch | [0100C3500D956000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C3500D956000) | b1fc6fb94ece1df1, b2c87992da9ce1e8 |
+| 913 | Kangokuto Mary Skelter Finale [Rev 1.0.0] | [010042C011736000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042C011736000) | 9b44e06034d7bba0 |
+| 914 | Karma Knight | [01005300128E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005300128E2000) | 6fc0bc9f5e5fe749 |
+| 915 | Katana Kami: A Way Of The Samurai Story [Rev 1.0.0] | [0100F6A00E31E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F6A00E31E000) | 8b562b57837a3d48 |
+| 916 | Katana ZERO | [010029600D56A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010029600D56A000) | 158a7f586431982e |
+| 917 | KAUIL’S TREASURE | [010028F013358000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010028F013358000) | e055f38d30be4f42 |
+| 918 | Kaze and the Wild Masks | [010038B00F142000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038B00F142000) | 3f1e5c8189629f4f, 7a1598fa5877f246 |
+| 919 | Keen: One Girl Army | [0100D7C01115E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D7C01115E000) | 5a95eb5631c22043 |
+| 920 | KEMCO RPG Select Vol. 1 [Rev 1.0.1] | [010042800A516000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042800A516000) | 742f9d7917f6bb4c |
+| 921 | Kemono Heroes | [0100B61010272000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B61010272000) | 903196324d35db4e |
+| 922 | KeroBlaster | [0100DA200A09A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA200A09A000) | 9a9b1a4513a3576b |
+| 923 | KILL la KILL -IF | [0100FB400D832000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FB400D832000) | 1131b24a070766c3 |
+| 924 | King Lucas | [0100E6B00FFBA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E6B00FFBA000) | ea5ba579f77a014a |
+| 925 | King of Seas | [01008D80148C8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D80148C8000) | 2c9aa9a24c5e389c |
+| 926 | King's Bounty II | [010026F013B3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026F013B3A000) | 36d4dfb5da75b787, ebc2fa4a226e0774 |
+| 927 | Kingdom Hearts: Melody of Memories [Rev 1.01] | [0100B42011EF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B42011EF6000) | cc7695a3d8342841 |
+| 928 | Kingdom Hearts: Melody of Memories [Rev 1.01] | [0100C6000E71E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C6000E71E000) | 62488500f7894744 |
+| 929 | Kingdom Hearts: Melody of Memories [Rev 1.01] | [01005D2011EA8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005D2011EA8000) | 0f878e7cfccbe14c, 5c549b9bf83f254f, c7cf8f4fd4f19648 |
+| 930 | Kingdom of Arcadia | [0100B4E012CAC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B4E012CAC000) | bebdf967daeefc6a |
+| 931 | Kingdom Rush Frontiers | [010046200FC62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010046200FC62000) | b1c0e2f9dbf2adfb |
+| 932 | Kingdom Two Crowns | [01005EF003FF2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005EF003FF2000) | f2da1e131cd72241 |
+| 933 | Kingdom: New Lands | [0100BD9004AB6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD9004AB6000) | 871a5f971b929d4e |
+| 934 | Kingdoms of Amalur: Re-Reckoning [Rev 1.0.0] | [0100EF50132BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EF50132BE000) | 5b3112fd2c83e1ac, 816bfb8a2f5b5916 |
+| 935 | Kirby Fighters™ 2 | [0100227010460000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100227010460000) | 738ae024b3aecb69 |
+| 936 | Kirby Star Allies | [01007E3006DDA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007E3006DDA000) | d55608916fa56c18 |
+| 937 | Kitaria Fables [Rev 1.0.0] | [0100F30013BFC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F30013BFC000) | 2b7c360d075f7544 |
+| 938 | Knight Terrors | [0100D51006AAC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D51006AAC000) | 48e19a79bd94264c |
+| 939 | Knightin'+ | [01005F8010D98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005F8010D98000) | e1f19426d584d567 |
+| 940 | Kono Subarashii Sekai ni Shukufuku o Kibo no Meikyu to Tsudoishi Bokensha-tachi Plus [Rev 1.0.0] | [01004920105FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004920105FC000) | d1cbd97f27390104 |
+| 941 | Kotodama: The 7 Mysteries of Fujisawa | [010046600CCA4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010046600CCA4000) | 1ac1dd4498520448 |
+| 942 | Koumajou Remilia: Scarlet Symphony | [0100532015746000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100532015746000) | 887ec8c9a74c314f |
+| 943 | Krut: The Mythic Wings | [0100E4F016262000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4F016262000) | 93fba1f3beb581cd |
+| 944 | Kukoos: Lost Pets | [01000AF019464000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000AF019464000) | f6e93f2192062a44 |
+| 945 | KUNAI | [010035A00DF62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010035A00DF62000) | d0be93d85d02c64e |
+| 946 | Kwaidan ～Azuma manor story～ | [0100894011F62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100894011F62000) | 8a6ee4f53fca3c44 |
+| 947 | L.O.L. Surprise! Remix: We Rule The World [Rev 1.0.2] | [0100F2B0123AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2B0123AE000) | 821623d5241ab14b |
+| 948 | LA MULANA 1 | [0100E5D00F4AE001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5D00F4AE001) | 546537ede7d31355 |
+| 949 | LA MULANA 2 | [0100E5D00F4AE002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5D00F4AE002) | a73e8bf6d692314a |
+| 950 | LA-MULANA | [010026000F662000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026000F662000) | 5160d10088bb2289 |
+| 951 | LA-MULANA 2 | [010038000F644000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038000F644000) | 582b12ea6fc34845 |
+| 952 | LA-MULANA 2 | [01005E000D3D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005E000D3D8000) | c22c6b213d9f9c40 |
+| 953 | Labyrinth of Galleria: The Moon Society | [0100001017216000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100001017216000) | 5b8a84d880998114 |
+| 954 | Labyrinth of Refrain: Coven of Dusk | [010058500B3E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010058500B3E0000) | a70b9eb509780b4a |
+| 955 | Labyrinth of the Witch | [010022D0089AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022D0089AE000) | 5fc92359462fad47 |
+| 956 | Lair of the Clockwork God | [01008280119B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008280119B2000) | a438aaa96812fe44 |
+| 957 | Landflix Odyssey | [0100BE3013A38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE3013A38000) | c55df60aebbb4eae |
+| 958 | Langrisser I and II [Rev 1.0.0] | [0100BAB00E8C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BAB00E8C0000) | 06b9d4461dc8a442 |
+| 959 | Lapis x Labyrinth | [010059500D070000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010059500D070000) | 7aa99f168bbe05de |
+| 960 | Last Command | [010022F01A016000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022F01A016000) | c27de8222584f64f |
+| 961 | Last Fight [Rev 1.0.1] | [01009E100BDD6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009E100BDD6000) | 184cd27602cef34d |
+| 962 | Laytons Mystery Journey: Katrielle and the Millionaires Conspiracy [Deluxe Edition] | [0100CE500D226000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CE500D226000) | 6e3697980fb82e82 |
+| 963 | Legend of Kay Anniversary | [01002DB007A96000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002DB007A96000) | 45396fcb2433872f |
+| 964 | Legend of Keepers: Career of a Dungeon Manager | [0100C67015076000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C67015076000) | 29cca88a99029547 |
+| 965 | Legend of Mana | [01003570130E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003570130E2000) | 8af5434b6dbb81cc |
+| 966 | Legend of the Skyfish | [0100ECC00EF3C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ECC00EF3C000) | eb415b6b0545b744 |
+| 967 | Legend of the Tetrarchs | [01007E900DFB6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007E900DFB6000) | 4c1d271b7b598d41 |
+| 968 | Legends of Ethernal | [01008EE012CD4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008EE012CD4000) | 6426eb51f081aa45 |
+| 969 | LEGO City: Undercover | [01003A30012C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003A30012C0000) | 669f6e70c268f748 |
+| 970 | LEGO City: Undercover | [010085500130A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010085500130A000) | 2aa90ecc2a24da46, 7b021c62485d604c |
+| 971 | LEGO Harry Potter Collection | [010052A00B5D2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010052A00B5D2000) | 01c46c3e39c5370f |
+| 972 | LEGO Jurassic World | [01001C100E772000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C100E772000) | 1b80403be8882745 |
+| 973 | LEGO Marvel Super Heroes | [01006F600FFC8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006F600FFC8000) | 5d769abcad9f2743 |
+| 974 | LEGO Marvel Super Heroes 2 | [01007690040A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007690040A0000) | e21eae8cb8581043 |
+| 975 | LEGO Marvel Super Heroes 2 | [0100D3A00409E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D3A00409E000) | 20cd49f2ba64744d |
+| 976 | Lego Star Wars: The Skywalker Saga [Rev 1.0.0] | [010042D00D900000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042D00D900000) | fd65326219ec426c |
+| 977 | LEGO The Incredibles | [0100F19006E04000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F19006E04000) | 414d247f3fd8084e |
+| 978 | LEGO The Incredibles | [0100A01006E00000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A01006E00000) | 2103782a9ae5384e |
+| 979 | LEGO® DC Super-Villains | [010070D009EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010070D009EC000) | 711c52fc37606d45 |
+| 980 | LEGRAND LEGACY: Tale of the Fatebounds | [0100E7500BF84000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E7500BF84000) | ec34fb71507c2b42 |
+| 981 | Lethal League Blaze | [01003AB00983C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003AB00983C000) | 6cbb3b19c992634f |
+| 982 | Letter Quest Remastered | [01008C300648E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008C300648E000) | f94d4262f0311e4d |
+| 983 | Liege Dragon | [010041F0128AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010041F0128AE000) | 68485fb688541b47 |
+| 984 | Life is Strange 2 | [0100FD101186C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FD101186C000) | bf0088c59d7e97c0 |
+| 985 | Light Fairytale Episode 1 | [0100558017FD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100558017FD8000) | fbd60e9240c3f26d |
+| 986 | Light Fall | [010030A006F6E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010030A006F6E000) | d4801982fd785f42 |
+| 987 | Lila's Sky Ark | [01006C3017146000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C3017146000) | ddd922368815845e |
+| 988 | Little Big Workshop | [0100F6B01188E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F6B01188E000) | 9b7a1e12c165644e |
+| 989 | Little Inferno | [0100B18001D8E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B18001D8E000) | 4e1af3b11a41f81c |
+| 990 | Little Nightmares II | [010097100EDD6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010097100EDD6000) | 73ace23d9e196304 |
+| 991 | Little Noah: Scion of Paradise | [0100535014D76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100535014D76000) | 289f756d51ea8a9e, 99b1cd48c88835f6 |
+| 992 | Little Triangle | [01000690085BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000690085BE000) | 992d2df3ec0d134a |
+| 993 | Little Witch Nobeta [Rev 1.0.4] | [01005FA019DC8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005FA019DC8000) | aa429d4dc7181c96 |
+| 994 | Lone Ruin | [0100B6D016EE6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B6D016EE6000) | 5166d09c4fd1825d |
+| 995 | Lonely Mountains: Downhill | [0100A0C00E0DE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A0C00E0DE000) | 2ec4d1b667108246 |
+| 996 | Loot Hero DX | [010077E013D60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010077E013D60000) | fefe79a36161f553 |
+| 997 | Lost Castle | [0100581007068000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100581007068000) | 83f63a18c3490647 |
+| 998 | Lost in Random™ | [01005FE01291A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005FE01291A000) | 416914c121775277 |
+| 999 | Lost Sea | [010071B00964A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010071B00964A000) | 53a7c333f5a5164e |
+| 1000 | Lost Sphear | [010077B0038B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010077B0038B2000) | 641a9243ba35c638 |
+| 1001 | Love Esquire | [0100D600129A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D600129A4000) | 18974dfcc74e58fc |
+| 1002 | Lovecraft´s Untold Stories | [010041100CE7E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010041100CE7E000) | 06a06f7f844b3048, 39e84e8ca98f7445, 603713f56498a749 |
+| 1003 | LoveR Kiss [Rev 1.0.0] | [01007250089F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007250089F8000) | 6a508fae5ee5a625, 8529f6bd4d1ac688, eb388107c2c7630a |
+| 1004 | Lucah: Born of a Dream | [0100AAA00DD4C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AAA00DD4C000) | 03dffe48b573ca48, 504d86d833937a40 |
+| 1005 | Luigis Mansion 3 | [0100DCA0064A6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DCA0064A6000) | 075ad583a1603f84, 486f6a3b2d6bcf5c, 788dd38ad97f1d12, 79e5950ffa85acf6, a27c9ba72927796a |
+| 1006 | M.A.C.E. Space Shooter | [0100F02005D1E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F02005D1E000) | 21cc83cf5a6c67ae |
+| 1007 | M.A.C.E. Tower Defense | [010032800F038000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010032800F038000) | 9eaa0a8818ea8546 |
+| 1008 | MachiKnights -Blood bagos- | [0100F2400D434000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2400D434000) | 8eb9f6fb15b3428b |
+| 1009 | Mad Bullets | [01008F000E908000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008F000E908000) | 07cdecb2cfdb33db |
+| 1010 | Mad Tower Tycoon | [0100C5F012A3C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C5F012A3C000) | e80d3cc1c0bac34c |
+| 1011 | Magazine Mogul | [01004A200E722000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A200E722000) | 1f3961008c458b42 |
+| 1012 | Mages of Mystralia | [0100549008C9C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100549008C9C000) | 876049d0d3d7ca4a, de32b7731b63fe48 |
+| 1013 | Magic Scroll Tactics | [010013800BE2C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010013800BE2C000) | e4473ceedcc3cc4f |
+| 1014 | MagiCat | [01008E500BF62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008E500BF62000) | 833d81cc2e69914c |
+| 1015 | Maid of Sker | [01002E900CF38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002E900CF38000) | d7ef1ae60aada34a |
+| 1016 | Makai Senki Disgaea 6 [Rev 1.0.0] | [0100307011D80000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100307011D80000) | 0061513a543e48db, b766e8ad3284ab9c |
+| 1017 | Makai Senki Disgaea 7 [Rev 1.0.0] | [0100A78017BD6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A78017BD6000) | 76e70b01e849d3b5 |
+| 1018 | Makai Senki Disgaea Refine | [01000E600B05C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000E600B05C000) | 489626ae0cfbfd15 |
+| 1019 | Mana Spark | [01005A700CC3C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005A700CC3C000) | 527a6996351df24f |
+| 1020 | Maneater | [010093D00CB22000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010093D00CB22000) | 153ee73742bff405 |
+| 1021 | March to a Million | [010097500E552000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010097500E552000) | ba6922f2e506d442 |
+| 1022 | Märchen Forest [Rev 1.0.0] | [01001B2012D5E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B2012D5E000) | b07176ceb2483f4c |
+| 1023 | Mario + Rabbids Kingdom Battle | [010067300059A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010067300059A000) | 3b39e0c06b8841f1 |
+| 1024 | Mario + Rabbids: Sparks of Hope [Rev 1.0.2011220] | [0100317013770000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100317013770000) | 262444e011e629ab, 29c71f06d781eff1, e0d6e12107f2c660 |
+| 1025 | Mario Golf™: Super Rush | [0100C9C00E25C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C9C00E25C000) | 70617e8dac74382a, a7f339f38ee6b26c |
+| 1026 | Mario Kart 8 Deluxe | [0100152000022000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100152000022000) | 1cd9216a21737fb4, 381f6bf6894f3c33, 4792aba465f04534, 60c8343afba2588f, 937e57ff64d21ecd, 96dfd1769e560c27, bda8f5e6a0f87f36, fe1b230800d4933c |
+| 1027 | Mario Tennis Aces | [0100BDE00862A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BDE00862A000) | 32487e7e3d94954e, 4b9a64ded26c6e46, 88ef9ecb522d12db, 9fda2c32e8de3ebf, a85c59aedf83e5c9, a9b238505a969318, f5942324c223cd16 |
+| 1028 | Marvel Ultimate Alliance 3: The Black Order | [010060700AC50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010060700AC50000) | 066e47b7e18919a7, 5ed21fb245de6fd6, 667b85fe3416042d, bb1b99313a37497b, e853c44fdf18b88f, f5b177df07a33d38, f6a5b20e04316d19, f92c9527298b5cce |
+| 1029 | Mary Skelter 2 | [01003DE00C95E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003DE00C95E000) | 1caa05a4630e7769, b1fc6fb94ece1df1, c16e154e683d7eb8 |
+| 1030 | Masters of Anima | [0100CC7009196000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CC7009196000) | 221c5199de0ad409, b1c8b55e8d400e57 |
+| 1031 | Mato Anomalies | [01006320174AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006320174AE000) | 81d1a2e2c2bb7bf8 |
+| 1032 | Max and the book of chaos | [0100A8C011F26000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A8C011F26000) | 7a0d43680365424e |
+| 1033 | Maximus 2 | [01000FE0164AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000FE0164AA000) | 9d8382d802511043 |
+| 1034 | Mayhem Brawler | [01002C70149B4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C70149B4000) | 833b93270803234e, 9f158d0cdd74440b |
+| 1035 | Mech Rage | [0100EC000CE24000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC000CE24000) | b117cba20eb26a4f |
+| 1036 | Mechstermination Force | [0100E4600D31A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4600D31A000) | 59d3aec4b3c1f9c6 |
+| 1037 | Mega Man 11 | [0100B0C0086B0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B0C0086B0000) | 047fdd0c5af5f1c5, 3469a1b2e0fea93c |
+| 1038 | Mega Man Legacy Collection | [01002D4007AE0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002D4007AE0000) | 381ebb12fb9a8c78 |
+| 1039 | Mega Man Legacy Collection 2 | [0100842008EC4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100842008EC4000) | cde43aac8c49c618 |
+| 1040 | Mega Man X Legacy Collection | [01005C60086BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005C60086BE000) | ead37d36abd7c4c8 |
+| 1041 | Mega Man X Legacy Collection 2 | [01005250086C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005250086C4000) | ece85107b8dc81db |
+| 1042 | Mega Man Zero/ZX Legacy Collection [Rev 1.0.0] | [010025C00D410000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010025C00D410000) | 2a38895c5e732182 |
+| 1043 | Megabyte Punch | [0100FC700F942000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FC700F942000) | 74e0c0485919c342 |
+| 1044 | Meganoid | [010028101227A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010028101227A000) | 10318952dad3d9e1 |
+| 1045 | MELTY BLOOD: TYPE LUMINA | [01001E30126A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001E30126A0000) | 030e8ed4b6ecd104, 46ffd77d1647f1ae, b8030081e944e100 |
+| 1046 | Mercenaries Blaze: Dawn of the Twin Dragons | [0100A790133FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A790133FC000) | acdb9f8fa16b0f4f |
+| 1047 | Mercenaries Wings: The False Phoenix | [010094500C216000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010094500C216000) | fea1e2af77833e40 |
+| 1048 | Mercenary Kings | [0100F900046C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F900046C4000) | e19317ee3daf4fea |
+| 1049 | Metal Dogs [Rev 1.0] | [0100A6E01681C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A6E01681C000) | c08be8de6e40e54f |
+| 1050 | METAL MAX Xeno:  Reborn [Rev 0.1] | [0100E8F00F6BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E8F00F6BE000) | b6f1f3441fddbf47 |
+| 1051 | Metaloid: Origin | [01002DE00E5D0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002DE00E5D0000) | d76d38b9e285e4cc |
+| 1052 | Metaverse Keeper | [0100AFF00F938000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AFF00F938000) | 52e597efe89c6348 |
+| 1053 | Metro Redux [Rev 1.0.0] | [0100D4900E82C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D4900E82C000) | 85c362cc9790f0ed |
+| 1054 | Metro: Last Light Redux | [0100F0400E850000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F0400E850000) | 85c362cc9790f0ed |
+| 1055 | Metroid Prime™ Remastered | [010012101468C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010012101468C000) | 67c9ca1428222752 |
+| 1056 | Metroid™ Dread | [010093801237C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010093801237C000) | 49161d9ccbc15df9, 64b4b34a5490b80f, 6c1c79196ed2af54, e8e8ec3fd0159d65 |
+| 1057 | Micro Pico Racers | [0100E5E012744000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5E012744000) | 9889bea1eaa23c42 |
+| 1058 | Miden Tower | [01001EB011D38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001EB011D38000) | 0d5d07181f8be84c |
+| 1059 | Midnight Deluxe | [01000FB008900000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000FB008900000) | ab085264ca5a9442 |
+| 1060 | Mighty Goose | [0100AD701344C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AD701344C000) | 230115d50145b816 |
+| 1061 | MIGHTY GUNVOLT BURST | [01000E2003FA0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000E2003FA0000) | e621cc4f5ac77b1c |
+| 1062 | Miitopia™ | [01003DA010E8A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003DA010E8A000) | 3378b75a3dd2ada9, 38a937bb6d6c8f3d |
+| 1063 | Miles and Kilo | [01004B7009F00000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B7009F00000) | 900c13947dee53ff |
+| 1064 | MindSeize | [0100B05012FB2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B05012FB2000) | 53ee95838a26cc41 |
+| 1065 | Minecraft (rev001) | [0100D71004694000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D71004694000) | 390a94ddff4e98a2, 460de4e3e9b83e39 |
+| 1066 | Minecraft Dungeons | [01006C100EC08000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C100EC08000) | 4e87c5792a7c8290, 5ee3f44479a972ea, 6e4f953fd94fa7bc, 919717f094b9c8cd, b0efb225275ba084, fd6b97411349ddb3 |
+| 1067 | Mini Motor Racing X | [01003560119A6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003560119A6000) | 489a7372c2fd7948 |
+| 1068 | Minoria | [0100FAE010864000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FAE010864000) | 22f902ea52fb9449 |
+| 1069 | Missile Dancer | [0100CFA0138C8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CFA0138C8000) | bd89832dce35bd0b |
+| 1070 | Mist Hunter | [010059200CC40000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010059200CC40000) | 5a12f43732856844 |
+| 1071 | MISTOVER | [010034E00EFD0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010034E00EFD0000) | 72353029e0dd9843, 9b3b5f6d3d95ae4c, a845c02558e6e447 |
+| 1072 | MO:Astray | [010011300F74C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010011300F74C000) | 6c3210e6db52484a, d0621765de125240 |
+| 1073 | Moero Chronicle™ Hyper | [0100B8500D570000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B8500D570000) | d6db4c4b00699a19 |
+| 1074 | Moero Crystal H | [01004EB0119AC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004EB0119AC000) | f386b1aed15c029c |
+| 1075 | Momodora: Reverie Under the Moonlight | [01004A400C320000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A400C320000) | 1fa6ede0487edafd, d9c5d440ea56b37b |
+| 1076 | MONARK | [0100E4A01548C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4A01548C000) | 85eb6295023dd394 |
+| 1077 | MONKEY BARRELS | [0100FBD00ED24000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FBD00ED24000) | 611f06c0ec29b743, fe50c0f9760f4343 |
+| 1078 | Monkey King: Master of the Clouds | [01004C500B8E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004C500B8E0000) | 40961c0a47988049 |
+| 1079 | Monochrome Order | [010075200F1CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075200F1CA000) | 5d1bc3e14c488c47 |
+| 1080 | Mononoke Slashdown | [0100F3A00FB78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F3A00FB78000) | 6911a0b8b685e532 |
+| 1081 | Monopoly | [01007430037F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007430037F6000) | 78440bac00d01742, b3efc64152be0d27 |
+| 1082 | Monster Boy and the Cursed Kingdom | [01006F7001D10000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006F7001D10000) | 107a4d01b1bf5d44, 7dd8afc6a77afbb3, bef7bd1a79121305, ee7693162065f488, ff7be16d88b0c439 |
+| 1083 | Monster Harvest | [01004E001256A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004E001256A000) | 84a900975bbc204b |
+| 1084 | MONSTER HUNTER GENERATIONS ULTIMATE | [0100770008DD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100770008DD8000) | 91a0f7e64876346e, 936abc6624fc8d8a, fb08f1d20fd1204f |
+| 1085 | MONSTER HUNTER GENERATIONS ULTIMATE™ Demo | [0100E6400B1EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E6400B1EA000) | d95baaadde3908ef |
+| 1086 | Monster Hunter Rise [Rev 1.0.0] | [0100B04011742000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B04011742000) | 1318dd201757a788, 23a75866baa8b4d9, 46205b7bd869e2e4, 5cac0323ccbc04bf, 6cdec176ea1d12c5, b09f83b9ef28c00d, f7a7784e77202be7 |
+| 1087 | Monster Hunter Stories 2: Wings of Ruin | [0100E21011446000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E21011446000) | 4b8e91070d920211, bcd9fddeba070270, ee762e3c16403a53 |
+| 1088 | Monster Hunter XX Nintendo Switch Ver. | [0100C3800049C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C3800049C000) | 9d4c86e6ef74504a |
+| 1089 | Monster Jam: Steel Titans [Rev 1.0.1] | [010095C00F354000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095C00F354000) | 92d64159071e039f |
+| 1090 | Monster Sanctuary | [0100A0F00DA68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A0F00DA68000) | 4526a286a8dcad43, 6353afd4731b1144, 65eea5a401b6f042, 919f748a49edcc4d, eee2b36b6080d949, fd058635cd4e2b43 |
+| 1091 | Monster Slayers | [0100D1700C732000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D1700C732000) | 341cd937b9a177a5 |
+| 1092 | Monster Train First Class | [01006D9013894000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006D9013894000) | f0afc43d4e9e6540 |
+| 1093 | Monster Viator | [01001620105FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001620105FE000) | 555c31c0b8c8d540 |
+| 1094 | moon | [0100E1800EFCE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E1800EFCE000) | 089898e9f7812443 |
+| 1095 | Moon Hunters | [01004FD00382A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004FD00382A000) | 5e4bc2f68fd39749 |
+| 1096 | Moon Raider | [01000C301457C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000C301457C000) | 2206455c8debc1fd |
+| 1097 | Moonlighter | [0100F4700B2E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F4700B2E0000) | 962cafe79900af46, bbf3f7535ed52140, cd63653c77e52d44 |
+| 1098 | Moorhuhn Jump and Run 'Traps and Treasures 2' | [01002AB017786000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002AB017786000) | eb0019a05e18403d |
+| 1099 | Morbid: The Seven Acolytes | [010040E00F642000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040E00F642000) | 44d8102a3a314307, c2743da0740c6a26 |
+| 1100 | Morphite | [0100776003F0C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100776003F0C000) | a757cc723f059240 |
+| 1101 | Mortal Kombat 11 | [0100F2200C984000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2200C984000) | 053c0def634d577b, 0a62ba391b96f85a, 122e262da74e5148, 2102a7476c861be3, 253ce7ff39ea6dd8, 42f093afb5ed34e2, 452a442f3d18086d, 4db479bdec804fca, 4f7ab1a3eefc7eb2, 5cc95226dbaaae04, 600436311afc7f24, 618a891e4a49d835, 69cfb1478185a732, 6ee15d1e9bc5ce90, 71f12f744212cbe8, 7dd420a59ee310dd, a18f8879b9a93f3b, b87694bcc4e7c77e, c8c44bca0e8fa163, db4da7bf6af18d4a, dbf3cf1a67412d92, dfe3c7c2880ce91d, e5efef0cabb585cc |
+| 1102 | Mortal Shell: Complete Edition | [0100154019A7C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100154019A7C000) | 3b441c98064c672f |
+| 1103 | Mother Russia Bleeds | [0100D9C00AA52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D9C00AA52000) | 3b1f3c4e8d93b74a |
+| 1104 | Moto Rush GT | [01003F200D0F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003F200D0F2000) | d9417a4323518e47 |
+| 1105 | Moving Out | [0100C4C00E73E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C4C00E73E000) | d613dc6c33ccaa41 |
+| 1106 | Mr. DRILLER DrillLand | [0100DCA011262000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DCA011262000) | 8ae3fac28ffdba0e |
+| 1107 | Muse Dash | [01008E200C5C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008E200C5C2000) | 0a0e633cd3526a41, 61a564531b665643, ee67e4ace805674c |
+| 1108 | Mushihimesama | [010045800FBD0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045800FBD0000) | 87d5d35af6571d94, bba1d0305b1083eb |
+| 1109 | Mushroom Heroes | [01005BD0112B8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005BD0112B8000) | 2010fabdb517f74e |
+| 1110 | Musou Orochi 3 | [0100E8500AD58000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E8500AD58000) | 07650fd5e5e2b82c, 1d18291b37a88ab1 |
+| 1111 | Mutant Mudds Collection | [01004BE004A86000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004BE004A86000) | dc7ebf2d74ae270d |
+| 1112 | Mutant Year Zero: Road to Eden [Deluxe Edition] | [0100E6B00DEA4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E6B00DEA4000) | eb33b25f08668b19 |
+| 1113 | My Friend Pedro | [010031200B94C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010031200B94C000) | 11428e3e3bec214e, cc7797e4ef90c248, myfriendpedro1v0 |
+| 1114 | My Hero Ones Justice 2 [Rev 1.0.0] | [01007E700DBF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007E700DBF6000) | 445a7e604fa1a98b, 6b8a78ea6780099a |
+| 1115 | My Time at Portia | [0100E25008E68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E25008E68000) | 0f91da8517ff2c47, 5a8d16ace656d54b, 5fc2c9ce6c79d64a, 7a11fee67d77df44, 981a2d07e0947446, dd16f4688ab7004b |
+| 1116 | Myastere -Ruins of Deazniff- | [01003E3013BE4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003E3013BE4000) | ca594d5fa57f6c2c |
+| 1117 | MyFarm 2018 | [010021F00AD76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010021F00AD76000) | a18d105404da2c47 |
+| 1118 | Mystery Mine | [01002800117EE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002800117EE000) | cbf01f0658eade4e |
+| 1119 | Mystik Belle Enchanted Edition | [0100FFB015C6E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FFB015C6E000) | 93eb061008cd762b |
+| 1120 | NAMCO MUSEUM® ARCHIVES Vol 1 | [010084E010E18000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010084E010E18000) | d8f700a70f7df4f2 |
+| 1121 | Narcos: Rise of the Cartels | [010072B00BDDE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072B00BDDE000) | 188f1ed1673facbd, 2e6fa6fae12d8085 |
+| 1122 | Narita Boy | [010062200E912000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010062200E912000) | 976d33b11368ef49 |
+| 1123 | NARUTO SHIPPUDEN: Ultimate Ninja STORM TRILOGY | [0100EC800800C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC800800C000) | 577efdfdbb7545cf |
+| 1124 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO | [01006CF00CF60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006CF00CF60000) | fc2d8e44186e60c3 |
+| 1125 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO | [010084D00CF5E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010084D00CF5E000) | 71cdeb75b75fa30e |
+| 1126 | NBA 2K Playgrounds 2 | [01001AE00C1B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001AE00C1B2000) | 0cf694c10af10fa8, 689ca7b6ce68bf90, a9fb2947a86384aa, bd81fef7e65a788b, c38678c1d242d6f5, ebe7b75a6c67814a |
+| 1127 | Need for Speed™ Hot Pursuit Remastered | [010029B0118E8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010029B0118E8000) | 3515e683e1d5e5a1 |
+| 1128 | Nefarious | [010023500B0BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010023500B0BA000) | 4a30e3f987fb714a |
+| 1129 | Negative: The Way of Shinobi | [01008390136FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008390136FC000) | 81c77252a08b20aa |
+| 1130 | Neko Navy Daydream Edition | [0100E5500B020800](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5500B020800) | fbd5d6c83ed9a340, ff16116308df4e4b |
+| 1131 | Nelke & the Legendary Alchemists ~Ateliers of the New World | [01006ED00BC76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006ED00BC76000) | 61cdd17992865cf4 |
+| 1132 | NEO: The World Ends with You | [010043B013C5C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010043B013C5C000) | 6a3e02d91948ec42, f48fbf0922d5424a |
+| 1133 | Neon Abyss | [0100BAB01113A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BAB01113A000) | 48feaf16afb29340, a78d968009a9374c |
+| 1134 | Neon Drive | [010032000EAC6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010032000EAC6000) | 2b5c0f5f97fe9a4d |
+| 1135 | Neon White | [0100B9201406A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B9201406A000) | d5c4846605153085 |
+| 1136 | Neoverse Trinity Edition | [01001A201331E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001A201331E000) | 320bcb5ae7a26f17 |
+| 1137 | Neptunia X SENRAN KAGURA: Ninja Wars | [01008D0016AF4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D0016AF4000) | fb827bf029e0778a |
+| 1138 | Nevaeh | [0100C20012A54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C20012A54000) | 1e6ee43811536d1e |
+| 1139 | Never Awake [Rev 1.0.1] | [0100DA30189CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA30189CA000) | e3dc4fd0a35d25d8 |
+| 1140 | Never Give Up | [01005AD00B91A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005AD00B91A000) | 3990733a2735114c |
+| 1141 | Neversong & Pinstripe [Rev 2.0.0,0.0.0] | [01000C1011960000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000C1011960000) | 802040931b870548 |
+| 1142 | NEW Joe & Mac - Caveman Ninja | [01003A9013DEE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003A9013DEE000) | 274132861eaa8465 |
+| 1143 | New Pokémon Snap [Rev 1.0.0] | [0100F4300BF2C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F4300BF2C000) | b8301424493b656b |
+| 1144 | New Star Manager | [010082900C5FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082900C5FA000) | 878c20b66512e926, c308d2d0051be481 |
+| 1145 | New Super Lucky's Tale | [010017700B6C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010017700B6C2000) | 14872049185c584c, 9acb46936749f543 |
+| 1146 | New Super Mario Bros. U Deluxe | [0100EA80032EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EA80032EA000) | aee6dccc06d9c05b |
+| 1147 | New Super Mario Bros. U Deluxe | [0100EA80032EA00](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EA80032EA00) | aee6dccc06d9c05b |
+| 1148 | Nexomon | [01000BE0156B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000BE0156B2000) | 5afef0a8bcb47841 |
+| 1149 | Nexomon Extinction | [01005A5011A44000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005A5011A44000) | 1718cb7c2f015246, 30bb08c96945af42, 4bbca0443db50447, 681dfb4b169e3548, 96d466ab34670744, eda96e07f0b5074a |
+| 1150 | Ni no Kuni II: Revenant Kingdom (All in One Edition) [Rev 1.0.0] | [0100C4E013E5E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C4E013E5E000) | 5b67ef657677fd66 |
+| 1151 | Ni no Kuni: Shiroki Seihai no Joo for Nintendo Switch | [010032400E700000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010032400E700000) | b0ce5ccdff637507, eb75a3490903f50d |
+| 1152 | Ni No Kuni: Wrath of the White Witch | [0100E5600D446000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5600D446000) | 45f10c499223a9e4, c32b29cb5fba96d9 |
+| 1153 | Ni no Kuni™ II: Revenant Kingdom PRINCE'S EDITION | [0100BE7013E06000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE7013E06000) | 14c7986beb94a1a1, 2c931e8a8748eccf |
+| 1154 | Niche - a genetics survival game | [01000EC010BF4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000EC010BF4000) | 34a500aa3fafff47 |
+| 1155 | Nickelodeon All-Star Brawl | [0100DCF013740000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DCF013740000) | 96637d97114249ae |
+| 1156 | nickelodeon Kart Racers | [0100D6200933C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D6200933C000) | f7de0ebc3764568a |
+| 1157 | Nickelodeon Kart Racers 2: Grand Prix [Rev 1.0.0] | [0100EBC00FE14000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EBC00FE14000) | 567f6b4a4d3fea08 |
+| 1158 | NieR:Automata The End of YoRHa Edition | [010056B015FE8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010056B015FE8000) | e43525f22282a477 |
+| 1159 | Nightmare Boy | [01005F4009112000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005F4009112000) | 023d9ce57d7ff64b, be7051cb9022834a |
+| 1160 | Nights of Azure 2: Bride of the New Moon | [0100628004BCE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100628004BCE000) | 81da4f9e1e961ca6 |
+| 1161 | Nihilumbra | [0100AA0008736000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AA0008736000) | bbf8eb91e352e244 |
+| 1162 | Nine Parchments | [0100D03003F0E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D03003F0E000) | f7893e37fc10c803 |
+| 1163 | Ninja Box | [0100272009E32000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100272009E32000) | cbbab0dad19d4c42 |
+| 1164 | NINJA GAIDEN: Master Collection | [01002AF014F4C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002AF014F4C000) | f20fdc280af01cbe |
+| 1165 | Ninja Striker! | [010081D00A480000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010081D00A480000) | ef1e15af5ef000e1 |
+| 1166 | Ninja Village | [010090600CB98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010090600CB98000) | 4b77a64e9fb22347 |
+| 1167 | Ninjala | [0100CCD0073EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CCD0073EA000) | d4911813945ba5cc |
+| 1168 | Nintendo 64™ – Nintendo Switch Online | [0100C9A00ECE6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C9A00ECE6000) | eb79ef243458597c |
+| 1169 | No Mans Sky [Rev 1.0.0] | [0100853015E86000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100853015E86000) | 60a84a7c1db7a265 |
+| 1170 | No More Heroes | [0100F0400F202000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F0400F202000) | 7541670de3a49d9f |
+| 1171 | No More Heroes 2: Desperate Struggle | [010071400F204000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010071400F204000) | 29aca13a1dcbecbb |
+| 1172 | No More Heroes 3 | [01007C600EB42000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007C600EB42000) | c3af706f3f7844ea |
+| 1173 | No Straight Roads | [01009F3011004000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009F3011004000) | 56de406668fa3ce1, ef9d1821b0a08a90 |
+| 1174 | Nongunz: Doppelganger Edition | [0100542012884000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100542012884000) | d8443a6bca4a0143 |
+| 1175 | NoReload Heroes | [0100E9A00B0BC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E9A00B0BC000) | f8697f92bf87db49 |
+| 1176 | Northgard | [0100A9E00D97A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A9E00D97A000) | 64656a05f26586e4, f3777cd802f343fc |
+| 1177 | Nosferatu Lilinor | [0100373010D26000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100373010D26000) | 397660b098ccf7d4 |
+| 1178 | Nubarron: The adventure of an unlucky gnome | [0100343013248000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100343013248000) | b2b4207363638e49 |
+| 1179 | Nuclear Throne | [0100CFE00CE6E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CFE00CE6E000) | 920c5e25051824ec |
+| 1180 | OBAKEIDORO! [Rev 1.0.6] | [010074600CC7A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010074600CC7A000) | 4d4fcfd3be47484a, 5236854392c05e4d, 710b99c18aa32240 |
+| 1181 | Oceanhorn - Monster of Uncharted Seas | [01007D7001D0E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007D7001D0E000) | 3ad80bd8cfcb3423 |
+| 1182 | Oceanhorn 2: Knights of the Lost Realm | [01006CB010840000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006CB010840000) | 53ce4dc2fb6423a2, 9f2f187d1c6e44ec, e5e739813c69b5a6 |
+| 1183 | Octogeddon | [0100E6E00AF44000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E6E00AF44000) | 51ae5df244c2f1ee |
+| 1184 | Octopath Traveler | [0100E66006406000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E66006406000) | 07a71ace45b7d6ae |
+| 1185 | OCTOPATH TRAVELER | [010057D006492000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010057D006492000) | 0d8a6a8804a6654c, 72fd3930fac64f21, b88a8d8e5516dde9, d2d9a400f18d3749 |
+| 1186 | OCTOPATH TRAVELER II | [0100A3501946E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A3501946E000) | 65619a04b8a04b10, bb891294da55675e |
+| 1187 | Oddmar | [01001F100FA04000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001F100FA04000) | 97118b66caae2840 |
+| 1188 | Oddworld: Munch's Oddysee | [0100BB500EE3C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BB500EE3C000) | 7fd2abdd308a998e |
+| 1189 | Oddworld: Stranger's Wrath | [01002EA00ABBA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002EA00ABBA000) | 01002ea00abba000, 159108e2e30c21ff, 542b1d1d14978b82 |
+| 1190 | OF MICE AND SAND -REVISED- | [01002310064B4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002310064B4000) | ed461dd4749922ff |
+| 1191 | Oh!Edo Towns | [01009A700DA8E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009A700DA8E000) | 38430ac28c4ecd4c |
+| 1192 | Okami HD | [0100F10009870000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F10009870000) | a4fddc7fd35b30cb |
+| 1193 | Okami HD(EUR US) | [0100276009872000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100276009872000) | a4fddc7fd35b30cb |
+| 1194 | OkunoKA Madness | [0100907011392000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100907011392000) | b9843922affefb4c |
+| 1195 | Olija | [01004D501230A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004D501230A000) | 976cb106d479d045 |
+| 1196 | Oliver's Adventures in the Fairyland | [0100E4600F188000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4600F188000) | e85777df5c90fa22 |
+| 1197 | Omega Labyrinth Life | [010079200E85C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010079200E85C000) | 4cd08d3edaef044c, e50048278d47174f |
+| 1198 | Omega Strike | [0100F8C00C21C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F8C00C21C000) | 199aee8cfffd5e73 |
+| 1199 | OMG Zombies! | [01006DB00D970000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006DB00D970000) | 4291f2ae3b78c2de |
+| 1200 | Once Upon a Coma | [0100E940044F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E940044F2000) | 15b87fdc1d89954c, 2745fd4aff073f4e |
+| 1201 | One Dog Story | [01009C301061A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009C301061A000) | 17d0ca29336dd042 |
+| 1202 | One More Dungeon | [0100BD3006A02000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD3006A02000) | d6427ccf92af29e2 |
+| 1203 | One Piece Pirate Warriors 3 - Deluxe Edition | [0100774009CF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100774009CF6000) | 3865de04c2f35feb |
+| 1204 | One Piece Unlimited World Red - Deluxe Edition | [0100574002AF4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100574002AF4000) | f1546b842fcf9d6c |
+| 1205 | One Piece: Kaizoku Musou 3 - Deluxe Edition | [0100553006F36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100553006F36000) | 38c57174e8cb6a34 |
+| 1206 | One Piece: Kaizoku Musou 4 [Rev 1.0.0] | [010089C00DA6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010089C00DA6A000) | 43df498afedee217, f9d1ecebb1f2d952 |
+| 1207 | ONE PIECE: PIRATE WARRIORS 4 | [01008FE00E2F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008FE00E2F6000) | 7ad7ff7329152b07, f55ef3484a73aee8 |
+| 1208 | One Way Heroics Plus | [0100AD9011056000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AD9011056000) | 419ceea03ccb6e43 |
+| 1209 | ONI : Road to be the Mightiest Oni | [0100E26019422000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E26019422000) | fb152fb431677e62 |
+| 1210 | Onimusha: Warlords | [0100416008A1200](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100416008A1200) | bdb65bae30a95abe |
+| 1211 | Onimusha: Warlords | [0100416008A12000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100416008A12000) | bdb65bae30a95abe |
+| 1212 | ONINAKI | [01001AF00CE54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001AF00CE54000) | c8f7a25e31377144, c949e2576f532c43, da78949bb4161f40 |
+| 1213 | Ooblets | [0100BA101712A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BA101712A000) | b379e2545c068b65 |
+| 1214 | Operation Hardcore | [010039C00A45C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010039C00A45C000) | 35c56d941eb3d44a |
+| 1215 | Operencia: The Stolen Sun | [01006CF00CFA4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006CF00CFA4000) | 1ed621dd90bcd575 |
+| 1216 | Ori and the Blind Forest: Definitive Edition | [010061D00DB74000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010061D00DB74000) | 9c4f2a47916b6a54 |
+| 1217 | Ori and the Will of the Wisps | [01008DD013200000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008DD013200000) | 11c33c7c2dbd3c54, 4cc9824a6383cf51, 5fe46b8ce469468e |
+| 1218 | Orn: The Tiny Forest Sprite | [01006C70102EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C70102EA000) | 5540db46dbe1c7a6 |
+| 1219 | Othercide | [0100E5900F49A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5900F49A000) | 1e6bd2f99d2e0547 |
+| 1220 | Outbreak | [010047F013104000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010047F013104000) | 319115d455581d4d |
+| 1221 | Outbreak Lost Hope | [0100D9F013102000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D9F013102000) | 45e7b3d332786b45 |
+| 1222 | Outbreak The Nightmare Chronicles | [01006EE013100000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006EE013100000) | e710a0e5ed885042 |
+| 1223 | Outbreak: Endless Nightmares | [0100A0D013464000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A0D013464000) | d4a2e6ce65603944 |
+| 1224 | Outbreak: Epidemic | [0100C850130FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C850130FE000) | 15639f4bc0eb994e |
+| 1225 | Outbreak: The New Nightmare | [0100B450130FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B450130FC000) | bc36feab084d9b4a |
+| 1226 | Outbuddies DX | [0100B8900EFA6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B8900EFA6000) | d30c78263bff3ca9 |
+| 1227 | Outlast | [01008D4007A1E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D4007A1E000) | c3d46bb3c7059db1 |
+| 1228 | Outpost Delta | [0100CCF00F5BC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CCF00F5BC000) | 923a91015f81b947, e339c1e93e63c242 |
+| 1229 | Overcooked 2 | [01006FD0080B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006FD0080B2000) | 150f46f0966d1544 |
+| 1230 | OVERLORD: ESCAPE FROM NAZARICK | [0100F970140EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F970140EA000) | 6956c0caaf39a04f |
+| 1231 | OVERWHELM | [01005F000CC18000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005F000CC18000) | 528f3262a75e4ea8 |
+| 1232 | Owlboy | [0100E570094E8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E570094E8000) | 24487b6e21e48eec |
+| 1233 | Pac-Man World: Re-Pac [Rev 1.0.0] | [010081A01565A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010081A01565A000) | 98e3ddb2b92f4b61 |
+| 1234 | Pac-Man World: Re-Pac [Rev 1.0.0] | [0100D4401565E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D4401565E000) | a6742c9fd2d34157 |
+| 1235 | Pacific Wings | [010006900EF5E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010006900EF5E000) | 2a74deb620163dbc |
+| 1236 | Paint the Town Red | [010026E013EFC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026E013EFC000) | a9af6300aadef1d1 |
+| 1237 | Pang Adventures | [010087300B730000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010087300B730000) | 20d6a4241790f0b8, 9b2eef81ce8723e7 |
+| 1238 | Pankapu | [0100635006C32000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100635006C32000) | ca2ac536c1304c40 |
+| 1239 | Panty Party (rev001) | [0100BED00E350000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BED00E350000) | 828197c1da25ea47 |
+| 1240 | Panzer Dragoon: Remake | [0100C6A00E94A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C6A00E94A000) | 5bb8164df0b16049 |
+| 1241 | Panzer Paladin | [01004AE0108E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004AE0108E0000) | 180c3b0f6b98f4f6 |
+| 1242 | Paper Mario™: The Origami King | [0100A3900C3E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A3900C3E2000) | bdd6dc7da7a69290, e74395f066fd8ccb |
+| 1243 | Part Time UFO™ | [01006B5012B32000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006B5012B32000) | 3e13ee84f3a5f642 |
+| 1244 | Pathway | [0100114014724000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100114014724000) | 4620f3bb04d55348 |
+| 1245 | Paw Paw Paw | [01008E2013144000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008E2013144000) | b0db8a9e370b6a48 |
+| 1246 | Pawarumi | [0100A56006CEE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A56006CEE000) | 93301ee57e1e4a4e |
+| 1247 | PC Building Simulator | [010072800CBE8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072800CBE8000) | 2e8b2eec47779448, 564956551b65dd44, dd95d1a6ec0adf42 |
+| 1248 | Peach Ball Senran Kagura | [010082500350E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082500350E000) | a0bd46b324abdb68 |
+| 1249 | Penny-Punching Princess | [0100C510049E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C510049E0000) | 534fbdb4492325c2, 84d19a943300e243 |
+| 1250 | Persona 3 Portable | [0100DCD01525A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DCD01525A000) | 663052c2c7e8c357 |
+| 1251 | Persona 5 Royal | [01005CA01580E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005CA01580E000) | 708bcaca873ea32b |
+| 1252 | Persona 5 Scramble: The Phantom Strikers  | [0100E4F010D92000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4F010D92000) | ca98347015beaa59 |
+| 1253 | Persona 5 Scramble: The Phantom Strikers [Rev 1.0.0] | [01001C400E9D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C400E9D8000) | 3f57f096b84c7cfb, 740094a857a59066 |
+| 1254 | Persona 5 Scramble: The Phantom Strikers [Rev 1.0.0] | [01005BD010872000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005BD010872000) | 496a2f5a9ce4fbeb |
+| 1255 | Persona 5: Royal [Rev 1.0.0] | [01004B10157F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B10157F2000) | 708bcaca873ea32b |
+| 1256 | Persona 5: Royal [Rev 1.0.0] | [0100B880154FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B880154FC000) | 708bcaca873ea32b |
+| 1257 | Persona® 5 Strikers | [0100801011C3E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100801011C3E000) | c4df04f647bdc727 |
+| 1258 | Pew Paw | [010045A01221E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045A01221E000) | 8e52b43604cabae7 |
+| 1259 | PHANTOM BREAKER:BATTLE GROUNDS OVER DRIVE | [0100063005C86000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100063005C86000) | 9e37b240fab20ab0 |
+| 1260 | Phantom Trigger | [0100C31005A50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C31005A50000) | 5f3b7618cfa088ff |
+| 1261 | Phoenix Wright: Ace Attorney Trilogy | [0100CB000A142000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CB000A142000) | 12b57556658e4f44 |
+| 1262 | Phoenotopia : Awakening | [01005E100A4F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005E100A4F0000) | 270bbaaa0cc10a49, 49fd30a3b6b16544, 6d45a44e37d5bb4c |
+| 1263 | Pikachin-Kit Game de Pirameki Daisakusen | [01009C100A8AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009C100A8AA000) | 21bb89de67757849 |
+| 1264 | Pikmin 3 Deluxe [Rev 1.0.0] | [0100F4C009322000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F4C009322000) | cd23d5cfb75d7e94, d467f5ad367bbee8 |
+| 1265 | Pillars of Eternity: Complete Edition | [0100D6200E130000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D6200E130000) | a40da7c8de72fa41 |
+| 1266 | Pinball Jam | [0100AD50167EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AD50167EC000) | a44e17749bac250b |
+| 1267 | Pine | [01002BA00D662000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002BA00D662000) | 324eb3403dd14441, 5363156258dd6c42, a38595d6dd8f6f4f, aca5799b4a322e4c |
+| 1268 | Pinstripe | [010041100B148000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010041100B148000) | 802040931b870548, 99576dd9532d5d47 |
+| 1269 | Pixel Devil and the Broken Cartridge | [010011300D52A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010011300D52A000) | 2ca718653e59a64b |
+| 1270 | Pixel Game Maker Series The Witch and The 66 Mushrooms | [01002C90133CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C90133CA000) | 6186cfec5352cb54 |
+| 1271 | PixelJunk Monsters 2 | [0100E4D00A690000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4D00A690000) | 4b171b8f549b7948 |
+| 1272 | Plants vs. Zombies: Battle for Neighborville (Complete Edition) [Rev 1.0.0] | [0100C56010FD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C56010FD8000) | c8ce497181fbd794 |
+| 1273 | PLOID | [010081B013B58000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010081B013B58000) | e72872287906f568 |
+| 1274 | Pocket Arcade Story | [010011B00E6B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010011B00E6B2000) | 759961046d584045 |
+| 1275 | Pocket Harvest | [010058C00E25A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010058C00E25A000) | 4afc691c3d3c9542 |
+| 1276 | Pocket Stables | [01008D400E1BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D400E1BA000) | adc7c1f4eeee104a, f626906b9861154c |
+| 1277 | Pocky & Rocky Reshrined (rev001) [Rev 1.0.1] | [01004A40167C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A40167C2000) | 905749621eaf1b75, 9bed1358d3166d88 |
+| 1278 | Pode | [01009440095FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009440095FE000) | 1022c3cea1e0f546 |
+| 1279 | Pokémon Café Mix | [010072400E04A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072400E04A000) | 2b242d6bb478f127 |
+| 1280 | Pokémon Mystery Dungeon: Rescue Team DX [Rev 1.0.1] | [01003D200BAA2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D200BAA2000) | 3ab632dee82d5944, 9dda1efeef70de46 |
+| 1281 | Pokémon Shield | [01008DB008C2C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008DB008C2C000) | 3518bf2ead557fe6, a16802625e7826bf, b44abd65a6a2fe82, b56ca071216570e8, bdd027f80fab4ef4, dbddd13845acd2bd, e38a27bc77702548 |
+| 1282 | Pokémon Sword | [0100ABF008968000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ABF008968000) | 4628a512b1d93d37, 479bd2b581f4bc6a, 490648316cc1ccdc, 5a7eebf172343616, 8dafedbb5be81c2c, 9d2db721a9894075, a3b75bcd3311385a |
+| 1283 | Pokémon: Lets Go, Eevee | [0100187003A36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100187003A36000) | 0a3f0d21e67dad80, 5831ec64d6b696fd, dcd187e409188ab1 |
+| 1284 | Pokémon: Lets Go, Pikachu! | [010003F003A34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010003F003A34000) | 1c375692de4f4b87, c208db6a4ef4361f, d5d5567049fa0d15 |
+| 1285 | Pokémon™ Brilliant Diamond | [0100000011D90000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100000011D90000) | ea058a067cbd6943, f87fc6075104ec4d |
+| 1286 | Pokken Tournament DX | [0100B3F000BE2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B3F000BE2000) | 49690ba2efdcd7a7 |
+| 1287 | Polandball: Can Into Space | [0100A3500B4EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A3500B4EC000) | dd522c070476294a |
+| 1288 | Ponpu | [010096B01179A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010096B01179A000) | 5d6f2751999d884b |
+| 1289 | Pool Pro GOLD | [010070B01260C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010070B01260C000) | 8505a0a7d6727449 |
+| 1290 | Poopdie - Erstes Kapitel | [010051A011AD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010051A011AD8000) | a260850758df224c |
+| 1291 | Portal Knights | [0100437004170000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100437004170000) | 4f3d7062d176246d, d59d81c06f923846 |
+| 1292 | Potata: Fairy Flower | [01005FC010EB2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005FC010EB2000) | 42f4f5085262684b |
+| 1293 | Power Rangers: Battle for the Grid | [0100E1E00CF1A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E1E00CF1A000) | cf6726cdec67c44f |
+| 1294 | PowerSlave Exhumed | [01008E100E416000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008E100E416000) | b5f1f98b1822fe7f |
+| 1295 | Prehistoric Dude [Rev 1.0.0] | [010054F01266C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010054F01266C000) | afeea14ff3229a77 |
+| 1296 | Prinny 1 & 2:  Exploded and Reloaded [2 x Rev 1.0.1] | [01007A0011878000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007A0011878000) | e2611f3937023235 |
+| 1297 | Prinny® 2: Dawn of Operation Panties, Dood! | [01008FA01187A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008FA01187A000) | d638f8cad17cca99 |
+| 1298 | Pro Yakyuu Famista Evolution | [01008EA0080F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008EA0080F6000) | 8fab041b6bd95a26 |
+| 1299 | Project Highrise: Architects Edition | [0100BBD00976C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BBD00976C000) | 7c94babbddf3d243 |
+| 1300 | Project Warlock | [0100BDB01150E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BDB01150E000) | a826ad7b5cb6c048, c5821d9ce5c36e4f, d597de8544d8ed4f |
+| 1301 | Projection: First Light | [010063901024A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010063901024A000) | fa012b0e290e8e44 |
+| 1302 | Pronty | [0100CEC019446000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CEC019446000) | 5a8d0ff7a3021645 |
+| 1303 | Psyvariar Delta | [0100EC100A790000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC100A790000) | f89cc6c0ae94744c |
+| 1304 | Pumpkin Jack | [01006C10131F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C10131F6000) | 0f73f1d52820f90b, ee24cc35be30e682 |
+| 1305 | Punch Club | [0100A6000ACEA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A6000ACEA000) | 149284506f1bcc48 |
+| 1306 | QUAKE | [0100BA5012E54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BA5012E54000) | 24a0b446b6c8dad2, 3a5dcbc7074c1b84, 563b6f98641922ce, 7b35be4dbef66a76, 822293637951b6af |
+| 1307 | Quest Hunter | [010095500D9F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095500D9F4000) | 672682d615771c45 |
+| 1308 | Quest of Dungeons | [01001DE005012000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001DE005012000) | b01d8ea969dc1ccc |
+| 1309 | R-Type Dimensions EX | [0100E5400BE64000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5400BE64000) | 9987904475ea8346, a9bab930855ced47, d13345de88c6f94f |
+| 1310 | R-Type Final 2 [Rev 1.0.0] | [0100F930136B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F930136B6000) | 225ea8c428ef4c9d, 41b6418e96424d37, 489dce236cc2ca95, 5d3eee4c03b390a7, 5eefe50943fc63f3, d964f65fcb9d9982, ea26613ea5a1479a |
+| 1311 | Rabi-Ribi | [01005BF00E4DE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005BF00E4DE000) | 539e6bdf2b110885, ca86dbb44a335ead |
+| 1312 | Rack N Ruin | [0100B8100C54A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B8100C54A000) | 4e587fe27a463d4c |
+| 1313 | RAD | [010024400C516000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010024400C516000) | 0bb3b1a39b34ac1b |
+| 1314 | Rad Rodgers Radical Edition | [010000600CD54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010000600CD54000) | 78885a1ca987c04c |
+| 1315 | Radiation City | [0100DA400E07E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA400E07E000) | 8ac5ab12589a13be |
+| 1316 | Radical Rabbit Stew | [0100C8B00D2BE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C8B00D2BE000) | 3d23184747f25b4d |
+| 1317 | Radio Squid | [0100655012064000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100655012064000) | 4a52e0e29438c94a |
+| 1318 | Raging Justice | [01003D00099EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D00099EC000) | 32c72b0d3fdf012f |
+| 1319 | Raiden III x MIKADO MANIAX [Rev 1.0.0] | [010089F015FC4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010089F015FC4000) | 30ba6f1a40c48257 |
+| 1320 | Raiden IV x MIKADO Remix [Rev 1.0.0] | [01005CD013116000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005CD013116000) | 429485e8c171aa7e |
+| 1321 | Raiden V: Directors Cut | [01002B000D97E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002B000D97E000) | 941057a850e286df |
+| 1322 | Railway Empire - Nintendo Switch™ Edition | [01002EE00DC02000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002EE00DC02000) | 01002ee00dc02000, 126d0de908b959fe, 25f8fb4f9d1fac9d, c501187900ebf465 |
+| 1323 | Raji: An Ancient Epic | [010010B00DDA2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010010B00DDA2000) | ab09e78cdfec6e08, ff114a09d935be7a |
+| 1324 | Rayman Legends: Definitive Edition | [01005FF002E2A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005FF002E2A000) | 01005ff002e2a000, f466da1d713533c2 |
+| 1325 | Reaper: Tale of a Pale Swordsman | [01000F300F082000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000F300F082000) | 1780f95f2107a40c |
+| 1326 | Record of Lodoss War - Deedlit in Wonder Labyrinth [Rev 1.0.0] | [0100EF0015A9A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EF0015A9A000) | 667484a8f759b6fd, 93a2a9a7c1be5aa3 |
+| 1327 | Red Colony [Rev 1.0] | [0100351013A06000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100351013A06000) | 668d86248cb21165 |
+| 1328 | Red Death | [0100069010592000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100069010592000) | af1c53e6a85198f7 |
+| 1329 | Red Faction Guerrilla Re-Mars-tered | [010075000C608000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075000C608000) | f1d71307616ab7e4 |
+| 1330 | Red Wings: American Aces | [01002DC0156A8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002DC0156A8000) | 2c27f0527a890a4a |
+| 1331 | Redeemer: Enhanced Edition | [01000D100DCF8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000D100DCF8000) | 86aa48e1585f2ee7 |
+| 1332 | Redemption Reapers | [010073F0197DA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010073F0197DA000) | abb7bfbfd88e76cd |
+| 1333 | Redout: Space Assault | [0100326010B98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100326010B98000) | 606f37176b3dd269 |
+| 1334 | Reed 2 [Rev 1.0.0] | [01003EF0118D2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003EF0118D2000) | d93fa66964036f0e |
+| 1335 | Reflex Unit 2 | [010014901201E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014901201E000) | 139abe52f6fa0748, fdea726242b49448 |
+| 1336 | Reknum | [0100A1D00FE54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A1D00FE54000) | bdcac16e3d2977b2 |
+| 1337 | RemiLore | [010095900B436000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095900B436000) | 39fbfc95e715944a, 48e6db6a91b59943, b27a372645a23e48 |
+| 1338 | Remnant: From the Ashes | [010010F01418E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010010F01418E000) | 49cf6b0b0a62f9e2 |
+| 1339 | REMOTE LIFE | [010026E017F54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026E017F54000) | eaa59f1693011055 |
+| 1340 | Remothered: Broken Porcelain | [0100FBD00F5F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FBD00F5F6000) | b999bd4c357f1be3 |
+| 1341 | Remothered: Tormented Fathers | [01008F600F2D0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008F600F2D0000) | c817fa3b253c70b5, eb57cf3434044523 |
+| 1342 | Remothered: Tormented Fathers | [0100FF300C902000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF300C902000) | eb57cf3434044523 |
+| 1343 | Resident Evil  | [010050F00BC1A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010050F00BC1A000) | 010050f00bc1a000, 6bec9b23b09df46c, fb4239aa962b429b |
+| 1344 | Resident Evil 0 | [010097000BC10000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010097000BC10000) | fb4239aa962b429b |
+| 1345 | Resident Evil 4 | [010099A00BC1E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010099A00BC1E000) | 82c2a04a21d3e0b8, 8ceaf0d2ae48a935 |
+| 1346 | Resident Evil 5 | [010018100CD46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010018100CD46000) | 010018100cd46000, c517ecbb79de9733, ebffdb223149a725 |
+| 1347 | Resident Evil 6 | [01002A000CD48000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002A000CD48000) | 061d2a06cd700785, 2a797a895c35383b |
+| 1348 | RESIDENT EVIL REVELATIONS 2 | [010095300212A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095300212A000) | aef8885ae0603c44 |
+| 1349 | Resident Evil: Revelations | [0100643002136000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100643002136000) | 7b0e2611e8c9cae5 |
+| 1350 | Rest in Pieces | [01004A600EB3E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A600EB3E000) | 56c0212550aee846 |
+| 1351 | Retro City Rampage DX | [0100F17004156000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F17004156000) | 34c173b15a2a9d09, f954b6268cb0c31d |
+| 1352 | Retro Machina | [01000ED014A2C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000ED014A2C000) | 0854ba405cd1554f |
+| 1353 | Return of the Heir | [01009AA014736000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009AA014736000) | 9dfcef719fc2c633 |
+| 1354 | Revenant Saga | [0100AA2006510000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AA2006510000) | 6462206160d88744 |
+| 1355 | Revenge Of Justice [Rev 1.0.0] | [010027400F708000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027400F708000) | 4f83d8adbbf69d48 |
+| 1356 | Reverie: Sweet As Edition | [01008FF00B8FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008FF00B8FA000) | 6945855dd2799048 |
+| 1357 | REZ PLZ | [010071D00F156000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010071D00F156000) | fc82339dcaa50b42 |
+| 1358 | Rhythm of the Gods | [010081D0100F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010081D0100F0000) | 6290d08ceb02ea4d, cff50afda441cc05 |
+| 1359 | Riddled Corpses EX | [01002C700C326000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C700C326000) | 4e87acad6e878c33 |
+| 1360 | Rift Adventure | [0100F5501483C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F5501483C000) | 05e742a660d46b42 |
+| 1361 | Rift Keeper | [0100AC600D898000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AC600D898000) | bde75d1f4547014c |
+| 1362 | Rigid Force Redux | [0100763010D5A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100763010D5A000) | b1285fb749d8fa45 |
+| 1363 | RiMS Racing [Rev 1.0.0] | [01003CD01299E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003CD01299E000) | 74c54f3670579c7a |
+| 1364 | Ring Fit Adventure | [01002FF008C24000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002FF008C24000) | b0a94a27a8ea158c |
+| 1365 | Ring of Pain | [0100F090122D2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F090122D2000) | 3c9cf3fc790de947 |
+| 1366 | Rise and Shine | [010065B00B0EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010065B00B0EC000) | c212c43cbce55e4d |
+| 1367 | Rise of the Third Power | [0100F05015052000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F05015052000) | 9941ff76a54112f0, d25000fa1bd13d9b |
+| 1368 | Rise: Race The Future | [01006BA00E652000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006BA00E652000) | 25e86d4af2490d40, ec792ee441368f4b |
+| 1369 | Risen [Rev 1.0.0] | [0100B140178B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B140178B6000) | 94ea2a7c7ee32eef |
+| 1370 | Rising Hell | [010020C012F48000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010020C012F48000) | 062e5ab0b5bda14f, b667f988dab60947 |
+| 1371 | Risk of Rain 2 | [010076D00E4BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076D00E4BA000) | e6a93d88f05ca346, eefe1f0f04f5c348 |
+| 1372 | Ritual: Crown of Horns | [010042500FABA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042500FABA000) | 3de5d42478b9e64a, b2536fd5d496664f |
+| 1373 | Rival Megagun | [0100A7D008392000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A7D008392000) | b5cd63f318862a41 |
+| 1374 | Rivals of Aether | [0100D2700DE7C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D2700DE7C000) | 8865505ebb80a0ac |
+| 1375 | RIVE: Ultimate Edition | [010069C00401A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010069C00401A000) | 87b9b2e7c8997fdb |
+| 1376 | River City Girls | [01004E700DFE6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004E700DFE6000) | 55670fa38f492343, 73e0765bf7b07047 |
+| 1377 | River City Girls 2 (rev001) [Rev 1.0.0.0] | [01002E80168F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002E80168F4000) | 7597240b0e03dc43 |
+| 1378 | River City Melee Mach!! | [0100B2100767C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B2100767C000) | 9c3bb6699dc39c4e |
+| 1379 | River City Saga: Three Kingdoms | [01005E101705C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005E101705C000) | cbb1a5cceb75c544 |
+| 1380 | Road Redemption | [010053000B986000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010053000B986000) | 2e690a37be3bb244, 314920e043074742 |
+| 1381 | Roah | [01000440123A6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000440123A6000) | 5971feaa4ee83249 |
+| 1382 | Robonauts ロボノーツ | [010042900A8CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042900A8CC000) | 894d7deb7c212365 |
+| 1383 | Robotech: The Macross Saga HD Edition | [010060B0129CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010060B0129CC000) | 6a57ec49b5438344 |
+| 1384 | Rockman X Anniversary Collection | [010012B0086C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010012B0086C0000) | bbae8b50000e47af |
+| 1385 | Rogue Explorer | [010090C014D3C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010090C014D3C000) | 7c7aad88b10a5d4d |
+| 1386 | Rogue Heroes: Ruins of Tasos | [01009FA010848000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009FA010848000) | a066c2c4ca84afa4 |
+| 1387 | Rogue Legacy [Rev 1.0.1] | [010056500AD50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010056500AD50000) | c4b40301fb00e359 |
+| 1388 | Rogue Singularity | [010068400ABB6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010068400ABB6000) | 180b54bcba560d43 |
+| 1389 | Rogue Trooper Redux | [01001CC00416C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001CC00416C000) | 01001cc00416c000, e14ba06266b126aa |
+| 1390 | RollerCoaster Tycoon 3 Complete Edition | [01004900113F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004900113F8000) | d44dc01dff9fa2f2 |
+| 1391 | Rolling Gunner | [010076200CA16000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076200CA16000) | 3e85b413d006e7f4 |
+| 1392 | Romancing SaGa -Minstrel Song- Remastered | [01004A6017E8A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004A6017E8A000) | 07a2419de0a62d94 |
+| 1393 | Romancing SaGa 2 | [01001F600829A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001F600829A000) | ba25511843ac1948 |
+| 1394 | Romancing SaGa 2 [Rev 1.0.1] | [0100BEF015C34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BEF015C34000) | a83bddab8194ff40 |
+| 1395 | Romancing SaGa 3 | [0100D0400D27A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D0400D27A000) | 65c66922bb286344 |
+| 1396 | Roulette at Aces Casino | [01005D3012322000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005D3012322000) | c9fe7052aa82234c |
+| 1397 | RUINER | [01006EC00F2CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006EC00F2CC000) | f199ffd7d83f399e |
+| 1398 | Rune Factory 3 Special [Rev 1.0.0] | [01001EF017BE6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001EF017BE6000) | d446b00cfa1eed5b |
+| 1399 | Rune Factory 4 Special | [010027100C79A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027100C79A000) | 78680e8a35f31d50 |
+| 1400 | Rune Factory 4 Special [Rev 1.0.0] | [010051D00E3A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010051D00E3A4000) | c03c9f6a862543f9 |
+| 1401 | Rune Factory 4 Special [Rev 1.0.0] | [010009400DD38000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010009400DD38000) | 2cec14b73753cf62 |
+| 1402 | Rune Factory 5 | [01002F7013224000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002F7013224000) | b07bb37077d3a54c |
+| 1403 | Rune Factory 5 [Rev 1.00.6] | [010014D01216E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014D01216E000) | 552d910b62926e40 |
+| 1404 | Rustler [Rev 1.0.0] | [010071E0145F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010071E0145F8000) | cf6371f1a91bcb4d |
+| 1405 | Ruvato : Original Complex | [01007690147D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007690147D8000) | b37f668e6958ba44 |
+| 1406 | RWBY: Arrowfell | [0100AF00185F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AF00185F2000) | 96217f63be208ae3 |
+| 1407 | S.N.I.P.E.R. - Hunter Scope | [0100B8B012ECA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B8B012ECA000) | 95c6f28b19df2d4f |
+| 1408 | Sacred Stones | [01005CE00F970000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005CE00F970000) | edad5c13e9f926f3 |
+| 1409 | SaGa Frontier Remastered | [0100A51013530000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A51013530000) | 38532d3efa8c1542, b895f6f2c665554b |
+| 1410 | Saints Row IV®: Re-Elected™ | [01008D100D43E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D100D43E000) | 3ffe0e20ec5360da, 5aee4a11a2391d4d, e601d29108935cba |
+| 1411 | Saints Row: The Third - The Full Package | [0100DE600BEEE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DE600BEEE000) | a8631edcc0013045, c619cc7fe091c312, ffedeb38f462558e |
+| 1412 | SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE | [010DE600BEEE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010DE600BEEE000) | ffedeb38f462558e |
+| 1413 | Sakuna: Of Rice And Ruin [Rev 1.0.0] | [0100B1400E8FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1400E8FE000) | 2523cb8b455abc1d, fc24c93ab8fc630b |
+| 1414 | Salt And Sanctuary | [0100D250083B4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D250083B4000) | 51156cac4dd69c27, 56e611cac30aed49, ecf47ade11877035 |
+| 1415 | Samurai Bringer | [01007E30176E6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007E30176E6000) | 5d62fcfdf3a3b5d0 |
+| 1416 | Samurai Defender: Ninja Warfare | [01002B400873C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002B400873C000) | c1ffa39d6bedce46, e33e4cd60710ac4d |
+| 1417 | Samurai Jack: Battle Through Time | [01006C600E46E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C600E46E000) | 6d5db3434ccf63f2 |
+| 1418 | SAMURAI MAIDEN | [01003CE018AF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003CE018AF6000) | 14da85ff27635c4c, 31a3a2e3e92f647b, 5658ca0402d38eb7, d10a6c1119b1063c |
+| 1419 | SAMURAI SHODOWN | [010066501069C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010066501069C000) | 81cd4e0887e05420 |
+| 1420 | SAMURAI SHODOWN | [01002DF00F76C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002DF00F76C000) | 881d373adf68a62e |
+| 1421 | Samurai Showdown | [01008FC00D964000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008FC00D964000) | 0670ffe5088a2139, ad27e9b20590843a, ec6d3fe35366bfee |
+| 1422 | SAMURAI WARRIORS 5 | [0100B28014132000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B28014132000) | 60b4e42155e07989, 810cba3d7db83ec0, aea6b2652ea9e34b |
+| 1423 | SamuraiAces for Nintendo Switch | [0100ADF0096F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ADF0096F2000) | 49cf469a110921e7 |
+| 1424 | Satazius NEXT | [01009580113A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009580113A4000) | 12be223e21ff518f |
+| 1425 | Savage Halloween | [01007130135E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007130135E2000) | 70a49340a64d574b |
+| 1426 | Scarlet Hood and the Wicked Wood | [01009BC016866000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009BC016866000) | eaf244798cb7a240 |
+| 1427 | Scott Pilgrim vs. The World™: The Game – Complete Edition | [0100394011C30000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100394011C30000) | 064f1988133c54db |
+| 1428 | ScourgeBringer | [01005F7011950000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005F7011950000) | 5a5e278a9102d445, bf34bbc69ab7c936, edef023ba60c527f |
+| 1429 | Scrap Riders | [0100EEA018BAC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EEA018BAC000) | 37592c90377408db, e3969df69ee5da5a |
+| 1430 | SD Gundam G Generation: Cross Rays [Premium G Sound Edition] | [010022900D3EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022900D3EC000) | 239145d13200977b, 2a8617716d59c2dd, 3871a99feb20ce86, 56e89cc6d60359e8, 79cd7c99f9189705, a2241f15842996d7 |
+| 1431 | SD Gundam: Battle Alliance [Rev 1.0.0] | [01002BE016054000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002BE016054000) | 0b9f1b331a7d6e73 |
+| 1432 | SD Gundam: Battle Alliance [Rev 1.0.0] | [010080001783A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010080001783A000) | 34ae27060a0de1d5, 44eb9091b80ae639 |
+| 1433 | Sea Of Solitude: The Directors Cut [Rev 1.0.0] | [0100AFE012BA2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AFE012BA2000) | 1d327b699c913a47 |
+| 1434 | Secrets of Magic 2 - Witches & Wizards | [01000C100CFD8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000C100CFD8000) | 8cdb26f131cae447 |
+| 1435 | Seek Hearts | [010075D0101FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075D0101FA000) | dc21619c9456324c |
+| 1436 | SEGA AGES Out Run | [0100D4D00AC62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D4D00AC62000) | 4449ceb401f9d642 |
+| 1437 | SEGA AGES Sonic The Hedgehog | [010051F00AC5E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010051F00AC5E000) | 9f107a9b28296d41 |
+| 1438 | SEGA AGES Sonic The Hedgehog 2 | [01000D200C614000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000D200C614000) | fcc0665401ede611 |
+| 1439 | SEGA AGES Thunder Force AC | [0100D0800C612000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D0800C612000) | 22a13e2c7fb7f796 |
+| 1440 | SEGA AGES Thunder Force IV | [0100D6800AC5C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D6800AC5C000) | 437743a9a4e50b44 |
+| 1441 | SEGA AGES Wonder Boy: Monster Land | [01001E700AC60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001E700AC60000) | 28071ec935dbb7a3 |
+| 1442 | SEGA Genesis Classics | [0100A6300B250000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A6300B250000) | 7980ad54fef93945 |
+| 1443 | Sega Mega Drive Classics | [0100F7300B24E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F7300B24E000) | 60b7597943d57b4b |
+| 1444 | SELFY COLLECTION　夢のスタイリスト | [010044700FB46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010044700FB46000) | 613da8ddcd6c1242 |
+| 1445 | Senjou no Valkyria 4 | [0100C11009378000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C11009378000) | 13197ccf3745e1c5 |
+| 1446 | Sephirothic Stories | [010059700D4A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010059700D4A0000) | 274d62f691fa5a40 |
+| 1447 | Serious Sam Collection | [010007D00D43A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007D00D43A000) | 5c5282206ebc804e |
+| 1448 | Seven Knights -Time Wanderer- | [010018400C24E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010018400C24E000) | 4b50363368364a94, f6667ba0d144374f |
+| 1449 | Shadow Blade: Reload | [0100D5500DA94000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D5500DA94000) | e03782d850353f40 |
+| 1450 | Shadow Gangs | [0100BE501382A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE501382A000) | a12ef68286ee36a1 |
+| 1451 | Shadows of Adam | [0100AD700CBBE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AD700CBBE000) | b90544ef4061b848 |
+| 1452 | Shadowverse: Champion's Battle | [01005880134C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005880134C2000) | 01003b90136da000, 1f936e043fb8c349 |
+| 1453 | Shady Part of Me | [0100820013612000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100820013612000) | 553900942d6cf36d |
+| 1454 | Shakedown: Hawaii | [0100B10002904000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B10002904000) | 82092df70410f821 |
+| 1455 | Shalnor Legends: Sacred Lands | [0100B4900E008000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B4900E008000) | 87d0fcd94b1e1b3d |
+| 1456 | Shantae and the Pirates Curse | [0100EFD00A4FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EFD00A4FA000) | 1ae49f909f236ef2 |
+| 1457 | Shantae and the Seven Sirens | [0100EB901040A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB901040A000) | 54db023d61d80c4e |
+| 1458 | Shantae: Half- Genie Hero Ultimate Edition | [01002AF009470000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002AF009470000) | 6559c96f6a92504d |
+| 1459 | Shantae: Half- Genie Hero Ultimate Edition! | [01006A200936C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006A200936C000) | 01006a200936c000, 27a4723579d81133 |
+| 1460 | Shantae: Half-Genie Hero | [0100AE0003424000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AE0003424000) | e0551154ab7ab947 |
+| 1461 | Shantae: Risky's Revenge - Director's Cut | [0100ADA012370000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ADA012370000) | f139ec48132e8b34 |
+| 1462 | Shaolin vs Wutang | [01003AB01062C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003AB01062C000) | 494799a88d1cd64d |
+| 1463 | Shaq Fu: A Legend Reborn | [0100769004584000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100769004584000) | be4eeedc9c1c054a |
+| 1464 | Shattered: Tale of the Forgotten King | [0100A0F0180D6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A0F0180D6000) | 4d42a2ca8232e8eb |
+| 1465 | Shieldmaiden: Remix Edition | [01005C0016188000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005C0016188000) | 81bc80747439c04c |
+| 1466 | Shieldwall Chronicles: Swords of the North | [0100C7E01442C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C7E01442C000) | f822b545f3b71a4e |
+| 1467 | Shikhondo - Soul Eater | [010061400A990000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010061400A990000) | 414e5441f75b234f |
+| 1468 | Shin Megami Tensei III Nocturne HD Remaster | [01003B0012DC2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003B0012DC2000) | 0b3b0f3a81c13c41, 69323306e9f5447f, ebd3efb2950f5140 |
+| 1469 | Shin Megami Tensei III: Nocturne HD Remaster [Rev 1.0.0] | [010045800ED1E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010045800ED1E000) | d809429f56d1ca44 |
+| 1470 | Shin Megami Tensei V | [010063B012DC6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010063B012DC6000) | 68fed4970010acf3, a6a06f3baefe4d75 |
+| 1471 | Shin Megami Tensei V [Rev 1.0.0] | [010038D0133C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038D0133C2000) | a7643f3b7d8ee906 |
+| 1472 | Shing [Rev 1.0] | [01009050133B4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009050133B4000) | 432bca17c1eef64e |
+| 1473 | Shinobi Blade | [0100006013A4A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100006013A4A000) | 020c7008b8751c4d |
+| 1474 | Shinobi Spirits S: Legend of Heroes | [0100B0300E8B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B0300E8B6000) | 3e251d14861e7b4d |
+| 1475 | Shinsekai Into the Depths™ | [01004EE0104F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004EE0104F6000) | a94795507e338446 |
+| 1476 | Shio | [0100C2F00A568000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C2F00A568000) | 98ffc4d49752c04a |
+| 1477 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | [01007430122D0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007430122D0000) | 9b3de98f500ba4ff, e1783a922ca90e2f |
+| 1478 | Shovel Knight: King of Cards | [01008B20022AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008B20022AA000) | 1dccdb6fe282748d |
+| 1479 | Shovel Knight: Shovel of Hope | [01002D2011850000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002D2011850000) | 6da1d223e4557e3d |
+| 1480 | Shovel Knight: Specter of Torment | [01001180021FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001180021FA000) | 5eabc1e307d28486 |
+| 1481 | Shovel Knight: Treasure Trove | [010057D0021E8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010057D0021E8000) | 1fe2563d9b1ff9b4, b9c8987a2f5ee46e |
+| 1482 | Shu | [01001DE0076A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001DE0076A4000) | 28cb1224495ddc4e, 92733fbf49aeae41 |
+| 1483 | Sid Meiers Civilization VI | [010044500C182000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010044500C182000) | 199e91fc40cb4f7d |
+| 1484 | Sigi - A Fart for Melusina | [01007FC00B674000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007FC00B674000) | 3112ad812b0a0c45, 8d2316a709875547 |
+| 1485 | Silent World | [0100A32010618000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A32010618000) | 3b2c913acdc2d24c |
+| 1486 | Silver Nornir | [0100D1E018F26000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D1E018F26000) | 40b99a5b8d3c5c48 |
+| 1487 | Sine Mora EX | [01002820036A8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002820036A8000) | a30ff4807facdd60 |
+| 1488 | SINNER: Sacrifice for Redemption | [0100B16009C10000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B16009C10000) | 2ad8ff948353fdfd |
+| 1489 | Sir Lovelot | [0100E9201410E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E9201410E000) | 23b711b95e9f4c78 |
+| 1490 | Skatemasta Tcheco | [01001F101289A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001F101289A000) | f84540a3289faf62 |
+| 1491 | Skelattack | [01001A900F862000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001A900F862000) | 1b419efede09e88b |
+| 1492 | Skellboy | [01008CA00CF34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008CA00CF34000) | 8ca43e408d847247, fce8993d4423a144 |
+| 1493 | Skul: The Hero Slayer | [0100ACF013E9A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ACF013E9A000) | 9cd50457d78ed3bb |
+| 1494 | Skullgirls 2nd Encore | [010046B00DE62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010046B00DE62000) | ac3b5f9d54899ec6 |
+| 1495 | Skully [Rev 1.0.0] | [0100D7B011654000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D7B011654000) | 1265f75ec9d5c2f9, cf28f8b7f5472223 |
+| 1496 | Sky Force Anniversary | [010083100B5CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010083100B5CA000) | 5af4ddbec5670d4a, 883f60906915d348 |
+| 1497 | Sky Force Reloaded | [01006FE005B6E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006FE005B6E000) | 01006fe005b6e000, 7ef14f11ea37d414, 98abc1afa513404a, f35d3df7cc780649 |
+| 1498 | Sky Jaguar 2 | [0100E0C010AB8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0C010AB8000) | 2f7f83f5fc76d702 |
+| 1499 | Skybolt Zack | [010041C01014E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010041C01014E000) | d51712a8cede1542 |
+| 1500 | Slain | [0100224004004000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100224004004000) | 9c150c477f6f7344 |
+| 1501 | Slay the Spire | [010026300BA4A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026300BA4A000) | 0f3b375b8e9518c9, 21d02e7d96188cf4, 334ab8bb31621c07, 678a5068b1db8450, a38237a9bfef6131, f1496a8d2effc1d2 |
+| 1502 | Slayaway Camp: Butchers Cut | [0100501006494000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100501006494000) | 1fb8f9e571155f4e |
+| 1503 | Slayin 2 | [01004E900EDDA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004E900EDDA000) | e67d4f728f112046 |
+| 1504 | Slots of Poker at Aces Casino | [0100023012640000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100023012640000) | f7148b7a4e88974a |
+| 1505 | SMASHING THE BATTLE | [01002AA00C974000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002AA00C974000) | b1662bb6d8542f4a |
+| 1506 | Smelter | [0100B45010E9C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B45010E9C000) | 1f9f743632739d4d, 7515c5c9ddce5f44 |
+| 1507 | Snack World: The Dungeon Crawl - Gold [Rev 1.0.0] | [0100F2800D46E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2800D46E000) | 929c0bea2bf097f7 |
+| 1508 | SNACK WORLD: THE DUNGEON CRAWL — GOLD | [010010400D46A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010010400D46A000) | 929c0bea2bf097f7, d3fa3aa21a0eb48c |
+| 1509 | Sniper | [0100839010DD6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100839010DD6000) | 197659f4ad54ea4b |
+| 1510 | Sniper Elite 3 [Ultimate Edition] | [010075A00BA14000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075A00BA14000) | 8a49c2d4180b9477 |
+| 1511 | Sniper Elite 3 [Ultimate Edition] [Rev 1.0.0] | [010009E00F49C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010009E00F49C000) | 8a49c2d4180b9477 |
+| 1512 | Sniper Elite 4 | [010007B010FCC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007B010FCC000) | bbfd41df5ba37d79 |
+| 1513 | Sniper Elite V2 Remastered | [0100BB000A3AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BB000A3AA000) | 4e6b0fe98465c36b, b61f280560a937d2, e8b40682041dafdd, f744cb9e08568aa9 |
+| 1514 | SNK GALS' FIGHTERS | [01007EE011116000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007EE011116000) | 3e4f4d748b244c82 |
+| 1515 | SNK HEROINES Tag Team Frenzy | [010027F00AD6C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027F00AD6C000) | 241e280992c82e65 |
+| 1516 | SNK Heroines: Tag Team Frenzy | [010007C00B508000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007C00B508000) | 27eeb113fd1fc102 |
+| 1517 | Snow Battle Princess Sayuki | [0100ADF00CB64000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ADF00CB64000) | 24620f1b3f64d649 |
+| 1518 | SNOW BROS. SPECIAL | [0100BFA01787C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BFA01787C000) | 0f969536450cf482 |
+| 1519 | Soccer Story | [010089D017A0A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010089D017A0A000) | cc2cbfacf38b006d |
+| 1520 | Son of a Witch | [01006AE00C6D6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006AE00C6D6000) | 777a6a89b56a68ef |
+| 1521 | Songbringer | [010031D00A604000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010031D00A604000) | 6d863b684db5bd73 |
+| 1522 | Songs for a Hero: Definitive Edition | [0100802012890000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100802012890000) | dd1d3e2eeb0ea969, f20687cc1eacd0e2 |
+| 1523 | Sonic Colors: Ultimate | [010040E0116B8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040E0116B8000) | 0fa6c17db4fad19c, 1cb3c3d728ec4bc0, 9e9b03d1fa193eda |
+| 1524 | Sonic Forces | [01001270012B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001270012B6000) | 6d9ea94f8aac00a8 |
+| 1525 | Sonic Forces | [0100111004460000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100111004460000) | 6d9ea94f8aac00a8 |
+| 1526 | Sonic Mania Plus [Rev1.04] | [01009AA000FAA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009AA000FAA000) | 03fd1524e17a841c |
+| 1527 | Souldiers | [0100439016FF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100439016FF6000) | 73c6eae859fa7e4e |
+| 1528 | South Park: The Fractured But Whole [Rev 1.0] | [01008F2005154000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008F2005154000) | df15edaaf603e00c |
+| 1529 | South Park™: The Stick of Truth™ | [010095300B6A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095300B6A4000) | 3728e6eb07b4e9ef |
+| 1530 | Space Blaze [Rev 1.0.0] | [0100B9F00C162000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B9F00C162000) | 5e127d37c8317a47 |
+| 1531 | Space Elite Force | [0100707011722000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100707011722000) | 5a5a9e3220a34b47 |
+| 1532 | Space Elite Force 2 | [010084F0123AC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010084F0123AC000) | bdfc6f3ea589874d |
+| 1533 | Space Grunts | [0100AE701287E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AE701287E000) | 0eb2cdc7cf560b04 |
+| 1534 | Space Invaders Forever | [0100F0C012C10000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F0C012C10000) | 2e9d4a761ab93843 |
+| 1535 | Space Invaders Forever [2x Rev 1.0.0] | [0100C56012C96000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C56012C96000) | 713e445c7e80134b |
+| 1536 | Space Revenge | [0100E0D014C4C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0D014C4C000) | 4033e17aa065677a |
+| 1537 | Space Robinson | [0100795011D68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100795011D68000) | 2bdbdeed272bb826 |
+| 1538 | Space Tail: Every Journey Leads Home | [0100C37019BC2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C37019BC2000) | c5e18ad101c1b6de |
+| 1539 | Sparklite | [01007ED00C032000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007ED00C032000) | bfafbb54899f1441, d0e79c23f66c2c42 |
+| 1540 | Spectacular Sparky | [010009F011FB2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010009F011FB2000) | 5ce9f689b77c794b, a22fe7b6ee7add57 |
+| 1541 | Speedway Bundle Stock & Truck | [01000D6013D36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000D6013D36000) | 3d46f1c57c982e45 |
+| 1542 | Spellspire | [0100E74007EAC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E74007EAC000) | 13c5b59ea899762f |
+| 1543 | Spelunker Party! | [010021F004270000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010021F004270000) | 65457968dae86a45 |
+| 1544 | Spelunky | [0100710013ABA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100710013ABA000) | 5197521a3eed9a81 |
+| 1545 | Spelunky 2 | [01007EC013ABC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007EC013ABC000) | a5a0bea13ad893fe, bbb29f6d5b5a7c05 |
+| 1546 | Sphinx and the Cursed Mummy | [0100BD500BA94000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD500BA94000) | 2d135b3b59a8949f, b73bf75feb33abc5 |
+| 1547 | Spinch | [010076D0122A8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076D0122A8000) | cef69569fefe245e |
+| 1548 | Spinny's Journey | [01001E40136FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001E40136FE000) | 67fcf2133c80e746 |
+| 1549 | Spirit Arena | [010001B01398C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010001B01398C000) | 4ff93be275dce443 |
+| 1550 | Spiritfarer | [0100BD400DC52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD400DC52000) | 0100bd400dc52000, 173156d7823bf145, 241262da79eb9e4e, 5c59f135645f9846, 899ac6d046e76345, d368bc1e9495514a |
+| 1551 | Splasher | [0100FF9003F10000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF9003F10000) | 84052a5d8a59604c |
+| 1552 | Splatoon 2 | [0100F8F0000A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F8F0000A2000) | 25e4de94c55dc7a3, 8a7f4570b0d5d94c |
+| 1553 | Splatoon 3 [Rev 1.0.0] | [0100C2500FC20000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C2500FC20000) | 19fe149d2955756c, 834c489e5ab3106c |
+| 1554 | SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | [010062800D39C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010062800D39C000) | 00114d2ec3f08a53, 28240ee1884416ae |
+| 1555 | SpongeBob SquarePants: The Cosmic Shake [Rev 1.0.0] | [01009FB0172F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009FB0172F4000) | f61911b562195493 |
+| 1556 | SpongeBob: Krusty Cook-Off | [01000D3013E8C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000D3013E8C000) | 6ec1a152ad773a4b |
+| 1557 | Sports Story | [010025B0100D0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010025B0100D0000) | 54274c14e7a05fae |
+| 1558 | Spyro: Reignited Trilogy | [010077B00E046000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010077B00E046000) | d2775fafcf4835cb |
+| 1559 | Squad 51 vs. the Flying Saucers | [0100BB2015FCA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BB2015FCA000) | dd4f8858bb96ea80 |
+| 1560 | Star Horizon | [0100EC2011B9C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC2011B9C000) | 52374a85f1ec7a44 |
+| 1561 | STAR OCEAN First Departure R | [0100EBF00E702000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EBF00E702000) | 5ec132f471291b7e |
+| 1562 | Star Renegades [Rev 1.0.0] | [0100D050135B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D050135B6000) | 19c0219a57c5e241 |
+| 1563 | Star Story: The Horizon Escape | [0100D7000AE6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D7000AE6A000) | 101279c95bf61b40 |
+| 1564 | STAR WARS™ Episode I Racer | [0100BD100FFBE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD100FFBE000) | 425007690f14dcb7, 4e91e35363a552d2, 6b81a9a7d4d34552, c695bb70759d44c6 |
+| 1565 | STAR WARS™ Jedi Knight II: Jedi Outcast™ | [0100BB500EACA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BB500EACA000) | fa0405385b531fcf |
+| 1566 | STAR WARS™ Republic Commando™ | [0100FA10115F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FA10115F8000) | 99cac56a0829ef37 |
+| 1567 | STAR WARS™: The Force Unleashed™ | [0100153014544000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100153014544000) | 017384c7c95f5ba7, 7164581c4a7e5739 |
+| 1568 | Stardew Valley | [0100E65002BB8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E65002BB8000) | 44ba37318c492264, 54d5695b9f5d8248, c45898e4542eccda, f24cc94cb6289ed2 |
+| 1569 | Stardust Galaxy Warriors: Stellar Climax | [01001B600BC32000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B600BC32000) | 69aa157d881de641 |
+| 1570 | Starlink: Battle for Atlas [Rev 1.0.0] | [01002CC003FE6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002CC003FE6000) | 630dc5de0776e6e8 |
+| 1571 | STAY COOL, KOBAYASHI-SAN!: A RIVER CITY RANSOM STORY | [0100B61009C60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B61009C60000) | 9b3795d79e82816f |
+| 1572 | SteamWorld Dig | [01009320084A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009320084A4000) | 9b8a73daf4b90ea9 |
+| 1573 | SteamWorld Heist: Ultimate Edition | [0100A21007FFA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A21007FFA000) | 8aebd36f3700963b |
+| 1574 | SteamWorld Quest: Hand of Gilgamech | [0100F6D00D83E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F6D00D83E000) | a3179fef84570923 |
+| 1575 | Steel Assault | [01001C6014772000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C6014772000) | 077e6c9060518627, 0ce7ee14a2cbb718 |
+| 1576 | Stela | [01002DE01043E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002DE01043E000) | 7aca9116672a7795 |
+| 1577 | Stitchy in Tooki Trouble | [010077B014518000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010077B014518000) | 511c939d3ea8a74a |
+| 1578 | Stoned for Fitness Boxing | [0100E7300AAD4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E7300AAD4000) | a44f64ba820eaa46 |
+| 1579 | Story of a Gladiator | [0100D5D00DAF2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D5D00DAF2000) | 8e66d62ef6a31e46 |
+| 1580 | Story Of Season: Friends of Mineral Town [Rev 1.0.0] | [0100ED400EEC2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100ED400EEC2000) | 5ce05588b1d56ec0, 7f00ec72055a9dca, 9587aa1da8220111, b781309cf5399c6a, e963f5692eb8aedd |
+| 1581 | STORY OF SEASONS: Friends of Mineral Town | [0100AA000EEB2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AA000EEB2000) | 5ce05588b1d56ec0 |
+| 1582 | STORY OF SEASONS: Pioneers of Olive Town | [010082E012A84000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082E012A84000) | 4410c92b04087143, a4095add59310847, ab82dad4706e0747, ebd208b4b2bf0b42 |
+| 1583 | Straimium Immortaly | [0100DA000D71A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA000D71A000) | 1cc83aea9778d972 |
+| 1584 | Stranded Deep | [01004F4014C62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004F4014C62000) | 61975b301708e44b |
+| 1585 | Stranded Sails - Explorers of the Cursed Islands | [010078D00E8F4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010078D00E8F4000) | be0c58a3ae69eb4f |
+| 1586 | Strange Brigade | [01001DC012E7E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001DC012E7E000) | a10395220968afa4, af134532a4e50784 |
+| 1587 | Stranger Things 3: The Game | [0100DD600DD48000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DD600DD48000) | 5dddf2ec1683c444 |
+| 1588 | Street Fighter 30th Anniversary Collection | [0100024008310000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100024008310000) | a65e31f83f2cbb54 |
+| 1589 | Street Racing: Tokyo Rush | [01001E901482A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001E901482A000) | ad575e1c5d3e414b |
+| 1590 | Streets of Rage 4 | [0100EC9010258000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC9010258000) | 20cc1e2d6502624a, 94e241a6ce450751, a69706619587f523, c4725c8a6bcc1b29, cccdc48539e8cc1f, ff092115439d1f8a |
+| 1591 | Streets of Red : Devils Dare Deluxe | [0100C1700A9F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C1700A9F0000) | c7e03551b705ba49 |
+| 1592 | Strike Force 2 - Terrorist Hunt | [01004B500F07C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B500F07C000) | e8785f78d8d42b74 |
+| 1593 | STRIKERS1945 for Nintendo Switch | [0100FF5005B76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF5005B76000) | 13a66415dfd9fc45, 349e43d4f0e71aaa, fe906f0365d9dcfe |
+| 1594 | STRIKERS1945Ⅱ for Nintendo Switch | [0100720008ED2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100720008ED2000) | 44b325524b98375b, 6cd0059343d5c11a, c1fcd151248425e7 |
+| 1595 | STRIKERS1999 for Nintendo Switch | [0100D8200D4E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D8200D4E2000) | 537bee1f2ffc7f7f, 7f555bcfac873e7a |
+| 1596 | SturmFront - The Mutant War: Übel Edition | [010029701420A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010029701420A000) | c7cae59f4a307241 |
+| 1597 | STURMWIND EX | [0100C5500E7AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C5500E7AE000) | b529a461f3a7d61c |
+| 1598 | Subnautica | [0100429011144000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100429011144000) | 90bbaf36dd244c48 |
+| 1599 | Subnautica: Below Zero | [010014C011146000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014C011146000) | 90bbaf36dd244c48 |
+| 1600 | Summer in Mara | [0100A130109B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A130109B2000) | 01ecf7c70a87804c, 497bf9528e83e64b |
+| 1601 | Summer Sweetheart | [01004E500DB9E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004E500DB9E000) | f203511733ae3449 |
+| 1602 | Sundered: Eldritch Edition | [01002D3007962000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002D3007962000) | a2dfd07e5eb5f743 |
+| 1603 | Sunwards | [010039A019B20000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010039A019B20000) | 3672353f008decd7 |
+| 1604 | Super Bomberman R | [01007AD00013E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007AD00013E000) | 146eaadfe847c841, a0a745da9ae25946 |
+| 1605 | Super Daryl Deluxe | [010078800869A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010078800869A000) | 3b7455aaa75e1b27 |
+| 1606 | Super Dragonball Heroes World Mission | [0100CAF00C462000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CAF00C462000) | 390a4067482509c9, c7be7a7c6253b52d |
+| 1607 | Super Dragonfly Chronicles | [0100967012972000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100967012972000) | 54e6066bd8697d47 |
+| 1608 | Super Hydorah | [010099F00B374000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010099F00B374000) | 772010c59b988e26, 98d835a423bdbcfa |
+| 1609 | Super Kirby Clash™ | [01003FB00C5A8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003FB00C5A8000) | c9649e053bd7be27, dcdfa5a4ad9a175d |
+| 1610 | Super Mario 3D All-Stars [Rev 1.0.0] | [010049900F546000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049900F546000) | a638857e6df584ff, bdd6dc7da7a69290, ff44f58218c6a6b2 |
+| 1611 | Super Mario Maker 2 | [01009B90006DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009B90006DC000) | 3ebb1eb2fffb029a, 60b80d35e3db7606, e7101fe3bb2c4bac, e74294b43f76ef2a, edb8feede2bfa3ff |
+| 1612 | Super Mario Odyssey | [0100000000010000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100000000010000) | 3ca12dfaaf9c82da, b424be150a8e7d78, f5dccddb37e97724 |
+| 1613 | Super Mario Party | [010036B0034E4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010036B0034E4000) | 49a50a8bcfa6b036, 9f13b69757666412 |
+| 1614 | Super Mario™ 3D World + Bowser’s Fury | [010028600EBDA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010028600EBDA000) | 891687f016a18f17, 9f7efc2fb9653e5c |
+| 1615 | Super Meat Boy | [01004F8006A78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004F8006A78000) | 18bafde1b12b11be |
+| 1616 | Super Meat Boy Forever | [01009C200D60E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009C200D60E000) | ebb3ab15544f5df7 |
+| 1617 | Super Monkey Ball Banana Mania | [010001701248C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010001701248C000) | 0e563a7ff32784ec |
+| 1618 | Super Monkey Ball: Banana Blitz HD | [0100B2A00E1E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B2A00E1E0000) | 0da43de40287b24a, 5814a3099a30b54a, 82bce946568dd041 |
+| 1619 | Super Nintendo Entertainment System™ - Nintendo Switch Online | [01008D300C50C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D300C50C000) | 46cffeefe486d553, 5667fbc45986b522, edac20e98757406e |
+| 1620 | Super Phantom Cat: Remake | [0100C9A00D124000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C9A00D124000) | fdc133d5edcc9945 |
+| 1621 | Super Pixel Racers | [0100F5100E9DE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F5100E9DE000) | 9cdcb9b1dd852c49 |
+| 1622 | Super Punch Patrol | [01001F90122B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001F90122B2000) | 01001f90122b2000, 403e242118364bd6 |
+| 1623 | Super Putty Squad | [0100331005E8E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100331005E8E000) | a028e4f0c384a83c |
+| 1624 | Super Robot Wars 30 [Rev 1.0.0] | [010022201229A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022201229A000) | 2277b2804ed2c1c6, e1a7baf96c0b02f6 |
+| 1625 | SUPER ROBOT WARS T | [01006C900CC6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C900CC6000) | f78fbd6e48e6fce1 |
+| 1626 | Super Robot Wars T | [01006C900CC60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006C900CC60000) | 3a1a0309a1a756df, b49e93fb9664813b, fc92ab978eb6c815 |
+| 1627 | Super Robot Wars V | [0100CA400E300000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CA400E300000) | 736eb95aca241014, be5faeaf26b2bd48, eac0ac0033ce59e1 |
+| 1628 | Super Robot Wars X [Rev 1.0.0] | [010026800E304000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010026800E304000) | 4873aa2e8514685f, cefbf4f864b51f37 |
+| 1629 | Super Saurio Fly | [01004CF00A60E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004CF00A60E000) | 6c8970071ef11148 |
+| 1630 | Super Smash Bros. Ultimate | [01006A800016E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006A800016E000) | 06646fddd47a619f, 1b4270ced2653872, 2ef410f4d4d2d279, 343d891a4bcf0684, 4590c9bb2c530754, 4a3f8ed7dcce3ad4, 7a77e0d95e57814c, 875f34e0d735b604, 9825a8b3c3904a82, 9fe4e3c363968930, b0cb5479f051741a, d45361e905c9e3c1, fd471eb458c915e7 |
+| 1631 | Super Street Racer | [0100FB400F54E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FB400F54E000) | 72971ef198d7792b |
+| 1632 | Super Street: Racer | [010074200E910000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010074200E910000) | b9f66d47fc26defa |
+| 1633 | Super Toy Cars | [0100384009344000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100384009344000) | f8c08ad2cda26a46 |
+| 1634 | Super Toy Cars Offroad | [0100B65013636000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B65013636000) | 664244c1cbabe8b7 |
+| 1635 | Super Trunko Go | [010028801AFE8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010028801AFE8000) | 2a4c1e3f532c3a46 |
+| 1636 | SuperEpic: The Entertainment War | [0100630010252000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100630010252000) | 583c5daa080f9f49 |
+| 1637 | Superpanda 2 | [0100B75018A6E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B75018A6E000) | 6beb59a0abbd15ad |
+| 1638 | Supraland | [0100A6E01201C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A6E01201C000) | 3e829f9d2a644e30 |
+| 1639 | Survive! MR.CUBE | [010029A00AEB0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010029A00AEB0000) | e982392825a0b048 |
+| 1640 | Sushi Striker: The Way of Sushido | [0100DDD0085A4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DDD0085A4000) | 06544787c615088e |
+| 1641 | SWORD ART ONLINE: FATAL BULLET Complete Edition | [01005DF00DC26000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005DF00DC26000) | 029c2837b0eee8a9, 0bc8e0955e19e9ed, 7d388942a921e50a |
+| 1642 | SWORD ART ONLINE: Hollow Realization Deluxe Edition | [0100EC400D54E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EC400D54E000) | 1fe34416e3f057ad |
+| 1643 | SWORD ART ONLINE: Hollow Realization Deluxe Edition | [01001B600D1D6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B600D1D6000) | 0c356a98bcf20184, be2722b00a4d6573 |
+| 1644 | Sword of the Guardian | [01001C900CAD0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C900CAD0000) | 21b490c1f7d43b4b |
+| 1645 | Sword of the Necromancer | [0100E4701355C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E4701355C000) | b4e61e315d54142f |
+| 1646 | Sword of the Vagrant | [0100BD000CB2C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD000CB2C000) | 1f1363ec8cc83c73 |
+| 1647 | Swords and Sandals: Spartacus | [0100241012432000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100241012432000) | 8729a8df5adf0646 |
+| 1648 | Syder Reloaded | [0100A2500E232000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A2500E232000) | 899a1b60b0b44747, fb9b6960f530944d |
+| 1649 | Sydney Hunter and the Curse of the Mayan | [010007300C482000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007300C482000) | 1d9b0b8d64487d43, 70852b805bbf7b4a |
+| 1650 | Table Top Racing: World Tour - Nitro Edition | [010015B00BB00000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010015B00BB00000) | 2acb02a77b0dc448 |
+| 1651 | Tails Of Iron | [0100EF3013F60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EF3013F60000) | a164c9dab8988b11 |
+| 1652 | Takotan | [0100761012B0C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100761012B0C000) | 89b21f067b29073a |
+| 1653 | Tales of Vesperia: Definitive Edition | [01002C0008E52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C0008E52000) | 9e812d3826d6e7ac, e16a71d239010576, f244b656b1cafe52 |
+| 1654 | Tales of Vesperia™: Definitive Edition | [01002C0008E5200](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C0008E5200) | 9e812d3826d6e7ac, f244b656b1cafe52 |
+| 1655 | Tamashii | [010012800EE3E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010012800EE3E000) | 196ac2bdeba69477 |
+| 1656 | Tamiku | [010008A0128C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010008A0128C4000) | a437e84f0f0158e1 |
+| 1657 | Tangledeep | [010048F007ADE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010048F007ADE000) | ab6322343406634a |
+| 1658 | Taxi Chaos | [0100B76011DAA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B76011DAA000) | ed6980128b99108a |
+| 1659 | Tcheco in the Castle of Lucio | [0100F43011E5A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F43011E5A000) | 505340019ca26040 |
+| 1660 | Team Sonic Racing | [010092B0091D0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010092B0091D0000) | 158af044f62a4aa2, 9ca62cc01a646921 |
+| 1661 | Tears of Avia | [010076E0150CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076E0150CC000) | 98b20f02ef446776 |
+| 1662 | Teenage Mutant Ninja Turtles: Shredder's Revenge | [0100FE701475A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FE701475A000) | 18c437d0f8d74cc1, 1ffb60c2c26d3dab, 3602ea0cb9bb3183, 3cb1b07abe602860, ced3a84e211f4b33, f3280d919e4a625b |
+| 1663 | TENGAI for Nintendo Switch | [0100B2600A398000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B2600A398000) | f11440abc24deb09 |
+| 1664 | Tennis in the Face | [01002970080AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002970080AA000) | 6a819ad63d809d95 |
+| 1665 | Terraria | [0100E46006708000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E46006708000) | 0a22a4322335834d, 364dc52deb2a5c46, 877a4236c64b0e4e, a85426058506934f |
+| 1666 | Terraria [Rev 1.0] | [010024B00F9D0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010024B00F9D0000) | 1f53e00d05581144 |
+| 1667 | Teslagrad | [01005C8005F34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005C8005F34000) | 6290d08ceb02ea4d |
+| 1668 | Teslagrad 2 | [010078801815C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010078801815C000) | 4006212d5e19477d |
+| 1669 | TETRIS 99 | [010040600C5CE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040600C5CE000) | 07b0a65f53280fc8, 3f63328f03aaf417 |
+| 1670 | Tetris® Effect: Connected | [0100DE501433A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DE501433A000) | 02e64f62153c1f00, 4aea702b9de72fd5 |
+| 1671 | THE ALLIANCE ALIVE HD REMASTERED | [01003CF00DCFA00](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003CF00DCFA00) | 16139c5ae42d284e |
+| 1672 | The Alliance Alive HD Remastered [Awakening Edition] | [01003CF00DCFA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003CF00DCFA000) | 4df9da0bd7a61546 |
+| 1673 | The Alliance Alive HD Remastered [Awakening Edition] | [010083A00B2DA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010083A00B2DA000) | 89b3007e82ae104a |
+| 1674 | The Bard's Tale ARPG: Remastered and Resnarkled | [0100CD500DDAE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CD500DDAE000) | cd98cc2621a30f51 |
+| 1675 | The Battle Cats Unite! [Rev 1.0.0] | [01001E50141BC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001E50141BC000) | 1776649361747405 |
+| 1676 | The Binding of Isaac: Afterbirth Plus | [0100F8A004458000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F8A004458000) | d6e5754880af8be3 |
+| 1677 | The Binding of Isaac: Afterbirth Plus | [010021C000B6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010021C000B6A000) | 4fb46e8cdfad75ad, 9872b9e3508b9ffe, b33a680a4eeaeedf, cd4463054576d9be, d6e5754880af8be3 |
+| 1678 | The Binding of Isaac: Afterbirth+ | [01005B9002312000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005B9002312000) | 148657004cd52eaf |
+| 1679 | The Bounty Huntress | [010059C0192EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010059C0192EA000) | 279c0ddf17efec4f |
+| 1680 | The Bug Butcher | [01008D700AB14000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D700AB14000) | 1763c8105148364a |
+| 1681 | The Bug Butcher (ザ・バグ・ブッチャー) | [0100CA900B6BA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CA900B6BA000) | f529fa78f576c24a |
+| 1682 | The Captain | [0100562018716000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100562018716000) | 6a907254eae4594d |
+| 1683 | THE Card Battle: Eternal Destiny | [0100FBE0151DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FBE0151DC000) | a354be6dd8d06f46 |
+| 1684 | THE Card: Poker, Texas hold 'em, Blackjack and Page One | [0100EB600AB5E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB600AB5E000) | 42407ec9b931e646 |
+| 1685 | The Colonists [Rev 1.0.1.7] | [0100506016586000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100506016586000) | 83092fbdf5f6ad4c |
+| 1686 | The Coma 2: Vicious Sisters | [0100B7C01169C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B7C01169C000) | 6b8c6bd1c4c4f145 |
+| 1687 | The Coma: Recut | [010033100691A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010033100691A000) | ac20f6432b5ca44b |
+| 1688 | The Coma: Recut | [0100451012918000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100451012918000) | 5136f141b1639f4e |
+| 1689 | The Company Man | [010060E015FF2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010060E015FF2000) | b6e5d1e72ca8ab7a |
+| 1690 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000F20102AC000) | 2fbe522f4dbad51e |
+| 1691 | The Count Lucanor | [01000850037C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000850037C0000) | 2eaaf5f168f363d9 |
+| 1692 | The Dark Crystal: Age of Resistance Tactics | [010051800E922000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010051800E922000) | 01744dbed078494c |
+| 1693 | The Elder Scrolls V: Skyrim | [01000A10041EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000A10041EA000) | f924779598832227 |
+| 1694 | The Explorer of Night | [0100308013768000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100308013768000) | aaae665afcc8794e |
+| 1695 | The Falconeer: Warrior Edition | [0100BA5013E52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BA5013E52000) | 450f1e06cb093f4e |
+| 1696 | The Final Station | [0100CDC00789E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CDC00789E000) | 56de44e38c9a4b44 |
+| 1697 | The Flame in the Flood | [0100C38004DCC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C38004DCC000) | 2ef0f322f3a40e7d |
+| 1698 | The Forbidden Arts | [010007700D4AC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007700D4AC000) | 47834dd89cc22747 |
+| 1699 | The friends of Ringo Ishikawa | [010030700CBBC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010030700CBBC000) | 3749bfea64dc98df |
+| 1700 | The Good Life | [0100B1B015ABA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1B015ABA000) | 4b7c5de5de1b9f5b |
+| 1701 | The Great Ace Attorney Chronicles | [010036E00FB20000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010036E00FB20000) | 1da748fc9499882f |
+| 1702 | THE HOUSE OF THE DEAD: Remake | [010088401495E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010088401495E000) | cf5a2add49121042 |
+| 1703 | The Incredible Adventures of Super Panda | [0100D1500F6DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D1500F6DC000) | 56d6a748dd5cc64c |
+| 1704 | The King's Bird | [010020500BD98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010020500BD98000) | 881bac95c002184f |
+| 1705 | The Knight Witch | [0100E8501816E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E8501816E000) | ffb321c2f27c8984 |
+| 1706 | THE LAST BLADE: Beyond the Destiny | [0100A35012908000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A35012908000) | 9ddb09ed29cfd95f |
+| 1707 | The Last Dead End | [0100AAD011592000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AAD011592000) | e37415338f94905a |
+| 1708 | The Last Friend | [010007901467A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007901467A000) | 9f15fcd4717ada85 |
+| 1709 | The Last Kids on Earth and the Staff of Doom | [0100C27011544000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C27011544000) | 562f197c579e7a45, 69ee3835aa82d64d |
+| 1710 | THE LAST REMNANT Remastered | [0100AC800D022000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AC800D022000) | 4bc3de4ea95c471d |
+| 1711 | The Legend of Dark Witch | [0100B1900F0B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1900F0B6000) | 688f083106e7467d, d469aa790876b5f6, f062735ce0525729 |
+| 1712 | The Legend of Heroes: Trails of Cold Steel III | [01005420101DA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005420101DA000) | 134ec3d8be75126f |
+| 1713 | The Legend Of Heroes: Trails Of Cold Steel IV [Rev 1.0.0] | [0100D3C010DE8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D3C010DE8000) | 4980e9e242678015 |
+| 1714 | The Legend of Ninja | [0100C5A01327E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C5A01327E000) | 3bf0514d5fc82e4e |
+| 1715 | The Legend of Tianding | [0100AD90155FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AD90155FC000) | 0edbc12f53aeb997 |
+| 1716 | The Legend of Zelda: Breath of the Wild | [01007EF00011E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007EF00011E000) | 16a91992bba71201, 8e9978d50bdd20b4 |
+| 1717 | The Legend of Zelda: Links Awakening | [01006BB00C6F0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006BB00C6F0000) | 909e904af78ac1b8, ae16f71e002af8cb |
+| 1718 | The Legend of Zelda™: Skyward Sword HD | [01002DA013484000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002DA013484000) | 5441af3c89f97e1d, d824d4b1bbd45d03 |
+| 1719 | The Legend of Zelda™: Tears of the Kingdom | [0100F2C0115B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F2C0115B6000) | 082ce09b06e33a12 |
+| 1720 | The LEGO Movie 2 Videogame | [0100A4400BE74000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A4400BE74000) | bac1309ddf75b14d |
+| 1721 | The LEGO NINJAGO Movie Videogame | [01000CE002072000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000CE002072000) | 2aa90ecc2a24da46 |
+| 1722 | The Lightbringer | [0100491014980000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100491014980000) | eb736d27f0bbf7cf |
+| 1723 | The Long Dark | [01007A700A87C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007A700A87C000) | 9b4979a234077441, ac7114153a1da944 |
+| 1724 | The Lost Child | [01008A000A404000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008A000A404000) | c7209aeda44b0447 |
+| 1725 | The Lost Cube | [01000F2013CF8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000F2013CF8000) | 7d646a32a37bf945 |
+| 1726 | The Messenger | [0100DC300AC78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DC300AC78000) | 2a979c3fdf717642, d8e60563c302aa41, eabd92ad1cdc0e43, ede81745c5421d45, fb6206b43c698a4b |
+| 1727 | The Mummy Demastered | [0100496004194000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100496004194000) | fe343c581ba5b49f |
+| 1728 | The Ninja Saviors: Return of the Warriors | [01001FB00E386000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001FB00E386000) | 55f09d019671d740 |
+| 1729 | The Ninja Warriors Once Again (ザ・ニンジャウォーリアーズ ワンスアゲイン) | [010036200CF6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010036200CF6A000) | 61d93ce7139cd44e, a19f68759121af43 |
+| 1730 | The Outer Worlds | [0100626011656000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100626011656000) | 4382212487d292d0, 4a64edcb99de833c, 761cd556ab357c87, 7d68e9e4670405a4, 9f310253603704d9 |
+| 1731 | The Pathless | [0100D5501522C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D5501522C000) | 54e89af3414e549a |
+| 1732 | The Persistence | [010050101127C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010050101127C000) | 4d1c7699d3fe0e32 |
+| 1733 | The Pinball Arcade | [0100CD300880E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CD300880E000) | fadc5bb443b6d715 |
+| 1734 | The Princess Guide | [0100E6A00B960000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E6A00B960000) | 1d20c4a989b37608 |
+| 1735 | The Pyraplex | [0100BBD00D9D6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BBD00D9D6000) | bf59a5d4241b924e |
+| 1736 | The Rumble Fish 2 | [0100EB6018686000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB6018686000) | 6db781a57ab0dcf6 |
+| 1737 | The Serpent Rogue | [01000CB016F3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000CB016F3A000) | 1a8ee1af3edcafae |
+| 1738 | The Sinking City | [010028D00BA1A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010028D00BA1A000) | 85e49c169a8b988a |
+| 1739 | The Snack World: Trejarers Gold | [010072B007418000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072B007418000) | 26d8482bad9998b2 |
+| 1740 | The Story Goes On | [01007FA00DA22000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007FA00DA22000) | 829f522f9904634e |
+| 1741 | The Survivalists [Rev 1.0] | [0100EF200DA60000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EF200DA60000) | 9237d917928aeb4a |
+| 1742 | The Swords of Ditto: Mormo's Curse | [010037D00D568000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010037D00D568000) | 998578d430bc7d3f, fcb264311604ca8b |
+| 1743 | The TakeOver | [0100CAE01021A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CAE01021A000) | 8d298584cde83d4f |
+| 1744 | The Touryst | [0100C3300D8C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C3300D8C4000) | 0b66b82e9902a3c1, 7dcda84f355f527f |
+| 1745 | The Way Remastered | [0100F8900A5B0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F8900A5B0000) | 45d613aebd45af46 |
+| 1746 | The Witcher 3: Wild Hunt | [0100E67012924000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E67012924000) | caf28ae07f8cf6c0, ef9887f9546bd28c |
+| 1747 | The Witcher 3: Wild Hunt [Complete Edition] | [01003D100E9C6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D100E9C6000) | 11f23ecbdfba7e24, 4ffb62f1cd9e17f8, 7d0794dc20faf372, 986ce0bb97d63ce6 |
+| 1748 | The Witcher 3: Wild Hunt [Complete Edition] | [010019C00E9CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010019C00E9CC000) | 7d0794dc20faf372, 986ce0bb97d63ce6 |
+| 1749 | The Witcher 3: Wild Hunt — Complete Edition | [0100BFE00E9CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BFE00E9CA000) | 7d0794dc20faf372 |
+| 1750 | The Wonderful 101: Remastered | [0100B1300FF08000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1300FF08000) | 6f043b70de8f5893 |
+| 1751 | The World Ends With You: Final Remix | [0100C1500B82E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C1500B82E000) | 2a5408063198b646 |
+| 1752 | Theatrhythm: Final Bar Line [Rev 1.0.0] | [010024201834A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010024201834A000) | db05af6e93537cd6 |
+| 1753 | They Bleed Pixels | [01001C2010D08000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001C2010D08000) | 073a619a4a4c528d |
+| 1754 | Thief Simulator | [0100CE400E34E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CE400E34E000) | d01cbd41caa0d840 |
+| 1755 | This Strange Realm Of Mine | [0100C7C00F77C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C7C00F77C000) | 89ddb76dc0cca744 |
+| 1756 | Thunder Paw | [01009AF0110E4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009AF0110E4000) | d724828447669524 |
+| 1757 | Thy Sword [Rev 1.0.0] | [01000AC011588000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000AC011588000) | ae9902f06d93bfeb |
+| 1758 | Time Recoil | [0100F770045CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F770045CA000) | dddf84085a5a59af |
+| 1759 | Timespinner | [0100DD300CF3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DD300CF3A000) | 95947700181f5c61 |
+| 1760 | Tin & Kuna | [0100F7C010AF6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F7C010AF6000) | 3764ce647410824a |
+| 1761 | Tiny Barbarian DX | [0100D940022F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D940022F6000) | 069b9a025b219e56 |
+| 1762 | Tiny Gladiators | [0100DF900FC52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DF900FC52000) | 90ebcb0fd4322e45 |
+| 1763 | TINY METAL: FULL METAL RUMBLE | [0100B1600DB3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1600DB3A000) | 86892ef0abdaaaa3 |
+| 1764 | Tiny Troopers Joint Ops XL | [0100B52006E8C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B52006E8C000) | 4eed78e274c5824b |
+| 1765 | Tiny Troopers Joint Ops XL | [0100D3D008E6C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D3D008E6C000) | 1962dda88596d44a |
+| 1766 | Titan Quest | [0100605008268000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100605008268000) | 473269469145c1cf, 8f39d37c86ea460a |
+| 1767 | ToeJam & Earl: Back in the Groove! | [0100B5200BB7C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B5200BB7C000) | 8e06e89604736b46, 9386ab7fd676d747 |
+| 1768 | Toki | [0100F3400A432000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F3400A432000) | 1838099aae00b548, 9bf460fb87a78144 |
+| 1769 | TOKOYO: Tower of Perpetuity | [01001F7014F14000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001F7014F14000) | b046759d3bc18047 |
+| 1770 | Tokyo Mirage Sessions ♯FE Encore [Rev 1.0.0] | [0100A9400C9C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A9400C9C2000) | 33463e11899166bb |
+| 1771 | Tonight We Riot | [0100D400100F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D400100F8000) | 3567e82c6981424d |
+| 1772 | Tony Hawk's™ Pro Skater™ 1 + 2 | [0100CC00102B4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CC00102B4000) | 8afcbe6a930cd42e, 93a4bfb86bca2c3d |
+| 1773 | Toon Shooters 2: The Freelancers | [0100D31013F24000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D31013F24000) | 206c185e2f5a9a2e, c41d950ba5984bfc |
+| 1774 | Toon War | [01009EA00E2B8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009EA00E2B8000) | 13ef97853a0caa46 |
+| 1775 | Torchlight II | [010090400D366000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010090400D366000) | 3c58651f0107fbe1, 99a367d031056e1f, a0c6c2d22dea7933 |
+| 1776 | Torchlight III | [010075400DDB8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075400DDB8000) | 9c4a5006b994e86e, b6e63986d4fee5fd, e500a363d43b1ccc |
+| 1777 | Tormented Souls | [010046401399C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010046401399C000) | e65f2d1c5f239154 |
+| 1778 | Touhou Genso Wanderer -Lotus Labyrinth R- | [0100A7A015E4C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A7A015E4C000) | 7546a496ebc6dcbc |
+| 1779 | Touhou Luna Nights | [0100D850131B0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D850131B0000) | fe5b26032bfc9289 |
+| 1780 | Touken Ranbu Warriors | [0100DC9016C7C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DC9016C7C000) | db92fb1a713c6b45 |
+| 1781 | Towaga: Among Shadows | [010062900E610000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010062900E610000) | 777978c76acca348 |
+| 1782 | Tower Princess | [0100DA1014B78000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DA1014B78000) | 095b0d3f9b1fbd3e |
+| 1783 | Towertale | [0100F6200F77E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F6200F77E000) | 867076902772414c |
+| 1784 | Toy Stunt Bike: Tiptops Trials | [01009FF00A160000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009FF00A160000) | 8e1f47e7060f7c80 |
+| 1785 | Traditional Tactics Ne+ | [010008C01010A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010008C01010A000) | 70fbec50f87b5a80 |
+| 1786 | Transformer: Battlegrounds [Rev 1] | [01005E500E528000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005E500E528000) | 28f6c06633f0534b |
+| 1787 | Transiruby | [0100A86014332000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A86014332000) | 0adf2cfa6ca22a81, 9e0b8de6c9132ef8 |
+| 1788 | Transistor | [0100BE500BEA2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE500BEA2000) | 7ed6b28290c61cbe |
+| 1789 | Travis Strikes Again: No More Heroes | [010011600C946000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010011600C946000) | 2ff317a1828bc0fc, ef72a4b5bf1973f3 |
+| 1790 | Trek to Yomi | [0100D77019324000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D77019324000) | f93fe010a1fc10bd |
+| 1791 | Trials of Mana | [0100D7800E9E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D7800E9E0000) | 74a7b4b505977ca5, 92c25172d38dfedb, 9e66575bdc49ec40, e419da6f3bf16a1c |
+| 1792 | Trials of Mana (中文版) | [0100E2D00FE90000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E2D00FE90000) | a712ff9389602dcb |
+| 1793 | Trine 2: Complete Story | [010064E00A932000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010064E00A932000) | 525b902e6f916ea5 |
+| 1794 | Trine 3: The Artifacts of Power | [0100DEC00A934000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DEC00A934000) | 86d9ea9ca4680295 |
+| 1795 | Trine 4: The Nightmare Prince | [010055E00CA68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010055E00CA68000) | b70f06eac87fa2af |
+| 1796 | Trine Series 1-3 | [0100D9000A930000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D9000A930000) | 32b4bbe0d88214d3 |
+| 1797 | Trollhunters: Defenders Of Arcadia [Rev 0.1] | [0100145011008000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100145011008000) | f65c6060142fc64f |
+| 1798 | TRON: Identity | [010007501A588000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010007501A588000) | 0da3f0f5c3c04a6c |
+| 1799 | Tropico 6 - Nintendo Switch™ Edition | [0100FBE0113CC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FBE0113CC000) | 2e4d1158a395f558 |
+| 1800 | Trouserheart | [01001EF00BF3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001EF00BF3A000) | 1dfd2b4fe2198e4a |
+| 1801 | Turrican Flashback [Rev 1.0.0] | [010004B0130C8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010004B0130C8000) | 995e954e8606f40f, e3082dd62ef54f41 |
+| 1802 | Twin Blades of the Three Kingdoms | [0100F5A017FE8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F5A017FE8000) | 315ba17fd941c553 |
+| 1803 | Two Parsecs From Earth | [0100BCE012894000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BCE012894000) | 983e28b1198ae349, a59916f2a577b146 |
+| 1804 | Two Point Hospital [Rev 1.0.0] | [010031200E044000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010031200E044000) | 04b125635599f349, 13265e4eba0f0d41, 296658de5ef59049, 49bfad179af06e42, c3c6a6dc345fe046, db0700010fee8447 |
+| 1805 | TY the Tasmanian Tiger HD | [010038400C2FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038400C2FE000) | 965107e5a2ce0a3d, 985ea0225c2d2ae3, bae5c2e836df8e72 |
+| 1806 | TY the Tasmanian Tiger™ 2: Bush Rescue™ HD | [0100BC701417A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BC701417A000) | 3f7b53d09b3b4672 |
+| 1807 | Tyr : Chains of Valhalla | [01003B200C6CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003B200C6CA000) | 8eb5b7c66fc82a42 |
+| 1808 | Ultra Age | [01008D4015904000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008D4015904000) | 7769608a9494e5db, 84b07884f70b3cd7, aac1a3684ea9cecf |
+| 1809 | Ultra Age [Rev 1.0.0] | [01006DD00FE16000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006DD00FE16000) | 7769608a9494e5db, aac1a3684ea9cecf |
+| 1810 | ULTRA STREET FIGHTER II: The Final Challengers | [01007330027EE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007330027EE000) | 2ae749ed04831745, 8726f5e816b001b2 |
+| 1811 | Ultracore | [0100E5C00DC46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5C00DC46000) | 13082aab64bdb509 |
+| 1812 | Umihara Kawase BaZooKa! [Rev 1.0.0] | [010093A01095E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010093A01095E000) | cc45e98bfbec91a8 |
+| 1813 | Umihara Kawase Fresh! | [01007D600B70A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007D600B70A000) | 6980f28d418a55b6 |
+| 1814 | Unbound: Worlds Apart | [0100C5A013B7A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C5A013B7A000) | 719be27194d137df, 842053a9e717fdc2, bb5609f056926ac3 |
+| 1815 | Under Night In-Birth Exe:Late[cl-r] | [010038C00EC34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010038C00EC34000) | 120f62bb506d4e36, 46e1b5c89a40d85e |
+| 1816 | UNDER NIGHT IN-BIRTH Exe:Late[cl-r] | [0100B2900DF06000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B2900DF06000) | 46e1b5c89a40d85e |
+| 1817 | UnderDungeon | [0100A71018440000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A71018440000) | 21ca4bbd997fe82f |
+| 1818 | Underhero | [01005CD00F85A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005CD00F85A000) | 4630fbc60041c444, 4c43a24535e79d47 |
+| 1819 | UnderMine | [01000B3012F3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000B3012F3A000) | 72c59093e64eab49 |
+| 1820 | Undertale | [010080B00AD66000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010080B00AD66000) | 24db41fcd513d080 |
+| 1821 | Unepic | [01008F80049C6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008F80049C6000) | e7c9870159c6877f |
+| 1822 | UnMetal | [01008F4014A74000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008F4014A74000) | b7ff059e225348df, ba30581e9c9e6c3b |
+| 1823 | Unravel Two | [0100E5D00CC0C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5D00CC0C000) | f04d4fe8bf580369 |
+| 1824 | Unruly Heroes | [010001300CC4A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010001300CC4A000) | fd5c98d408eccd4c |
+| 1825 | Unsouled | [0100B06017686000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B06017686000) | 80a6528448378aab |
+| 1826 | Unto The End | [0100E49013190000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E49013190000) | b122a99e438c394c |
+| 1827 | Up Cliff Drive | [0100D86012928000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D86012928000) | 2d3c44ad39aafd46 |
+| 1828 | Urban Trial Playground | [01001B10068EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001B10068EC000) | 1caa05a4630e7769 |
+| 1829 | V-Rally 4 | [010064400B138000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010064400B138000) | c07b867928055e3d, eb8a679b5ddd0060 |
+| 1830 | V.O.I.D. | [010040000D08E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040000D08E000) | 3af9a4c3a016afeb |
+| 1831 | Vaccine | [01009E2003FE2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009E2003FE2000) | 34441e3e5ed09859 |
+| 1832 | Valentina | [0100A59012070000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A59012070000) | 56e1be633e5b9f44 |
+| 1833 | Valfaris | [010089700F30C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010089700F30C000) | 3f4477107ab9b84c, c0a75cfe9b9b814a |
+| 1834 | Valis: The Fantasm Soldier Collection | [0100A3D016ACC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A3D016ACC000) | f0e71bf7eb56937b |
+| 1835 | Valkyria Chronicles | [0100CAF00B744000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CAF00B744000) | fe77ffb8cbfb3a5c |
+| 1836 | Valkyria Chronicles 4 | [01005C600AC68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005C600AC68000) | 3758602aa47add37 |
+| 1837 | Valthirian Arc: Hero School Story | [010042100BAA6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042100BAA6000) | 27214fd55a2c6c4b |
+| 1838 | Vambrace: Cold Soul | [01000E000DD40000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000E000DD40000) | 2b99be136d8c1f49, ce42204cb46ac947 |
+| 1839 | Vampire's Fall: Origins | [0100BD0012A68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD0012A68000) | f0f1f7c836290c48 |
+| 1840 | VAMPYR | [01000BD00CE64000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000BD00CE64000) | 2e387d52731f6cf8, e417100ffeefd1de |
+| 1841 | Vanaris Tactics | [0100345017A70000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100345017A70000) | 389c432391cb7ae9 |
+| 1842 | Vaporum | [010030F00CA1E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010030F00CA1E000) | 363883e3b5306749, 5c813c18c1d7744a |
+| 1843 | Vaporum: Lockdown | [010088D013CE0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010088D013CE0000) | 480b952ad15d7b4b |
+| 1844 | Venture Kid | [010095B00DBC8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010095B00DBC8000) | c97dc98aa4a91c9f |
+| 1845 | Vernal Edge | [0100D10018340000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D10018340000) | 4de55c9786289279 |
+| 1846 | Vigil: The Longest Night | [01002D100EF3A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002D100EF3A000) | 92e26d68dc4d1d40, b288c9ecb6bf4c4a |
+| 1847 | Void Bastards | [0100D010113A8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D010113A8000) | 27901a8fe21dff42, 2ae8719f2962c94e |
+| 1848 | Void Source | [010099E013430000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010099E013430000) | 6d59180e4c70f068 |
+| 1849 | Void tRrLM(); //Void Terrarium [Rev 1.0.0] | [0100FF7010E7E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF7010E7E000) | e0d8fb949ed755bb |
+| 1850 | Void tRrLM(); [Rev 1.0.0] | [010009900E170000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010009900E170000) | 4a40b29138017ee8 |
+| 1851 | Völgarr the Viking | [0100B1A0066DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1A0066DC000) | a2ad2e750b402fac |
+| 1852 | Vortex Attack EX | [010018400E4FC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010018400E4FC000) | 51661056e0e8b01c |
+| 1853 | Voxel Shot for Nintendo Switch（ボクセルショット） | [010022A009368000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022A009368000) | 010022a009368000, c022f11a85e1aa4e |
+| 1854 | Wallachia: Reign of Dracula | [010017E012888000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010017E012888000) | 314e0bd3bc855594, 56e7b8f33024d194 |
+| 1855 | Wanba Warriors | [0100E29010A4A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E29010A4A000) | bc8df755d071cb48 |
+| 1856 | War Of Stealth - assassin | [01004FA01391A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004FA01391A000) | 4c328c448d094a41 |
+| 1857 | War-Torn Dreams | [0100563011B4A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100563011B4A000) | b05589f793720454 |
+| 1858 | WarGroove | [01000F0002BB6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000F0002BB6000) | 397bd5555e9a4c44, 64771f8d1e0d6ac4, 7dc603c454f6517e, a32afc17c02b0e80, b05c886de8291583 |
+| 1859 | WarioWare: Get It Together! [Rev 1.0.0] | [0100563010E0C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100563010E0C000) | e6784f640b1cdff9 |
+| 1860 | Warp Drive | [0100EED010722000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EED010722000) | 613a885e8f37a1c7 |
+| 1861 | WarriOrb | [010032700EAC4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010032700EAC4000) | e8e018bf25229ee3 |
+| 1862 | WARRIORS OROCHI 4 | [010016A00AEC0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010016A00AEC0000) | 5c9ccd358be85fc9, c99da50e73027754 |
+| 1863 | Wavetale | [01001FB017B36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001FB017B36000) | b2aa768e3a7b894d |
+| 1864 | Way of the Passive Fist | [0100BA200C378000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BA200C378000) | c2dac77c25bb7944 |
+| 1865 | WE ARE DOOMED | [01000F101286A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000F101286A000) | 7f069ce45b991cf1 |
+| 1866 | WeakWood Throne | [0100011012A70000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100011012A70000) | ce353ad90855ec51 |
+| 1867 | West of Dead | [0100C2C00D74E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C2C00D74E000) | 497bf9528e83e64b, d645b9f300d6b842 |
+| 1868 | Whipseey and the Lost Atlas | [010017500E7E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010017500E7E0000) | 25ce48f161ddf0cb |
+| 1869 | Who Wants to Be a Millionaire? | [010027F0128EA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010027F0128EA000) | 91e6239aca62174f |
+| 1870 | Wife Quest | [010082D014B98000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010082D014B98000) | 9b33414bf1f4504c |
+| 1871 | WILD GUNS Reloaded | [0100C39009EEE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C39009EEE000) | 3785b9800028344e, 56b03164a8800b49 |
+| 1872 | Wild Guns Reloaded | [0100CFC00A1D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CFC00A1D8000) | ce3e20fbad467949 |
+| 1873 | Wildcat Gun Machine | [0100428015C6A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100428015C6A000) | ecca4788a949fa49 |
+| 1874 | Wildfrost | [0100DE2016376000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DE2016376000) | 799fab8a21f21818, d60ae1680e254177 |
+| 1875 | Willy Jetman: Astromonkey's Revenge | [010000100FB62000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010000100FB62000) | 55ee1a69145de04e |
+| 1876 | Windbound | [010044000F7F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010044000F7F2000) | 195d347b5fc2fd40, c66df87114d6a44b, fabe51450032974d |
+| 1877 | Witcheye | [0100BD4011FFE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BD4011FFE000) | c8627e913deb5943 |
+| 1878 | Wizard of Legend | [0100522007AAA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100522007AAA000) | 4dbce15edeb87a4c, 5b0505b54116e948, f0b56a498c439946 |
+| 1879 | Wizards of Brandel | [010081900F9E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010081900F9E2000) | 122ebf9e18e9db4b |
+| 1880 | Wolfenstein II: The New Colossus | [01009040091E0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009040091E0000) | 94c6c3fc4d99c443, f2fe5ef877839f4f |
+| 1881 | Wolfenstein: Youngblood | [01003BD00CAAE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003BD00CAAE000) | 21a35d07d6e6c2f0, 88c0cd2f98b39f8b, c8fdf722e6bacffa |
+| 1882 | Wolflame | [01003380113A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003380113A2000) | 0d2088e1f2af8ddc |
+| 1883 | Wonder Blade | [010037A00F5E2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010037A00F5E2000) | d5e27670148ba14a |
+| 1884 | WONDER BOY RETURNS REMIX | [010069B00D9FE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010069B00D9FE000) | 6b1446944d519842, bb52a5b81f24e249 |
+| 1885 | Wonder Boy: Asha in Monster World [Rev 1.0] | [0100EB2012E36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EB2012E36000) | ff72d70018425549 |
+| 1886 | Wonder Boy: The Dragons Trap | [0100A6300150C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A6300150C000) | 13793f02e257147f, c5fed26bf457566d |
+| 1887 | Wonder Boy: The Dragons Trap | [010041200A40E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010041200A40E000) | d2b0d0b0a6045847 |
+| 1888 | Woodle Tree 2: Deluxe | [0100E0300EB04000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E0300EB04000) | 524ad3a220a14a47 |
+| 1889 | World of Final Fantasy Maxima | [010072000BD32000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072000BD32000) | 5767fd44c331b44b, ac72a1252ab09ec0 |
+| 1890 | World of One | [0100EBA0144C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100EBA0144C0000) | 884a6ce95b263ea3 |
+| 1891 | World to the West | [0100CB60092A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CB60092A2000) | 5b759e7a3a3d6040 |
+| 1892 | WorldNeverland-ElneaKingdom- | [01008E9007064000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008E9007064000) | 28e19d6f448e5046, 6d89b45f36f95a4d |
+| 1893 | WRC 8 FIA World Rally Championship | [010087800DCEA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010087800DCEA000) | 64efd5d6ad8ea937 |
+| 1894 | WRC 9 The Official Game | [01001A0011798000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001A0011798000) | d07802e022207509 |
+| 1895 | Wulverblade | [010033700418A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010033700418A000) | c50b3ae5b8c2ee42, c68bc0a4f96db645 |
+| 1896 | WWE 2K Battlegrounds [Rev 1.0.0.1] | [010081700EDF4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010081700EDF4000) | 2fc6ff2ec90cebc3, 484f4aeaf4b9dba0, 4fd0f117e250f4f9, 5e0b2ab13f32af9a, eed1291d86692dd3 |
+| 1897 | WWE 2K18 | [010009800203E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010009800203E000) | deee18d307c81634 |
+| 1898 | X-Morph: Defense | [0100DF100B97C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DF100B97C000) | b0d911bc4c9a3760 |
+| 1899 | Xeno Crisis | [010013F009B88000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010013F009B88000) | 2ad00f3d29d8674f |
+| 1900 | Xenoblade 2 | [0100F3400332C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F3400332C000) | e3938fa78579c1ca |
+| 1901 | Xenoblade Chronicles 2 | [0100E95004038000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E95004038000) | 6d34a75dbb68d4fb, d007651bc7c6a51e, e3938fa78579c1ca, f77f1559371c0ec6 |
+| 1902 | Xenoblade Chronicles 2: Torna - The Golden Country | [0100C9F009F7A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C9F009F7A000) | 56246a89466a791b, 72419a1325ae47de |
+| 1903 | Xenoblade Chronicles 3 [Rev 1.0.0] | [010074F013262000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010074F013262000) | 03ee3dbac10cacb8, 16f4915df864674d, 60887a25b6652991 |
+| 1904 | Xenoblade Chronicles™: Definitive Edition | [0100FF500E34A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FF500E34A000) | 1ec9082cb52ecaf5, 2e071b4562d6656b, 92c78bb3dcbbc3f7 |
+| 1905 | Xeodrifter | [01005B5009364000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005B5009364000) | 77fa306cc9cc4ebc |
+| 1906 | XEODRIFTER(ゼオドリフター) | [0100CD500B2C6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CD500B2C6000) | 27762205ff419c14 |
+| 1907 | XIII | [01006CA00E9FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006CA00E9FA000) | 643e6d877544b598 |
+| 1908 | XPOSED SWITCHED | [01001D5019BFA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001D5019BFA000) | b3d9968a24489c72 |
+| 1909 | Yaga | [01006FB00DB02000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006FB00DB02000) | 898cb70f55c96045 |
+| 1910 | Yes, Your Grace | [01006040110AE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006040110AE000) | 34595d4a89892b43, dd0b39252695d247 |
+| 1911 | YesterMorrow | [010076B0101A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076B0101A0000) | bd98f25704ec9447 |
+| 1912 | Yet Another Zombie Defense HD | [010085500B29A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010085500B29A000) | 8e0f8d1ab9a89843 |
+| 1913 | Yo-Kai Watch 1 for Nintendo Switch | [0100C0000CEEA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C0000CEEA000) | aa45748622cf57c8, b52dfbc326b26e60 |
+| 1914 | Yo-kai Watch 4: Bokura wa Onaji Sora o Miageteiru | [010086C00AF7C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010086C00AF7C000) | 042a9d9eebc14b3c, 0d5772548b8e6d08, 20fd1a80a9c3985d, 6d79fe2d5451b8c6, 91dd8da34fc975fd, 93706fd3b59f1513, 994c5fa1497445ff, c65b6c18d3de5189, c7dab27f22acd2ed, dcfccd795d18f3f9, f014c53d501d35cf |
+| 1915 | Yomawari: The Long Night Collection | [010012F00B6F2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010012F00B6F2000) | 345f918e2934551a |
+| 1916 | Yomi O Saku Hana [Rev 1.00] | [0100E640118C4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E640118C4000) | 9b2d93106cb1df4a |
+| 1917 | Yono and the Celestial Elephants | [0100BE50042F6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BE50042F6000) | 500019a77d76c142 |
+| 1918 | Yooka-Laylee | [0100F110029C8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F110029C8000) | 743c88f0f1c33dbb |
+| 1919 | Yooka-Laylee and the Impossible Lair | [010022F00DA66000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022F00DA66000) | 8432cec51f882448, cb788aa9e4e02d49, ea84f555e2d0bc41 |
+| 1920 | Yoshi's Crafted World™ Demo | [0100AE800C9C6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AE800C9C6000) | 6e114d3262f05290, 7253a3bbe715d092 |
+| 1921 | Yoshis Crafted World | [01006000040C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006000040C2000) | 44ae9fd12897c702, 7253a3bbe715d092 |
+| 1922 | Youtubers Life 2 | [01004DE013EDE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004DE013EDE000) | 013dc955b6c145cd |
+| 1923 | Youtubers Life OMG Edition | [01002C9005F36000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002C9005F36000) | 3bd313a3e57dd24c |
+| 1924 | Ys IX: Monstrum Nox [Rev 1.0.0] | [0100E390124D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E390124D8000) | 2b2967745a4c4098 |
+| 1925 | Ys Origin | [0100F90010882000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F90010882000) | 11c2b5b0961cd855, 31fc374be830f17e |
+| 1926 | Ys VIII: Lacrimosa of DANA | [01007F200B0C0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007F200B0C0000) | 351694385b22760d |
+| 1927 | Yu-Gi-Oh! Legacy of The Duelist: Link Evolution | [010022400BE5A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010022400BE5A000) | cdc49702ee3df923, ef8ee6ded15ec7fa |
+| 1928 | Yu-Gi-Oh! RUSH DUEL: Dawn of the Battle Royale!! | [0100261015BE2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100261015BE2000) | 196af69487acb540, 53a19549706ec741 |
+| 1929 | Yu-Gi-Oh! Rush Duel: Saikyou Battle Royale!! [Rev 1.0.0] | [01003C101454A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003C101454A000) | af7cf48b21607841 |
+| 1930 | YUMENIKKI -DREAM DIARY- | [0100D6B00CD88000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D6B00CD88000) | 75541916aab21c49 |
+| 1931 | Zelda Musou: Hyrule All Stars DX | [01002AB007FD2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002AB007FD2000) | 00c2155000000000, 3f8ffad9352a760a, 6da232f1929a838e |
+| 1932 | Zengeon [Rev 1.61] | [0100057011E50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100057011E50000) | 11ac5288ea1bb24e |
+| 1933 | Zenith | [0100AAC00E692000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AAC00E692000) | d7e8f09623a6e544 |
+| 1934 | Zero Strain | [01004B001058C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004B001058C000) | f3d71b69aae71376 |
+| 1935 | Zero: Tsukihami no Kamen [Rev 1.0.0] | [010064C0190F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010064C0190F8000) | 20c4515f374fd10d |
+| 1936 | ZIC: Zombies in City | [010049E017598000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049E017598000) | ae9b62ebe7664970 |
+| 1937 | Zoids Wild: Blast Unleashed [Rev 1.0.0] | [010069C0123D8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010069C0123D8000) | f894caf55083a245 |
+| 1938 | Zoids Wild: King of Blast | [0100E43009320000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E43009320000) | bcc92811606bd64f |
+| 1939 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C7300EEE4000) | 54211726d36a8d9c |
+| 1940 | Zombie Army Trilogy | [010025B0106D4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010025B0106D4000) | 2af552cc09e0b42d |
+| 1941 | Zombie Blast Crew | [0100B610138F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B610138F8000) | 91999509bd032341 |
+| 1942 | Zombie's Cool | [01001740116EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001740116EC000) | 4c7871760fa6a44c |
+| 1943 | Zombieland: Double Tap - Road Trip | [0100E5800D32C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E5800D32C000) | b55b6dbc68eca640, eca39ad294492a40 |
+| 1944 | Zombo Buster Advance | [0100BC5014D68000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BC5014D68000) | 6ec8acb10d0ca14f |
+| 1945 | ことばのパズル　もじぴったんアンコール | [01006B900F436000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01006B900F436000) | 32dcacd4d7dc1c48 |
+| 1946 | アイスクリームサーファー | [010014200BD02000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010014200BD02000) | 266ceb07b8a88f4b |
+| 1947 | ガンズゴア＆カノーリ２ | [010056200B46A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010056200B46A000) | e05627b3d675904e |
+| 1948 | クエストオブダンジョンズ | [0100CBA005160000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CBA005160000) | 4ab92853f8551341 |
+| 1949 | グノーシア | [0100E48010F52000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E48010F52000) | c22b26791e9066a9 |
+| 1950 | スチームワールドクエスト | [01000AA00E4DC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000AA00E4DC000) | d1e6ea9384c3674b |
+| 1951 | スチームワールドディグ２ | [01004120081AC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004120081AC000) | a6a50d6081b0c317 |
+| 1952 | デーモンクリスタル | [0100A1400C9D6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A1400C9D6000) | 46efcae09e6c9747 |
+| 1953 | デーモンクリスタル２　ナイザー | [010090300D9F8000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010090300D9F8000) | 4f806f1a4ae09a4a |
+| 1954 | ドラゴンクエスト | [0100A5500E488000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A5500E488000) | f3845d78427cb893 |
+| 1955 | ドラゴンクエストⅡ　悪霊の神々 | [0100B1900E48E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B1900E48E000) | d84098833bf007c6 |
+| 1956 | ドラゴンクエストⅢ　そして伝説へ… | [01002A800E490000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002A800E490000) | dc72232650d79885 |
+| 1957 | ノーリロードヒーローズ | [0100D730105B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D730105B6000) | f8697f92bf87db49 |
+| 1958 | バトル オブ エレメンタル BURST | [0100F9E00ED30000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100F9E00ED30000) | c5c3a5df6275b3cd |
+| 1959 | モンスターファーム | [0100E9900ED74000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E9900ED74000) | b5e50e20dea65d80 |
+| 1960 | ロマンシング サガ2 | [01002A1004B34000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002A1004B34000) | 16d2c9fdc70e9d41 |
+| 1961 | 中華大仙 | [0100DDD00B684000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DDD00B684000) | 37bab4d99968f748 |
+| 1962 | 戦国キャノン for Nintendo Switch | [0100C0E008340000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C0E008340000) | 498f36f55a42e1bf |
+| 1963 | 東方スペルバブル | [0100E9D00D6C2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E9D00D6C2000) | 9a5b6a581dfe374c |
+| 1964 | 滅やばたにえん | [0100074010F1C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100074010F1C000) | 47b04792d093604e |
+| 1965 | 牧場物語 重聚礦石鎮 | [0100C2D00EBD4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C2D00EBD4000) | 1f27449539e34189, 3353df7acba29330, 74b04562d41e3c1e, 865096b06ff9b91a |
+| 1966 | 马力欧卡丁车8 豪华版 | [010075100E8EC000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010075100E8EC000) | c2fd606ddedaaa8b |
+| 1967 | 鷹の爪VSハエの羽団 | [01003D100EAF4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D100EAF4000) | 56b2e6241792d94e |
+| 1968 | ＮＡＲＵＴＯ－ナルト－ 疾風伝　ナルティメットストーム４ ROAD TO BORUTO | [01003F800CF5C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003F800CF5C000) | 6535310591f44da1, c6d310a3669a5742 |
+| 1969 | 01000698009c6e00 | [01000698009C6E00](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01000698009C6E00) | 70c806f458d36843 |
+| 1970 | 0100195015ac6001 | [0100195015AC6001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100195015AC6001) | 98f71cdd354e7a63 |
+| 1971 | 01001f7012e66000 | [01001F7012E66000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001F7012E66000) | 16c46473eeab2746 |
+| 1972 | 01001fa01451c001 | [01001FA01451C001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001FA01451C001) | 9894331947eacc47 |
+| 1973 | 01001fa01451c002 | [01001FA01451C002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001FA01451C002) | ca075eb0db8bbf91 |
+| 1974 | 01001fd01856a000 | [01001FD01856A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01001FD01856A000) | 532be034445e2020 |
+| 1975 | 01002130150a2000 | [01002130150A2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002130150A2000) | 27efbb8fa331c148 |
+| 1976 | 01002390154c6000 | [01002390154C6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002390154C6000) | 690f8cc19cfc6d25 |
+| 1977 | 0100275011e54000 | [0100275011E54000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100275011E54000) | 360df0107795cb40 |
+| 1978 | 01002a0012a0a000 | [01002A0012A0A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01002A0012A0A000) | 53938bcea352ec42, a0b9997a5d7ca848 |
+| 1979 | 01003b90136da000 | [01003B90136DA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003B90136DA000) | 1f936e043fb8c349 |
+| 1980 | 01003d60131de000 | [01003D60131DE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01003D60131DE000) | 5d37985ffd683d9a, aa9f5136791936a7 |
+| 1981 | 010040f011de4001 | [010040F011DE4001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040F011DE4001) | 94f8f5db3d8e0a47 |
+| 1982 | 010040f011de4002 | [010040F011DE4002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010040F011DE4002) | fbb667b7d6bfa041 |
+| 1983 | 0100414d32524e00 | [0100414D32524E00](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100414D32524E00) | f5f97f2d8a78f237 |
+| 1984 | 010042501329e000 | [010042501329E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042501329E000) | 119c804970c52cd2 |
+| 1985 | 010042800A51600 | [010042800A51600](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010042800A51600) | 742f9d7917f6bb4c |
+| 1986 | 010047e010b3e550 | [010047E010B3E550](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010047E010B3E550) | 404c24b13d16da49 |
+| 1987 | 010049900f546001 | [010049900F546001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049900F546001) | 9d00360ea7ceac4e |
+| 1988 | 010049900f546002 | [010049900F546002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049900F546002) | 64000c752a890efb, b21e3733e11d6fcf, ed0d7ace84eec780 |
+| 1989 | 010049900f546003 | [010049900F546003](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010049900F546003) | 15fded0d90ef5d72, a638857e6df584ff, ff44f58218c6a6b2 |
+| 1990 | 01004bd012500000 | [01004BD012500000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004BD012500000) | 52b74c9f694cc45f |
+| 1991 | 01004c5018bc4000 | [01004C5018BC4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01004C5018BC4000) | c0bfb0cc5aa5ea3b |
+| 1992 | 010051d010fc2000 | [010051D010FC2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010051D010FC2000) | 3ecc0a9fb0b72ca3, 640d046f7294bbe9, a7a7f29b0366d99c |
+| 1993 | 0100571018a70000 | [0100571018A70000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100571018A70000) | 336cbe521ebb4a4a |
+| 1994 | 01005ab015994000 | [01005AB015994000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01005AB015994000) | 6f1bee519cdf2b7c |
+| 1995 | 010062300e0d4000 | [010062300E0D4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010062300E0D4000) | a156cd049516bb48 |
+| 1996 | 010068d0191b6000 | [010068D0191B6000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010068D0191B6000) | 864a25ad21856649 |
+| 1997 | 0100696014f4a000 | [0100696014F4A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100696014F4A000) | dc27156b7ab58d31, eb526f5a41621d69 |
+| 1998 | 0100718017572000 | [0100718017572000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100718017572000) | e1c15d1cf76064a6 |
+| 1999 | 010072400e06a000 | [010072400E06A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010072400E06A000) | 7ac8cbfa0d59a04c |
+| 2000 | 01007550129b2000 | [01007550129B2000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007550129B2000) | 541ec1d423bc2d40 |
+| 2001 | 010076b01196c000 | [010076B01196C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010076B01196C000) | fa302ad3e2cca94b |
+| 2002 | 01007af011732000 | [01007AF011732000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01007AF011732000) | fcb101343c2e1845 |
+| 2003 | 0100829018568000 | [0100829018568000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100829018568000) | e906334b0ec8fb3f |
+| 2004 | 0100877008162000 | [0100877008162000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100877008162000) | 351694385b22760d |
+| 2005 | 01008F000908000 | [01008F000908000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01008F000908000) | 0508130c213d6d7e |
+| 2006 | 01009120119b4001 | [01009120119B4001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009120119B4001) | 7f8e71143a9b0813 |
+| 2007 | 01009120119b4002 | [01009120119B4002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/01009120119B4002) | a662532e2d1410dd |
+| 2008 | 010091201605a000 | [010091201605A000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010091201605A000) | 3c5f1e198a79fba2, d9ba7db72ffafecd |
+| 2009 | 0100938010df0000 | [0100938010DF0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100938010DF0000) | 95c0fe19e496ba23 |
+| 2010 | 010093a01305c000 | [010093A01305C000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/010093A01305C000) | 2d10be721f63e813, d95baaadde3908ef |
+| 2011 | 0100956016464000 | [0100956016464000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100956016464000) | 8fb0c2d2a6730d26 |
+| 2012 | 0100a2c01320e000 | [0100A2C01320E000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A2C01320E000) | 3575af17fabcb399 |
+| 2013 | 0100a58012268000 | [0100A58012268000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A58012268000) | 95f978b38ed9b44d |
+| 2014 | 0100a8b014930000 | [0100A8B014930000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100A8B014930000) | e26a54f785a76ee7 |
+| 2015 | 0100aa00128ba001 | [0100AA00128BA001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AA00128BA001) | 1765890577923cd4 |
+| 2016 | 0100af400dfa4000 | [0100AF400DFA4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100AF400DFA4000) | f47c51db0ee9f98a |
+| 2017 | 0100b28014132800 | [0100B28014132800](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B28014132800) | 60b4e42155e07989, aea6b2652ea9e34b |
+| 2018 | 0100b3a017864000 | [0100B3A017864000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B3A017864000) | 28663c90b7402063 |
+| 2019 | 0100b8e016f76000 | [0100B8E016F76000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100B8E016F76000) | 992787e2b5425994 |
+| 2020 | 0100bba015e8e001 | [0100BBA015E8E001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BBA015E8E001) | 37e3e08157f6df03, 552fc82b89f7fc98 |
+| 2021 | 0100bef013050000 | [0100BEF013050000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100BEF013050000) | dede62934d90ed75 |
+| 2022 | 0100c1f0141aa000 | [0100C1F0141AA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C1F0141AA000) | 7ab40e8a9691c2c3, 8c4ec67060489192 |
+| 2023 | 0100c5a013b7a800 | [0100C5A013B7A800](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100C5A013B7A800) | 719be27194d137df |
+| 2024 | 0100cbf0115f2001 | [0100CBF0115F2001](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CBF0115F2001) | f4dec1d076552e4b |
+| 2025 | 0100cbf0115f2002 | [0100CBF0115F2002](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CBF0115F2002) | c0a75cfe9b9b814a |
+| 2026 | 0100cee0140ce000 | [0100CEE0140CE000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100CEE0140CE000) | 17cef19e3899e814, 4b9f056d355024cc |
+| 2027 | 0100d16019902000 | [0100D16019902000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D16019902000) | fdfa9a52dfa8d915 |
+| 2028 | 0100d3a0181ca000 | [0100D3A0181CA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100D3A0181CA000) | 8e5855070d8ed018 |
+| 2029 | 0100ddb015cda000 | [0100DDB015CDA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100DDB015CDA000) | de8dae262124a8b8 |
+| 2030 | 0100e2e0152e4000 | [0100E2E0152E4000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E2E0152E4000) | 5ae4d13f04ca6ab3 |
+| 2031 | 0100e2f014f46000 | [0100E2F014F46000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100E2F014F46000) | 73c01d12ec628195, 7aeabb797c931714 |
+| 2032 | 0100fd70134fa000 | [0100FD70134FA000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0100FD70134FA000) | 155b66a148bfbfbb |
+| 2033 | 0535DC453AB50000 | [0535DC453AB50000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/0535DC453AB50000) | 0000000000000000 |
+| 2034 | 054507E0B7552000 | [054507E0B7552000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/054507E0B7552000) | 0000000000000000, 4a7114c9560237cb, 5c0cbfefda841930, b5e8bf1fe6465e7e, d326058041b7f4dc, def702cdac4994ef |
+| 2035 | 05BE1C0259DE0000 | [05BE1C0259DE0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/05BE1C0259DE0000) | 56e7b8f33024d194 |
+| 2036 | 05C992BE824A0000 | [05C992BE824A0000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/05C992BE824A0000) | 0000000000000000, 0000000000000001 |
+| 2037 | 1000B700EC22000 | [1000B700EC22000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/1000B700EC22000) | dcad50aef4e03c48 |
+| 2038 | 1005c9002b42000 | [1005C9002B42000](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/1005C9002B42000) | e7c1eca56d362ef6 |
+| 2039 | 207231A04B2F3744 | [207231A04B2F3744](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/207231A04B2F3744) | 250ce7c4a4de1940 |
+| 2040 | 360df0107795cb40 | [360DF0107795CB40](https://github.com/ibnux/switch-cheat/tree/master/atmosphere/titles/360DF0107795CB40) | 360df0107795cb40 |
 
 
 ## GAME DB Source
