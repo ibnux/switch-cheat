@@ -1,0 +1,86 @@
+[(Restore the original code)At Dandori Battles,player earn more points and the CPU will no longer add points]
+04000000 01DEC71C 0B150108
+
+[(Restore the original code)Items keep 999 after map changed]
+04000000 01BD6EF8 5100056B
+04000000 01BD61C0 71000508
+04000000 020651DC 2B160100
+
+[(Restore the original code)Lumiknoll no damage at Night expeditions]
+04000000 01A94824 1E203821
+
+[(Restore the original code)Maximum amount of materials held in the development lab after depletion]
+04000000 01BF7784 2B010134
+
+[(Restore the original code)No depletion of daily part production limit during development]
+04000000 01D569B8 6B130108
+
+[(Restore the original code)Oatchi's training points 99 after learning]
+04000000 01B4A100 B9406E89
+04000000 01B4A104 4B080129
+
+[(Restore the original code)put pikmin into Onion increased by 256 times]
+04000000 01BF4A54 2B0301AD
+
+[(Restore the original code)Timer stop(for emulator)]
+04000000 01DC6C08 1E202828
+
+[At Dandori Battles,player earn more points and the CPU will no longer add points]
+04000000 01DEC71C 150D8C85
+04000000 0614F930 B9400016
+04000000 0614F934 710002DF
+04000000 0614F938 54000061
+04000000 0614F93C 0B151508
+04000000 0614F940 14000002
+04000000 0614F944 D503201F
+04000000 0614F948 16F27376
+
+[Items keep 999 after map changed]
+04000000 01BD6EF8 5100016B
+04000000 01BD61C0 71000108
+04000000 020651DC 52807CE0
+
+[Lumiknoll no damage at Night expeditions]
+04000000 01A94824 151AEC53
+04000000 0614F970 B9430260
+04000000 0614F974 7100001F
+04000000 0614F978 54000040
+04000000 0614F97C 1E203821
+04000000 0614F980 16E513AA
+
+[Maximum amount of materials held in the development lab after depletion]
+04000000 01BF7784 2B412534
+
+[Minus key + R key Reverse time flow]
+80000880
+04000000 01DC6C08 1E203828
+20000000
+
+[No depletion of daily part production limit during development]
+04000000 01D569B8 6B1F0108
+
+[Oatchi's training points 99 after learning]
+04000000 01B4A100 52800C69
+04000000 01B4A104 B9006A89
+
+[Original Code by herowang]
+20000000
+
+[Player & Oatchi no damage]
+04000000 01A94824 151AEC4B
+04000000 0614F950 B9426260
+04000000 0614F954 7100001F
+04000000 0614F958 54000041
+04000000 0614F95C 1E203821
+04000000 0614F960 16E513B2
+
+[Plus key + R key. Time flows normally]
+80000480
+04000000 01DC6C08 1E202828
+20000000
+
+[put pikmin into Onion increased by 256 times]
+04000000 01BF4A54 2B0321AD
+
+[Timer stop(for emulator)]
+04000000 01DC6C08 D503201F

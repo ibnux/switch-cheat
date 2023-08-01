@@ -1,0 +1,18 @@
+[D-Left + R button Turn back the timer]
+80001080
+04000000 00001AD4 1E203820
+20000000
+
+[D-Right + R button timer work normally]
+80004080
+04000000 00001AD4 1E202820
+20000000
+
+[Original Code by herowang]
+20000000
+
+[put in pikmin increased by 100 times]
+04000000 0008CC9C 11019129
+
+[put in pikmin origon code]
+04000000 0008CC9C 11000529
