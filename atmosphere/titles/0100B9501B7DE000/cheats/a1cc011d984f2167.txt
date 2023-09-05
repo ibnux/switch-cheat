@@ -1,0 +1,16 @@
+[Coins will increase when the spell is strengthened]
+04000000 01889874 2B090149
+
+[Level's score surge]
+04000000 0192C824 1B097EA9
+
+[Original Code by herowang]
+20000000
+
+[Restore Code]
+04000000 017BE418 1E203900
+04000000 01889874 6B090149
+04000000 0192C824 0B0902A9
+
+[Spells have no cooldown]
+04000000 017BE418 1E283900

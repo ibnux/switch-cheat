@@ -1,0 +1,35 @@
+[1.Boost No Cooling Time]
+04000000 007922C8 1E2703E1
+04000000 007922CC 1E212820
+
+[2.Ether fast buildup maxed out]
+04000000 0076AD00 1F020421
+
+[3.Ether Consumption Increases (backup,Code 2 is enough)]
+04000000 00791E8C 1E202820
+
+[4.The more you spend, the more money you get at the store.]
+04000000 008F2414 0B0A016A
+
+[5.When using items or sell them at the store, the number of it increases by 90.]
+04000000 00447928 11016908
+04000000 00450954 11016908
+
+[6.When using items, your ability value will increase by 100.]
+04000000 004395B8 11019128
+
+[7.When using items, your ability value will increase by 1000.]
+04000000 004395B8 110F9D28
+
+[Original Code by herowang]
+20000000
+
+[Restore code]
+04000000 007922C8 1E349001
+04000000 007922CC 1E212800
+04000000 008F2414 4B0A016A
+04000000 00791E8C 1E203820
+04000000 0076AD00 1E222821
+04000000 00447928 4B130108
+04000000 00450954 4B130108
+04000000 004395B8 0B080128
