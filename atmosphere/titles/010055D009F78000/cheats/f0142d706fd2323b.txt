@@ -93,7 +93,17 @@
 
 [Max Movement Point（L to switch on）]
 80000040
+04000000 000AFCC4‬ 1A88B100
+20000000
+
+[Max Movement Point（L to switch on）]
+80000040
 04000000 000AFCC4
+
+[Max Movement Point（R to switch off）]
+80000080
+04000000 000AFCC4‬ 1A88B2E0
+20000000
 
 [Max Movement Point（R to switch off）]
 80000080
@@ -103,6 +113,11 @@
 58000000 01ABBF60
 78000000 00024274
 64000000 00000000 0098967F
+
+[Press ZL Enemy dont move]
+80000100
+04000000 000AFCC4‬ 1A9FB3E0
+20000000
 
 [Press ZL Enemy dont move]
 80000100
