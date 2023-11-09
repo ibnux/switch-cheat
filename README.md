@@ -4,7 +4,7 @@ Compiled cheat database from many sources
 
 NO PULL REQUEST, THIS REPO AUTOMATICALLY CREATED BY SCRIPT
 
-34010 cheats in 2100 titles
+35532 cheats in 2114 titles
 
 ## GAMES INDEX
 
